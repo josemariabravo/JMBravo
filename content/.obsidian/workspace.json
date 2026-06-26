@@ -77,13 +77,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/de-espadas-y-falacias-mitos/index.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ],
@@ -217,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "posts/de-espadas-y-falacias-mitos/index.md"
+                "file": "_index.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para index"
+              "title": "Propiedades de los archivos para _index"
             }
           },
           {
@@ -307,17 +307,21 @@
   },
   "active": "afbbd5376539451c",
   "lastOpenFiles": [
-    "posts/como-dibujar-mapas-ciudades/images/florencia.jpg",
+    "sombras-y-ceniza/index.md",
+    "Contacto/index.md",
+    "politica-de-privacidad/index.md",
+    "Artículos/de-espadas-y-falacias-mitos/index.md",
     "asesoria-literaria/index.md",
+    "Artículos/como-dibujar-mapas-ciudades/images/florencia.jpg",
     "posts/suspension-incredulidad-fantasia/index.md",
     "posts/herramientas-del-oficio-i-material-de-consulta/index.md",
     "posts/estructurando-la-literatura-fantastica/index.md",
     "posts/como-aprovechar-mejor-el-tiempo/index.md",
     "posts/breves-notas-sintaxis-correccion-estilo/index.md",
     "posts/recapitulemos/index.md",
-    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-i/index.md",
-    "posts/autor-2-0-o-la-madre-que-pari-a-narciso/index.md",
-    "posts/autoedicion-digital-o-el-nuevo-parnaso/index.md",
+    "Artículos/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-i/index.md",
+    "Artículos/autor-2-0-o-la-madre-que-pari-a-narciso/index.md",
+    "Artículos/autoedicion-digital-o-el-nuevo-parnaso/index.md",
     "posts/los-reyes-hereticos-paul-kearney/index.md",
     "posts/avisos-y-nuevas-noviembre-de-2023/index.md",
     "posts/proximamente-2/index.md",
@@ -331,9 +335,6 @@
     "Apuntes/Miscelánea/Blog/migracion-sitio-estatico-buttondown.md",
     "Diario/2026/2026-W24.md",
     "Diario/2026/2026-W22.md",
-    "Apuntes/Miscelánea/Mudanza 2026.md",
-    "Apuntes/Miscelánea/Mensaje a Pablo.md",
-    "Apuntes/Literatura/Narratología/Narrativa/Documentos narrativos/Glosario de narrativa/Pieza.md",
     "Apuntes/Literatura/Lenguaje/Retórica",
     "Apuntes/Literatura/Lenguaje/Ortotipografía",
     "Apuntes/Literatura/Lecturas/Horizonte de lecturas",
@@ -352,7 +353,6 @@
     "image-1.png",
     "image.png",
     "ReadItLater Inbox/assets/Armamento medieval EL BRACAMARTE/Armamento medieval EL BRACAMARTE-66MVn10G5y.jpeg",
-    "ReadItLater Inbox/assets/Armamento medieval EL BRACAMARTE/Armamento medieval EL BRACAMARTE-PffzNjN6oQ.gif",
     "Borradores/Ab urbe perditio.canvas"
   ]
 }

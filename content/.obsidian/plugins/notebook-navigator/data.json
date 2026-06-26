@@ -213,7 +213,7 @@
   "showAllPropertiesFolder": true,
   "scopePropertiesToCurrentContext": false,
   "defaultListMode": "compact",
-  "includeDescendantNotes": true,
+  "includeDescendantNotes": false,
   "defaultFolderSort": "filename-asc",
   "propertySortKey": "Orden",
   "propertySortSecondary": "title",
