@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "novedades/migracion-a-github-pages/index.md",
+                "file": "obras/uroboros/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "novedades/migracion-a-github-pages/index.md"
+                "file": "obras/uroboros/index.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades de los archivos para index"
@@ -259,9 +259,9 @@
   },
   "active": "6490ed7bf53b706b",
   "lastOpenFiles": [
-    "novedades/_index.md",
     "posts/autoedicion-digital-o-el-nuevo-parnaso/index.md",
     "novedades/migracion-a-github-pages/index.md",
+    "novedades/_index.md",
     "_index.md",
     "libros/dead-wrong/index.md",
     "libros/dead-wrong",
