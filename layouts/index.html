@@ -8,9 +8,10 @@
 <section class="home-books">
   <div class="book-row">
     {{ range $libros }}
-    <a class="book-card" href="{{ .Permalink }}">
-      {{ with .Params.cover }}<img src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
-      <span class="book-card-title">{{ .Title }}</span>
+    {{ $book := . }}
+    <a class="book-card" href="{{ $book.Permalink }}">
+      {{ with $book.Params.cover }}<img src="{{ . | relURL }}" alt="{{ $book.Title }}">{{ end }}
+      <span class="book-card-title">{{ $book.Title }}</span>
     </a>
     {{ end }}
   </div>
