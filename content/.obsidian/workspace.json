@@ -75,12 +75,15 @@
             "id": "afbbd5376539451c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "posts/como-dibujar-mapas-ciudades/images/florencia.jpg"
+                "file": "posts/de-espadas-y-falacias-mitos/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "florencia"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -214,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "posts/como-dibujar-mapas-ciudades/images/florencia.jpg"
+                "file": "posts/de-espadas-y-falacias-mitos/index.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para florencia"
+              "title": "Propiedades de los archivos para index"
             }
           },
           {
@@ -304,6 +307,7 @@
   },
   "active": "afbbd5376539451c",
   "lastOpenFiles": [
+    "posts/como-dibujar-mapas-ciudades/images/florencia.jpg",
     "asesoria-literaria/index.md",
     "posts/suspension-incredulidad-fantasia/index.md",
     "posts/herramientas-del-oficio-i-material-de-consulta/index.md",
@@ -330,7 +334,6 @@
     "Apuntes/Miscelánea/Mudanza 2026.md",
     "Apuntes/Miscelánea/Mensaje a Pablo.md",
     "Apuntes/Literatura/Narratología/Narrativa/Documentos narrativos/Glosario de narrativa/Pieza.md",
-    "Apuntes/Literatura/Narratología/Narrativa/Documentos narrativos/Glosario de narrativa/Pizca.md",
     "Apuntes/Literatura/Lenguaje/Retórica",
     "Apuntes/Literatura/Lenguaje/Ortotipografía",
     "Apuntes/Literatura/Lecturas/Horizonte de lecturas",

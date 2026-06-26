@@ -10,7 +10,7 @@ coverImage: "excalibur1-1.jpg"
 
 ![excalibur](images/excalibur1.jpg)
 
-Debía tener seis o siete años, calculo, la primera vez que la vi, y desde sus primeros fotogramas me quedé fascinado. Años después volví a verla; ya no era lo mismo. Había envejecido bastante mal, y los combates a espada entre caballeros enfundados en brillantes (y anacrónicas) armaduras habían perdido mucho de su atractivo.
+Debía tener seis o siete años, calculo, la primera vez que la vi, y desde sus primeros fotogramas quedé fascinado. Años después volví a verla; ya no era lo mismo. Había envejecido bastante mal, y los combates a espada entre caballeros enfundados en brillantes (y anacrónicas) armaduras habían perdido mucho de su atractivo.
 
 Hablo de _Excalibur_, la película de John Boorman de 1981. Creo que ese fue el comienzo de mi fascinación por las armas blancas y, cómo no, en especial por la espada. Muchos han sentido la misma fascinación por ella, y no es de extrañar: prácticamente todas las culturas guerreras la han tenido como arma señera en su panoplia, e incluso las que no alcanzaron a dominar la forja del acero (porque no es tarea baladí convertir un lingote de hierro en una espada bien equilibrada, con un filo duro y tenaz a un tiempo), incluso esas culturas, decía, han tenido armas semejantes, como por ejemplo las macanas ((Entre las macanas destacan las usadas por los guerreros mexicas, llamadas _macuahuitl_ en su lengua, las cuales disponían de afilados fragmentos de obsidiana a lo largo de la «hoja».)) (híbrido de espada y maza) en el caso de las culturas precolombinas.
 
