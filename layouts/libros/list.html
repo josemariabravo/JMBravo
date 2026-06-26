@@ -4,7 +4,9 @@
   {{ range .Pages }}
   {{ $book := . }}
   <a class="book-grid-item" href="{{ $book.Permalink }}">
-    {{ with $book.Params.cover }}<img src="{{ . | relURL }}" alt="{{ $book.Title }}">{{ end }}
+    {{ with $book.Resources.GetMatch ($book.Params.cover | default "") }}
+      <img src="{{ .RelPermalink }}" alt="{{ $book.Title }}">
+    {{ end }}
     <h3>{{ $book.Title }}</h3>
     {{ with $book.Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
     {{ with $book.Params.resumen }}<p class="book-resumen">{{ . }}</p>{{ end }}
