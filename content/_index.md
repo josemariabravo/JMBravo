@@ -5,4 +5,4 @@ date: "2019-06-09"
 
 > _—Bienvenido a mi casa [...]. Entre libremente. Marche sano y salvo... ¡y deje algo de la felicidad que trae consigo!_
 
-Soy José María Bravo: escribo fantasía, terror y otras hierbas literarias. Aquí encontrarás mis libros, mis artículos sobre el oficio de escribir y, de cuando en cuando, alguna novedad sobre este mismo sitio.
+Esta es la página personal de José María Bravo, sobre fantasía, escritura y otras hierbas literarias. Aquí encontrarás información sobre mis obras, artículos varios y cómo ponerte en contacto conmigo, si fuera menester.
