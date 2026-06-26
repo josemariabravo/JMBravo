@@ -34,8 +34,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,11 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "libros/_index.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para _index"
+              "title": "Propiedades del archivo"
             }
           },
           {
@@ -242,8 +239,9 @@
       "notebook-navigator:Navegador de Cuadernos": false
     }
   },
-  "active": "71128c009d16505a",
+  "active": "fc09221396841e2f",
   "lastOpenFiles": [
+    "libros/_index.md",
     "libros/runas-de-sangre/images/Runas-de-Sangre_cubierta-666x1030.jpg",
     "libros/runas-de-sangre/images",
     "libros/sombras-y-ceniza/images/Sombras-y-ceniza_Cubierta-ebook_reducido-644x1030.jpg",
@@ -265,7 +263,6 @@
     "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images/got_03_a.jpg",
     "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images/GameofThroness01e03.avi_003341254.jpg",
     "posts/el-dialogo-1/images/3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png",
-    "posts/dibujar-mapas-fantasia-cartografia/images/hobbit_map.jpg",
     "posts/sobre-la-autopublicacion-y-otras-hogueras-de-las-vanidades/index.md",
     "posts/recursos-retoricos-4/index.md",
     "posts/recursos-retoricos-3/index.md",

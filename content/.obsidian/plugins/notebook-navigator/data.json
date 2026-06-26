@@ -509,7 +509,8 @@
     "Supernaturalis/Cosmología": "bootstrap-icons:moon-stars-fill",
     "Naturalis/Geografía/Oceanografía": "rpg-awesome:ocean-emblem",
     "Naturalis/Geografía/Geomorfología": "bootstrap-icons:map",
-    "Naturalis/Geografía/Climatología": "cloud-drizzle"
+    "Naturalis/Geografía/Climatología": "cloud-drizzle",
+    "/": "emoji:✒️"
   },
   "folderColors": {
     "Gentes": "#ef4444",

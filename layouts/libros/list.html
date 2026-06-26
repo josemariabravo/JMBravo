@@ -2,11 +2,12 @@
 <h1>{{ .Title }}</h1>
 <div class="book-grid">
   {{ range .Pages }}
-  <a class="book-grid-item" href="{{ .Permalink }}">
-    {{ with .Params.cover }}<img src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
-    <h3>{{ .Title }}</h3>
-    {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
-    {{ with .Params.resumen }}<p class="book-resumen">{{ . }}</p>{{ end }}
+  {{ $book := . }}
+  <a class="book-grid-item" href="{{ $book.Permalink }}">
+    {{ with $book.Params.cover }}<img src="{{ . | relURL }}" alt="{{ $book.Title }}">{{ end }}
+    <h3>{{ $book.Title }}</h3>
+    {{ with $book.Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
+    {{ with $book.Params.resumen }}<p class="book-resumen">{{ . }}</p>{{ end }}
   </a>
   {{ end }}
 </div>
