@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article class="post">
+  <h1>{{ .Title }}</h1>
+  {{ if not .Date.IsZero }}
+  <p class="post-date">{{ partial "fecha.html" .Date }}</p>
+  {{ end }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,606 @@
+{
+  "vaultProfiles": [
+    {
+      "id": "default",
+      "name": "Predeterminado",
+      "fileVisibility": "all",
+      "hiddenFolders": [],
+      "hiddenTags": [],
+      "hiddenFileNames": [],
+      "hiddenFileTags": [],
+      "hiddenFileProperties": [],
+      "navigationBanner": null,
+      "periodicNotesFolder": "",
+      "shortcuts": [],
+      "propertyKeys": [],
+      "navRainbow": {
+        "mode": "none",
+        "balanceHueLuminance": true,
+        "separateThemeColors": false,
+        "shortcuts": {
+          "enabled": true,
+          "firstColor": "#ef4444",
+          "lastColor": "#8b5cf6",
+          "darkFirstColor": "#ef4444",
+          "darkLastColor": "#8b5cf6",
+          "transitionStyle": "rgb"
+        },
+        "recent": {
+          "enabled": true,
+          "firstColor": "#ef4444",
+          "lastColor": "#8b5cf6",
+          "darkFirstColor": "#ef4444",
+          "darkLastColor": "#8b5cf6",
+          "transitionStyle": "rgb"
+        },
+        "folders": {
+          "enabled": true,
+          "firstColor": "#ef4444",
+          "lastColor": "#8b5cf6",
+          "darkFirstColor": "#fb7185",
+          "darkLastColor": "#c084fc",
+          "transitionStyle": "hue",
+          "scope": "root"
+        },
+        "tags": {
+          "enabled": true,
+          "firstColor": "#ef4444",
+          "lastColor": "#8b5cf6",
+          "darkFirstColor": "#fb7185",
+          "darkLastColor": "#c084fc",
+          "transitionStyle": "hue",
+          "scope": "root"
+        },
+        "properties": {
+          "enabled": false,
+          "firstColor": "#ef4444",
+          "lastColor": "#8b5cf6",
+          "darkFirstColor": "#fb7185",
+          "darkLastColor": "#c084fc",
+          "transitionStyle": "hue",
+          "scope": "root"
+        }
+      }
+    }
+  ],
+  "vaultProfile": "default",
+  "vaultTitle": "header",
+  "syncModes": {
+    "vaultProfile": "synced",
+    "homepage": "synced",
+    "folderSortOrder": "synced",
+    "tagSortOrder": "synced",
+    "propertySortOrder": "synced",
+    "includeDescendantNotes": "synced",
+    "useFloatingToolbars": "synced",
+    "dualPane": "synced",
+    "dualPaneOrientation": "synced",
+    "narrowSidebarLayout": "synced",
+    "narrowSidebarTriggerMode": "synced",
+    "narrowSidebarCustomWidth": "synced",
+    "paneTransitionDuration": "synced",
+    "toolbarVisibility": "synced",
+    "pinNavigationBanner": "synced",
+    "navIndent": "synced",
+    "navItemHeight": "synced",
+    "navItemHeightScaleText": "synced",
+    "calendarPlacement": "synced",
+    "calendarLeftPlacement": "synced",
+    "calendarWeeksToShow": "synced",
+    "compactItemHeight": "synced",
+    "compactItemHeightScaleText": "synced",
+    "featureImageSize": "synced",
+    "featureImagePixelSize": "synced",
+    "uiScale": "synced"
+  },
+  "createNewNotesInNewTab": true,
+  "autoRevealActiveFile": true,
+  "autoRevealShortestPath": true,
+  "autoRevealIgnoreRightSidebar": true,
+  "autoRevealIgnoreOtherWindows": true,
+  "paneTransitionDuration": 170,
+  "multiSelectModifier": "cmdCtrl",
+  "enterToOpenFiles": false,
+  "shiftEnterOpenContext": "tab",
+  "cmdCtrlEnterOpenContext": "split",
+  "mouseBackForwardAction": "history",
+  "startView": "navigation",
+  "showInfoButtons": true,
+  "homepage": {
+    "source": "none",
+    "file": null,
+    "createMissingPeriodicNote": true
+  },
+  "dualPane": true,
+  "dualPaneOrientation": "horizontal",
+  "narrowSidebarLayout": "singlePane",
+  "narrowSidebarTriggerMode": "fitPanes",
+  "narrowSidebarCustomWidth": 350,
+  "showTooltips": true,
+  "showTooltipPath": true,
+  "showTooltipWordCount": false,
+  "desktopBackground": "separate",
+  "desktopScale": 1,
+  "mobileScale": 1,
+  "useFloatingToolbars": true,
+  "toolbarVisibility": {
+    "navigation": {
+      "toggleDualPane": true,
+      "expandCollapse": true,
+      "calendar": true,
+      "hiddenItems": true,
+      "rootReorder": false,
+      "newFolder": true
+    },
+    "list": {
+      "back": true,
+      "search": true,
+      "reveal": false,
+      "descendants": true,
+      "sort": true,
+      "appearance": true,
+      "newNote": true
+    }
+  },
+  "interfaceIcons": {},
+  "colorIconOnly": true,
+  "dateFormat": "MMM D, YYYY",
+  "timeFormat": "h:mm a",
+  "calendarTemplateFolder": "Annexa/Plantillas",
+  "confirmBeforeDelete": true,
+  "deleteAttachments": "ask",
+  "moveFileConflicts": "rename",
+  "externalIconProviders": {
+    "bootstrap-icons": true,
+    "fontawesome-solid": true,
+    "material-icons": true,
+    "phosphor": true,
+    "rpg-awesome": true,
+    "simple-icons": true
+  },
+  "checkForUpdatesOnStart": true,
+  "pinNavigationBanner": false,
+  "showNoteCount": false,
+  "separateNoteCounts": true,
+  "showIndentGuides": true,
+  "navCountLeaderStyle": "none",
+  "rootLevelSpacing": 0,
+  "navIndent": 16,
+  "navItemHeight": 24,
+  "navItemHeightScaleText": true,
+  "collapseBehavior": "all",
+  "smartCollapse": true,
+  "collapseOtherBranchesOnExpand": true,
+  "autoSelectFirstFileOnFocusChange": false,
+  "autoExpandNavItems": true,
+  "springLoadedFolders": true,
+  "springLoadedFoldersInitialDelay": 0.5,
+  "springLoadedFoldersSubsequentDelay": 0.5,
+  "showSectionIcons": false,
+  "showShortcuts": false,
+  "shortcutBadgeDisplay": "index",
+  "skipAutoScroll": false,
+  "showRecentNotes": false,
+  "hideRecentNotes": "none",
+  "pinRecentNotesWithShortcuts": false,
+  "recentNotesCount": 5,
+  "showFolderIcons": true,
+  "showRootFolder": true,
+  "inheritFolderColors": true,
+  "folderSortOrder": "alpha-asc",
+  "enableFolderNotes": true,
+  "folderNoteType": "markdown",
+  "folderNoteName": "",
+  "folderNoteNamePattern": "",
+  "folderNoteTemplate": null,
+  "enableFolderNoteLinks": false,
+  "hideFolderNoteInList": true,
+  "pinCreatedFolderNote": false,
+  "folderNoteOpenLocation": "current-tab",
+  "showNearestFolderNoteInSidebar": true,
+  "showTags": false,
+  "showTagIcons": true,
+  "showAllTagsFolder": true,
+  "showUntagged": true,
+  "scopeTagsToCurrentContext": false,
+  "tagSortOrder": "alpha-asc",
+  "inheritTagColors": true,
+  "keepEmptyTagsProperty": false,
+  "showProperties": false,
+  "showPropertyIcons": true,
+  "inheritPropertyColors": true,
+  "propertySortOrder": "alpha-asc",
+  "showAllPropertiesFolder": true,
+  "scopePropertiesToCurrentContext": false,
+  "defaultListMode": "compact",
+  "includeDescendantNotes": true,
+  "defaultFolderSort": "filename-asc",
+  "propertySortKey": "Orden",
+  "propertySortSecondary": "title",
+  "manualSortPropertyKey": "sort_index",
+  "manualSortGroupHeaderProperty": "group_header",
+  "manualSortNewNotePlacement": "below-selected-note",
+  "confirmBeforeManualSort": true,
+  "revealFileOnListChanges": true,
+  "listPaneTitle": "list",
+  "noteGrouping": "folder",
+  "showSelectedNavigationPills": false,
+  "stickyGroupHeaders": true,
+  "showFolderGroupPaths": false,
+  "showCurrentFolderFilesAtBottom": false,
+  "filterPinnedByFolder": false,
+  "compactItemHeight": 21,
+  "compactItemHeightScaleText": true,
+  "showQuickActions": true,
+  "quickActionRevealInFolder": true,
+  "quickActionAddTag": false,
+  "quickActionAddToShortcuts": false,
+  "quickActionPinNote": true,
+  "quickActionOpenInNewTab": true,
+  "hideDrawingPreviewImages": true,
+  "useFrontmatterMetadata": false,
+  "frontmatterIconField": "icon",
+  "frontmatterColorField": "color",
+  "frontmatterBackgroundField": "background",
+  "frontmatterNameField": "",
+  "frontmatterCreatedField": "",
+  "frontmatterModifiedField": "",
+  "frontmatterDateFormat": "",
+  "showFileIconUnfinishedTask": true,
+  "showFileBackgroundUnfinishedTask": false,
+  "unfinishedTaskBackgroundColor": "#ef000050",
+  "showFileIcons": true,
+  "useFolderIconForFiles": true,
+  "showFilenameMatchIcons": false,
+  "fileNameIconMap": {},
+  "showCategoryIcons": false,
+  "fileTypeIconMap": {},
+  "fileNameRows": 1,
+  "useFolderColorForTitles": false,
+  "showFilePreview": true,
+  "skipHeadingsInPreview": true,
+  "skipCodeBlocksInPreview": true,
+  "stripHtmlInPreview": true,
+  "stripLatexInPreview": true,
+  "previewRows": 1,
+  "previewProperties": [],
+  "previewPropertiesFallback": true,
+  "showFeatureImage": true,
+  "featureImageProperties": [],
+  "featureImageExcludeProperties": [],
+  "featureImageSize": "64",
+  "featureImagePixelSize": "256",
+  "forceSquareFeatureImage": true,
+  "downloadExternalFeatureImages": true,
+  "showFileTags": true,
+  "colorFileTags": true,
+  "prioritizeColoredFileTags": true,
+  "showFileTagAncestors": false,
+  "showFileTagsInCompactMode": false,
+  "showFileProperties": true,
+  "colorFileProperties": true,
+  "prioritizeColoredFileProperties": true,
+  "showFilePropertiesInCompactMode": false,
+  "showPropertiesOnSeparateRows": true,
+  "enablePropertyInternalLinks": true,
+  "enablePropertyExternalLinks": true,
+  "textCountDisplay": "words",
+  "textCountPlacement": "title",
+  "characterCountSpaces": "include",
+  "wordCountTargetProperty": "word-goal",
+  "showWordCountPercentage": false,
+  "showFileDate": true,
+  "alphabeticalDateMode": "modified",
+  "showParentFolder": true,
+  "showParentFolderFullPath": false,
+  "parentFolderClickRevealsFile": false,
+  "showParentFolderColor": false,
+  "showParentFolderIcon": true,
+  "calendarEnabled": true,
+  "calendarPlacement": "left-sidebar",
+  "calendarConfirmBeforeCreate": true,
+  "calendarLocale": "system-default",
+  "calendarWeekendDays": "sat-sun",
+  "calendarMonthHeadingFormat": "full",
+  "calendarHighlightToday": true,
+  "calendarShowFeatureImage": true,
+  "calendarMonthHighlights": {},
+  "calendarShowWeekNumber": true,
+  "calendarShowQuarter": true,
+  "calendarShowYearCalendar": true,
+  "calendarLeftPlacement": "navigation",
+  "calendarWeeksToShow": 6,
+  "calendarIntegrationMode": "daily-notes",
+  "calendarPeriodicNotesLocaleSource": "calendar",
+  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
+  "calendarCustomWeekPattern": "",
+  "calendarCustomMonthPattern": "",
+  "calendarCustomQuarterPattern": "",
+  "calendarCustomYearPattern": "",
+  "calendarCustomFileTemplate": null,
+  "calendarCustomWeekTemplate": null,
+  "calendarCustomMonthTemplate": null,
+  "calendarCustomQuarterTemplate": null,
+  "calendarCustomYearTemplate": null,
+  "keyboardShortcuts": {
+    "pane:move-up": [
+      {
+        "key": "ArrowUp",
+        "modifiers": []
+      }
+    ],
+    "pane:move-down": [
+      {
+        "key": "ArrowDown",
+        "modifiers": []
+      }
+    ],
+    "pane:page-up": [
+      {
+        "key": "PageUp",
+        "modifiers": []
+      }
+    ],
+    "pane:page-down": [
+      {
+        "key": "PageDown",
+        "modifiers": []
+      }
+    ],
+    "pane:home": [
+      {
+        "key": "Home",
+        "modifiers": []
+      }
+    ],
+    "pane:end": [
+      {
+        "key": "End",
+        "modifiers": []
+      }
+    ],
+    "navigation:collapse-or-parent": [
+      {
+        "key": "ArrowLeft",
+        "modifiers": []
+      }
+    ],
+    "navigation:expand-or-focus-list": [
+      {
+        "key": "ArrowRight",
+        "modifiers": []
+      }
+    ],
+    "navigation:focus-list": [
+      {
+        "key": "Tab",
+        "modifiers": []
+      }
+    ],
+    "pane:delete-selected": [
+      {
+        "key": "Delete",
+        "modifiers": []
+      },
+      {
+        "key": "Backspace",
+        "modifiers": []
+      }
+    ],
+    "list:focus-navigation": [
+      {
+        "key": "ArrowLeft",
+        "modifiers": []
+      },
+      {
+        "key": "Tab",
+        "modifiers": [
+          "Shift"
+        ]
+      }
+    ],
+    "list:focus-editor": [
+      {
+        "key": "ArrowRight",
+        "modifiers": []
+      },
+      {
+        "key": "Tab",
+        "modifiers": []
+      }
+    ],
+    "list:select-all": [
+      {
+        "key": "A",
+        "modifiers": [
+          "Mod"
+        ]
+      }
+    ],
+    "list:extend-selection-up": [
+      {
+        "key": "ArrowUp",
+        "modifiers": [
+          "Shift"
+        ]
+      }
+    ],
+    "list:extend-selection-down": [
+      {
+        "key": "ArrowDown",
+        "modifiers": [
+          "Shift"
+        ]
+      }
+    ],
+    "list:range-to-start": [
+      {
+        "key": "Home",
+        "modifiers": [
+          "Shift"
+        ]
+      }
+    ],
+    "list:range-to-end": [
+      {
+        "key": "End",
+        "modifiers": [
+          "Shift"
+        ]
+      }
+    ],
+    "search:focus-list": [
+      {
+        "key": "Tab",
+        "modifiers": []
+      },
+      {
+        "key": "Enter",
+        "modifiers": []
+      }
+    ],
+    "search:focus-navigation": [
+      {
+        "key": "Tab",
+        "modifiers": [
+          "Shift"
+        ]
+      }
+    ],
+    "search:close": [
+      {
+        "key": "Escape",
+        "modifiers": []
+      }
+    ]
+  },
+  "customVaultName": "JMBravo",
+  "pinnedNotes": {},
+  "collapsedPinnedContexts": {},
+  "fileIcons": {},
+  "fileColors": {},
+  "fileBackgroundColors": {},
+  "folderIcons": {
+    "Gentes": "fontawesome-solid:people-group",
+    "Naturalis": "fontawesome-solid:tree",
+    "Supernaturalis": "fontawesome-solid:bolt-lightning",
+    "Exordio": "fontawesome-solid:star-of-life",
+    "Borradores": "drafting-compass",
+    "Annexa": "plus-square",
+    "Gentes/Historia": "fontawesome-solid:scroll",
+    "Gentes/Etnografía": "person-standing",
+    "Gentes/Etnografía/Pueblos": "users",
+    "Gentes/Etnografía/Religiones": "church",
+    "Gentes/Etnografía/Cultura/Ciencias": "material-icons:science",
+    "Gentes/Etnografía/Cultura/Ciencias/Tecnología": "cog",
+    "Gentes/Etnografía/Cultura/Ciencias/Medicina": "briefcase-medical",
+    "Gentes/Etnografía/Cultura/Artes y costumbres": "brush",
+    "Gentes/Etnografía/Cultura": "book",
+    "Gentes/Etnografía/Cultura/Sociedades": "venetian-mask",
+    "Supernaturalis/Mŷthos": "rpg-awesome:dragon-wing",
+    "Naturalis/Geología": "bootstrap-icons:minecart",
+    "Naturalis/Biología": "rpg-awesome:wolf-howl",
+    "Naturalis/Biología/Botánica": "fontawesome-solid:plant-wilt",
+    "Naturalis/Biología/Zoología": "rpg-awesome:lion",
+    "Naturalis/Geografía": "globe-2",
+    "Annexa/Plantillas": "book-template",
+    "Gentes/Lingüística": "languages",
+    "Supernaturalis/Magia": "star",
+    "Supernaturalis/Cosmología": "bootstrap-icons:moon-stars-fill",
+    "Naturalis/Geografía/Oceanografía": "rpg-awesome:ocean-emblem",
+    "Naturalis/Geografía/Geomorfología": "bootstrap-icons:map",
+    "Naturalis/Geografía/Climatología": "cloud-drizzle"
+  },
+  "folderColors": {
+    "Gentes": "#ef4444",
+    "Naturalis": "#22c55e",
+    "Supernaturalis": "#0ea5e9",
+    "Exordio": "#6b7280a6",
+    "Annexa": "#6366f1",
+    "Borradores": "#64748b",
+    "Gentes/Historia": "#ef4444"
+  },
+  "folderBackgroundColors": {},
+  "folderSortOverrides": {
+    "Gentes": "title-asc",
+    "Annexa": "title-asc",
+    "/": "modified-desc",
+    "Borradores": "title-asc",
+    "Exordio": "filename-asc",
+    "Gentes/Historia/Relación cronológica": "property-asc",
+    "Gentes/Etnografía/Religiones": "title-asc",
+    "Gentes/Historia/Periodos históricos": "property-asc",
+    "Gentes/Lingüística/Lenguas septentrionales": "title-asc",
+    "Borradores/Prioridad alta": "title-asc",
+    "Apuntes/Literatura/Narratología": "created-desc"
+  },
+  "folderTreeSortOverrides": {},
+  "folderAppearances": {
+    "Borradores": {
+      "groupBy": "folder"
+    },
+    "Supernaturalis": {
+      "titleRows": 1,
+      "previewRows": 1
+    },
+    "/": {
+      "groupBy": "folder"
+    },
+    "Exordio": {},
+    "Gentes": {
+      "groupBy": "folder"
+    },
+    "Gentes/Lingüística/Lenguas meridionales": {
+      "groupBy": "folder"
+    },
+    "Gentes/Lingüística/Lenguas septentrionales": {
+      "previewRows": 1
+    }
+  },
+  "tagIcons": {},
+  "tagColors": {},
+  "tagBackgroundColors": {},
+  "tagSortOverrides": {},
+  "tagTreeSortOverrides": {},
+  "tagAppearances": {},
+  "propertyIcons": {},
+  "propertyColors": {},
+  "propertyBackgroundColors": {},
+  "propertySortOverrides": {},
+  "propertyTreeSortOverrides": {},
+  "propertyAppearances": {},
+  "virtualFolderColors": {},
+  "virtualFolderBackgroundColors": {},
+  "navigationSeparators": {
+    "folder:Annexa": true,
+    "folder:Exordio": true,
+    "folder:Gentes": true,
+    "section:recent": true
+  },
+  "userColors": [
+    "#ffffff",
+    "#d9d9d9",
+    "#a6a6a6",
+    "#737373",
+    "#000000",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040",
+    "#404040"
+  ],
+  "lastShownVersion": "3.2.0",
+  "rootFolderOrder": [],
+  "rootTagOrder": [],
+  "rootPropertyOrder": []
+}

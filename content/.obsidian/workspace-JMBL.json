@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "6726ee829090d591",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c7728c0539e3f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8733194bdc20d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gentes/Linguae/Lenguas de Septentrión/Aranés (lengua).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aranés (lengua)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c14fb59cce9c9332",
+    "type": "split",
+    "children": [
+      {
+        "id": "03c50dd00ffbbcaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ad00569520c234",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3143fd6bd265615d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "trasunto",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a057a54cb8b6bfb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "9ca23c2b3ef80eec",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "768d02c923dcfbd0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.50802993774414
+  },
+  "right": {
+    "id": "6cc5783e17b07176",
+    "type": "split",
+    "children": [
+      {
+        "id": "630d5c78880b3d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9efc7b58ebcebde0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exordio/Exordio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Exordio"
+            }
+          },
+          {
+            "id": "f9061e8b2a234e43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gentes/Linguae/Lenguas de Septentrión/Aranés (lengua).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Aranés (lengua)"
+            }
+          },
+          {
+            "id": "a725df801e066bda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5baf7a90d45dbc27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "a979447744fd8e75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exordio/Exordio.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Exordio"
+            }
+          },
+          {
+            "id": "b7a95be57735ba25",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "TEP (Borradores y trabajos en proceso)/Fe miriádica/Fe miriádica (artículo principal).md"
+              },
+              "icon": "lucide-info",
+              "title": "Propiedades de los archivos para Fe miriádica (artículo principal)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "f8733194bdc20d18",
+  "lastOpenFiles": [
+    "Exordio/Glosario.md",
+    "Gentes/Linguae/Lenguas de Septentrión/Aranés (lengua).md",
+    "Exordio/Exordio.md",
+    "Gentes/Pueblos/Septentrión/Imperio tamarquio/Imperio tamarquio (artículo principal).md",
+    "Vault.md",
+    "Sin título.canvas",
+    "Sin título.md",
+    "Supernaturalis/Mŷthos/Mŷthos.md",
+    "Supernaturalis/Magi/Magi.md",
+    "Naturalis/Mineralogía/Mineralogía.md",
+    "Naturalis/Cosmografía/Cosmografía.md",
+    "Naturalis/Geografía/Geografía.md",
+    "Naturalis/Naturalis.md",
+    "Historia/Historia.md",
+    "Gentes/Gentes.md",
+    "Gentes/Pueblos/Septentrión/Saremia/Ciudades-estado saremias/Mur’ubi/mur_ubi.md",
+    "Historia/Cronología del eón profano/Segunda edad/Saremia/Campaña contra los reyes piratas cimrrios/Batalla del estrecho de Verdesaguas.md",
+    "trasunto.md",
+    "Gentes/Pueblos/Meridión/Azam/Azam.md",
+    "broken links output.md",
+    "Gentes/Pueblos/Septentrión/Dazyrnia/Destreza dazyr.md",
+    "TEP (Borradores y trabajos en proceso)/La gran hambruna.md",
+    "Gentes/Pueblos/Septentrión/Imperio tamarquio/Tamarquia (ciudad).md",
+    "Gentes/Pueblos/Septentrión/Imperio tamarquio/Imperio tamarquio - Asentamientos y lugares importantes.md",
+    "Historia/Cronología del eón profano/Segunda edad/-2469 p. G. - Fundación de Tamarquia, la ciudad eterna.md",
+    "TEP (Borradores y trabajos en proceso)/El rugido de Dios.md",
+    "Naturalis/Geografía/Continentes/Meridión/Zeytar, isla de.md",
+    "Annexa/Obras de Últer/Sombras y ceniza",
+    "Annexa/Obras de Últer",
+    "image.png",
+    "Gentes/Linguae/Diccionarios y glosarios/~$Azamita.xlsx",
+    "Gentes/Linguae/Lenguas de Meridión",
+    "Gentes/Linguae/Diccionarios y glosarios/Azamita.xlsx",
+    "Gentes/Linguae/Lenguas de Septentrión",
+    "Gentes/Linguae/Diccionarios y glosarios",
+    "Annexa/Imágenes/Septentrión_Mapa de prefecturas.jpg",
+    "TEP (Borradores y trabajos en proceso)/Fe miriádica",
+    "Tags",
+    "Annexa/Apéndices/desktop.ini"
+  ]
+}
