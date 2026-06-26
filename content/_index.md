@@ -1,5 +1,5 @@
 ---
-title: "jmbravo.com"
+title: "JMBravo.com"
 date: "2019-06-09"
 ---
 

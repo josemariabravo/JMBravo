@@ -2,7 +2,6 @@
 title: "Libros"
 date: "2023-05-19"
 ---
-
 ## Sombras y ceniza
 
 _Primera sangre, repitió para sí Naúd. Largos años de adiestramiento se ponían a prueba ahora; sería el fin de las noches en vela, del miedo a la cobardía y al deshonor. Al cabo, todo se resumía en algo muy sencillo: o mataba o lo matarían._
