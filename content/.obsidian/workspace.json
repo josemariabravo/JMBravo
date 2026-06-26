@@ -75,10 +75,12 @@
             "id": "afbbd5376539451c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "image",
+              "state": {
+                "file": "posts/como-dibujar-mapas-ciudades/images/florencia.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "florencia"
             }
           }
         ],
@@ -188,8 +190,19 @@
               "icon": "lucide-archive",
               "title": "Todas las propiedades"
             }
+          },
+          {
+            "id": "e867ed75dd876aa3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "65eeb9abd08f7b67",
@@ -201,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "posts/avisos-y-nuevas-noviembre-de-2023/index.md"
+                "file": "posts/como-dibujar-mapas-ciudades/images/florencia.jpg"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para index"
+              "title": "Propiedades de los archivos para florencia"
             }
           },
           {
@@ -271,11 +284,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
@@ -289,7 +302,7 @@
       "notebook-navigator:Navegador de Cuadernos": false
     }
   },
-  "active": "71128c009d16505a",
+  "active": "afbbd5376539451c",
   "lastOpenFiles": [
     "asesoria-literaria/index.md",
     "posts/suspension-incredulidad-fantasia/index.md",
