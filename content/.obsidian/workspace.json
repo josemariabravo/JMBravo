@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obras/uroboros/index.md",
+                "file": "libros/dead-wrong/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obras/uroboros/index.md"
+                "file": "libros/dead-wrong/index.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades de los archivos para index"
@@ -259,6 +259,7 @@
   },
   "active": "6490ed7bf53b706b",
   "lastOpenFiles": [
+    "obras/uroboros/index.md",
     "posts/autoedicion-digital-o-el-nuevo-parnaso/index.md",
     "novedades/migracion-a-github-pages/index.md",
     "novedades/_index.md",
@@ -302,7 +303,6 @@
     "posts/lo-minimo-necesario/index.md",
     "posts/la-libra-de-carne/index.md",
     "posts/libros-electrnicos-el-futuro/index.md",
-    "posts/el-dialogo-3/index.md",
     "posts/el-dialogo-1/images",
     "posts/dibujar-mapas-fantasia-cartografia/images",
     "Borradores/Ab urbe perditio.canvas"
