@@ -12,21 +12,26 @@ title = "jmbravo.com"
   weight = 1
 
 [[menu.main]]
-  name = "blog"
+  name = "artículos"
   url = "/posts/"
   weight = 2
 
 [[menu.main]]
+  name = "novedades"
+  url = "/novedades/"
+  weight = 3
+
+[[menu.main]]
   name = "libros"
   url = "/libros/"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "sobre mí"
   url = "/sobre-mi/"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "contacto"
   url = "/contacto/"
-  weight = 5
+  weight = 6

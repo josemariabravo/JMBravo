@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="post book-detail">
+  {{ with .Params.cover }}
+  <img class="book-detail-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">
+  {{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -12,82 +12,14 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Literatura/Narratología/Recursos narrativos/Ritmo del párrafo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Ritmo del párrafo"
-            }
-          },
-          {
-            "id": "1f441b9870b438ba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Literatura/Narratología/Recursos narrativos/Estilo indirecto libre.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Estilo indirecto libre"
-            }
-          },
-          {
-            "id": "972d768bb51f7d28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Literatura/Narratología/Recursos narrativos/Ritmo_del_parrafo_v1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ritmo_del_parrafo_v1"
-            }
-          },
-          {
-            "id": "873f7eda7418470e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diario/2026/2026-W22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-W22"
-            }
-          },
-          {
-            "id": "afbbd5376539451c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sobre-mi/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "sobre-mi/index.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para index"
+              "title": "Propiedades del archivo"
             }
           },
           {
@@ -297,52 +227,52 @@
   },
   "active": "71128c009d16505a",
   "lastOpenFiles": [
-    "libros/index.md",
+    "novedades/migracion-a-github-pages",
+    "novedades/_index.md",
+    "novedades",
+    "posts/mis-diez-libros-fetiche/index.md",
+    "posts/_index.md",
     "Contacto/index.md",
-    "_index.md",
-    "sombras-y-ceniza/index.md",
-    "politica-de-privacidad/index.md",
-    "Piezas/de-espadas-y-falacias-mitos/index.md",
-    "asesoria-literaria/index.md",
-    "Piezas/como-dibujar-mapas-ciudades/images/florencia.jpg",
-    "posts/suspension-incredulidad-fantasia/index.md",
-    "posts/herramientas-del-oficio-i-material-de-consulta/index.md",
-    "posts/estructurando-la-literatura-fantastica/index.md",
-    "posts/como-aprovechar-mejor-el-tiempo/index.md",
-    "posts/breves-notas-sintaxis-correccion-estilo/index.md",
-    "posts/recapitulemos/index.md",
-    "Piezas/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-i/index.md",
-    "Piezas/autor-2-0-o-la-madre-que-pari-a-narciso/index.md",
-    "Piezas/autoedicion-digital-o-el-nuevo-parnaso/index.md",
-    "posts/los-reyes-hereticos-paul-kearney/index.md",
-    "posts/avisos-y-nuevas-noviembre-de-2023/index.md",
-    "posts/proximamente-2/index.md",
-    "posts/finalmente/index.md",
-    "posts/proximamente/index.md",
-    "posts/resena-la-cosecha-samhein-cotrina/index.md",
-    "posts/resena-la-guerra-del-turco-fernando-martinez-lainez/index.md",
-    "posts/sangre-y-acero-3/index.md",
-    "posts/sangre-y-acero-3/images/sya_3.jpg",
-    "Apuntes/Miscelánea/Blog/Borradores/Fantasía histórica - una apología.md",
-    "Apuntes/Miscelánea/Blog/migracion-sitio-estatico-buttondown.md",
-    "Apuntes/Literatura/Lenguaje/Retórica",
-    "Apuntes/Literatura/Lenguaje/Ortotipografía",
-    "Apuntes/Literatura/Lecturas/Horizonte de lecturas",
-    "Miscelánea/Imágenes/Estructura-narrativa-en-cuatro-actos.png",
-    "Miscelánea/Imágenes/Knack-for-drama.png",
-    "Miscelánea/Imágenes/esquema pretérito.png",
-    "Miscelánea/Imágenes/cuadrado_semiotico_vocacion_profesional.svg",
-    "Apuntes/Literatura/Narratología/Aspectos generales",
-    "Apuntes/Literatura/Narratología/Recursos narrativos",
-    "Miscelánea/Imágenes",
-    "Miscelánea",
-    "Apuntes/Literatura/Narratología/Ortotipografía",
-    "Apuntes/Esgrima",
-    "Apuntes/Literatura/Narratología/Narrativa/Documentos narrativos/Glosario de narrativa",
-    "Pasted image 20260320200252.jpg",
-    "image-1.png",
-    "image.png",
-    "ReadItLater Inbox/assets/Armamento medieval EL BRACAMARTE/Armamento medieval EL BRACAMARTE-66MVn10G5y.jpeg",
+    "libros/index.md",
+    "sobre-mi/index.md",
+    "posts/prejuicios-varios-sobre-la-fantasia-otros-cainismos/images/goya.jpg",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images/waster.jpg",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images/pell_01.jpg",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images/got_03_desarme.jpg",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images/got_03_a.jpg",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images/GameofThroness01e03.avi_003341254.jpg",
+    "posts/el-dialogo-1/images/3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png",
+    "posts/dibujar-mapas-fantasia-cartografia/images/hobbit_map.jpg",
+    "posts/dibujar-mapas-fantasia-cartografia/images/gallery13.jpg",
+    "posts/de-generos-y-anteojeras/images/56_geeks_thumb.jpg",
+    "posts/sobre-la-autopublicacion-y-otras-hogueras-de-las-vanidades/index.md",
+    "posts/recursos-retoricos-4/index.md",
+    "posts/recursos-retoricos-3/index.md",
+    "posts/recursos-retoricos-2/index.md",
+    "posts/recursos-retoricos-1/index.md",
+    "posts/prejuicios-varios-sobre-la-fantasia-otros-cainismos/index.md",
+    "posts/prejuicios-varios-sobre-la-fantasia-otros-cainismos/images",
+    "posts/paradigmas-historicos-y-otros-desbarres/index.md",
+    "posts/mis-pecados-capitales-en-esto-de-escribir/index.md",
+    "posts/mas-sobre-la-edicion-digital/index.md",
+    "posts/mapa-o-brujula-planificacion-literaria-i/index.md",
+    "posts/lo-minimo-necesario/index.md",
+    "posts/la-libra-de-carne/index.md",
+    "posts/libros-electrnicos-el-futuro/index.md",
+    "posts/el-dialogo-3/index.md",
+    "posts/el-dialogo-2/index.md",
+    "posts/el-dialogo-1/index.md",
+    "posts/el-dialogo-1/images",
+    "posts/dibujar-mapas-fantasia-cartografia/index.md",
+    "posts/dibujar-mapas-fantasia-cartografia/images",
+    "posts/demasiados-autores-espanoles/index.md",
+    "posts/de-resenas-y-otros-pecados-capitales/index.md",
+    "posts/de-resenas-y-otros-pecados-capitales/images",
+    "posts/de-generos-y-anteojeras/images",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-v/images",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iv/images",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iii/images",
+    "posts/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-ii/images",
     "Borradores/Ab urbe perditio.canvas"
   ]
 }

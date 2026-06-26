@@ -3,13 +3,43 @@
   {{ .Content }}
 </div>
 
-<h2>últimas entradas</h2>
-<ul class="post-list">
-  {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-    {{ if not .Date.IsZero }}<span class="post-list-date">{{ .Date.Format "2006-01-02" }}</span>{{ end }}
-  </li>
-  {{ end }}
-</ul>
+{{ $libros := where .Site.RegularPages "Section" "libros" }}
+{{ if $libros }}
+<section class="home-books">
+  <div class="book-row">
+    {{ range $libros }}
+    <a class="book-card" href="{{ .Permalink }}">
+      {{ with .Params.cover }}<img src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
+      <span class="book-card-title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<div class="home-columns">
+  <section>
+    <h2>novedades recientes</h2>
+    <ul class="post-list">
+      {{ range first 3 (where .Site.RegularPages "Section" "novedades") }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ if not .Date.IsZero }}<span class="post-list-date">{{ .Date.Format "2006-01-02" }}</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <section>
+    <h2>últimos artículos</h2>
+    <ul class="post-list">
+      {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ if not .Date.IsZero }}<span class="post-list-date">{{ .Date.Format "2006-01-02" }}</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+</div>
 {{ end }}
