@@ -1,0 +1,16 @@
+{{ $libros := where .Site.RegularPages "Section" "libros" }}
+{{ if $libros }}
+<section class="home-books">
+  <div class="book-row">
+    {{ range $libros }}
+    {{ $book := . }}
+    <a class="book-card" href="{{ $book.Permalink }}">
+      {{ with $book.Resources.GetMatch ($book.Params.cover | default "") }}
+        <img src="{{ .RelPermalink }}" alt="{{ $book.Title }}">
+      {{ end }}
+      <span class="book-card-title">{{ $book.Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

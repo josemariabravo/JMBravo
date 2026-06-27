@@ -1,0 +1,11 @@
+<section>
+  <h2>novedades recientes</h2>
+  <ul class="post-list">
+    {{ range first 3 (where .Site.RegularPages "Section" "novedades") }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</section>
