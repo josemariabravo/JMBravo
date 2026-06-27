@@ -581,6 +581,122 @@
     color: var(--paper);
   }
 
+  /* ·· layout de artículo con sidebar ·· */
+
+  .article-layout {
+    display: grid;
+    grid-template-columns: 1fr 260px;
+    gap: var(--sp-4);
+    align-items: start;
+  }
+
+  @media (max-width: 860px) {
+    .article-layout {
+      grid-template-columns: 1fr;
+    }
+    .sidebar { position: static; }
+  }
+
+  /* ·· sidebar ·· */
+
+  .sidebar {
+    position: sticky;
+    top: calc(70px + var(--sp-3));
+    font-size: var(--fs-sm);
+  }
+
+  .sidebar-block {
+    padding-block: var(--sp-2);
+  }
+
+  .sidebar-rule {
+    border: none;
+    border-top: 1px solid var(--line);
+    margin: 0;
+  }
+
+  .sidebar-title {
+    font-family: var(--font-title);
+    font-size: var(--fs-lg);
+    line-height: 1.3;
+    color: var(--text);
+    max-width: none;
+  }
+
+  .sidebar-meta {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    max-width: none;
+  }
+
+  .sidebar h2 {
+    margin-bottom: var(--sp-1);
+  }
+
+  .sidebar-list {
+    margin-top: var(--sp-1);
+  }
+
+  .sidebar-list li {
+    padding: .35rem 0;
+    border-bottom: 1px solid var(--line);
+    line-height: 1.35;
+  }
+
+  .sidebar-list a {
+    color: var(--text);
+    font-size: var(--fs-xs);
+  }
+
+  .sidebar-list a:hover { color: var(--accent); }
+
+  /* ·· formulario de newsletter ·· */
+
+  .newsletter-form h2 { margin-bottom: var(--sp-1); }
+
+  .newsletter-form p {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    margin-bottom: var(--sp-2);
+    max-width: none;
+  }
+
+  .newsletter-field {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+  }
+
+  .newsletter-field input {
+    width: 100%;
+    padding: .5rem .75rem;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    color: var(--text);
+    border-radius: var(--radius);
+  }
+
+  .newsletter-field input:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+
+  .newsletter-field button {
+    padding: .5rem .75rem;
+    background: var(--accent);
+    color: var(--paper);
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    letter-spacing: .04em;
+    border: none;
+    border-radius: var(--radius);
+    transition: opacity var(--ease);
+  }
+
+  .newsletter-field button:hover { opacity: .85; }
+
   /* ·· breadcrumb ·· */
 
   .breadcrumb {
