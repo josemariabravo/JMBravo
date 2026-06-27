@@ -1,13 +1,15 @@
 {{ define "main" }}
+<link rel="stylesheet" href="{{ "pagefind/pagefind-ui.css" | relURL }}">
 <div class="container">
   <div class="list-page">
     <h1>{{ .Title }}</h1>
     <div id="search"></div>
   </div>
 </div>
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
-<script src="/pagefind/pagefind-ui.js"></script>
+<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
 <script>
-  new PagefindUI({ element: "#search", showImages: false });
+  const ui = new PagefindUI({ element: "#search", showImages: false });
+  const q = new URLSearchParams(window.location.search).get("q");
+  if (q) ui.triggerSearch(q);
 </script>
 {{ end }}

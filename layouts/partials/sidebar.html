@@ -1,5 +1,16 @@
 <aside class="sidebar">
-    
+
+  <div class="sidebar-block">
+    <form class="sidebar-search" action="{{ "buscar/" | relURL }}" method="get">
+      <h2>Buscar</h2>
+      <div class="sidebar-search-field">
+        <input type="search" name="q" placeholder="Buscar en el sitio…" aria-label="Buscar">
+        <button type="submit">→</button>
+      </div>
+    </form>
+  </div>
+
+  <hr class="sidebar-rule">
   <div class="sidebar-block">
     <h2>Últimos artículos</h2>
     <ul class="sidebar-list">

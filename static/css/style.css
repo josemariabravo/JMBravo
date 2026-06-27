@@ -651,6 +651,47 @@
 
   .sidebar-list a:hover { color: var(--accent); }
 
+  /* ·· caja de búsqueda del sidebar ·· */
+
+  .sidebar-search h2 { margin-bottom: var(--sp-1); }
+
+  .sidebar-search-field {
+    display: flex;
+    gap: .4rem;
+  }
+
+  .sidebar-search-field input {
+    flex: 1;
+    padding: .45rem .7rem;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    color: var(--text);
+    border-radius: var(--radius);
+    min-width: 0;
+  }
+
+  .sidebar-search-field input:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+
+  .sidebar-search-field button {
+    padding: .45rem .7rem;
+    background: transparent;
+    border: 1px solid var(--line);
+    color: var(--muted);
+    font-size: var(--fs-sm);
+    border-radius: var(--radius);
+    transition: border-color var(--ease), color var(--ease);
+  }
+
+  .sidebar-search-field button:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
   /* ·· formulario de newsletter ·· */
 
   .newsletter-form h2 { margin-bottom: var(--sp-1); }
