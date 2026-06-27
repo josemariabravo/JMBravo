@@ -1,12 +1,14 @@
 {{ define "main" }}
-<article class="post book-detail">
-  {{ with .Resources.GetMatch (.Params.cover | default "") }}
-  <img class="book-detail-cover" src="{{ .RelPermalink }}" alt="{{ $.Title }}">
-  {{ end }}
-  <h1>{{ .Title }}</h1>
-  {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
-  <div class="post-content">
-    {{ .Content }}
-  </div>
-</article>
+<div class="container">
+  <article class="post book-detail">
+    {{ with .Resources.GetMatch (.Params.cover | default "") }}
+    <img class="book-detail-cover" src="{{ .RelPermalink }}" alt="{{ $.Title }}">
+    {{ end }}
+    <h1>{{ $.Title }}</h1>
+    {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
 {{ end }}

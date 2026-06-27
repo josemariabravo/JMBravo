@@ -1,11 +1,13 @@
 {{ define "main" }}
-<article class="post">
-  <h1>{{ .Title }}</h1>
-  {{ if not .Date.IsZero }}
-  <p class="post-date">{{ partial "fecha.html" .Date }}</p>
-  {{ end }}
-  <div class="post-content">
-    {{ .Content }}
-  </div>
-</article>
+<div class="container">
+  <article class="post">
+    <h1>{{ .Title }}</h1>
+    {{ if not .Date.IsZero }}
+    <span class="post-date">{{ partial "fecha.html" .Date }}</span>
+    {{ end }}
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
 {{ end }}

@@ -1,218 +1,432 @@
-/* tercera pasada: estructura de portada, libros con cubierta, dos columnas */
+/* ==============================================
+   Codex — sistema visual de jmbravo.com
+   ============================================== */
 
-:root {
-  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
-  --sans: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  --tinta: #1a1a1a;
-  --tinta-suave: #5a5a5a;
-  --acento: #730000;
-  --linea: #e3e0d8;
-  --fondo: #fdfcfa;
-  --tarjeta: #ffffff;
-}
+@layer reset, base, layout, components, pages;
 
-* { box-sizing: border-box; }
 
-html { background: var(--fondo); }
+/* ── RESET ─────────────────────────────────── */
 
-body {
-  max-width: 760px;
-  margin: 0 auto;
-  padding: 3rem 1.5rem 4rem;
-  font-family: var(--serif);
-  font-size: 19px;
-  line-height: 1.7;
-  color: var(--tinta);
-  background: var(--fondo);
+@layer reset {
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html  { scroll-behavior: smooth; }
+  body  { margin: 0; }
+  img   { display: block; max-width: 100%; }
+  a     { color: inherit; text-decoration: none; }
+  button { font: inherit; cursor: pointer; }
+
+  h1, h2, h3, h4, p { margin: 0; }
+
+  ul, ol { margin: 0; padding: 0; list-style: none; }
+
 }
 
-a {
-  color: var(--acento);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-}
-a:hover { border-bottom-color: var(--acento); }
 
-.site-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 1rem 1.5rem;
-  padding-bottom: 1.75rem;
-  margin-bottom: 3rem;
-  border-bottom: 1px solid var(--linea);
-}
+/* ── BASE — tokens + tipografía ────────────── */
 
-.site-title {
-  font-family: var(--serif);
-  font-size: 1.5rem;
-  font-weight: normal;
-  letter-spacing: 0.01em;
-}
+@layer base {
 
-.site-nav {
-  font-family: var(--sans);
-  font-size: 0.85rem;
-  letter-spacing: 0.03em;
-}
-.site-nav a {
-  margin-left: 1.25rem;
-  color: var(--tinta-suave);
-  border-bottom: 1px solid transparent;
-}
-.site-nav a:hover { color: var(--acento); border-bottom-color: var(--acento); }
+  :root {
+    /* colores */
+    --paper:        #f7f5f2;
+    --surface:      #fcfbf9;
+    --text:         #2b2a28;
+    --muted:        #6c6965;
+    --accent:       #730000;
+    --line:         #ddd6cc;
 
-h1 {
-  font-family: var(--serif);
-  font-size: 1.9rem;
-  font-weight: normal;
-  line-height: 1.25;
-  margin-bottom: 0.4rem;
-}
+    /* fuentes */
+    --font-logo:    'Cinzel', serif;
+    --font-title:   'Cormorant Garamond', serif;
+    --font-ui:      'Inter', system-ui, sans-serif;
+    --font-prose:   'Source Serif 4', Georgia, serif;
 
-h2 {
-  font-family: var(--serif);
-  font-size: 1.3rem;
-  font-weight: normal;
-  margin-top: 0;
-}
+    /* escala tipográfica */
+    --fs-xs:  .80rem;
+    --fs-sm:  .92rem;
+    --fs-md:  1.05rem;
+    --fs-lg:  1.30rem;
+    --fs-xl:  2.00rem;
+    --fs-2xl: clamp(2.6rem, 5vw, 4.2rem);
 
-/* portada: cita de bienvenida como destacado */
-.home-content blockquote {
-  margin: 0 0 1.75rem;
-  padding: 0 0 0 1.25rem;
-  border-left: 2px solid var(--acento);
-  font-style: italic;
-  font-size: 1.1rem;
-  color: var(--tinta-suave);
-}
+    /* espaciado */
+    --sp-1: .5rem;
+    --sp-2: 1rem;
+    --sp-3: 2rem;
+    --sp-4: 4rem;
+    --sp-5: 6rem;
 
-/* fila de cubiertas en portada */
-.home-books { margin: 2.5rem 0; }
-.book-row {
-  display: flex;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-}
-.book-card {
-  width: 110px;
-  text-align: center;
-  color: var(--tinta);
-}
-.book-card img {
-  width: 100%;
-  border-radius: 3px;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
-  transition: transform 0.15s ease;
-}
-.book-card:hover img { transform: translateY(-3px); }
-.book-card-title {
-  display: block;
-  margin-top: 0.6rem;
-  font-family: var(--sans);
-  font-size: 0.8rem;
-  line-height: 1.3;
-}
+    /* layout */
+    --container: 1080px;
+    --reading:   66ch;
+    --radius:    3px;
+    --ease:      .22s ease;
+  }
 
-/* dos columnas: novedades + artículos */
-.home-columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 2.5rem;
-  margin-top: 3rem;
-}
-@media (max-width: 600px) {
-  .home-columns { grid-template-columns: 1fr; gap: 2.5rem 0; }
+  html { background: var(--paper); }
+
+  body {
+    font-family: var(--font-ui);
+    font-size: var(--fs-md);
+    line-height: 1.75;
+    color: var(--text);
+    background: var(--paper);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* h1 — títulos de página y hero */
+  h1 {
+    font-family: var(--font-title);
+    font-size: var(--fs-2xl);
+    font-weight: 600;
+    line-height: 1.1;
+  }
+
+  /* h2 — marcador de sección, no título real */
+  h2 {
+    font-family: var(--font-logo);
+    font-size: var(--fs-xs);
+    font-weight: 500;
+    letter-spacing: .28em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  /* h3 — subtítulos de tarjeta */
+  h3 {
+    font-family: var(--font-title);
+    font-size: var(--fs-xl);
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+  p { max-width: var(--reading); }
+
+  blockquote {
+    margin: 0;
+    padding-left: 1.25rem;
+    border-left: 2px solid var(--accent);
+    font-style: italic;
+    color: var(--muted);
+  }
+
 }
 
-.post-date, .post-list-date {
-  font-family: var(--sans);
-  color: var(--tinta-suave);
-  font-size: 0.8rem;
-  letter-spacing: 0.02em;
+
+/* ── LAYOUT ─────────────────────────────────── */
+
+@layer layout {
+
+  .container {
+    width: min(var(--container), calc(100% - 3rem));
+    margin-inline: auto;
+  }
+
+  .flow > * + * { margin-top: 1.5rem; }
+
 }
 
-.post-list {
-  list-style: none;
-  padding: 0;
-  margin: 1.2rem 0 0;
-}
-.post-list li {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 1rem;
-  padding: 0.6rem 0;
-  border-bottom: 1px solid var(--linea);
-}
-.post-list a { color: var(--tinta); font-size: 1rem; }
-.post-list a:hover { color: var(--acento); }
 
-.post-content img, .home-content img {
-  max-width: 100%;
-  border-radius: 2px;
-}
-.post-content blockquote {
-  margin: 1.5rem 0;
-  padding-left: 1.25rem;
-  border-left: 2px solid var(--acento);
-  color: var(--tinta-suave);
-  font-style: italic;
+/* ── COMPONENTS ─────────────────────────────── */
+
+@layer components {
+
+  /* header */
+
+  .site-header {
+    position: sticky;
+    top: 0;
+    background: rgb(247 245 242 / .94);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+    z-index: 100;
+  }
+
+  .site-header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+  }
+
+  .site-title {
+    font-family: var(--font-logo);
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--text);
+  }
+
+  .site-nav ul {
+    display: flex;
+    gap: 2rem;
+  }
+
+  .site-nav a {
+    font-size: var(--fs-sm);
+    letter-spacing: .03em;
+    color: var(--muted);
+    position: relative;
+  }
+
+  .site-nav a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 1px;
+    background: var(--accent);
+    transition: width var(--ease);
+  }
+
+  .site-nav a:hover { color: var(--text); }
+  .site-nav a:hover::after { width: 100%; }
+
+  /* post-list — compartido por varias secciones */
+
+  .post-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    padding: .65rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .post-list a {
+    color: var(--text);
+    font-size: var(--fs-md);
+  }
+
+  .post-list a:hover { color: var(--accent); }
+
+  .post-list-date {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  /* footer */
+
+  .site-footer {
+    padding-block: var(--sp-4);
+    border-top: 1px solid var(--line);
+    font-size: var(--fs-xs);
+    color: var(--muted);
+  }
+
 }
 
-/* listado de libros (página /libros/) */
-.book-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-.book-grid-item {
-  color: var(--tinta);
-  text-align: center;
-}
-.book-grid-item img {
-  width: 100%;
-  border-radius: 4px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
-  transition: transform 0.15s ease;
-}
-.book-grid-item:hover img { transform: translateY(-4px); }
-.book-grid-item h3 {
-  font-family: var(--serif);
-  font-size: 1.1rem;
-  font-weight: normal;
-  margin: 0.8rem 0 0.2rem;
-}
-.book-subtitle {
-  font-family: var(--sans);
-  font-size: 0.8rem;
-  color: var(--tinta-suave);
-  font-style: italic;
-  margin: 0 0 0.4rem;
-}
-.book-resumen {
-  font-family: var(--sans);
-  font-size: 0.85rem;
-  color: var(--tinta-suave);
-  margin: 0;
-}
 
-/* página de un libro */
-.book-detail-cover {
-  max-width: 220px;
-  display: block;
-  margin: 0 0 1.5rem;
-  border-radius: 4px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
-}
+/* ── PAGES ──────────────────────────────────── */
 
-.site-footer {
-  margin-top: 4rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--linea);
-  font-family: var(--sans);
-  color: var(--tinta-suave);
-  font-size: 0.8rem;
+@layer pages {
+
+  /* ·· home: hero ·· */
+
+  .hero {
+    padding-block: var(--sp-5);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .hero-inner {
+    max-width: var(--reading);
+  }
+
+  .hero-inner p {
+    font-size: var(--fs-lg);
+    color: var(--muted);
+    margin-top: var(--sp-2);
+  }
+
+  .hero-inner blockquote {
+    font-size: var(--fs-lg);
+    margin-top: var(--sp-3);
+  }
+
+  /* ·· home: libros ·· */
+
+  .home-books {
+    padding-block: var(--sp-4);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .home-books h2 { margin-bottom: var(--sp-3); }
+
+  .book-row {
+    display: flex;
+    gap: 1.75rem;
+    flex-wrap: wrap;
+  }
+
+  .book-card {
+    width: 115px;
+    text-align: center;
+  }
+
+  .book-card img {
+    width: 100%;
+    border-radius: var(--radius);
+    box-shadow: 0 4px 16px rgb(0 0 0 / .14);
+    transition: transform var(--ease);
+  }
+
+  .book-card:hover img { transform: translateY(-4px); }
+
+  .book-card-title {
+    display: block;
+    margin-top: .55rem;
+    font-size: var(--fs-xs);
+    line-height: 1.35;
+    color: var(--muted);
+  }
+
+  /* ·· home: columnas (novedades + artículos) ·· */
+
+  .home-columns {
+    padding-block: var(--sp-4);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--sp-4);
+  }
+
+  .home-columns h2 { margin-bottom: var(--sp-2); }
+
+  @media (max-width: 640px) {
+    .home-columns { grid-template-columns: 1fr; gap: var(--sp-3) 0; }
+  }
+
+  /* ·· artículo (single) ·· */
+
+  .post {
+    padding-block: var(--sp-4);
+  }
+
+  .post h1 { margin-bottom: var(--sp-1); }
+
+  .post-date {
+    display: block;
+    font-size: var(--fs-sm);
+    color: var(--muted);
+    margin-bottom: var(--sp-3);
+  }
+
+  .post-content {
+    font-family: var(--font-prose);
+    font-size: 1.1rem;
+    line-height: 1.85;
+  }
+
+  .post-content > * + * { margin-top: 1.5rem; }
+
+  /* dentro del prose, h2/h3 son títulos reales, no marcadores */
+  .post-content h2 {
+    font-family: var(--font-title);
+    font-size: var(--fs-xl);
+    font-weight: 600;
+    letter-spacing: normal;
+    text-transform: none;
+    color: var(--text);
+    margin-top: 2.5rem;
+  }
+
+  .post-content h3 {
+    font-size: var(--fs-lg);
+    font-weight: 500;
+    margin-top: 2rem;
+  }
+
+  .post-content a {
+    color: var(--accent);
+    border-bottom: 1px solid rgb(115 0 0 / .25);
+    transition: border-color var(--ease);
+  }
+  .post-content a:hover { border-color: var(--accent); }
+
+  .post-content blockquote {
+    margin-block: var(--sp-3);
+    font-size: var(--fs-lg);
+  }
+
+  .post-content img {
+    border-radius: var(--radius);
+    margin-block: var(--sp-3);
+  }
+
+  /* ·· lista genérica ·· */
+
+  .list-page {
+    padding-block: var(--sp-4);
+  }
+
+  .list-page h1 { margin-bottom: var(--sp-3); }
+
+  /* ·· libros: rejilla ·· */
+
+  .book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 2rem;
+    margin-top: var(--sp-3);
+  }
+
+  .book-grid-item {
+    text-align: center;
+  }
+
+  .book-grid-item img {
+    width: 100%;
+    border-radius: var(--radius);
+    box-shadow: 0 6px 20px rgb(0 0 0 / .16);
+    transition: transform var(--ease);
+  }
+
+  .book-grid-item:hover img { transform: translateY(-4px); }
+
+  .book-grid-item h3 {
+    font-family: var(--font-title);
+    font-size: var(--fs-md);
+    font-weight: 500;
+    margin-top: .8rem;
+  }
+
+  .book-subtitle {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    font-style: italic;
+    margin-top: .2rem;
+  }
+
+  .book-resumen {
+    font-size: var(--fs-sm);
+    color: var(--muted);
+    margin-top: .4rem;
+    max-width: none;
+  }
+
+  /* ·· libro individual ·· */
+
+  .book-detail {
+    padding-block: var(--sp-4);
+  }
+
+  .book-detail-cover {
+    max-width: 220px;
+    display: block;
+    margin-bottom: var(--sp-3);
+    border-radius: var(--radius);
+    box-shadow: 0 8px 28px rgb(0 0 0 / .18);
+  }
+
+  .book-detail .book-subtitle {
+    font-size: var(--fs-lg);
+    margin-bottom: var(--sp-3);
+  }
+
 }
