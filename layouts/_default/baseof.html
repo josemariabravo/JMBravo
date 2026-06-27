@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ .Site.Params.description }}">
+  <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
   <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   {{ range .AlternativeOutputFormats }}
@@ -26,6 +27,7 @@
   </header>
 
   <main class="site-main">
+    {{ partial "breadcrumb.html" . }}
     {{ block "main" . }}{{ end }}
   </main>
 

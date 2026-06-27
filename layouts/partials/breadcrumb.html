@@ -1,0 +1,12 @@
+{{ if not .IsHome }}
+<nav aria-label="Ruta" class="breadcrumb">
+  <ol>
+    {{ range .Ancestors.Reverse }}
+    {{ if not .IsHome }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    {{ end }}
+    <li aria-current="page">{{ .Title }}</li>
+  </ol>
+</nav>
+{{ end }}
