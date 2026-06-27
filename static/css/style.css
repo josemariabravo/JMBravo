@@ -549,6 +549,21 @@
     color: var(--muted);
   }
 
+  .btn-compra {
+    display: inline-block;
+    margin-bottom: var(--sp-3);
+    padding: .65rem 1.5rem;
+    background: var(--accent);
+    color: var(--paper);
+    font-family: var(--font-ui);
+    font-size: var(--fs-sm);
+    letter-spacing: .04em;
+    border-radius: var(--radius);
+    transition: opacity var(--ease);
+  }
+
+  .btn-compra:hover { opacity: .85; }
+
   .btn-descarga {
     display: inline-block;
     margin-top: var(--sp-3);

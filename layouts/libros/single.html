@@ -6,6 +6,9 @@
     {{ end }}
     <h1>{{ $.Title }}</h1>
     {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
+    {{ with .Params.amazon_url }}
+    <a class="btn-compra" href="{{ . }}" target="_blank" rel="noopener">Comprar en Amazon</a>
+    {{ end }}
     <div class="post-content">
       {{ .Content }}
     </div>
