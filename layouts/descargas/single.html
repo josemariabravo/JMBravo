@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container">
+  <article class="post">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.tipo }}<p class="descarga-tipo post-date">{{ . }}</p>{{ end }}
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+    {{ with .Params.archivo }}
+    <a class="btn-descarga" href="{{ . | relURL }}" download>Descargar</a>
+    {{ end }}
+  </article>
+</div>
+{{ end }}

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="container">
+  <article class="post obra-single">
+    <h1>{{ .Title }}</h1>
+    <div class="obra-meta">
+      {{ if not .Date.IsZero }}<span>{{ partial "fecha.html" .Date }}</span>{{ end }}
+      {{ with .Params.palabras }}<span>{{ . }} palabras</span>{{ end }}
+    </div>
+    {{ with .Params.sinopsis }}
+    <blockquote class="obra-sinopsis-destacada">{{ . }}</blockquote>
+    {{ end }}
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+    {{ with .Params.nota }}
+    <aside class="obra-nota">
+      <h2>Nota del autor</h2>
+      <p>{{ . }}</p>
+    </aside>
+    {{ end }}
+  </article>
+</div>
+{{ end }}

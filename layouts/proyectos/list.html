@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="container">
+  <div class="list-page">
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
+
+    {{ if .Parent.IsHome }}
+
+      {{/* /proyectos/ — hub con todos los proyectos y sus novedades agregadas */}}
+      {{ if .Sections }}
+      <div class="proyectos-grid">
+        {{ range .Sections }}
+        <a class="proyecto-card" href="{{ .Permalink }}">
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.resumen }}<p>{{ . }}</p>{{ end }}
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{ $novedades := where .Site.RegularPages "Section" "proyectos" }}
+      {{ if $novedades }}
+      <h2>Todas las novedades</h2>
+      <ul class="post-list">
+        {{ range $novedades.ByDate.Reverse }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+    {{ else }}
+
+      {{/* /proyectos/proyecto-x/ — hub del proyecto con sus novedades */}}
+      {{ if .Pages }}
+      <h2>Novedades</h2>
+      <ul class="post-list">
+        {{ range .Pages.ByDate.Reverse }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+    {{ end }}
+  </div>
+</div>
+{{ end }}

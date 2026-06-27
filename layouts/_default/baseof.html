@@ -30,8 +30,13 @@
   </main>
 
   <footer class="site-footer">
-    <div class="container">
+    <div class="container site-footer-inner">
       <p>© {{ now.Year }} José María Bravo Lineros</p>
+      <nav class="site-footer-nav">
+        {{ range .Site.Menus.footer }}
+        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
     </div>
   </footer>
 </body>

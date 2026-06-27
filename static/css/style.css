@@ -429,4 +429,161 @@
     margin-bottom: var(--sp-3);
   }
 
+  /* ·· proyectos ·· */
+
+  .proyectos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: var(--sp-3);
+    margin-block: var(--sp-3);
+  }
+
+  .proyecto-card {
+    padding: var(--sp-2) var(--sp-3);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    transition: border-color var(--ease);
+  }
+
+  .proyecto-card:hover { border-color: var(--accent); }
+
+  .proyecto-card h3 {
+    font-size: var(--fs-lg);
+    margin-bottom: var(--sp-1);
+  }
+
+  .proyecto-card p { color: var(--muted); max-width: none; }
+
+  /* ·· obra: hub de tipos ·· */
+
+  .obra-tipos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--sp-3);
+    margin-top: var(--sp-3);
+  }
+
+  @media (max-width: 640px) {
+    .obra-tipos { grid-template-columns: 1fr; }
+  }
+
+  .tipo-card {
+    padding-bottom: var(--sp-2);
+    border-bottom: 2px solid var(--line);
+    transition: border-color var(--ease);
+  }
+
+  .tipo-card:hover { border-color: var(--accent); }
+
+  .tipo-card h3 { font-size: var(--fs-xl); }
+
+  .tipo-card p { color: var(--muted); margin-top: var(--sp-1); }
+
+  /* ·· obra: lista de piezas ·· */
+
+  .obra-list li {
+    padding: var(--sp-2) 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .obra-list a {
+    font-family: var(--font-title);
+    font-size: var(--fs-lg);
+    color: var(--text);
+  }
+
+  .obra-list a:hover { color: var(--accent); }
+
+  .obra-meta {
+    display: flex;
+    gap: var(--sp-2);
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    margin-top: .25rem;
+  }
+
+  .obra-sinopsis {
+    font-size: var(--fs-sm);
+    color: var(--muted);
+    margin-top: .4rem;
+    max-width: var(--reading);
+  }
+
+  /* ·· obra: pieza individual ·· */
+
+  .obra-sinopsis-destacada {
+    font-size: var(--fs-lg);
+    margin-block: var(--sp-3);
+  }
+
+  .obra-nota {
+    margin-top: var(--sp-4);
+    padding: var(--sp-2) var(--sp-3);
+    border-left: 2px solid var(--line);
+    color: var(--muted);
+  }
+
+  .obra-nota h2 { margin-bottom: var(--sp-1); }
+
+  .obra-nota p { max-width: none; }
+
+  /* ·· descargas ·· */
+
+  .descargas-list li {
+    display: flex;
+    align-items: baseline;
+    gap: var(--sp-2);
+    padding: var(--sp-2) 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .descargas-list a {
+    color: var(--text);
+    font-size: var(--fs-md);
+  }
+
+  .descargas-list a:hover { color: var(--accent); }
+
+  .descarga-tipo {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+  }
+
+  .btn-descarga {
+    display: inline-block;
+    margin-top: var(--sp-3);
+    padding: .65rem 1.5rem;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    font-family: var(--font-ui);
+    font-size: var(--fs-sm);
+    letter-spacing: .04em;
+    transition: background var(--ease), color var(--ease);
+  }
+
+  .btn-descarga:hover {
+    background: var(--accent);
+    color: var(--paper);
+  }
+
+  /* ·· pie de página ·· */
+
+  .site-footer-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .site-footer-nav {
+    display: flex;
+    gap: var(--sp-3);
+  }
+
+  .site-footer-nav a {
+    color: var(--muted);
+    font-size: var(--fs-xs);
+  }
+
+  .site-footer-nav a:hover { color: var(--text); }
+
 }

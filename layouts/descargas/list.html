@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="container">
+  <div class="list-page">
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
+    {{ if .Pages }}
+    <ul class="descargas-list">
+      {{ range .Pages.ByDate.Reverse }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ with .Params.tipo }}<span class="descarga-tipo">{{ . }}</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

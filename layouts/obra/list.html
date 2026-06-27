@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="container">
+  <div class="list-page">
+    <h1>{{ .Title }}</h1>
+
+    {{ if .Parent.IsHome }}
+
+      {{/* /obra/ — hub con los tres tipos */}}
+      {{ if .Sections }}
+      <div class="obra-tipos">
+        {{ range .Sections }}
+        <a class="tipo-card" href="{{ .Permalink }}">
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.descripcion }}<p>{{ . }}</p>{{ end }}
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+    {{ else }}
+
+      {{/* /obra/cuentos/ etc. — lista de obras del tipo */}}
+      {{ if .Pages }}
+      <ul class="obra-list">
+        {{ range .Pages.ByDate.Reverse }}
+        {{ $obra := . }}
+        <li>
+          <a href="{{ $obra.Permalink }}">{{ $obra.Title }}</a>
+          <div class="obra-meta">
+            {{ if not $obra.Date.IsZero }}<span>{{ partial "fecha.html" $obra.Date }}</span>{{ end }}
+            {{ with $obra.Params.palabras }}<span>{{ . }} palabras</span>{{ end }}
+          </div>
+          {{ with $obra.Params.sinopsis }}<p class="obra-sinopsis">{{ . }}</p>{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+    {{ end }}
+  </div>
+</div>
+{{ end }}
