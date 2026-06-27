@@ -33,6 +33,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: construir con hugo
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: indexar con pagefind
+        run: npx pagefind --site public
       - name: subir artefacto
         uses: actions/upload-pages-artifact@v3
         with:

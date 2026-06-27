@@ -310,11 +310,12 @@
 
   .post h1 { margin-bottom: var(--sp-1); }
 
-  .post-date {
-    display: block;
+  .post-date,
+  .post-meta {
     font-size: var(--fs-sm);
     color: var(--muted);
     margin-bottom: var(--sp-3);
+    max-width: none;
   }
 
   .post-content {

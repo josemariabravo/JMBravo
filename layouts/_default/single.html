@@ -2,8 +2,12 @@
 <div class="container article-layout">
   <article class="post">
     <h1>{{ .Title }}</h1>
-    {{ if not .Date.IsZero }}
-    <span class="post-date">{{ partial "fecha.html" .Date }}</span>
+    {{ if or (not .Date.IsZero) .ReadingTime }}
+    <p class="post-meta">
+      {{ if not .Date.IsZero }}{{ partial "fecha.html" .Date }}{{ end }}
+      {{ if and (not .Date.IsZero) .ReadingTime }} | {{ end }}
+      {{ if .ReadingTime }}{{ .ReadingTime }} min de lectura{{ end }}
+    </p>
     {{ end }}
     <div class="post-content">
       {{ .Content }}

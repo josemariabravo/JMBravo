@@ -36,6 +36,11 @@ title = "jmbravo.com"
   url = "/descargas/"
   weight = 6
 
+[[menu.main]]
+  name = "buscar"
+  url = "/buscar/"
+  weight = 7
+
 [[menu.footer]]
   name = "sobre mí"
   url = "/sobre-mi/"
