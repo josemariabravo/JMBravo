@@ -1,9 +1,0 @@
-{
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [
-    "headings"
-  ],
-  "baseFontSizeAction": true,
-  "baseFontSize": 20,
-  "accentColor": "#24567f"
-}
