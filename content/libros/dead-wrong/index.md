@@ -1,8 +1,9 @@
 ---
-title: "Dead wrong"
-date: "2024-11-23"
-cover: "images/Dead-wrong*cubierta*v1-644x1030.jpg"
-resumen: "Novela ultracorta a caballo entre el género negro, la fantasía oscura y el horror."
+title: Dead wrong
+date: 2024-11-23
+cover: images/Dead-wrong*cubierta*v1-644x1030.jpg
+resumen: Novela ultracorta a caballo entre el género negro, la fantasía oscura y el horror.
+amazon_url: https://www.amazon.es/dp/B0DNSL2XCQ/
 ---
 > *El deseo vence al miedo.*
 > Refrán popular
