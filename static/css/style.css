@@ -316,12 +316,12 @@
   .hero-bg {
     position: absolute;
     inset: 0;
-    left: 40%;
+    left: 25%;
     right: 0;
     background-size: cover;
     background-position: center;
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 55%);
-    mask-image: linear-gradient(to right, transparent 0%, black 55%);
+    -webkit-mask-image: linear-gradient(to right, transparent 10%, black 80%);
+    mask-image: linear-gradient(to right, transparent 10%, black 80%);
     opacity: .55;
   }
 
@@ -1037,7 +1037,7 @@
   }
 
   .breadcrumb li + li::before {
-    content: '·';
+    content: '»';
     margin-right: .5rem;
   }
 
