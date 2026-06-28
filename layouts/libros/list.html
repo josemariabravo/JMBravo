@@ -5,7 +5,8 @@
     <div class="book-grid">
       {{ range .Pages }}
       {{ $book := . }}
-      <a class="book-grid-item" href="{{ $book.Permalink }}">
+      {{ $featured := $book.Params.featured | default false }}
+      <a class="book-grid-item{{ if $featured }} book-grid-item--featured{{ end }}" href="{{ $book.Permalink }}">
         {{ with $book.Resources.GetMatch ($book.Params.cover | default "") }}
           <img src="{{ .RelPermalink }}" alt="{{ $book.Title }}">
         {{ end }}
