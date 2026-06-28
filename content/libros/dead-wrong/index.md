@@ -1,7 +1,7 @@
 ---
 title: Dead wrong
 date: 2024-11-23
-cover: images/Dead-wrong*cubierta*v1-644x1030.jpg
+cover: "images/Dead-wrong_cubierta_v1-644x1030.jpg"
 resumen: Novela ultracorta a caballo entre el género negro, la fantasía oscura y el horror.
 amazon_url: https://www.amazon.es/dp/B0DNSL2XCQ/
 ---
@@ -16,6 +16,4 @@ amazon_url: https://www.amazon.es/dp/B0DNSL2XCQ/
 
 *Dead wrong* está disponible en [Amazon](https://www.amazon.es/Dead-wrong-Mar%C3%ADa-Bravo-Lineros-ebook/dp/B0DNSL2XCQ/), en formato digital y físico (tapa dura).
 
-Descarga un adelanto:
-
-<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B0DNSL2XCQ&amp;preview=inline&amp;linkCode=kpe&amp;ref*=cm*sw*r*kb*dp*K2vaDbC93T65Q"></iframe>
+[Descarga un adelanto en Amazon](https://www.amazon.es/dp/B0DNSL2XCQ/)

@@ -52,6 +52,4 @@ Puedes leer las reseñas en [Goodreads](https://www.goodreads.com/book/show/5002
 
 _Sombras y ceniza_ está disponible en Amazon, en formato físico y Kindle.
 
-Descarga un adelanto:
-
-<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B07RT6THJ9&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_K2vaDbC93T65Q"></iframe>
+[Descarga un adelanto en Amazon](https://www.amazon.es/dp/B07RT6THJ9/)
