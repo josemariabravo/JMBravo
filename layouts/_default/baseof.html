@@ -15,7 +15,9 @@
 <body>
   <header class="site-header">
     <div class="site-header-inner container">
-      <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+      <a class="site-logo" href="{{ .Site.Home.RelPermalink }}" aria-label="Inicio">
+        {{ readFile "static/svg/jmbravo_logo.svg" | safeHTML }}
+      </a>
       <nav class="site-nav">
         <ul>
           {{ range .Site.Menus.main }}
@@ -26,8 +28,17 @@
     </div>
   </header>
 
+  <div class="site-search-bar">
+    <div class="container site-search-inner">
+      {{ partial "breadcrumb.html" . }}
+      <form class="search-bar-form" action="{{ "buscar/" | relURL }}" method="get" role="search">
+        <input type="search" name="q" placeholder="Buscar…" aria-label="Buscar">
+        <button type="submit">→</button>
+      </form>
+    </div>
+  </div>
+
   <main class="site-main">
-    {{ partial "breadcrumb.html" . }}
     {{ block "main" . }}{{ end }}
   </main>
 

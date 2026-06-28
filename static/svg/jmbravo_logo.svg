@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 200"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-label="J. M. Bravo — Fantasía y otras hierbas literarias">
+  <defs>
+    <style type="text/css">
+      .nombre {
+        font-family: 'Cinzel', 'Trajan Pro', Georgia, serif;
+        font-weight: 600;
+        fill: #1F1F1F;
+        font-size: 72px;
+        letter-spacing: 0.02em;
+      }
+      .subtitulo {
+        font-family: 'Cinzel', 'Trajan Pro', Georgia, serif;
+        font-weight: 500;
+        fill: #D62A1C;
+        font-size: 26px;
+        letter-spacing: 0.06em;
+      }
+    </style>
+  </defs>
+
+  <text x="20" y="125" class="nombre">J. M. Bravo</text>
+
+  <line x1="445" y1="55" x2="445" y2="150"
+        stroke="#D62A1C" stroke-width="2.5" stroke-linecap="square"/>
+
+  <text x="470" y="98" class="subtitulo">Fantasía y otras</text>
+  <text x="470" y="138" class="subtitulo">hierbas literarias</text>
+</svg>

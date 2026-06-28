@@ -2,6 +2,7 @@
 <div class="container">
   <div class="list-page">
     <h1>{{ .Title }}</h1>
+    {{ if .Content }}<div class="section-intro">{{ .Content }}</div>{{ end }}
 
     {{ if .Parent.IsHome }}
 
@@ -9,10 +10,12 @@
       {{ if .Sections }}
       <div class="obra-tipos">
         {{ range .Sections }}
-        <a class="tipo-card" href="{{ .Permalink }}">
+        <div class="tipo-card">
           <h3>{{ .Title }}</h3>
+          {{ if .Content }}<div class="tipo-intro">{{ .Content }}</div>{{ end }}
           {{ with .Params.descripcion }}<p>{{ . }}</p>{{ end }}
-        </a>
+          <a class="btn-tipo" href="{{ .Permalink }}">Ver {{ .Title | lower }} →</a>
+        </div>
         {{ end }}
       </div>
       {{ end }}

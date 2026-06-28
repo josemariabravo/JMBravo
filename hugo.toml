@@ -7,13 +7,13 @@ title = "jmbravo.com"
   description = "José María Bravo: fantasía, terror y otras hierbas literarias."
 
 [[menu.main]]
-  name = "libros"
-  url = "/libros/"
+  name = "novedades"
+  url = "/novedades/"
   weight = 1
 
 [[menu.main]]
-  name = "proyectos"
-  url = "/proyectos/"
+  name = "libros"
+  url = "/libros/"
   weight = 2
 
 [[menu.main]]
@@ -22,24 +22,14 @@ title = "jmbravo.com"
   weight = 3
 
 [[menu.main]]
-  name = "novedades"
-  url = "/novedades/"
-  weight = 4
-
-[[menu.main]]
   name = "artículos"
   url = "/posts/"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "descargas"
   url = "/descargas/"
-  weight = 6
-
-[[menu.main]]
-  name = "buscar"
-  url = "/buscar/"
-  weight = 7
+  weight = 5
 
 [[menu.footer]]
   name = "sobre mí"
