@@ -321,7 +321,6 @@
     right: max(1.5rem, calc((100% - var(--container)) / 2 + 1.5rem));
     background-size: cover;
     background-position: center;
-    border-radius: var(--radius);
     -webkit-mask-image: linear-gradient(to right, transparent 0%, black 40%);
     mask-image: linear-gradient(to right, transparent 0%, black 40%);
     opacity: .55;
