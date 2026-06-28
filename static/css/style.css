@@ -34,7 +34,7 @@
     --surface:      #f8f8f8;
     --text:         #2b2a28;
     --muted:        #6c6965;
-    --accent:       #730000;
+    --accent:       #D62A1C;
     --line:         #ddd6cc;
 
     /* fuentes */
@@ -211,7 +211,7 @@
     top: 130px;
     border-bottom: 1px solid var(--line);
     padding: .5rem 0;
-    background: rgb(243 245 247 / .96);
+    background: rgb(255 255 255 / .96);
     backdrop-filter: blur(6px);
     z-index: 90;
   }
@@ -290,6 +290,7 @@
 
   .site-footer {
     padding-block: var(--sp-4);
+    background: var(--paper);
     border-top: 1px solid var(--line);
     font-size: var(--fs-xs);
     color: var(--muted);
@@ -307,11 +308,30 @@
   /* ·· hero ·· */
 
   .hero {
-    padding-block: var(--sp-3);
+    position: relative;
+    overflow: hidden;
+    padding-block: var(--sp-4);
     border-bottom: 2px solid var(--accent);
   }
 
-  .hero-inner { max-width: var(--reading); }
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    left: 38%;
+    right: max(1.5rem, calc((100% - var(--container)) / 2 + 1.5rem));
+    background-size: cover;
+    background-position: center;
+    border-radius: var(--radius);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 40%);
+    mask-image: linear-gradient(to right, transparent 0%, black 40%);
+    opacity: .55;
+  }
+
+  .hero-inner {
+    max-width: var(--reading);
+    position: relative;
+    z-index: 1;
+  }
 
   .hero-inner p {
     font-size: var(--fs-md);
@@ -442,7 +462,7 @@
   .hero-inner a,
   .section-intro a {
     color: var(--accent);
-    border-bottom: 1px solid rgb(115 0 0 / .25);
+    border-bottom: 1px solid rgb(214 42 28 / .30);
     transition: border-color var(--ease);
   }
   .post-content a:hover,

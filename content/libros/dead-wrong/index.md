@@ -12,8 +12,6 @@ amazon_url: https://www.amazon.es/dp/B0DNSL2XCQ/
 
 *Dead wrong*, novela comprimida en los límites de la novela ultracorta o *novelette*, presenta al lector una historia a caballo entre géneros —negro, fantasía oscura y horror— violenta y descarnada.
 
-## Dónde conseguirla
-
 *Dead wrong* está disponible en [Amazon](https://www.amazon.es/Dead-wrong-Mar%C3%ADa-Bravo-Lineros-ebook/dp/B0DNSL2XCQ/), en formato digital y físico (tapa dura).
 
-[Descarga un adelanto en Amazon](https://www.amazon.es/dp/B0DNSL2XCQ/)
+[Aquí puedes leer una muestra del libro]([https://www.amazon.es/dp/B0DNSL2XCQ/](https://leer.amazon.es/sample/B086821JM7?clientId=share))
