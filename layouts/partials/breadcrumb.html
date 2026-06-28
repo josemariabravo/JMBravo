@@ -1,4 +1,4 @@
-{{ if not .IsHome }}
+{{ if and .IsPage (not .IsHome) }}
 <nav aria-label="Ruta" class="breadcrumb">
   <ol>
     {{ range .Ancestors.Reverse }}
