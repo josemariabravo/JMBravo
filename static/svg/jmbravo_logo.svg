@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 900 200"
-     preserveAspectRatio="xMidYMid meet"
-     role="img"
-     aria-label="J. M. Bravo — Fantasía y otras hierbas literarias">
-  <defs>
-    <style type="text/css">
+<svg
+   viewBox="0 0 900 200"
+   preserveAspectRatio="xMidYMid meet"
+   role="img"
+   aria-label="J. M. Bravo — Fantasía y otras hierbas literarias"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="jmbravo_logo_.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="2.3565374"
+     inkscape:cx="377.88494"
+     inkscape:cy="155.94915"
+     inkscape:window-width="1172"
+     inkscape:window-height="1000"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3">
+    <sodipodi:guide
+       position="298.64789,118.3662"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="262.39437,75.014084"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1">
       .nombre {
         font-family: 'Cinzel', 'Trajan Pro', Georgia, serif;
         font-weight: 600;
@@ -22,12 +63,39 @@
       }
     </style>
   </defs>
-
-  <text x="20" y="125" class="nombre">J. M. Bravo</text>
-
-  <line x1="445" y1="55" x2="445" y2="150"
-        stroke="#D62A1C" stroke-width="2.5" stroke-linecap="square"/>
-
-  <text x="470" y="98" class="subtitulo">Fantasía y otras</text>
-  <text x="470" y="138" class="subtitulo">hierbas literarias</text>
+  <text
+     x="20"
+     y="125"
+     class="nombre"
+     id="text1"
+     style="line-height:0"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="20"
+       y="125">J. M. Bravo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Cinzel, 'Trajan Pro', Georgia, serif;-inkscape-font-specification:'Cinzel, Trajan Pro, Georgia, serif Medium'"
+   id="tspan5" /></tspan></text>
+  <path
+     style="font-weight:600;font-size:60.0587px;line-height:0;font-family:Cinzel, 'Trajan Pro', Georgia, serif;letter-spacing:0.02em;fill:#1f1f1f;stroke-width:0.999998"
+     d="m 392.58958,96.697039 v 13.249681 h 1.9219 c 0.13589,-0.7765 0.29074,-1.43653 0.46545,-1.98008 0.19413,-0.54356 0.43607,-1.03906 0.72726,-1.48555 0.21355,-0.34941 0.65099,-0.59331 1.31101,-0.7292 0.67943,-0.11647 1.96079,-0.17453 3.8438,-0.17453 1.74713,0 2.98976,0.0582 3.72746,0.17453 0.73766,0.13589 1.2138,0.37979 1.42735,0.7292 0.34942,0.54355 0.60105,1.09713 0.75633,1.66009 0.17473,0.56295 0.3199,1.16493 0.43637,1.80554 h 1.92191 V 96.697039 h -1.92191 c -0.15529,0.834737 -0.32948,1.533486 -0.52362,2.096451 -0.19413,0.58237 -0.41672,1.05852 -0.66908,1.42737 -0.21355,0.34942 -0.72841,0.58168 -1.54373,0.69815 -0.81532,0.13589 -2.01925,0.20364 -3.61108,0.20364 -2.0189,0 -3.32928,-0.0774 -3.93107,-0.23272 -0.60179,-0.13589 -1.01019,-0.35847 -1.22374,-0.66907 -0.31059,-0.4465 -0.55253,-0.97104 -0.72726,-1.57283 -0.17471,-0.582374 -0.32956,-1.232727 -0.46545,-1.950991 z"
+     id="text1-4" />
+  <line
+     x1="445"
+     y1="55"
+     x2="445"
+     y2="150"
+     stroke="#D62A1C"
+     stroke-width="2.5"
+     stroke-linecap="square"
+     id="line1" />
+  <text
+     x="470"
+     y="98"
+     class="subtitulo"
+     id="text2">Fantasía y otras</text>
+  <text
+     x="470"
+     y="138"
+     class="subtitulo"
+     id="text3">hierbas literarias</text>
 </svg>
