@@ -63,7 +63,7 @@ En cuanto al segundo tema que surgió, el del exceso de obras de género en espa
 
 **Deckard\_sg** tiró con bala y dejó claro lo que todos sabemos: que el panorama actual, seamos francos, no es para tirar cohetes. Sí, es cierto: ahora no es demasiado difícil publicar una novela de género. Pero siguen siendo minoría en relación a los títulos de autores extranjeros, y en las editoriales de importancia, son una rareza.
 
-¿Exagero? No creo. Echen si no un vistazo a las listas de más vendidos de [Cyberdark](http://tienda.cyberdark.net/) (la librería más señera, hoy por hoy, dedicada al fantástico). No ha habido desde 2005 apenas títulos con apellidos españoles en esa lista, a excepción de **El Sueño de los dioses** este año, y en años anteriores, **Nicho de Reyes** (2005). En cuanto al asunto de su calidad, solo he leído el segundo; bueno, miento: digamos que hice el intento. ((No obstante, leí lo suficiente para afirmar que **Nicho de Reyes** es, a mi juicio, una de las novelas de fantasía más sobrevaloradas y peor editadas desde hace mucho tiempo. Mal escrita, peor estructurada, cuajada de erratas y solecismos. Signo, en fin, de la inmadurez editorial del género.))
+¿Exagero? No creo. Echen si no un vistazo a las listas de más vendidos de [Cyberdark](http://tienda.cyberdark.net/) (la librería más señera, hoy por hoy, dedicada al fantástico). No ha habido desde 2005 apenas títulos con apellidos españoles en esa lista, a excepción de **El Sueño de los dioses** este año, y en años anteriores, **Nicho de Reyes** (2005). En cuanto al asunto de su calidad, solo he leído el segundo; bueno, miento: digamos que hice el intento.[^1]
 
 Así que sí, es probable que un novel pueda publicar su novela. Pero ¿en qué condiciones? Estamos hablando de editoriales pequeñas, con tiradas que oscilan entre 1000 a 1500 ejemplares, de los que rara vez se venden poco más de la mitad, y con suerte.
 
@@ -86,3 +86,5 @@ Porque el lector no es tonto, y se le puede engañar una vez, pero no dos. Estos
 Basta aplicar el sentido común: si estos autores no hacen sino reunirse en tertulias, presentaciones y saraos es porque no tienen muchos lectores. A los autores no les gusta reunirse entre ellos. Les gusta reunirse con sus lectores; gente que le compra sus libros, se los lee, y encima los adula. Tiene sentido, ¿verdad?
 
 Ojo: en el fondo, todo esto me parece gracioso. Hasta entrañable. Esas comunidades de escritores (yo formé parte de alguna, por cierto) no tienen, en sí, nada de malo. Lo malo es cuando la hipocresía (más allá de la contención obligada por el saber estar y la educación) es la norma, y la sinceridad, la excepción.
+
+[^1]: No obstante, leí lo suficiente para afirmar que **Nicho de Reyes** es, a mi juicio, una de las novelas de fantasía más sobrevaloradas y peor editadas desde hace mucho tiempo. Mal escrita, peor estructurada, cuajada de erratas y solecismos. Signo, en fin, de la inmadurez editorial del género.

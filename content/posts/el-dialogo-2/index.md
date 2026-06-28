@@ -58,13 +58,7 @@ En el segundo, la información es relativa al trasfondo, bien de la historia (lo
 
 Ahora bien: el diálogo puede y debe transmitir información, pero esto implica riesgos. Pondré algunos ejemplos:
 
-—El personaje recapitula, sin venir a cuento, lo ocurrido. Es el clásico «Como todos sabemos», seguido de una larga y absurda exposición (porque, si todos lo sabemos, ¿para qué demonios hace falta que lo digas? ). ((Empero, podría emplearse una recapitulación para ilustrar el hablar puntilloso y prolijo de un personaje:
-
-_—Como todos sabemos, el uranio es un elemento químico de número atómico noventa y dos, y cuyo símbolo… ―comenzó a decir Pedro con un dedo en alto._
-
-―Oh, por favor, ve al grano ―le cortó Juan―. ¿Pueden o no construir la bomba?
-
-―Esto… sí, eso me temo ―respondió Pedro, abatido.))
+—El personaje recapitula, sin venir a cuento, lo ocurrido. Es el clásico «Como todos sabemos», seguido de una larga y absurda exposición (porque, si todos lo sabemos, ¿para qué demonios hace falta que lo digas? ).[^1]
 
 —El personaje divaga en un monólogo inesperado y suelta una larga exposición de siete páginas, o así, sobre un tema. Esto es perfecto para que el lector coja nuestro libro y lo tire por la ventana más próxima (salvo que sea un _ebook,_ claro), pero, hasta cierto punto, puede ser inevitable e incluso necesario. El truco está en hacer que esas siete páginas seguidas no sean tales, repartiendo la exposición a lo largo de la historia. Recuerda, también, que se trata de un diálogo: los otros interlocutores querrán interrumpir al personaje, así que deja que lo hagan, al menos de tanto en tanto.
 
@@ -128,7 +122,7 @@ Mucho mejor, desde luego, que hablando del tiempo y de tartas de manzana.
 
 Abusar de los signos indicadores de modalidad (signos de exclamación e interrogación y puntos suspensivos) es un vicio frecuente. Y esto lo digo como corrector profesional de textos literarios. Por favor, no lo hagas.
 
-Claro, definir qué es abusar y qué no es difícil, a veces. Te aconsejo que sigas esta sencilla regla: evítalos en la medida de lo posible, y salvo en conversaciones realmente largas, no uses estos signos más de tres veces ((Por supuesto, tres es un número arbitrario. Pero en algún sitio había que poner el límite.)) en un diálogo.
+Claro, definir qué es abusar y qué no es difícil, a veces. Te aconsejo que sigas esta sencilla regla: evítalos en la medida de lo posible, y salvo en conversaciones realmente largas, no uses estos signos más de tres veces[^2] en un diálogo.
 
 Por supuesto, las preguntas que sean pertinentes han de llevar signos de interrogación, faltaría más. Pero piensa esto, ¿es realmente necesario que tres de cada cuatro parlamentos de tu personaje acaben en puntos suspensivos? Seguramente no.
 
@@ -148,7 +142,7 @@ Y por último, sí, es válido desde el punto de vista ortotipográfico poner m�
 
 Lo ideal sería que el lector pudiera reconocer a quién pertenece un parlamento sin necesidad de inciso alguno. Esto es un ideal, claro; en la práctica es muy difícil. Casi imposible, añadiría.
 
-Pero debemos aspirar a ello. Debemos intentar caracterizar la voz de los personajes para que esta sea única, rica en matices e inconfundible; en suma, construirles un idiolecto ((DRAE: 1. m. Ling. Conjunto de rasgos propios de la forma de expresarse de un individuo.)) que refleje su personalidad.
+Pero debemos aspirar a ello. Debemos intentar caracterizar la voz de los personajes para que esta sea única, rica en matices e inconfundible; en suma, construirles un idiolecto[^3] que refleje su personalidad.
 
 ¿Cómo puedes hacerlo?
 
@@ -162,13 +156,13 @@ En cuanto al qué, es la parte más evidente del parlamento de un personaje. Ten
 
 ―Vulgarismos y expresiones malsonantes: dicho en claro, expresiones poco recomendables en el lenguaje culto o incorrectas, _per se,_ además de insultos, juramentos y palabrotas. En cuanto a los primeros, un personaje culto no debería usar muchos, o ninguno, salvo que el registro de la conversación lo justifique; y en cuanto a los segundos, la frecuencia y el tipo de los tacos que suelte son una de las mejores muestras de carácter de un personaje.
 
-―Muletillas y redundancias: ((Recomiendo la lectura del siguiente artículo de la Fundéu: [http://www.fundeu.es/escribireninternet/muletillas-y-redundancias/](http://www.fundeu.es/escribireninternet/muletillas-y-redundancias/ "undefined").)) como es normal, conviene evitar las muletillas y redundancias, salvo que se empleen en su justa medida y de forma consciente para caracterizar la voz de un personaje. Que un personaje concreto suelte un «vaya, vaya» cada tres parlamentos no supone ningún problema; el que lo haga cada dos frases puede llegar a ser un engorro.
+―Muletillas y redundancias:[^4] como es normal, conviene evitar las muletillas y redundancias, salvo que se empleen en su justa medida y de forma consciente para caracterizar la voz de un personaje. Que un personaje concreto suelte un «vaya, vaya» cada tres parlamentos no supone ningún problema; el que lo haga cada dos frases puede llegar a ser un engorro.
 
 ―Interjecciones: nos referimos a los «hum», «oh», «eh» y «ah», entre otros. Al igual que en el anterior caso, empleadas en su justa medida aportan matices a la voz de los personajes y proporcionan credibilidad a sus parlamentos. La clave está en el cuantificador: en su justa medida.
 
 Y en cuanto al cómo:
 
-―Marcadores textuales: ((Los marcadores discursivos o textuales son elementos lingüísticos (palabras, partículas y locuciones) cuya función es marcar las relaciones lógicas entre las diferentes partes del discurso, ya sea dentro de una frase, un párrafo o un texto. Ver [es.wikipedia.org/wiki/Marcadores\_del\_discurso](http://es.wikipedia.org/wiki/Marcadores_del_discurso).)) el tipo, la variedad y la frecuencia en el uso de los marcadores textuales pueden arrojar mucha luz acerca del carácter de un personaje. Un personaje culto en un registro formal y pausado los empleará en abundancia para articular su discurso de forma clara y precisa; un personaje iletrado, por el contrario, los usará con menos frecuencia y con menor variedad, a veces llegando a utilizarlos como muletillas.
+―Marcadores textuales:[^5] el tipo, la variedad y la frecuencia en el uso de los marcadores textuales pueden arrojar mucha luz acerca del carácter de un personaje. Un personaje culto en un registro formal y pausado los empleará en abundancia para articular su discurso de forma clara y precisa; un personaje iletrado, por el contrario, los usará con menos frecuencia y con menor variedad, a veces llegando a utilizarlos como muletillas.
 
 ―Puntuación: el tipo y la frecuencia de los signos delimitadores del discurso (punto, punto y coma, dos puntos y puntos suspensivos) nos permitirá articular el ritmo del parlamento. Una puntuación más trabada producirá un ritmo más lento; lo cual, unido a la longitud de las frases, nos permitirá mostrar distintos registros y estados de ánimo. Un personaje no debería hablar igual bajo presión que en una tranquila sobremesa.
 
@@ -211,3 +205,15 @@ Tendrás que sudar para conseguirlo, salvo que tengas un talento innato para ell
 Y, por descontado, el mejor consejo para escribir buenos diálogos es leer. Mucho.
 
 Hasta aquí la segunda entrega. En la próxima, nos ocuparemos de los incisos del diálogo.
+
+[^1]: Empero, podría emplearse una recapitulación para ilustrar el hablar puntilloso y prolijo de un personaje:
+
+_—Como todos sabemos, el uranio es un elemento químico de número atómico noventa y dos, y cuyo símbolo… ―comenzó a decir Pedro con un dedo en alto._
+
+―Oh, por favor, ve al grano ―le cortó Juan―. ¿Pueden o no construir la bomba?
+
+―Esto… sí, eso me temo ―respondió Pedro, abatido.
+[^2]: Por supuesto, tres es un número arbitrario. Pero en algún sitio había que poner el límite.
+[^3]: DRAE: 1. m. Ling. Conjunto de rasgos propios de la forma de expresarse de un individuo.
+[^4]: Recomiendo la lectura del siguiente artículo de la Fundéu: [http://www.fundeu.es/escribireninternet/muletillas-y-redundancias/](http://www.fundeu.es/escribireninternet/muletillas-y-redundancias/ "undefined").
+[^5]: Los marcadores discursivos o textuales son elementos lingüísticos (palabras, partículas y locuciones) cuya función es marcar las relaciones lógicas entre las diferentes partes del discurso, ya sea dentro de una frase, un párrafo o un texto. Ver [es.wikipedia.org/wiki/Marcadores\_del\_discurso](http://es.wikipedia.org/wiki/Marcadores_del_discurso).

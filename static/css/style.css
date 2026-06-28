@@ -421,7 +421,8 @@
     padding-block: var(--sp-4);
   }
 
-  .post h1 { 
+  .post h1 {
+    font-size: clamp(2.1rem, 4.5vw, 3.7rem);
     margin-bottom: var(--sp-3);
   }
 
@@ -739,6 +740,18 @@
   .obra-nota h2 { margin-bottom: var(--sp-1); }
 
   .obra-nota p { max-width: none; }
+
+  /* ·· callout / nota destacada ·· */
+
+  .nota {
+    background: #f5f2ee;
+    border: 1px solid var(--accent);
+    padding: 1rem;
+    border-radius: var(--radius);
+    margin-bottom: 1.5rem;
+  }
+
+  .nota p { max-width: none; margin-bottom: 0; }
 
   /* ·· descargas ·· */
 

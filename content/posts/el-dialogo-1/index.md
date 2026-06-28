@@ -10,11 +10,11 @@ coverImage: "pexels-photo-1309899.jpeg"
 
 El diálogo es una de las herramientas más importantes que un escritor tiene a su alcance.
 
-Es difícil no estar de acuerdo con esta afirmación. Considerado una de las estructuras textuales ((Las estructuras textuales son las distintas formas en las que se organiza la información de un texto, tanto en cuanto a la forma como al fondo o contenido. (Para más información, recomiendo esta lectura: [Estructura textual](http://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/estructuratextual.htm "Estructura textual")).)) fundamentales en lingüística (junto a la exposición, la argumentación, la descripción y la narración), el diálogo nos permite ceder el testigo de una historia a sus verdaderos protagonistas: los personajes.
+Es difícil no estar de acuerdo con esta afirmación. Considerado una de las estructuras textuales[^1].)) fundamentales en lingüística (junto a la exposición, la argumentación, la descripción y la narración), el diálogo nos permite ceder el testigo de una historia a sus verdaderos protagonistas: los personajes.
 
 Pero vayamos por partes. ¿Qué es el diálogo?
 
-Si acudimos al DUE, ((Diccionario del uso del español, de María Moliner.)) en la voz ‘diálogo’, segunda acepción, encontramos esto:
+Si acudimos al DUE,[^2] en la voz ‘diálogo’, segunda acepción, encontramos esto:
 
 «Conjunto de las palabras que intercambian los personajes de una obra de teatro, una película o una narración».
 
@@ -30,7 +30,7 @@ Entre las principales ventajas que presenta el diálogo, cabe destacar las sigui
 
 ―dinamismo: el diálogo nos permite ofrecer información de forma ágil y, si está bien trabajado, sutil;
 
-―caracterización: junto a la introspección, es el principal modo narrativo ((Los modos narrativos parten del desarrollo de la narración, una de las cinco formas de discurso clásicas. Son las distintas formas de expresión que adoptan los textos narrativos, en cuanto a forma y función. No hay consenso en la clasificación de los modos narrativos, pero casi todas las tipologías incluyen los siguientes: descripción, exposición, introspección, diálogo y transición.)) para dar vida a los personajes y profundizar en su caracterización.
+―caracterización: junto a la introspección, es el principal modo narrativo[^3] para dar vida a los personajes y profundizar en su caracterización.
 
 ## Tipos de diálogo
 
@@ -58,7 +58,7 @@ El parlamento cita de forma directa lo que dicen los personajes.
 
 El inciso, por otro lado, es el conjunto de aclaraciones del narrador. En castellano, el inciso en los diálogos se marca con la raya (―), como veremos más adelante. El inciso permite al narrador hacer las indicaciones oportunas: aclarar quién dijo qué a quién, de qué forma, o hacer acotaciones simultáneas al diálogo.
 
-El uso principal del inciso es la atribución del parlamento, esto es, señalar quién ha dicho lo citado. Esto se hace mediante los llamados verbos declarativos, de habla o de comunicación, conocidos también como _verba dicendi_ (en singular, _verbum dicendi_), o simplemente, _dicendi_. ((Las perífrasis verbales cuyo verbo principal sea un verbo de comunicación (por ejemplo, _tratar de decir_) deberían considerarse como un dicendi a todos los efectos.))
+El uso principal del inciso es la atribución del parlamento, esto es, señalar quién ha dicho lo citado. Esto se hace mediante los llamados verbos declarativos, de habla o de comunicación, conocidos también como _verba dicendi_ (en singular, _verbum dicendi_), o simplemente, _dicendi_.[^4]
 
 El más común de todos estos verbos es _decir,_ como habrán sospechado ya nuestros lectores. Es el dicendi por excelencia, considerado como neutro.
 
@@ -70,7 +70,7 @@ Veámoslo mediante estos ejemplos:
 
 En los dos primeros ejemplos, el dicendi efectúa la atribución del parlamento sin añadir matices de significado, aunque se puede decir que _respondió_ sí que establece un pequeño matiz: Juan está respondiendo, por lo que otro personaje debe de haber hablado antes que él.
 
-Sin embargo, en los otros dos ejemplos, el dicendi introduce un significado adicional (que dependerá, por cierto, de la objetividad de nuestro narrador). _Protestar_ implica rechazo hacia alguien o algo; _mascullar,_ una forma de hablar deficiente, debido a circunstancias psíquicas o físicas (el personaje está demasiado afectado como para hablar bien, o está herido, por ejemplo). De esta forma, un dicendi puede actuar a todos los efectos como un verbo de influencia. ((Los «verbos de influencia» expresan acciones cuyo objetivo es influir en alguien para que lleve a cabo algo. Por ejemplo, autorizar, animar, ordenar, invitar, permitir, exhortar, recomendar, etcétera.))
+Sin embargo, en los otros dos ejemplos, el dicendi introduce un significado adicional (que dependerá, por cierto, de la objetividad de nuestro narrador). _Protestar_ implica rechazo hacia alguien o algo; _mascullar,_ una forma de hablar deficiente, debido a circunstancias psíquicas o físicas (el personaje está demasiado afectado como para hablar bien, o está herido, por ejemplo). De esta forma, un dicendi puede actuar a todos los efectos como un verbo de influencia.[^5]
 
 En posteriores entregas de esta serie ahondaremos en este tema, pero cabe decir que el escritor ha de tener especial cuidado con los dicendi que emplea. Muchas veces, en aras de la variedad, se emplean dicendi que añaden matices de significado innecesarios o poco adecuados.
 
@@ -90,19 +90,19 @@ Como puede apreciarse, las atribuciones del diálogo resultan innecesarias a par
 
 Como dijimos antes, los incisos del narrador en el diálogo se marcan en castellano mediante el signo ortográfico de la raya.
 
-La raya es un signo constituido por un trazo horizontal, cuyo ancho equivale a un cuadratín ((Antes de la autoedición, el cuadratín era una pieza de metal que se colocaba entre las letras para dejar espacios en lo impreso.)) del cuerpo con el que se compone un texto.
+La raya es un signo constituido por un trazo horizontal, cuyo ancho equivale a un cuadratín[^6] del cuerpo con el que se compone un texto.
 
 En algunos textos se conoce a la raya como _guion largo,_ algo incorrecto; en tipografía, tradicionalmente se llamaba a este signo _menos._ La raya puede funcionar como signo doble (a semejanza del paréntesis, por ejemplo) o simple.
 
 Para representar la raya se usa con mucha frecuencia el carácter conocido como _em dash,_ al que corresponde el código U + 2014 en Unicode, Alt + 0151 en Alt code (Windows) y la combinación Opt. + - en Mac.
 
-Sin embargo, es mucho más recomendable emplear el carácter _horizontal bar_ (U + 2015), sobre todo para textos destinados a impresión física, siempre y cuando la fuente tipográfica empleada lo permita. ((Lamentablemente, no todas las fuentes de letra incluyen este signo. Para evitar el comportamiento indeseable del _em dash_ puede utilizarse, en programas de maquetación como Adobe InDesign, el siguiente trucos: asignar el atributo «No break» a todas las rayas del texto.))
+Sin embargo, es mucho más recomendable emplear el carácter _horizontal bar_ (U + 2015), sobre todo para textos destinados a impresión física, siempre y cuando la fuente tipográfica empleada lo permita.[^7]
 
 Veamos por qué con estos dos ejemplos:
 
 [![](3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png)](http://www.jmbravo.com/wp-content/uploads/2018/03/3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png)
 
-Como puede apreciarse, en el primer ejemplo el carácter _em dash_ no se comporta todo lo bien que nos gustaría cuando la raya se encuentra a final de una línea, pues lo deseable sería que permaneciera pegada al inciso al cual afecta. En el segundo ejemplo, en el que se ha empleado el carácter _horizontal bar,_ el comportamiento es el deseable (y correcto desde el punto de vista ortotipográfico). ((Cabe señalar que cuando se maqueta un texto hay una opción alternativa para evitar el comportamiento indeseable del _em dash_: en InDesign, por ejemplo, basta con marcar todas las rayas con un estilo de carácter que incluya el atributo _no break_. Mano de santo.))
+Como puede apreciarse, en el primer ejemplo el carácter _em dash_ no se comporta todo lo bien que nos gustaría cuando la raya se encuentra a final de una línea, pues lo deseable sería que permaneciera pegada al inciso al cual afecta. En el segundo ejemplo, en el que se ha empleado el carácter _horizontal bar,_ el comportamiento es el deseable (y correcto desde el punto de vista ortotipográfico).[^8]
 
 (Para más información, recomiendo la siguiente lectura: [Rayas de inciso y de diálogo](http://www.tex-tipografia.com/rayas_incisos_dialogos.html "Rayas de inciso y de diálogo"), de Javier Bezos).
 
@@ -142,7 +142,7 @@ Si el parlamento finaliza con un signo indicador de modalidad (signos de interro
 
 ―Lo has sabido todo este tiempo… ―Juan, enfurecido, abandonó la habitación dando un portazo.
 
-Nótese, además, que no se emplea una segunda raya para cerrar el inciso, aunque (por incongruente que pueda parecer) la RAE ((Real Academia Española.)) sí la exige cuando este signo se emplea para delimitar incisos en una oración, como alternativa al paréntesis. ((No hay un motivo ―más allá de la costumbre― que justifique esta incongruencia, en realidad. El lexicógrafo José Martínez de Sousa aboga por suprimir la raya de cierre cuando esta actúa como delimitador de un inciso y se sitúa al final del enunciado. (V. Martínez, 2008b, § 10.5.12.5.2).))
+Nótese, además, que no se emplea una segunda raya para cerrar el inciso, aunque (por incongruente que pueda parecer) la RAE[^9] sí la exige cuando este signo se emplea para delimitar incisos en una oración, como alternativa al paréntesis.[^10]
 
 De esta forma, estos dos ejemplos son incorrectos según la RAE:
 
@@ -249,3 +249,14 @@ En esta primera entrega he abordado, de forma sucinta, en qué consiste el diál
 - REAL ACADEMIA ESPAÑOLA: _Diccionario de la lengua española,_ 22.ª ed. Madrid: Espasa-Calpe, 2001.
 - REAL ACADEMIA ESPAÑOLA: _Diccionario panhispánico de dudas,_ 2.ª ed. Madrid: Santillana, 2005.
 - REAL ACADEMIA ESPAÑOLA: _Ortografía de la lengua española,_ Madrid: Espasa Libros, 2010.
+
+[^1]: Las estructuras textuales son las distintas formas en las que se organiza la información de un texto, tanto en cuanto a la forma como al fondo o contenido. (Para más información, recomiendo esta lectura: [Estructura textual](http://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/estructuratextual.htm "Estructura textual"
+[^2]: Diccionario del uso del español, de María Moliner.
+[^3]: Los modos narrativos parten del desarrollo de la narración, una de las cinco formas de discurso clásicas. Son las distintas formas de expresión que adoptan los textos narrativos, en cuanto a forma y función. No hay consenso en la clasificación de los modos narrativos, pero casi todas las tipologías incluyen los siguientes: descripción, exposición, introspección, diálogo y transición.
+[^4]: Las perífrasis verbales cuyo verbo principal sea un verbo de comunicación (por ejemplo, _tratar de decir_) deberían considerarse como un dicendi a todos los efectos.
+[^5]: Los «verbos de influencia» expresan acciones cuyo objetivo es influir en alguien para que lleve a cabo algo. Por ejemplo, autorizar, animar, ordenar, invitar, permitir, exhortar, recomendar, etcétera.
+[^6]: Antes de la autoedición, el cuadratín era una pieza de metal que se colocaba entre las letras para dejar espacios en lo impreso.
+[^7]: Lamentablemente, no todas las fuentes de letra incluyen este signo. Para evitar el comportamiento indeseable del _em dash_ puede utilizarse, en programas de maquetación como Adobe InDesign, el siguiente trucos: asignar el atributo «No break» a todas las rayas del texto.
+[^8]: Cabe señalar que cuando se maqueta un texto hay una opción alternativa para evitar el comportamiento indeseable del _em dash_: en InDesign, por ejemplo, basta con marcar todas las rayas con un estilo de carácter que incluya el atributo _no break_. Mano de santo.
+[^9]: Real Academia Española.
+[^10]: No hay un motivo ―más allá de la costumbre― que justifique esta incongruencia, en realidad. El lexicógrafo José Martínez de Sousa aboga por suprimir la raya de cierre cuando esta actúa como delimitador de un inciso y se sitúa al final del enunciado. (V. Martínez, 2008b, § 10.5.12.5.2).
