@@ -6,7 +6,7 @@
    aria-label="J. M. Bravo — Fantasía y otras hierbas literarias"
    version="1.1"
    id="svg3"
-   sodipodi:docname="jmbravo_logo_.svg"
+   sodipodi:docname="jmbravo_logo.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,13 +23,13 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
      inkscape:zoom="2.3565374"
-     inkscape:cx="377.88494"
-     inkscape:cy="155.94915"
-     inkscape:window-width="1172"
-     inkscape:window-height="1000"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="377.46059"
+     inkscape:cy="155.73697"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg3">
     <sodipodi:guide
        position="298.64789,118.3662"
@@ -87,7 +87,8 @@
      stroke="#D62A1C"
      stroke-width="2.5"
      stroke-linecap="square"
-     id="line1" />
+     id="line1"
+     style="stroke-width:2.75;stroke-dasharray:none" />
   <text
      x="470"
      y="98"

@@ -33,7 +33,7 @@
     --paper:        #ffffff;
     --surface:      #f8f8f8;
     --text:         #2b2a28;
-    --muted:        #6c6965;
+    --muted:        #504e4b;
     --accent:       #D62A1C;
     --line:         #ddd6cc;
 
@@ -316,7 +316,7 @@
   .hero-bg {
     position: absolute;
     inset: 0;
-    left: 25%;
+    left: 15%;
     right: 0;
     background-size: cover;
     background-position: center;
