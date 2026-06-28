@@ -316,13 +316,13 @@
   .hero-bg {
     position: absolute;
     inset: 0;
-    left: 40%;
-    right: max(1.5rem, calc((100% - var(--container)) / 2 + 1.5rem));
+    left: 45%;
+    right: 0;
     background-size: cover;
     background-position: center;
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 40%);
-    mask-image: linear-gradient(to right, transparent 0%, black 40%);
-    opacity: .50;
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 35%);
+    mask-image: linear-gradient(to right, transparent 0%, black 35%);
+    opacity: .55;
   }
 
   .hero-inner {
@@ -421,7 +421,9 @@
     padding-block: var(--sp-4);
   }
 
-  .post h1 { margin-bottom: var(--sp-2); }
+  .post h1 { 
+    margin-bottom: var(--sp-3);
+  }
 
   .post-date,
   .post-meta {
@@ -503,6 +505,8 @@
 
   .book-grid-item img {
     width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
     border-radius: var(--radius);
     box-shadow: 0 6px 20px rgb(0 0 0 / .16);
     transition: transform var(--ease);
