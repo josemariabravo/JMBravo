@@ -103,11 +103,11 @@
     line-height: 1.2;
   }
 
-  p { max-width: var(--reading); }
+  p { max-width: var(--reading); margin-bottom: 1.5rem; }
 
   blockquote {
-    margin: 2em 0 1em 0;
-    padding-left: 1.25rem;
+    margin: 2.5rem 0 2.5rem 0;
+    padding-left: 1.5rem;
     border-left: 2px solid var(--accent);
     font-style: italic;
     color: var(--muted);
@@ -317,11 +317,11 @@
     position: absolute;
     inset: 0;
     left: 40%;
-    right: max(1.5rem, calc((92% - var(--container)) / 2 + 1.5rem));
+    right: max(1.5rem, calc((100% - var(--container)) / 2 + 1.5rem));
     background-size: cover;
     background-position: center;
     -webkit-mask-image: linear-gradient(to right, transparent 0%, black 40%);
-    mask-image: linear-gradient(to right, transparent 10%, white 100%);
+    mask-image: linear-gradient(to right, transparent 0%, black 40%);
     opacity: .50;
   }
 
@@ -437,9 +437,10 @@
     line-height: 1.85;
   }
 
-  .post-content > * + * { margin-top: 1.5rem; }
+  .post-content > * + *:not(h2):not(h3) { margin-top: 0; }
 
   /* dentro del prose, h2/h3 son títulos reales, no marcadores */
+
   .post-content h2 {
     font-family: var(--font-title);
     font-size: var(--fs-xl);
@@ -447,20 +448,22 @@
     letter-spacing: normal;
     text-transform: none;
     color: var(--text);
-    margin-top: 2.5rem;
+    margin-top: var(--sp-4);
+    margin-bottom: var(--sp-1);
   }
 
   .post-content h3 {
     font-size: var(--fs-lg);
     font-weight: 500;
-    margin-top: 2rem;
+    margin-top: var(--sp-3);
+    margin-bottom: var(--sp-1);
   }
 
   .post-content a,
   .hero-inner a,
   .section-intro a {
     color: var(--accent);
-    border-bottom: 1px solid var(--accent)
+    border-bottom: 1px solid rgb(214 42 28 / .30);
     transition: border-color var(--ease);
   }
   .post-content a:hover,
@@ -577,9 +580,8 @@
     margin-bottom: var(--sp-2);
   }
 
-  .book-resumen {
+  .book-detail .book-resumen {
     font-size: var(--fs-md);
-    color: var(--muted);
     font-style: italic;
     margin-bottom: var(--sp-3);
     line-height: 1.55;
@@ -872,7 +874,7 @@
 
   .sidebar {
     position: sticky;
-    top: calc(70px + var(--sp-3));
+    top: calc(130px + 2.5rem + var(--sp-3));
     font-size: var(--fs-sm);
   }
 
