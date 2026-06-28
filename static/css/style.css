@@ -316,12 +316,12 @@
   .hero-bg {
     position: absolute;
     inset: 0;
-    left: 45%;
+    left: 40%;
     right: 0;
     background-size: cover;
     background-position: center;
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 35%);
-    mask-image: linear-gradient(to right, transparent 0%, black 35%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 55%);
+    mask-image: linear-gradient(to right, transparent 0%, black 55%);
     opacity: .55;
   }
 
