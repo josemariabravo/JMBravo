@@ -1,4 +1,18 @@
 <div class="page-close">
-  <hr class="page-close-rule">  
-  <a class="page-close-back" href="{{ .CurrentSection.RelPermalink }}">← Volver</a>
+  <hr class="page-close-rule">
+  <nav class="post-nav">
+    <div class="post-nav-prev">
+      {{ with .PrevInSection }}
+      <span class="post-nav-label">← Anterior</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </div>
+    <a class="page-close-back" href="{{ .CurrentSection.RelPermalink }}">Volver</a>
+    <div class="post-nav-next">
+      {{ with .NextInSection }}
+      <span class="post-nav-label">Siguiente →</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </div>
+  </nav>
 </div>
