@@ -16,7 +16,7 @@ Me refiero a los recursos retóricos, formados principalmente por las figuras re
 
 Podríamos definir recurso retórico como cualquier manipulación del lenguaje para conseguir un efecto determinado, como aumentar la expresividad, persuadir sobre algo o enfatizar ideas y significados.
 
-El caldo de cultivo original de los recursos retóricos fue la oratoria,\[note\]Junto a los tropos, las figuras eran parte fundamental del _ornatus_ retórico de la _elocutio,_ la tercera de las partes _artis_ o fases de elaboración del discurso según Cicerón _(Inventio, Dispositio, Elocutio, Memoria_ y _Actio)._ \[/note\] pero estos fueron trasladándose a la literatura y otros medios tan alejados ―en principio― de este origen como el publicitario.
+El caldo de cultivo original de los recursos retóricos fue la oratoria,[^1] pero estos fueron trasladándose a la literatura y otros medios tan alejados ―en principio― de este origen como el publicitario.
 
 ## Notas previas:
 
@@ -40,7 +40,7 @@ La aliteración es una figura clasificada como de repetición fonológica; consi
 
 Aunque se podría considerar más propio de la poesía que de la prosa, este recurso puede emplearse en esta de forma muy efectiva para sugerir sensaciones, reforzar significados y favorecer la expresividad. En algunos casos, la aliteración recrea sonidos y podría asimilarse a una onomatopeya.
 
-La aliteración es muy frecuente en los dichos populares y en los trabalenguas (artificios del lenguaje menos inocentes de lo que uno pudiera pensar, pues se han empleado como _shibboleth_\[note\]_Shibboleth,_ término de origen hebreo, podría asimilarse al concepto de santo y seña; frases que delatan a ciertos grupos, como los hablantes nativos de un idioma de los que lo han aprendido en la edad adulta. Los trabalenguas se han empleado para este fin porque pueden resultar prácticamente imposibles de recitar bien para los hablantes no nativos de un idioma. \[/note\] a lo largo de la historia).
+La aliteración es muy frecuente en los dichos populares y en los trabalenguas (artificios del lenguaje menos inocentes de lo que uno pudiera pensar, pues se han empleado como _shibboleth_[^2] a lo largo de la historia).
 
 Veamos algunos ejemplos:
 
@@ -132,3 +132,6 @@ Bien, aquí finaliza la primera entrega; espero que les haya gustado.
 - SPANG, KURT: _Fundamentos de retórica literaria y publicitaria,_ 3.ª ed., Pamplona: Ediciones Universidad de Navarra, 1991.
 - [http://retorica.librodenotas.com/](http://retorica.librodenotas.com/ "Retórica en Libro de Notas")
 - [http://www.retoricas.com/](http://www.retoricas.com/ "Retóricas")
+
+[^1]: Junto a los tropos, las figuras eran parte fundamental del _ornatus_ retórico de la _elocutio,_ la tercera de las partes _artis_ o fases de elaboración del discurso según Cicerón _(Inventio, Dispositio, Elocutio, Memoria_ y _Actio)._
+[^2]: _Shibboleth,_ término de origen hebreo, podría asimilarse al concepto de santo y seña; frases que delatan a ciertos grupos, como los hablantes nativos de un idioma de los que lo han aprendido en la edad adulta. Los trabalenguas se han empleado para este fin porque pueden resultar prácticamente imposibles de recitar bien para los hablantes no nativos de un idioma.

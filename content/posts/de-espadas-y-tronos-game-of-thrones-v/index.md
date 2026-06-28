@@ -14,7 +14,7 @@ _(Nota previa: se omiten capítulos en los que no hay escenas de combate o nada 
 
 En esta escena aparece un tropo habitual en las escenas de combate, popularizado por el cine de artes marciales oriental, en especial el llamado género _wuxia_: las esquivas. Me refiero a cuando el protagonista elude con suma facilidad los ataques de su adversario (o adversarios) mediante contorsiones y quiebros varios.
 
-\[caption id="attachment\_3901" align="aligncenter" width="624"\][![¡Huy!](Game-of-Thrones-s01e06_robb1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/08/Game-of-Thrones-s01e06_robb1.jpg) ¡Huy!\[/caption\]
+![¡Huy!](Game-of-Thrones-s01e06_robb1.jpg)
 
 Esto, que queda muy molón en pantalla, es bastante absurdo, sobre todo si median armas blancas. Fíjense, si no les importa, en cómo Robb evita hasta en dos ocasiones los golpes de hacha del primer salvaje. Dado que ya había desenvainado su espada, lo lógico e instintivo es que hubiera adelantado su arma para desviar el ataque (ya puestos, de forma ofensiva, si tiene un mínimo entrenamiento). Esquivar cuchilladas y estocadas es engañosamente fácil en el cine; en la realidad, ay, la cosa difiere bastante. Dejemos, no obstante, este asunto por el momento; lo retomaremos más adelante.
 
@@ -28,7 +28,7 @@ Esto, por muy bonito que suene, es una falacia, como ya hablamos en artículos a
 
 En cuanto al combate en sí, no hay mucho que comentar realmente. Tenemos a Bronn a la defensiva, con quites apurados y extraños con su espada, y a ser Vardis acometiendo con cuchilladas sin ton ni son entre gruñidos. Ya se sabe, el mito de la falta de destreza y técnica en los combates de caballeros medievales, la "escuela de la fuerza bruta", como he podido leer en algún que otro libro. Añadamos el mito de las espadas irrompibles (a ser Vardis le quedaron pocos elementos del atrezo que golpear con su espada) y el ya mencionado de las esquivas para redondear una escena muy mejorable, siendo francos.
 
-\[caption id="attachment\_3902" align="aligncenter" width="624"\][![¡Suficiente, ser Vardis! ¡No golpee más paredes!](Game-of-Thrones-s01e06_ser_vardis2.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/08/Game-of-Thrones-s01e06_ser_vardis2.jpg) ¡Suficiente, ser Vardis! ¡No golpee más paredes!\[/caption\]
+![¡Suficiente, ser Vardis! ¡No golpee más paredes!](Game-of-Thrones-s01e06_ser_vardis2.jpg)
 
 Capítulo 8: The Pointy End
 
@@ -36,7 +36,7 @@ Capítulo 8: The Pointy End
 
 Atención al minuto 2:05, un ejemplo de cómo hacer las cosas difíciles (e inverosímiles): el soldado lannister derriba al banderizo y, una vez en el suelo, lo remata cortándole al sesgo con su espada en la escotadura de su coleto, cosa bien difícil, pues el cuero es mucho más resistente a los cortes de lo que cabría pensar; y además, ¿no era mucho más fácil degollarlo por la espalda? Vamos, digo yo.
 
-\[caption id="attachment\_3903" align="aligncenter" width="624"\][![Sean creativos al rematar: lo fácil aburre](Game-of-Thrones-s01e08_remate1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/08/Game-of-Thrones-s01e08_remate1.jpg) Sean creativos al rematar: lo fácil aburre\[/caption\]
+![Sean creativos al rematar: lo fácil aburre](Game-of-Thrones-s01e08_remate1.jpg)
 
 #### Escena n.º 2: Hoy sí, Syrio
 
@@ -54,7 +54,7 @@ En primer lugar, por muy bueno que sea alguien luchando, hasta un novato puede c
 
 En segundo lugar, para defenderse de un solo oponente necesitamos cerrar sus líneas de ataque. En el caso de que nos ataquen dos o más oponentes a la vez, eso es directamente imposible; salvo, claro está, que tengan la delicadeza de atacar por turnos, como podemos ver en algunas películas. Pero yo no apostaría mi vida a ello…
 
-\[caption id="attachment\_3904" align="aligncenter" width="624"\][![Organización, señores: vayan por turnos](Game-of-Thrones-s01e08_syrio1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/08/Game-of-Thrones-s01e08_syrio1.jpg) Organización, señores: vayan por turnos\[/caption\]
+![Organización, señores: vayan por turnos](Game-of-Thrones-s01e08_syrio1.jpg)
 
 Así que para que un solo oponente pueda sobrevivir a un combate frente a muchos, ha de haber una buena razón. Una buena armadura, por ejemplo. O alguna condición del combate que les impida atacar por varios flancos a la vez, como el ya clásico cuello de botella. A Leónidas no le fue mal del todo… al principio.
 
@@ -80,7 +80,7 @@ Así que desengáñense. Si quieren defenderse de alguien con un arma cuerpo a c
 
 Eso sí, la escena, aunque una sobrada, tiene su aquel, lo admito. O será que el gore me tira un poco…
 
-\[caption id="attachment\_3905" align="aligncenter" width="624"\][![¿Alguna objeción? ¿Ninguna? Ya decía yo...](Game-of-Thrones-s01e08_momoa1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/08/Game-of-Thrones-s01e08_momoa1.jpg) ¿Alguna objeción? ¿Ninguna? Ya decía yo...\[/caption\]
+![¿Alguna objeción? ¿Ninguna? Ya decía yo...](Game-of-Thrones-s01e08_momoa1.jpg)
 
 ### Capítulo 9: Baelor
 

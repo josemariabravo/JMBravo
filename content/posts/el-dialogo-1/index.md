@@ -10,7 +10,7 @@ coverImage: "pexels-photo-1309899.jpeg"
 
 El diálogo es una de las herramientas más importantes que un escritor tiene a su alcance.
 
-Es difícil no estar de acuerdo con esta afirmación. Considerado una de las estructuras textuales[^1].)) fundamentales en lingüística (junto a la exposición, la argumentación, la descripción y la narración), el diálogo nos permite ceder el testigo de una historia a sus verdaderos protagonistas: los personajes.
+Es difícil no estar de acuerdo con esta afirmación. Considerado una de las estructuras textuales[^1]. fundamentales en lingüística (junto a la exposición, la argumentación, la descripción y la narración), el diálogo nos permite ceder el testigo de una historia a sus verdaderos protagonistas: los personajes.
 
 Pero vayamos por partes. ¿Qué es el diálogo?
 

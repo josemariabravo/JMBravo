@@ -16,9 +16,9 @@ No se dispone de mucha información al respecto. Las fuentes históricas coincid
 
 Conocido ya por los romanos, el poste (_pell_, en inglés) era uno de los útiles de entrenamiento más viejos y fiables. Era probablemente el primer ejercicio empleado para adiestrar a un combatiente. Su objetivo era desarrollar fuerza y precisión en los golpes.
 
-\[caption id="attachment\_3889" align="aligncenter" width="532"\][![Ilustración en un códice del s. XIV que muestra el ejercicio de «tirar al poste»](pell_01.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/pell_01.jpg) Ilustración en un códice del s. XIV que muestra el ejercicio de «tirar al poste»\[/caption\]
+![Ilustración en un códice del s. XIV que muestra el ejercicio de «tirar al poste»](pell_01.jpg)
 
-\[caption id="attachment\_3890" align="alignleft" width="101"\][![Espada de madera del artesano José Acedo](waster.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/waster.jpg) Espada de madera del artesano José Acedo\[/caption\]
+![Espada de madera del artesano José Acedo](waster.jpg)
 
 Las armas cuerpo a cuerpo no se limitaban solo a la espada; la maza y el hacha eran armas usuales, incluso más efectivas según qué circunstancias; y en cualquier caso, aprender a manejar bien el escudo era primordial. En cuanto a las espadas de práctica, durante el entrenamiento era frecuente el uso de espadas de madera, o _wasters_, lastradas para que fueran más pesadas que las de acero. Las armas negras[^2] no fueron usuales, por su elevado coste, hasta finales de la edad media. En cualquier caso, si bien no se dispone de mucha información sobre los combates de práctica, podemos asumir que se harían entre combatientes ya hechos al uso de la espada mediante el entrenamiento con el poste.
 
@@ -54,7 +54,7 @@ Bien, los combates de Jon y sus compañeros no son muy distintos. Veamos un sen
 
 Sin embargo, en mitad de la acción orienta su línea de ataque hacia la espada de Jon, como se puede apreciar en estas imágenes:
 
-\[gallery type="slideshow" size="featured\_large" ids="3883,3884,3885"\]
+*(Galería de imágenes no disponible en esta versión del artículo.)*
 
 (Si os fijáis, que Jon evite la cuchillada de Grenn es superfluo: nunca le hubiera dado).
 

@@ -29,15 +29,15 @@ Esta es la primera aparición de _Aguja_, la espada de Arya. Es una espada muy p
 
 A tenor de la descripción —y del propio sobrenombre de la espada—, _Aguja_ es una espada orientada al uso de la punta, si bien está afilada y podría usarse para asestar cuchilladas. En la serie, _Aguja_ aparece como una espada de hoja corta, aguzada y estrecha, con una guarnición de arriaces cortos y un anillo para la protección de los dedos.
 
-\[caption id="attachment\_3909" align="aligncenter" width="624"\][![Aguja, en manos de Mikken, el armero de Invernalia](GameofThroness01e02.avi_0007582991.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/GameofThroness01e02.avi_0007582991.jpg) Aguja, en manos de Mikken, el armero de Invernalia\[/caption\]
+![Aguja, en manos de Mikken, el armero de Invernalia](GameofThroness01e02.avi_0007582991.jpg)
 
 Clasificar _Aguja_ no es tan fácil como parece. Es sin duda una espada civil, una espada ropera, en su acepción menos estricta[^1]; la hoja es demasiado estrecha y, como ya he dicho antes, la guarnición demasiado escasa, pues la esgrima de duelo requiere mayor protección de la mano[^2].
 
-\[caption id="attachment\_3910" align="aligncenter" width="640"\][![Varias roperas con diferentes guarniciones, más una espada de farol escocesa, una esclavona italiana y un par de dagas de vela.](roperas1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/roperas1.jpg) Varias roperas con diferentes guarniciones, más una espada de farol escocesa, una esclavona italiana y un par de dagas de vela.\[/caption\]
+![Varias roperas con diferentes guarniciones, más una espada de farol escocesa, una esclavona italiana y un par de dagas de vela.](roperas1.jpg)
 
 Se podría aventurar, por la hoja, que _Aguja_ viene a ser una versión temprana de un espadín, pero la guarnición, de nuevo, no encaja, y, además, el espadín es un arma mucho posterior, del s. XVIII.
 
-\[caption id="attachment\_3911" align="aligncenter" width="642"\][![Espadín, arma que sustituyó a la ropera a partir del s. XVIII.](espadin1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/espadin1.jpg) Espadín, arma que sustituyó a la ropera a partir del s. XVIII.\[/caption\]
+![Espadín, arma que sustituyó a la ropera a partir del s. XVIII.](espadin1.jpg)
 
 Quizá podríamos asumir que _Aguja_ es única en su especie; mas eso no cuadra con las palabras de Jon:
 
@@ -53,7 +53,7 @@ La diferencia está en esta frase: _The bravos use swords like this in Pentos an
 
 El gentilicio de los de Braavos es muy significativo, también: bravos, en clara referencia a los bravi[^3], que encarnan la figura del espadachín a sueldo fanfarrón y pendenciero[^4], figura de poderoso atractivo donde las haya. Por citar un referente moderno y muy ilustrativo, pensemos en el espadachín Gualterio Malatesta, personaje de la serie de novelas del Capitán Alatriste, escritas por Arturo Pérez–Reverte.
 
-\[caption id="attachment\_3912" align="aligncenter" width="602"\][![Ilustración de la novela Los novios; atención a la espada ropera que ciñe el bravo.](spossi1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/spossi1.jpg) Ilustración de la novela _Los novios_; atención a la espada ropera que ciñe el bravo.\[/caption\]
+![Ilustración de la novela _Los novios_; atención a la espada ropera que ciñe el bravo.](spossi1.jpg)
 
 (Esta imagen concuerda sin duda con la esgrima empleada por los bravos, la _danza del agua_, de la cual hablaremos en próximas entregas.)
 

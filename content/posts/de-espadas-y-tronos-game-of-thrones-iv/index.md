@@ -18,13 +18,13 @@ En cuanto al peto, las semejanzas son aún más evidentes con el _dou_, la piez
 
 Por si les quedan dudas, les dejo estas imágenes para que comparen:
 
-\[caption id="attachment\_3888" align="aligncenter" width="1024"\][![Izquierda: fotograma de la serie; centro: kabuto japonés; derecha: dou (armadura pectoral)](GoT_kabuto_dou.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/GoT_kabuto_dou.jpg) Izquierda: fotograma de la serie; centro: kabuto japonés; derecha: dou (armadura pectoral)\[/caption\]
+![Izquierda: fotograma de la serie; centro: kabuto japonés; derecha: dou (armadura pectoral)](GoT_kabuto_dou.jpg)
 
 Escena n.º 2: Entrenamiento de la Guardia de la Noche
 
 Hacer más sangre respecto a estas escenas, después de lo anotado en la [anterior entrega](/de-espadas-y-tronos-game-of-thrones-ii/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (ii)") (escena n.º 3), sería redundante, así que lo obviaré, salvo que haya algo nuevo que comentar. Pero si tienen el gusto de volver a ver esta parte, háganme el favor de echarle un ojo a los extras en segundo plano: todo un ejemplo del ubicuo y aburridor «acuchillarse las espadas» de Hollywood, sin aderezos que lo disimulen, si bien hay que admitir que los muchachos le ponen ganas a la cosa: cuchillada va, cling, cuchillada viene, clang…
 
-\[caption id="attachment\_3875" align="aligncenter" width="624"\][![Game-of-Thrones-s01e04.guardia](Game-of-Thrones-s01e04.guardia.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/Game-of-Thrones-s01e04.guardia.jpg) ¡Seguid así, chicos! ¡Os quedan muchos filos por mellar!\[/caption\]
+![¡Seguid así, chicos! ¡Os quedan muchos filos por mellar!](Game-of-Thrones-s01e04.guardia.jpg)
 
 ### Capítulo 5: The Wolf and the Lion
 

@@ -128,6 +128,6 @@ _(Sigue en la [segunda parte](https://jmbravo.com/de-espadas-y-tronos-game-of-th
 
 [^1]: Y, de paso, del éxito de mis dos artículos anteriores, _De espadas y falacias_, [primera](https://jmbravo.com/espadas-y-falacias-i/ "De espadas y falacias (i)") y [segunda](https://jmbravo.com/espadas-y-falacias-ii/ "De espadas y falacias (ii)") parte, que han superado entre ambos las 20.000 visitas únicas.
 [^2]: La palma se la lleva el verdugo de la condesa de Salisbury, Margaret Pole, que necesitó diez golpes para decapitar a la pobre mujer en 1541
-[^3]: Para los morbosos que sepan inglés, [http://www.capitalpunishmentuk.org/behead.html](http://www.capitalpunishmentuk.org/behead.html
+[^3]: Para los morbosos que sepan inglés, [http://www.capitalpunishmentuk.org/behead.html](http://www.capitalpunishmentuk.org/behead.html)
 [^4]: Una altura bastante aceptable para Robb, que tiene unos catorce años al comienzo de la historia
 [^5]: El ancho promedio de la mano de un hombre es 10,1 cm, unas cuatro pulgadas

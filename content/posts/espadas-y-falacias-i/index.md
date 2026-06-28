@@ -37,17 +37,7 @@ Comenzamos:
 
 ### **Mito n.º 1: El peso de las espadas**
 
-<figure>
-
-[![Yelmo vikingo. Sin cuernos](vikingo1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/vikingo1.jpg)
-
-<figcaption>
-
-Yelmo vikingo. Sin cuernos
-
-</figcaption>
-
-</figure>
+![Yelmo vikingo. Sin cuernos](vikingo1.jpg)
 
 Todo el mundo sabe que los vikingos tenían cuernos en los cascos y que las espadas medievales pesaban un huevo y la yema del otro. Diez kilos. O más. Eso es así. De hecho, aún nos acordamos de ese viaje a Toledo, en el que cogimos una espada de esas que vendían en los tenderetes del casco antiguo. O si no hemos estado en Toledo, un amigo nos prestó la espada que tiene colgada en la pared de su salón. Y joder, cómo pesaba. Así de fuertes debían de ser los gachós; y es normal que las luchas entre guerreros fueran tan lentas y toscas. Con esas armas, normal. ¿Verdad?
 
@@ -57,17 +47,7 @@ Las armas medievales no pesaban tanto como cree la mayoría de la gente, sino qu
 
 Una espada medieval de una mano rara vez pesaba más de 1500 gramos, y lo normal es que tuviera un peso entre 900 y 1200 gramos. Poco más de un kilo. Una _longsword_, o espada de dos manos, podía pesar entre 1200 y 1800 gramos, según longitudes. Y tales armas no podían pesar más por una cuestión de simple geometría. Para que una espada pese 4 o 5 kilos ha de ser un tocho de hierro, tal cual.
 
-<figure>
-
-[![Réplica de espada de dos manos del s. XV, por Albion Armorers: 1500 gramos de nada.](talhoffer1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/talhoffer1.jpg)
-
-<figcaption>
-
-Réplica de espada de dos manos del s. XV, por Albion Armorers: 1500 gramos de nada
-
-</figcaption>
-
-</figure>
+![Réplica de espada de dos manos del s. XV, por Albion Armorers: 1500 gramos de nada](talhoffer1.jpg)
 
 Ojo: las llamadas «espadas de parada» son harina de otro costal. Con «de parada» me refiero a armas, armaduras y pertrechos empleados para exhibiciones: desfiles y otros alardes militares. En esos casos, los pesos subían considerablemente, llegando a los tres y cuatro kilos… pero nadie llevaba esas espadas a la guerra. Lo cual enlaza directamente con el siguiente mito…
 
@@ -75,49 +55,19 @@ Ojo: las llamadas «espadas de parada» son harina de otro costal. Con «de para
 
 Las armas «de parada», como comenté más arriba, no eran armas para el combate, sino de exhibición. Tenían nielados, incrustaciones de oro, plata y gemas preciosas y toda clase de adornos. En muchos casos se ofrecían como regalos a nobles y reyes, y naturalmente, no se usaban para combatir. Por otra parte, ¿creéis que un guerrero, cuyas herramientas eran sus armas (defensivas y ofensivas), tendría armas ornamentadas con hilos de oro y demás filigranas? Rotundamente no. El equivalente sería ver a un albañil con un cincel engastado de piedras Swarovski: un sinsentido.
 
-<figure>
-
-[![wallhanger](wallhanger.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/wallhanger.jpg)
-
-<figcaption>
-
-Hace mucho daño… al mirarlo
-
-</figcaption>
-
-</figure>
+![Hace mucho daño… al mirarlo](wallhanger.jpg)
 
 Sin embargo, herederas directas de estas armas de parada, las espadas catalogadas como «de fantasía» parecen ser la norma y no la excepción. Buscad, si no, en Google Imágenes la palabra _sword,_ o _espada,_ y echad un ojo a los resultados. En los ojos de sus potenciales compradores deben de parecer bellas; a los ojos de alguien mínimamente versado, son el _súmmun_ del horror. Estas armas son pesadas, están mal diseñadas, peor construidas y resultan imposibles de todo punto de manejar. Irónicamente, se hacen para perpetuar muchos de los mitos asociados a las espadas.
 
 Por cierto, los aficionados gringos al coleccionismo de armas llaman a estas espadas _wall hanger_, que podríamos traducir como «espadas perchero». Estas espadas, por otra parte, suelen tener espigas cortas o inexistentes (la espiga es la parte de la hoja donde se asegura la guarnición), con lo que el riesgo de que se rompan al recibir un golpe es muy alto. Si tenéis una de estas espadas en casa, ni se os ocurra poneros a blandirla a lo loco: una hoja de espada volando por los aires puede herir de gravedad al que pille.
 
-<figure>
-
-[![Sí, es la espada de la película de Conan (la de 1982), de FilmSwords.com: un buen ejemplo de una espada mal diseñada: pesada (más de 3 kg), de hoja corta para ser blandida a dos manos (no llega a los 73 cm) y con una empuñadura muy larga para manejarla con una; los arriaces son cortos y la bigotera (la parte sin filo con la que comienza la hoja) carece de sentido](atlantean1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/atlantean1.jpg)
-
-<figcaption>
-
-Sí, es la espada de la película de Conan (la de 1982), de FilmSwords.com: un buen ejemplo de una espada mal diseñada: pesada (más de 3 kg), de hoja corta para ser blandida a dos manos (no llega a los 73 cm) y con una empuñadura muy larga para manejarla con una; los arriaces son cortos y la bigotera (la parte sin filo con la que comienza la hoja) carece de sentido
-
-</figcaption>
-
-</figure>
+![Sí, es la espada de la película de Conan (la de 1982), de FilmSwords.com: un buen ejemplo de una espada mal diseñada: pesada (más de 3 kg), de hoja corta para ser blandida a dos manos (no llega a los 73 cm) y con una empuñadura muy larga para manejarla con una; los arriaces son cortos y la bigotera (la parte sin filo con la que comienza la hoja) carece de sentido](atlantean1.jpg)
 
 Cómics, videojuegos y cubiertas de libros de fantasía aportan su grano de arena a extender esta visión de las espadas como normal. Comparad una de estas espadas de fantasía con una réplica de una espada histórica, y rápidamente llegaréis a la conclusión de que las primeras son una deformación absurda de la realidad.
 
 ### **Mito n.º 3: Las armaduras**
 
-<figure>
-
-[![Armadura gótica temprana](arnes1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/arnes1.jpg)
-
-<figcaption>
-
-Armadura gótica temprana
-
-</figcaption>
-
-</figure>
+![Armadura gótica temprana](arnes1.jpg)
 
 En el imaginario popular, el caballero medieval, enfundado en su brillante y pesada armadura, apenas si puede moverse. No puede levantarse tras ser derribado, sin ir más lejos, así que, si cae del caballo, está a merced de sus enemigos.
 
@@ -133,17 +83,7 @@ El siguiente mito asociado a las armaduras menoscaba su efectividad y verdadero 
 
 Lo cual nos lleva a una paradoja: todos tenemos en mente luchas de caballeros embutidos en flamantes armaduras en la que esgrimen espadas; pero estas espadas no pueden hacer mucha mella en ellas, así que, ¿qué sentido tenía usarlas en tales combates?
 
-<figure>
-
-[![Lámina del manual de esgrima aleman del s. XV Gladiatoria, que ilustra el agarre de media espada](gladiatoria1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/gladiatoria1.jpg)
-
-<figcaption>
-
-Lámina del manual de esgrima aleman del s. XV _Gladiatoria_, que ilustra el agarre de media espada
-
-</figcaption>
-
-</figure>
+![Lámina del manual de esgrima aleman del s. XV _Gladiatoria_, que ilustra el agarre de media espada](gladiatoria1.jpg)
 
 Ninguno. Por lo menos tal y como se esgrimían en un duelo a espada. Para luchar contra armaduras, la esgrima con espada usaba técnicas conocidas como «de media espada», en la que la espada se agarra con la mano derecha de la forma habitual, pero la izquierda se sitúa sobre la mitad de la hoja o el principio de su tercio débil.[^3] De esta forma, la espada se convierte en una curiosa combinación de espada y lanza con la que buscar los huecos de la armadura del adversario para asestarles el mejor ataque posible: una estocada potente con un arma de punta recia. La esgrima de media espada permitía, además, acciones de combate cerrado de las que salen luxaciones, derribos y presas, con la espada como palanca y el peso de tu cuerpo (y el de la armadura) como contrapeso.
 
@@ -169,17 +109,7 @@ Las espadas se llevaban a la cintura. En un tahalí que colgaba del hombro, o al
 
 ¿Por qué no? Porque desenvainar un arma (de cierta longitud) sujeta a la espalda es lento y difícil. Haced la prueba si no me creéis (yo la hice en su día).
 
-<figure>
-
-[![Lansquenete alemán con montante (Zweihänder) a la espalda](doppelsoldner1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/doppelsoldner1.jpg)
-
-<figcaption>
-
-Lansquenete alemán con montante _(Zweihänder)_ a la espalda
-
-</figcaption>
-
-</figure>
+![Lansquenete alemán con montante _(Zweihänder)_ a la espalda](doppelsoldner1.jpg)
 
 ¿Y las armas grandes? ¿Como, por ejemplo, los _claymore_ escoceses? ¿O los _zweihänder_ alemanes? Pues al hombro, sin vaina, por lo incómodo de portar una espada tan larga envainada. He leído menciones sobre soportes con ganchos que usaban los escoceses para llevar sus _claymore_ a la espalda, y es probable que se usaran, pero en cualquier caso es la excepción que confirma la regla y, además, los escoceses llevaban sus espadas de mano al cinto, como Dios manda.
 

@@ -31,17 +31,7 @@ La tendencia fue hacia el uso de la punta para enfrentarse a los arneses, lo que
 
 Por último, los montantes[^4] eran espadas de dos manos cuyo mejores exponentes aparecieron en el s. XVI. Dotadas de grandes arriaces y amplias empuñaduras, estas espadas podían tener  hojas de longitudes entre 120 y 150 cm; muchas de ellas disponían además de una segunda cruz en su tercio fuerte, o falsaguarda; el objeto de este aditamento era proporcionar defensa a la mano para cuando esta asía la espada por la hoja en determinadas acciones.
 
-<figure>
-
-[![Zweihänders; la primera y tercera, comenzando por arriba, tienen falsaguarda.](Zweihaender.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/Zweihaender.jpg)
-
-<figcaption>
-
-_Zweihänders_; la primera y tercera, comenzando por arriba, tienen falsaguarda.
-
-</figcaption>
-
-</figure>
+![_Zweihänders_; la primera y tercera, comenzando por arriba, tienen falsaguarda.](Zweihaender.jpg)
 
 Estas espadas se usaban principalmente para acuchillar, en movimientos amplios, muy dinámicos y poderosos debido a la inercia que acumulaban. He visto demostraciones de su uso en las que un solo esgrimista pudo rechazar a varios atacantes mediante tales molinetes: y es que acercarse a alguien que sabía manejar este arma debía de amedrentar bastante. De entre los diferentes tipos de montantes sobresalen los conocidos  _Zweihänder_ (dos manos) alemanes, usados por los _Doppelsöldner_ alemanes, llamados así por cobrar doble soldada… y por tener los huevos cuadrados, hablando mal y pronto: su cometido en combate era acometer las formaciones de piqueros a tajo limpio para abrir hueco en ellas.
 
@@ -67,17 +57,7 @@ Otro clásico que no muere. En los duelos a espada  entre el protagonista y el 
 
 En esgrima, a las acciones de combate en corta distancia se las conoce como de «juego corto». Algunas de ellas son bastante instintivas y muy eficaces: van desde trabar el arma del rival con tu propio cuerpo, hacer presas, golpear el rostro de tu oponente con los gavilanes o el pomo de tu espada, junto a muchas otras acciones con la mano izquierda.
 
-<figure>
-
-[![Lámina del manual de esgrima alemán del s.XVI de Paulus Hector Mair, que muestra una acción de combate cerrado o juego corto.](mair.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/mair.jpg)
-
-<figcaption>
-
-Lámina del manual de esgrima alemán del s.XVI de Paulus Hector Mair, que muestra una acción de combate cerrado o juego corto.
-
-</figcaption>
-
-</figure>
+![Lámina del manual de esgrima alemán del s.XVI de Paulus Hector Mair, que muestra una acción de combate cerrado o juego corto.](mair.jpg)
 
 Todas ellas tienen algo en común: son fulgurantemente rápidas. Lo de «forcejear» es una estupidez soberana. De hecho, lo mejor que nos puede pasar es que nuestro oponente ponga un exceso de fuerza en el juego de su hoja: es algo que puede, muy fácilmente, usarse en su contra.
 
@@ -93,17 +73,7 @@ Ahora bien, no lo veo tan disculpable en muchas películas épicas supuestamente
 
 ### Mito n.º 9: Las espadas de hoja irrompible
 
-<figure>
-
-[![Cartel de la pelicula The last samurai; japofilia en su máxima expresión.](the_last_samurai.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/the_last_samurai.jpg)
-
-<figcaption>
-
-Cartel de la pelicula _The Last Samurai_; japofilia en su máxima expresión.
-
-</figcaption>
-
-</figure>
+![Cartel de la pelicula _The Last Samurai_; japofilia en su máxima expresión.](the_last_samurai.jpg)
 
 No es raro ver en películas una espada cortando en trozos casi cualquier cosa. Chocando con paredes. Atravesando armaduras como si nada. Incluso cortando otras espadas.
 
@@ -121,17 +91,7 @@ Comprender, ligeramente, cómo se desarrolla un combate no es tan difícil, pero
 
 En primer lugar, la mayoría de gente piensa en que un combate se desarrolla a turnos alternos: yo tiro un tajo o una estocada, mi adversario reacciona y me ataca; vuelta a empezar. Esto no es así. En primer lugar, nadie tira una cuchillada o estocada a lo loco. Al menos, nadie que quiera vivir mucho tiempo.
 
-<figure>
-
-[![Lámina del manual alemán de esgrima del s. XVI de Joachim Meyer.](meyer.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/meyer.jpg)
-
-<figcaption>
-
-Lámina del manual alemán de esgrima del s. XVI de Joachim Meyer.
-
-</figcaption>
-
-</figure>
+![Lámina del manual alemán de esgrima del s. XVI de Joachim Meyer.](meyer.jpg)
 
 Fuera de distancia, los oponentes no hacen mucho más que observar al adversario. Una vez que los adversarios llegan a estar metidos en harina, esto es, a una distancia en la que es posible disponer un ataque efectivo,[^7] las cuchilladas y estocadas se tiran en función del contrario, incluso cuando nuestra acción va primero. La esgrima de duelo es, usando una analogía científica, un [sistema abierto](http://es.wikipedia.org/wiki/Sistema_abierto), en contraposición al sistema cerrado que muchos tienen en su magín. No lanzamos tajos a locas, con la esperanza de herir al otro, sino que esperamos una oportunidad, o bien la creamos. Pero siempre basados en la información que tenemos del oponente. Así que la concepción de dos guerreros intercambiando golpes a diestro y siniestro, por turnos, es irreal… y muy tediosa, por otro lado.
 

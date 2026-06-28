@@ -290,5 +290,5 @@ Esto es todo. A los que hayan llegado al final de este largo artículo, gracias 
 © de la imagen de portada: [exeteranna](http://www.flickr.com/photos/exeteranna/).
 
 [^1]: De todos modos, si alguna vez nos planteamos subir nuestra wiki a un servidor en red, convendrá antes modificar la política de ACL, algo que podremos hacer desde la página de administración
-[^2]: Manualmente o mediante programas de respaldo automático, como el [Cobian Backup](http://www.educ.umu.se/~cobian/cobianbackup.htm
+[^2]: Manualmente o mediante programas de respaldo automático, como el [Cobian Backup](http://www.educ.umu.se/~cobian/cobianbackup.htm)
 [^3]: Dropbox es un servicio de respaldo de archivos “en la nube” que permite archivar y sincronizar tus datos para tenerlos disponibles desde cualquier lugar en el que tengas conexión a Internet. Muy recomendable.
