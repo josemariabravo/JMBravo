@@ -9,6 +9,7 @@ Tras atender a sus clientes, Lucio Flaminio Rufo paseó dubitativo por el atrio 
 
 Con un vehemente suspiro, ahuyentó las últimas dudas y se recluyó en el *tablinum*. Antes, requirió al mayordomo papiro, cálamo y tinta. Ya sentado frente a ellos, quizá en busca de inspiración, Lucio cerró los ojos. Desde el peristilo le llegaba el reír de la fuente, el suave gorjeo de un mirlo, el soplo bonancible de la brisa primaveral. Respiró hondo; después de encomendarse a las musas, se aplicó a la tarea —largamente demorada— de escribir aquella carta:
 
+
 > No nos conocemos, Marco Decio, y ya es razón de que lo hagamos. Mi mayordomo te entregará en mano esta carta que finalmente me he decidido a escribir. Me tiembla el pulso, me desmayan las fuerzas, pero mi voluntad es firme. Atiende, Marco, hijo —déjame que te llame así, pues como tal te veo—, atiende bien a lo que he de contarte.
 > 
 > Yo, Lucio Flaminio Rufo, patricio de la *gens* Quincia, confieso que asesiné a tu padre, Quinto Tulio Nasica. Esta confesión la debo solo a ti y a lo sumo a los dioses; y por ello te suplico que, nada más leas esta carta, la des a las llamas. Antes de que la vejez deslíe esta amarga membranza en los barros del olvido, esta es la verdad sobre la muerte de tu padre:
@@ -42,10 +43,11 @@ Con un vehemente suspiro, ahuyentó las últimas dudas y se recluyó en el *tabl
 > Con un repeluzno, en un fucilazo vi venir el acero asesino buscando mi carne. La herida del pugio fue larga y dolorosa —aún conservo la cicatriz que dejó— aunque superficial al trabarse este en los pliegues de mi toga. Enardecido por el dolor, me volví para enfrentarme a tu padre, Quinto Tulio Nasica, con el rostro largo, la mirada huida, los rasgos transportados por la locura. Luchamos sin malgastar palabras en el silencio cómplice de los espejos; conseguí arrebatarle el pugio y lo hundí en su carne una, dos, tres, cien veces. Solté el arma. Empapado de sangre, abrazado a su cadáver, lloré amargamente su muerte. Así murió Quinto Tulio Nasica; yo, Lucio Flaminio Rufo, maté a mi amigo en su *domus*, con aquellos malditos espejos como único testigo.
 > 
 > Tambaleante, me puse en pie. Un rayo de furia me enajenó el juicio: recogí el pugio y con su pomo rompí, uno a uno, todos los espejos. Como en un trance, contemplé la miríada de yoes en el suelo, la sangre como brea en la penumbra del *tablinum*; la tradición me condenaba a varias vidas de infortunio por ello, pero lo previne reduciendo a polvo bajo mis sandalias hasta la última esquirla. Al filo del alba, completada la tarea, sudoroso, lleno de cortes y arañazos, derribé las lámparas y hui de allí con las llamas abrasándome la espalda. No había criados; habían salido para disfrutar de las Lupercales. Nadie supo del crimen, nadie se atrevió siquiera a sospecharlo; nadie… salvo quizá tu madre, Marco, pues era una mujer inteligente y siempre receló de mí.
- 
- 
+
+
 Lucio detuvo el rasgar del cálamo e hizo una pausa, sobrepujado por el pesar. Adelante, acaba, se dijo; acaba de una vez.
- 
+
+
 > Marco, debes disculpar a este pobre viejo. La vergüenza y el dolor me han hecho vacilar. Te he contado dos mentiras.
 > 
 > La primera es más bien una verdad a medias: ciertamente, no nos conocemos en persona, pero yo he sabido de ti toda tu vida. Desde tu más tierna infancia, roído por la culpa, indagué los rumores que afirmaban que tu padre tenía amores con una plebeya, cuyo fruto era un hijo espurio. No me atreví a conocer a Claudia, tu madre; tampoco jamás me viste —me cuidé muy bien de ello—, pero te he contemplado crecer. Mediante terceros, procuré favorecerte en la medida de mis alcances; y mírate ahora, hecho todo un hombre. Créeme, Marco: he llegado a quererte como el hijo que no he tenido.
@@ -57,5 +59,6 @@ Lucio detuvo el rasgar del cálamo e hizo una pausa, sobrepujado por el pesar. A
 > Así que ven, Marco, a mi *domus* en el Quirinal; cualquiera en Roma sabrá decirte cómo llegar. Hallarás las puertas abiertas, la servidumbre lejos, un testamento sellado por siete testigos donde te proclamo heredero de todos mis bienes.
 > 
 > Ven, Marco, y cumple con tu destino.
+
 
 Una vez escrita la carta, Lucio se frotó los dedos, doloridos por el cálamo y manchados de tinta cual violento presagio. Esparció arena en el pergamino para secar las líneas, que releyó hasta quedar satisfecho. Con una cargazón menos en el alma, llamó al mayordomo y le entregó la carta y sus últimas instrucciones. Después, se dispuso a esperar.
