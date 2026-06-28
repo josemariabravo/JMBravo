@@ -7,8 +7,8 @@ title = "jmbravo.com"
   description = "José María Bravo: fantasía, terror y otras hierbas literarias."
 
 [[menu.main]]
-  name = "novedades"
-  url = "/novedades/"
+  name = "proyectos"
+  url = "/proyectos/"
   weight = 1
 
 [[menu.main]]

@@ -30,8 +30,8 @@
 
   :root {
     /* colores */
-    --paper:        #eef0f2;
-    --surface:      #f3f5f7;
+    --paper:        #f4f5f6;
+    --surface:      #f9f9fa;
     --text:         #2b2a28;
     --muted:        #6c6965;
     --accent:       #730000;
@@ -305,7 +305,7 @@
   /* ·· home: hero ·· */
 
   .hero {
-    padding-block: var(--sp-5);
+    padding-block: var(--sp-3);
     border-bottom: 1px solid var(--line);
   }
 
@@ -314,14 +314,14 @@
   }
 
   .hero-inner p {
-    font-size: var(--fs-lg);
+    font-size: var(--fs-md);
     color: var(--muted);
-    margin-top: var(--sp-2);
+    margin-top: var(--sp-1);
   }
 
   .hero-inner blockquote {
-    font-size: var(--fs-lg);
-    margin-top: var(--sp-3);
+    font-size: var(--fs-md);
+    margin-top: var(--sp-2);
   }
 
   /* ·· home: libros ·· */
@@ -331,7 +331,11 @@
     border-bottom: 1px solid var(--line);
   }
 
-  .home-books h2 { margin-bottom: var(--sp-3); }
+  .home-books h2 {
+    margin-bottom: var(--sp-3);
+    font-size: var(--fs-md);
+    letter-spacing: .18em;
+  }
 
   .book-row {
     display: flex;
@@ -361,16 +365,34 @@
     color: var(--muted);
   }
 
-  /* ·· home: columnas (novedades + artículos) ·· */
+  /* ·· home: lo último en ·· */
+
+  .home-latest {
+    padding-block: var(--sp-4);
+    border-top: 1px solid var(--line);
+  }
+
+  .home-latest > h2 {
+    margin-bottom: var(--sp-3);
+    font-size: var(--fs-md);
+    letter-spacing: .18em;
+  }
 
   .home-columns {
-    padding-block: var(--sp-4);
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: var(--sp-4);
   }
 
-  .home-columns h2 { margin-bottom: var(--sp-2); }
+  .home-columns h3 {
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    font-weight: 600;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: var(--sp-2);
+  }
 
   @media (max-width: 640px) {
     .home-columns { grid-template-columns: 1fr; gap: var(--sp-3) 0; }
@@ -417,12 +439,16 @@
     margin-top: 2rem;
   }
 
-  .post-content a {
+  .post-content a,
+  .hero-inner a,
+  .section-intro a {
     color: var(--accent);
     border-bottom: 1px solid rgb(115 0 0 / .25);
     transition: border-color var(--ease);
   }
-  .post-content a:hover { border-color: var(--accent); }
+  .post-content a:hover,
+  .hero-inner a:hover,
+  .section-intro a:hover { border-color: var(--accent); }
 
   .post-content blockquote {
     margin-block: var(--sp-3);
@@ -532,10 +558,10 @@
   /* ·· intro de sección ·· */
 
   .section-intro {
-    font-size: var(--fs-lg);
+    font-size: var(--fs-md);
     color: var(--muted);
     max-width: var(--reading);
-    margin-bottom: var(--sp-4);
+    margin-bottom: var(--sp-3);
     line-height: 1.6;
   }
 
