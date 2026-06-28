@@ -2,7 +2,7 @@
 <div class="container article-layout">
   <article class="post">
     <h1>{{ .Title }}</h1>
-    {{ if or (not .Date.IsZero) .ReadingTime }}
+    {{ if and (not .Params.no_pager) (or (not .Date.IsZero) .ReadingTime) }}
     <p class="post-meta">
       {{ if not .Date.IsZero }}{{ partial "fecha.html" .Date }}{{ end }}
       {{ if and (not .Date.IsZero) .ReadingTime }} | {{ end }}
@@ -26,7 +26,7 @@
       </ul>
     </aside>
     {{ end }}
-    {{ partial "page-close.html" . }}
+    {{ if not .Params.no_pager }}{{ partial "page-close.html" . }}{{ end }}
   </article>
   {{ partial "sidebar.html" . }}
 </div>
