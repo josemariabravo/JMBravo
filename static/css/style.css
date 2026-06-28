@@ -106,7 +106,7 @@
   p { max-width: var(--reading); }
 
   blockquote {
-    margin: 0;
+    margin: 2em 0 1em 0;
     padding-left: 1.25rem;
     border-left: 2px solid var(--accent);
     font-style: italic;
@@ -141,7 +141,6 @@
     top: 0;
     background: rgb(255 255 255 / .94);
     backdrop-filter: blur(8px);
-    border-bottom: 1px solid var(--line);
     z-index: 100;
   }
 
@@ -209,7 +208,7 @@
   .site-search-bar {
     position: sticky;
     top: 130px;
-    border-bottom: 1px solid var(--line);
+    border-bottom: 1px solid var(--accent);
     padding: .5rem 0;
     background: rgb(255 255 255 / .96);
     backdrop-filter: blur(6px);
@@ -291,7 +290,7 @@
   .site-footer {
     padding-block: var(--sp-4);
     background: var(--paper);
-    border-top: 1px solid var(--line);
+    border-top: 1px solid var(--accent);
     font-size: var(--fs-xs);
     color: var(--muted);
   }
@@ -311,19 +310,19 @@
     position: relative;
     overflow: hidden;
     padding-block: var(--sp-4);
-    border-bottom: 2px solid var(--accent);
+    border-bottom: 1px solid var(--accent);
   }
 
   .hero-bg {
     position: absolute;
     inset: 0;
-    left: 38%;
-    right: max(1.5rem, calc((100% - var(--container)) / 2 + 1.5rem));
+    left: 40%;
+    right: max(1.5rem, calc((92% - var(--container)) / 2 + 1.5rem));
     background-size: cover;
     background-position: center;
     -webkit-mask-image: linear-gradient(to right, transparent 0%, black 40%);
-    mask-image: linear-gradient(to right, transparent 0%, black 40%);
-    opacity: .55;
+    mask-image: linear-gradient(to right, transparent 10%, white 100%);
+    opacity: .50;
   }
 
   .hero-inner {
@@ -347,7 +346,7 @@
 
   .home-books {
     padding-block: var(--sp-4);
-    border-bottom: 2px solid var(--accent);
+    border-bottom: 1px solid var(--accent);
   }
 
   .home-books h2 {
@@ -461,7 +460,7 @@
   .hero-inner a,
   .section-intro a {
     color: var(--accent);
-    border-bottom: 1px solid rgb(214 42 28 / .30);
+    border-bottom: 1px solid var(--accent)
     transition: border-color var(--ease);
   }
   .post-content a:hover,
