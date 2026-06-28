@@ -5,6 +5,11 @@ categories:
   - cuentos
 coverImage:
 ---
+<p class="nota">
+Publicado en *Homini lupus*
+</p>
+
+
 Tras atender a sus clientes, Lucio Flaminio Rufo paseó dubitativo por el atrio de su *domus* del Quirinal. En las máscaras mortuorias de los antepasados de su noble *gens*, el patricio creyó leer un silencioso pero unánime reproche.
 
 Con un vehemente suspiro, ahuyentó las últimas dudas y se recluyó en el *tablinum*. Antes, requirió al mayordomo papiro, cálamo y tinta. Ya sentado frente a ellos, quizá en busca de inspiración, Lucio cerró los ojos. Desde el peristilo le llegaba el reír de la fuente, el suave gorjeo de un mirlo, el soplo bonancible de la brisa primaveral. Respiró hondo; después de encomendarse a las musas, se aplicó a la tarea —largamente demorada— de escribir aquella carta:
