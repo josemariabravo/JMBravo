@@ -4,8 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  {{ with .Resources.GetMatch (.Params.cover | default "") }}
+  <meta property="og:image" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary_large_image">
+  {{ else }}
+  <meta name="twitter:card" content="summary">
+  {{ end }}
   <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   {{ range .AlternativeOutputFormats }}
@@ -49,6 +61,7 @@
         {{ range .Site.Menus.footer }}
         <a href="{{ .URL | relURL }}">{{ .Name }}</a>
         {{ end }}
+        <a href="{{ "posts/index.xml" | relURL }}" class="rss-link" title="Feed RSS de artículos">RSS</a>
       </nav>
     </div>
   </footer>

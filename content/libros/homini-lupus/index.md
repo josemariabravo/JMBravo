@@ -3,6 +3,7 @@ title: "Homini lupus"
 subtitle: "Cuentos escabrosos, 2"
 date: "2024-10-12"
 cover: "images/Homini-lupus_cubierta-644x1030.jpg"
+amazon_url: "https://www.amazon.es/dp/B0DGBMCGP7/"
 resumen: "Diez relatos de horror y truculencia, segundo volumen de los Cuentos escabrosos."
 ---
 

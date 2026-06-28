@@ -513,21 +513,58 @@
 
   /* ·· libro individual ·· */
 
-  .book-detail {
-    padding-block: var(--sp-4);
+  .book-detail { padding-block: var(--sp-4); }
+
+  .book-detail-header {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: var(--sp-4);
+    margin-bottom: var(--sp-4);
+    align-items: start;
   }
 
   .book-detail-cover {
-    max-width: 220px;
-    display: block;
-    margin-bottom: var(--sp-3);
+    width: 100%;
     border-radius: var(--radius);
     box-shadow: 0 8px 28px rgb(0 0 0 / .18);
   }
 
+  .book-detail-info h1 { margin-bottom: var(--sp-1); }
+
   .book-detail .book-subtitle {
     font-size: var(--fs-lg);
+    color: var(--muted);
+    margin-bottom: var(--sp-2);
+  }
+
+  .book-resumen {
+    font-size: var(--fs-md);
+    color: var(--muted);
+    font-style: italic;
     margin-bottom: var(--sp-3);
+    line-height: 1.55;
+  }
+
+  .book-meta-row {
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    margin-bottom: .35rem;
+  }
+
+  .book-meta-label {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--text);
+    margin-right: .4rem;
+  }
+
+  .book-detail-content { border-top: 1px solid var(--line); padding-top: var(--sp-4); }
+
+  @media (max-width: 600px) {
+    .book-detail-header { grid-template-columns: 1fr; }
+    .book-detail-cover { max-width: 180px; }
   }
 
   /* ·· proyectos ·· */
@@ -678,6 +715,39 @@
     font-size: var(--fs-xs);
     color: var(--muted);
   }
+
+  /* ·· artículos relacionados ·· */
+
+  .related-posts {
+    margin-top: var(--sp-4);
+    padding-top: var(--sp-3);
+    border-top: 1px solid var(--line);
+  }
+
+  .related-posts h3 {
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    font-weight: 600;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: var(--sp-2);
+  }
+
+  /* ·· RSS en footer ·· */
+
+  .rss-link {
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    letter-spacing: .08em;
+    color: var(--muted);
+    border: 1px solid var(--line);
+    padding: .2rem .55rem;
+    border-radius: var(--radius);
+    transition: border-color var(--ease), color var(--ease);
+  }
+
+  .rss-link:hover { border-color: var(--accent); color: var(--accent); }
 
   .btn-compra {
     display: inline-block;

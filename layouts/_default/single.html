@@ -12,6 +12,20 @@
     <div class="post-content">
       {{ .Content }}
     </div>
+    {{ $related := first 3 (.Site.RegularPages.Related .) }}
+    {{ with $related }}
+    <aside class="related-posts">
+      <h3>También te puede interesar</h3>
+      <ul class="post-list">
+        {{ range . }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </aside>
+    {{ end }}
   </article>
   {{ partial "sidebar.html" . }}
 </div>

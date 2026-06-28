@@ -1,15 +1,23 @@
 {{ define "main" }}
 <div class="container">
-  <article class="post book-detail">
-    {{ with .Resources.GetMatch (.Params.cover | default "") }}
-    <img class="book-detail-cover" src="{{ .RelPermalink }}" alt="{{ $.Title }}">
-    {{ end }}
-    <h1>{{ $.Title }}</h1>
-    {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
-    {{ with .Params.amazon_url }}
-    <a class="btn-compra" href="{{ . }}" target="_blank" rel="noopener">Comprar en Amazon</a>
-    {{ end }}
-    <div class="post-content">
+  <article class="book-detail">
+    <div class="book-detail-header">
+      {{ with .Resources.GetMatch (.Params.cover | default "") }}
+      <img class="book-detail-cover" src="{{ .RelPermalink }}" alt="{{ $.Title }}">
+      {{ end }}
+      <div class="book-detail-info">
+        <h1>{{ $.Title }}</h1>
+        {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
+        {{ with .Params.resumen }}<p class="book-resumen">{{ . }}</p>{{ end }}
+        {{ with .Params.genero }}<p class="book-meta-row"><span class="book-meta-label">Género</span> {{ . }}</p>{{ end }}
+        {{ with .Params.paginas }}<p class="book-meta-row"><span class="book-meta-label">Páginas</span> {{ . }}</p>{{ end }}
+        {{ with .Params.editorial }}<p class="book-meta-row"><span class="book-meta-label">Editorial</span> {{ . }}</p>{{ end }}
+        {{ with .Params.amazon_url }}
+        <a class="btn-compra" href="{{ . }}" target="_blank" rel="noopener noreferrer">Comprar en Amazon →</a>
+        {{ end }}
+      </div>
+    </div>
+    <div class="post-content book-detail-content">
       {{ .Content }}
     </div>
   </article>

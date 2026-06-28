@@ -3,6 +3,7 @@ title: "Sombras y ceniza"
 date: "2019-06-11"
 cover: "images/Sombras-y-ceniza_Cubierta-ebook_reducido-644x1030.jpg"
 resumen: "Fantasía mediterránea, grimdark y novela negra en la ciudad-estado de Mur'ubi."
+amazon_url: "https://www.amazon.es/dp/B07RT6THJ9/"
 aliases:
   - /sombras-y-ceniza/
 ---
