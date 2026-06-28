@@ -719,6 +719,7 @@
     font-size: var(--fs-xs);
     color: var(--muted);
     margin-top: .25rem;
+    margin-bottom: 2rem;
   }
 
   .obra-sinopsis {
@@ -753,7 +754,7 @@
     border: 1px solid var(--accent);
     padding: 1rem;
     border-radius: var(--radius);
-    margin-bottom: 1.5rem;
+    margin: 3rem 1rem 3rem 1rem;
   }
 
   .nota p { max-width: none; margin-bottom: 0; }
@@ -960,11 +961,12 @@
 
   .sidebar-list {
     margin-top: var(--sp-1);
+    list-style: disc;
+    padding-left: 1.1em;
   }
 
   .sidebar-list li {
-    padding: .35rem 0;
-    border-bottom: 1px solid var(--line);
+    padding: .25rem 0;
     line-height: 1.35;
   }
 

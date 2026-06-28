@@ -4,7 +4,8 @@
     <h1>{{ .Title }}</h1>
     <div class="obra-meta">
       {{ if not .Date.IsZero }}<span>{{ partial "fecha.html" .Date }}</span>{{ end }}
-      {{ with .Params.palabras }}<span>{{ . }} palabras</span>{{ end }}
+      {{ with .Params.palabras }}{{ if not $.Date.IsZero }} | {{ end }}<span>{{ . }} palabras</span>{{ end }}
+      {{ if .ReadingTime }} | <span>{{ .ReadingTime }} min de lectura</span>{{ end }}
     </div>
     {{ with .Params.sinopsis }}
     <blockquote class="obra-sinopsis-destacada">{{ . }}</blockquote>
