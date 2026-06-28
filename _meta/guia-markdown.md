@@ -85,11 +85,29 @@ content/posts/mi-articulo/
   imagen.jpg
 ```
 
-Para incluirla en el texto:
+Sintaxis básica:
 
 ```markdown
 ![Texto alternativo](imagen.jpg)
 ```
+
+Para controlar alineación y tamaño, se usa el atributo título con palabras clave:
+
+```markdown
+![Texto alternativo](imagen.jpg "derecha 250")
+![Texto alternativo](imagen.jpg "izquierda 300")
+![Texto alternativo](imagen.jpg "centrada")
+![Texto alternativo](imagen.jpg "derecha")
+```
+
+- `derecha` / `izquierda` — la imagen flota a ese lado y el texto la rodea.
+- `centrada` — la imagen se centra sin flotado.
+- El número (opcional) es el ancho en píxeles.
+- Sin palabras clave, la imagen ocupa el ancho completo del texto.
+
+> **Nota Obsidian:** Obsidian muestra la imagen correctamente pero ignora el título — la alineación solo se ve en el sitio publicado.
+
+Recuerda que la imagen debe estar físicamente en la misma carpeta que el `index.md` de la página o artículo (`content/sobre-mi/`, `content/posts/mi-articulo/`, etc.) para que Hugo la encuentre.
 
 ---
 

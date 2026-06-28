@@ -8,7 +8,9 @@ tags:
   - "cartografia"
 ---
 
-![florencia](florencia.jpg)Bien: lo prometido es deuda. Tal y como adelanté ayer, voy a explicar el método que empleo para dibujar mapas de ciudades.
+![florencia](florencia.jpg)
+
+Bien: lo prometido es deuda. Tal y como adelanté ayer, voy a explicar el método que empleo para dibujar mapas de ciudades.
 
 Antes de comenzar, es necesario aclarar un concepto: en este método, la unidad básica para definir el mapa de una ciudad es la **isla**. Su definición es sencilla: un espacio de la ciudad circundado de calles.
 

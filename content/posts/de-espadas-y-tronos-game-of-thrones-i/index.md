@@ -32,7 +32,9 @@ Iba a comentar que la parte en la que el Otro decapita al hermano negro es muy e
 
 #### Escena n.º 2: Bran practica el tiro con arco
 
-No es que haya algo mal en esta escena en cuanto a verismo, es que no comprendo su planteamiento. Veamos. Arya dispara a la misma diana a la que está disparando Bran, desde una posición más alejada. Como puede verse sin problemas, su flecha se clava en el blanco perpendicularmente, así que no cabe duda: un tiro así solo es posible si la niña se encuentra en línea con la diana (y con Bran a su vez). La implicación evidente: Arya puso en peligro la vida de Bran y sus dos hermanos; de errar el tiro podría haberles metido un flechazo.[![wallpaperbranjon1600](wallpaperbranjon16001.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/wallpaperbranjon16001.jpg)
+No es que haya algo mal en esta escena en cuanto a verismo, es que no comprendo su planteamiento. Veamos. Arya dispara a la misma diana a la que está disparando Bran, desde una posición más alejada. Como puede verse sin problemas, su flecha se clava en el blanco perpendicularmente, así que no cabe duda: un tiro así solo es posible si la niña se encuentra en línea con la diana (y con Bran a su vez). La implicación evidente: Arya puso en peligro la vida de Bran y sus dos hermanos; de errar el tiro podría haberles metido un flechazo.
+
+[![wallpaperbranjon1600](wallpaperbranjon16001.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/wallpaperbranjon16001.jpg)
 
 En fin. Si yo fuera Ned Stark le hubiera calzado unos buenos azotes a la niña. Pero ya sabemos cómo es Ned Stark, ¿verdad?
 

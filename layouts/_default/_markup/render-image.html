@@ -2,8 +2,22 @@
 {{- if not $img -}}
   {{- $img = .Page.Resources.GetMatch (printf "images/%s" .Destination) -}}
 {{- end -}}
-{{- if $img -}}
-<img src="{{ $img.RelPermalink }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }}>
-{{- else -}}
-<img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+
+{{- $src   := .Destination | safeURL -}}
+{{- $alt   := .PlainText -}}
+{{- $class := "" -}}
+{{- $width := "" -}}
+
+{{- $parts := split .Title " " -}}
+{{- range $parts -}}
+  {{- if eq . "derecha"  -}}{{- $class = "img-derecha"   -}}{{- end -}}
+  {{- if eq . "izquierda" -}}{{- $class = "img-izquierda" -}}{{- end -}}
+  {{- if eq . "centrada" -}}{{- $class = "img-centrada"  -}}{{- end -}}
+  {{- if findRE `^\d+$` . -}}{{- $width = . -}}{{- end -}}
 {{- end -}}
+
+{{- if $img -}}{{- $src = $img.RelPermalink -}}{{- end -}}
+<img src="{{ $src }}" alt="{{ $alt }}"
+  {{- with $class }} class="{{ . }}"{{ end -}}
+  {{- with $width }} style="width:{{ . }}px"{{ end -}}
+>

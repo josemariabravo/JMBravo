@@ -488,6 +488,21 @@
     margin-block: var(--sp-3);
   }
 
+  .img-derecha {
+    float: right;
+    margin: 0 0 var(--sp-2) var(--sp-3);
+  }
+
+  .img-izquierda {
+    float: left;
+    margin: 0 var(--sp-3) var(--sp-2) 0;
+  }
+
+  .img-centrada {
+    float: none;
+    margin-inline: auto;
+  }
+
   /* ·· lista genérica ·· */
 
   .list-page {
