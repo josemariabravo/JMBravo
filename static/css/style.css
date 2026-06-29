@@ -443,7 +443,7 @@
 
   .post-content {
     font-family: var(--font-prose);
-    font-size: 1.1rem;
+    font-size: var(--fs-md);
     line-height: 1.85;
   }
 
