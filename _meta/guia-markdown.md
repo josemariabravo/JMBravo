@@ -246,6 +246,29 @@ Para forzar un carácter literal sin conversión, escaparlo con `\`: `\*`, `\[`,
 
 ---
 
+## Galerías de imágenes ⚙️
+
+Las galerías van en su propia sección, separadas de los artículos.
+
+**Crear una galería:**
+
+1. Crear la carpeta `content/galerias/nombre-galeria/`
+2. Copiar las imágenes dentro de esa carpeta
+3. Crear `index.md` con el frontmatter habitual y el shortcode:
+
+```yaml
+---
+title: "Nombre de la galería"
+date: "2026-01-15"
+---
+
+{{</* galeria */>}}
+```
+
+El shortcode recoge automáticamente todas las imágenes de la carpeta y las muestra en un grid. Al pinchar en una imagen se abre a pantalla completa; se cierra pinchando fuera o en el botón ×.
+
+---
+
 ## Lo que no funciona en Obsidian (solo Hugo)
 
 - Shortcodes (`{{</* nota */>}}`, `{{</* figure */>}}`): Obsidian los muestra como texto plano. Son funcionales al publicar.

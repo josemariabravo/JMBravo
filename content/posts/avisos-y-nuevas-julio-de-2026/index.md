@@ -1,12 +1,12 @@
 ---
 title: Avisos y nuevas (julio de 2026)
-date: 2026-06-28
+date: 2026-07-01
 categories:
   - novedades
 tags:
   - avisos-y-nuevas
 ---
-A finales de 2025, tuve una pequeña crisis (una más) respecto a esta página que usted ahora lee. Si bien tengo claro que quiero seguir escribiendo (porque si te preguntas tanto el porqué, realmente tienes un qué y el tiempo ya te dará el cómo), no sabía qué demonios hacer con esta página. Solo echando un vistazo a la escasa actividad resultaba patente que no había muchos motivos para continuar; y si la página era un «escaparate» de mi obra, tampoco estaba cumpliendo bien sus funciones.
+A finales de 2025, tuve una pequeña crisis (una más) respecto a esta página que usted ahora lee. Si bien tengo claro que quiero seguir escribiendo (porque si te preguntas tanto el porqué, realmente tienes un qué y el tiempo ya te dará el cómo), no sabía qué demonios hacer con esta página. Solo echando un vistazo a la escasa actividad resultaba patente que no había muchos motivos para continuar; y si la página era un mero «escaparate» de mi obra, tampoco estaba cumpliendo bien sus funciones, a fuer de sinceros.
 
 Así que me planteé seriamente chapar. Dejar de pagar el hospedaje y el dominio, y sencillamente olvidarme de la página. Relegarla al oscuro olvido, si me permiten ponerme cursi. Escocía un poco, para qué mentir, dejar que todo ese contenido se perdiera sin más. Bastantes artículos todavía andan por ahí, algunos plagiados directamente o sin atribución de autor. Y qué demonios, algunos de esos artículos aún tienen su aquel (perdón por el modismo). Y la cosa se remonta a 2010. No sé si aplica aquí la falacia del coste hundido, pero qué demonios… quizá merecía la pena buscar alguna solución de compromiso.
 

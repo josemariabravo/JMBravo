@@ -1,0 +1,39 @@
+{{ $images := .Page.Resources.ByType "image" }}
+{{ if $images }}
+<div class="galeria">
+  {{ range $images }}
+  <figure class="galeria-item">
+    <button class="galeria-btn" data-src="{{ .RelPermalink }}" data-alt="{{ .Title }}" aria-label="Ampliar imagen">
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy">
+    </button>
+  </figure>
+  {{ end }}
+</div>
+
+<dialog class="galeria-dialog" id="galeriaDialog">
+  <button class="galeria-dialog-close" aria-label="Cerrar">&times;</button>
+  <img src="" alt="" class="galeria-dialog-img">
+</dialog>
+
+<script>
+(function () {
+  const dialog = document.getElementById('galeriaDialog');
+  const dialogImg = dialog.querySelector('.galeria-dialog-img');
+  const closeBtn = dialog.querySelector('.galeria-dialog-close');
+
+  document.querySelectorAll('.galeria-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      dialogImg.src = btn.dataset.src;
+      dialogImg.alt = btn.dataset.alt;
+      dialog.showModal();
+    });
+  });
+
+  closeBtn.addEventListener('click', () => dialog.close());
+
+  dialog.addEventListener('click', e => {
+    if (e.target === dialog) dialog.close();
+  });
+})();
+</script>
+{{ end }}

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="container">
+  <article class="post galeria-page">
+    <h1>{{ .Title }}</h1>
+    {{ if not .Date.IsZero }}
+    <p class="post-meta">{{ partial "fecha.html" .Date }}</p>
+    {{ end }}
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
+{{ end }}
