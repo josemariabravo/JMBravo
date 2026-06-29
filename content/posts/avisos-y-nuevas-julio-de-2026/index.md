@@ -1,6 +1,6 @@
 ---
 title: Avisos y nuevas (julio de 2026)
-date: 2026-06-29
+date: 2026-06-28
 categories:
   - novedades
 tags:
