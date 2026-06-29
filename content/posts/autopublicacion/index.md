@@ -47,5 +47,3 @@ Y tendrás una satisfacción. Alimento para el ego sólido, verdadero. La satisf
 Así que si tenéis una obra, considerad la autopublicación como una de vuestras opciones. Quién sabe. Quizás algún día veamos a un autor autopublicado replicar el éxito de autores gringos como [Amanda Hocking](http://amandahocking.blogspot.com/) o [Joe Konrad](http://jakonrath.blogspot.com/).
 
 **Nota final:** Recomiendo encarecidamente la lectura de los artículos de [Rodolfo Martínez](http://www.escritoenelagua.com/) en [Prospectiva](http://www.literaturaprospectiva.com/), con el título de **[Epublicar o perecer](http://www.literaturaprospectiva.com/?p=6393).**
-
-© de la imagen: [KennoJC](http://www.flickr.com/photos/kennojc/ "http://www.flickr.com/photos/kennojc/")

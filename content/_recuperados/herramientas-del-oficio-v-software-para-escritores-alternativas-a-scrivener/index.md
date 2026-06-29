@@ -52,4 +52,3 @@ Es una alternativa a considerar, en cualquier caso, sobre todo si no necesitamos
 
 \[1\] Esquema o bosquejo es la traducción que más se aproxima, en mi opinión, al término inglés _outline_, la relación de capítulos y escenas de una historia, equivalente al guión de una película. He leído por ahí que algunos autores se refieren al esquema previo de una historia como “escaleta”, propio del cine y la radio, pero el término no me parece demasiado apropiado. [«](#nota1a "Regresar al texto")
 
-© de la imagen: [ktylerconk](http://www.flickr.com/photos/ktylerconk/).

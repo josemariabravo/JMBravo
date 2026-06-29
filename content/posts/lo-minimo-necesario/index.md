@@ -3,9 +3,7 @@ title: "Lo mínimo necesario"
 date: "2018-10-10"
 categories: 
   - "articulos"
-coverImage: "roman-kraft-279919-1-768x295-1.jpg"
 ---
-
 No llevo tanto tiempo en ello ni soy tan bueno como para ir dando lecciones, pero, si les sirve, tengo una máxima cuando corrijo textos: cambiar lo mínimo necesario.
 
 No es por vagancia, créanme, sino por convicción. Recuerdo que tuve el gusto de corregir el texto de una de las [ponencias](http://chibalete.com/wp-content/uploads/2015/06/3CICTE-Ponencias.pdf) del tercer congreso internacional de correctores de textos en español, «La ultracorrección entendida como sinónimo de calidad en el trabajo», de Sofía Rodríguez Barrios, cuya lectura me pareció interesantísima. Dicha ponencia abordaba un curioso concepto, el de la ultracorrección.

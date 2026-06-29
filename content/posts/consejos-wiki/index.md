@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "1158260369_3ba07950e5_z-1.jpg"
 ---
-
 Hace ya más de un año, [en otra entrada](http://sombrasyceniza.com/2011/10/28/instalar-wiki/), hablaba de las bondades de instalar una wiki de uso personal para organizar y recopilar la información de trasfondo de una historia.
 
 Llevo unos dos años utilizando una wiki ([Dokuwiki](https://www.dokuwiki.org/), para más señas) para archivar la información de trasfondo de mis historias, y me gustaría compartir algunos consejos con todos aquellos que se animen a emplear esta magnífica herramienta.
@@ -103,5 +102,3 @@ Si quieres ver ejemplos de cómo usar (y muy bien) una wiki para el trasfondo de
 - [lotr.wikia.com/wiki](http://lotr.wikia.com/wiki/): La wiki dedicada a la obra cumbre de J. R. R. Tolkien, _El Señor de los Anillos_ (en inglés) tiene casi 4700 páginas repletas de información sobre la Tierra Media.
 - [es.harrypotter.wikia.com](http://es.harrypotter.wikia.com/): Otro buen ejemplo de wiki, con 2500 páginas sobre la saga de fantasía juvenil de Harry Potter. (En español.)
 - [princeofnothing.wikia.com/wiki/Prince\_of\_Nothing\_Wiki](http://princeofnothing.wikia.com/wiki/Prince_of_Nothing_Wiki): Esta wiki está dedicada a la (por desgracia) no tan conocida serie de R. Scott Bakker _Príncipe de la nada,_ con «tan solo» 753 páginas con información del mundo de Eärwa. (En inglés.)
-
-© de la imagen destacada: [http://www.flickr.com/photos/disowned](http://www.flickr.com/photos/disowned/).

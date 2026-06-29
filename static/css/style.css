@@ -24,7 +24,7 @@
 }
 
 
-/* ── BASE — tokens + tipografía ────────────── */
+/* ── BASE — tokens + tipografía + paleta ────────────── */
 
 @layer base {
 
@@ -44,10 +44,10 @@
     --font-prose:   'Source Serif 4', Georgia, serif;
 
     /* escala tipográfica */
-    --fs-xs:  .80rem;
-    --fs-sm:  .95rem;
-    --fs-md:  1.25rem;
-    --fs-lg:  1.50rem;
+    --fs-xs:  .85rem;
+    --fs-sm:  1rem;
+    --fs-md:  1.15rem;
+    --fs-lg:  1.30rem;
     --fs-xl:  2.00rem;
     --fs-2xl: clamp(2.6rem, 5vw, 4.2rem);
 
@@ -60,9 +60,9 @@
 
     /* layout */
     --container: 1080px;
-    --reading:   66ch;
-    --radius:    3px;
-    --ease:      .22s ease;
+    --reading:   65ch;
+    --radius:    2px;
+    --ease:      .25s ease;
   }
 
   html { background: var(--paper); }
@@ -309,7 +309,7 @@
   .hero {
     position: relative;
     overflow: hidden;
-    padding-block: var(--sp-4);
+    padding-block: var(--sp-3);
     border-bottom: 1px solid var(--accent);
   }
 
@@ -328,18 +328,19 @@
   .hero-inner {
     max-width: var(--reading);
     position: relative;
-    z-index: 1;
+    z-index: 1;    
   }
 
   .hero-inner p {
     font-size: var(--fs-md);
     color: var(--muted);
-    margin-top: var(--sp-1);
+    margin: 0;
+    padding: 0;
   }
 
   .hero-inner blockquote {
     font-size: var(--fs-md);
-    margin-top: var(--sp-2);
+    margin-top: var(--sp-0);    
   }
 
   /* ·· home: libros ·· */
@@ -424,6 +425,7 @@
   .post h1 {
     font-size: clamp(2.1rem, 4.5vw, 3.7rem);
     margin-bottom: var(--sp-3);
+    max-width: 22ch;
   }
 
   .post .footnotes ol {

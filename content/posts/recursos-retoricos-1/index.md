@@ -5,7 +5,6 @@ categories:
   - "articulos"
 tags: 
   - "lenguaje"
-coverImage: "1158260369_3ba07950e5_z-1.jpg"
 ---
 
 ## Introducción

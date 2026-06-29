@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "14555354976_432207b15b_k-e1522346177484.jpg"
 ---
-
 Algo no está bien, aunque no sabes el qué. Quizá tengas tus sospechas, pero no sabrías explicar el porqué de estas. Lees, relees hasta la extenuación la condenada escena, pero sigue sin gustarte. Has cambiado frases, párrafos enteros, pero sigues insatisfecho; siempre que revisas tu obra y llegas a capítulos así, la desazón te invade: tuerces la vista, procrastinas, te asaltan dudas, hasta puede que consideres abandonar tu obra a medias.
 
 ¿Qué puedo hacer?, te preguntas.
@@ -179,7 +178,6 @@ Si, lamentablemente, los cambios son importantes, necesitas una reescritura prof
 
 Reescribir puede ser un proceso arduo y doloroso, puedo dar fe de ello. Pero, si se hace con vista y decisión, marcará una importante diferencia de calidad en la versión final de tu manuscrito.
 
-© de la imagen destacada: [https://www.flickr.com/photos/pagedooley/](https://www.flickr.com/photos/pagedooley/).
 
 [^1]: Diccionario de la Lengua Española. El de la RAE de toda la vida, en efecto.
 [^2]: No en todas las escenas tiene que haber un conflicto; este consejo lo oirás a menudo, pero resulta ridículo si lo piensas bien.

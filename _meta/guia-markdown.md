@@ -71,7 +71,11 @@ Para un salto de línea dentro del mismo párrafo: dos espacios al final de la l
 [enlace con título](https://ejemplo.com "Texto del título al pasar el ratón")
 
 [enlace interno a otro artículo](/posts/nombre-del-articulo/)
+
+[enlace interno con validación de Hugo]({{< relref "/posts/nombre-del-articulo" >}})
 ```
+
+La segunda forma (`relref`) es más robusta: Hugo avisa si el destino no existe, y tolera cambios en la URL base del sitio.
 
 ---
 

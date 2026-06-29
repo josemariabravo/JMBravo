@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "infinito-2.jpg"
 ---
-
 Imagino que buena parte de los seguidores acérrimos de la _[Canción de Hielo y Fuego](/2010/09/14/a-game-of-thrones-serie-hbonuevo-trailer/)_ habrán visto a estas alturas su adaptación a la pequeña pantalla (_Game of Thrones_, HBO), dado que se estrenó el pasado 17 de abril.
 
 Naturalmente, el que estas líneas suscribe ya ha visto el primer capítulo. Pueden ustedes respirar tranquilos; no tengo intención de hacer ninguna locura, como de las que hablé en esta [entrada](/2010/11/30/como-no-sea-buena-os-mato-game-of-thrones/), porque la serie ha estado, en líneas generales, a la altura de mis expectativas.
@@ -48,5 +47,3 @@ Afortunadamente.
 PD: El título de esta entrada hace referencia al tema de Nine Inch Nails _Just like you imagined_, como más de uno habrá adivinado. Disfruten:
 
 \[youtube=http://www.youtube.com/watch?v=Erm19Kdplz4\]
-
-© de la imagen: [Ramsey Arnaoot](http://www.flickr.com/photos/arnaoot/ "http://www.flickr.com/photos/arnaoot/").
