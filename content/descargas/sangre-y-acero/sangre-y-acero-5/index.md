@@ -1,6 +1,6 @@
 ---
 title: Sangre y acero, n.º 5
-date: 2026-06-30
+date: 2011-05-17
 tipo: Publicación
 archivo: files/Sangreyacero_5.pdf
 description: Descarga gratuita del quinto número del fanzine Sangre y acero, editado por José María Bravo y Andrés Díaz Sánchez.
