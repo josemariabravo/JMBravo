@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lo mínimo necesario"
 date: "2018-10-10"
 categories: 
@@ -6,7 +6,7 @@ categories:
 ---
 No llevo tanto tiempo en ello ni soy tan bueno como para ir dando lecciones, pero, si les sirve, tengo una máxima cuando corrijo textos: cambiar lo mínimo necesario.
 
-No es por vagancia, créanme, sino por convicción. Recuerdo que tuve el gusto de corregir el texto de una de las [ponencias](http://chibalete.com/wp-content/uploads/2015/06/3CICTE-Ponencias.pdf) del tercer congreso internacional de correctores de textos en español, «La ultracorrección entendida como sinónimo de calidad en el trabajo», de Sofía Rodríguez Barrios, cuya lectura me pareció interesantísima. Dicha ponencia abordaba un curioso concepto, el de la ultracorrección.
+No es por vagancia, créanme, sino por convicción. Recuerdo que tuve el gusto de corregir el texto de una de las ponencias del tercer congreso internacional de correctores de textos en español, «La ultracorrección entendida como sinónimo de calidad en el trabajo», de Sofía Rodríguez Barrios, cuya lectura me pareció interesantísima. Dicha ponencia abordaba un curioso concepto, el de la ultracorrección.
 
 Pero ¿qué es eso de ultracorregir? Suena muy rimbombante, pero es un concepto sencillo: corregir lo máximo posible un texto. Pasarse de la raya, vamos. Justamente, lo contrario de mi lema cuando acometo la corrección de un texto: corregir lo mínimo necesario.
 

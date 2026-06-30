@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/consejos-wiki/"]
 title: "Consejos para utilizar tu propia wiki"
 date: "2013-07-22"
@@ -92,7 +92,7 @@ Supongamos que queremos describir la religión de una determinada cultura cuyo p
 
 En esta captura de mi propia wiki tenéis un ejemplo de lo que propongo. No hay páginas aún para cada arquetipo, aunque es muy probable que las haya en el futuro:
 
-[![Arquetipos-dioses-primordiales-elídeos-Últer](Arquetipos-dioses-primordiales-elídeos-Últer1-1024x914.png)](http://www.jmbravo.com/wp-content/uploads/2013/07/Arquetipos-dioses-primordiales-elídeos-Últer1.png)
+![Arquetipos-dioses-primordiales-elídeos-Últer](Arquetipos-dioses-primordiales-elídeos-Últer1-1024x914.png)
 
 ### 7\. Inspírate
 

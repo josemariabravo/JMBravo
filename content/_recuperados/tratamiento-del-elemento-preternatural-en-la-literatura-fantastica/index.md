@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Tratamiento del elemento preternatural en la literatura fantástica"
 date: "2010-11-19"
@@ -6,7 +6,7 @@ categories:
   - "articulos"
 ---
 
-[![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")](http://sombrasyceniza.com/wp-content/uploads/2010/10/logo_e_eyb.gif) Sexto informe [Ouróboros](http://www.sombrasyceniza.com/tag/ouroboros/); en este artículo se discute el elemento más importante, por antonomasia, de la literatura fantástica: cómo se aborda el elemento preternatural, o fantástico, en una historia. Espero que os resulte interesante.
+![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif") Sexto informe [Ouróboros](http://www.sombrasyceniza.com/tag/ouroboros/); en este artículo se discute el elemento más importante, por antonomasia, de la literatura fantástica: cómo se aborda el elemento preternatural, o fantástico, en una historia. Espero que os resulte interesante.
 
 ### 1\. Resumen
 

@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Tal y como lo imaginaste (o no)"
 date: "2011-04-23"
@@ -22,7 +22,7 @@ Cada lector de Tolkien o Martin (por seguir con los ejemplos citados) se industr
 
 Permítanme que ilustre el proceso con un gráfico y una explicación pedestre pero eficaz. No es mía, ojo: la he sacado de un informe _[Ouróboros](/tag/ouroboros)_ aún no publicado (autoría casi en exclusiva de Zaral Arelsiak, es de justicia reconocerlo). Observen el siguiente gráfico:
 
-[![image\_thumb](images/image_thumb-1.png)](http://www.jmbravo.com/wp-content/uploads/2011/04/image_thumb-1.png)
+![image\_thumb](images/image_thumb-1.png)
 
 ¿Un galimatías? No tanto. Les explico: el prisma amarillo representa una obra aún no escrita, _H_. En esa etapa, la obra no es más que una idea: un conjunto inasible y por definir que aúna atisbos de imágenes, sonidos e incluso olores, palabras aún no escritas y emociones tan intensas y vívidas como las propias; el tejido, en fin, con el que se fabrican los sueños. O un conjunto de pulsos bioleléctricos que serpentea de sinapsis en sinapsis por las circunvoluciones del cerebro de su creador, si son ustedes más prosaicos.
 

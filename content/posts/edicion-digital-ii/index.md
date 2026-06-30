@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/edicion-digital-ii/"]
 title: "Más sobre la edición digital"
 date: "2010-09-23"
@@ -21,4 +21,4 @@ Pero volviendo al cauce de la reflexión: el problema, bien lo dice Dans, no es 
 
 ... o quizás no. Quién sabe. En cualquier caso, ojalá estemos aquí para verlo.
 
-[^1]: Me remito a mis anteriores reflexiones: [Autoedición digital o el nuevo Parnaso](https://jmbravo.com/autoedicion-digital/) y [Libros electrónicos: ¿el futuro?](https://jmbravo.com/libros-electronicos/
+[^1]: Me remito a mis anteriores reflexiones: [Autoedición digital o el nuevo Parnaso](/autoedicion-digital/) y [Libros electrónicos: ¿el futuro?](/libros-electronicos/

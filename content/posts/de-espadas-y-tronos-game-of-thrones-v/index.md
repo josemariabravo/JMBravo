@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/de-espadas-y-tronos-game-of-thrones-v/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (v)"
 date: "2011-08-09"
@@ -88,7 +88,7 @@ Eso sí, la escena, aunque una sobrada, tiene su aquel, lo admito. O será que e
 
 Y llegamos a la última escena. Podemos ver en esta breve secuencia de lucha algunos de los clichés y mitos ya desmontados a lo largo de estos artículos y sus predecesores, _De espadas y falacias_ ([i](/espadas-y-falacias-i/ "De espadas y falacias (i)") y [ii](/espadas-y-falacias-ii/ "De espadas y falacias (ii)")). Tenemos las clásicas cuchilladas al arma, cómo no, y de propina, un par de giros de 360º (¡yuju!); pero si de cosas molonas es de lo que hablamos, ¿qué me dicen del salto a lo Brad Pitt en Troya en el minuto 33:52? Simplemente memorable, oigan.
 
-[![Game-of-Thrones-s01e09\_flying\_qotho](Game-of-Thrones-s01e09_flying_qotho1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/08/Game-of-Thrones-s01e09_flying_qotho1.jpg)
+![Game-of-Thrones-s01e09\_flying\_qotho](Game-of-Thrones-s01e09_flying_qotho1.jpg)
 
 Toquen a fanfarria, señores: aquí termina esta serie de artículos. Espero que hayan sido de su agrado o, al menos, mínimamente interesantes. Gracias por su lectura.
 

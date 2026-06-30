@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Esto es solo el principio"
 date: "2016-04-05"
@@ -15,7 +15,7 @@ Luego, ay, esos meses empezaron a contarse en múltiplos de doce.
 
 <figure>
 
-[![Este era el primer borrador «definitivo»; definitivamente, no lo era](images/primer_borrador.jpg)](http://www.jmbravo.com/wp-content/uploads/2016/04/primer_borrador.jpg)
+![Este era el primer borrador «definitivo»; definitivamente, no lo era](images/primer_borrador.jpg)
 
 <figcaption>
 

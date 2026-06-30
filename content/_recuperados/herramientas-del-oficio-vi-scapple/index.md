@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Herramientas del oficio, vi: Scapple"
 date: "2014-02-17"
@@ -29,17 +29,17 @@ Supongamos que queremos bosquejar un artículo sobre las bondades de Scapple, co
 
 Al abrir el programa, lo primero que vemos es esto:
 
-[![Scapple\_01](images/Scapple_011-1024x616.png)](http://www.jmbravo.com/wp-content/uploads/2014/02/Scapple_011.png)
+![Scapple\_01](images/Scapple_011-1024x616.png)
 
 Nada más. Una pantalla en blanco, con una interfaz mínima, y un escueto mensaje: _Double-click anywhere to create a note_ (Doble clic en cualquier lugar para crear una nota).
 
 Y ya está. Superado el primer instante de desconcierto, probamos a crear nuestra primera nota:
 
-[![Scapple\_01\_bis](images/Scapple_01_bis1-1024x616.png)](http://www.jmbravo.com/wp-content/uploads/2014/02/Scapple_01_bis1.png)
+![Scapple\_01\_bis](images/Scapple_01_bis1-1024x616.png)
 
 Y un par más:
 
-[![Scapple\_02](images/Scapple_021-1024x616.png)](http://www.jmbravo.com/wp-content/uploads/2014/02/Scapple_021.png)
+![Scapple\_02](images/Scapple_021-1024x616.png)
 
 Y así, si quisiéramos, _ad infinitum_. El lienzo de un archivo de Scapple, a diferencia de una pizarra o una hoja de papel, es prácticamente inacabable.
 
@@ -47,7 +47,7 @@ Ahora bien, ¿qué podemos hacer con estas notas?
 
 Prácticamente, lo que queramos. Moverlas a donde se nos antoje, disponerlas en grupos, apilarlas o interrelacionarlas mediante flechas. En el ejemplo que nos ocupa, ordenaremos los elementos hasta encontrar la estructura final del artículo:
 
-[![Scapple\_03](images/Scapple_031-1024x977.jpg)](http://www.jmbravo.com/wp-content/uploads/2014/02/Scapple_031.jpg)
+![Scapple\_03](images/Scapple_031-1024x977.jpg)
 
 Como se puede apreciar, el esquema de más arriba es un resumen visual y esquemático de este artículo. A partir de ahí, escribirlo ha sido cuestión de hallar tiempo y darle a la tecla, sin dudas ni rodeos en su escritura.
 

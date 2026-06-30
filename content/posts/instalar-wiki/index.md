@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/instalar-wiki/"]
 title: "Cómo instalar una wiki para uso personal"
 date: "2011-10-27"
@@ -111,7 +111,7 @@ Lo primero que tenemos que hacer es instalar AppServ mediante los siguientes pas
 
 3\. Una vez instalado AppServ… no hay más pasos. No obstante, para comprobar que todo ha salido bien, escribid "localhost" en la barra de dirección de vuestro navegador. Debería apareceros una página tal que esta:
 
-[![localhost](localhost2-1024x511.png)](http://www.jmbravo.com/wp-content/uploads/2011/10/localhost2.png)
+![localhost](localhost2-1024x511.png)
 
 Ahora tenemos instalado y preparado para la acción nuestro servidor local, que incluye PHP, MySQL y Apache. De sobra para nuestros propósitos.
 
@@ -127,7 +127,7 @@ La instalación de Dokuwiki es aún más sencilla:
 
 3\. Tras esto, tenemos que realizar la configuración inicial de Dokuwiki. Para ello dirigíos a **http://localhost/Nombre\_de\_vuestra\_wiki/install.php**, donde **Nombre\_de\_vuestra\_wiki** es obviamente el nombre del directorio de instalación mencionado en el punto 2. Hecho esto accederéis a la configuración inicial de DokuWiki:
 
-[![wiki-dokuwiki\_configurar](wiki-dokuwiki_configurar1-1024x616.png)](http://www.jmbravo.com/wp-content/uploads/2011/10/wiki-dokuwiki_configurar1.png)
+![wiki-dokuwiki\_configurar](wiki-dokuwiki_configurar1-1024x616.png)
 
 Esta primera configuración es bastante simple. Veámosla paso a paso:
 
@@ -157,7 +157,7 @@ Una vez terminemos pulsamos _Guardar_. Si no ha habido problemas, DokuWiki deber
 
 Para acceder a vuestra wiki personal haced clic en el enlace de esa página. También podéis dirigiros a la dirección **http://localhost/Nombre\_de\_vuestra\_wiki**. La página que veréis debería ser tal que esta:
 
-[![wiki-dokuwiki\_start](wiki-dokuwiki_start1-1024x225.png)](http://www.jmbravo.com/wp-content/uploads/2011/10/wiki-dokuwiki_start1.png)
+![wiki-dokuwiki\_start](wiki-dokuwiki_start1-1024x225.png)
 
 No es muy impresionante, es cierto. Aún tenemos que hacer unos cuantos arreglos. Veamos cuáles son:
 
@@ -165,7 +165,7 @@ No es muy impresionante, es cierto. Aún tenemos que hacer unos cuantos arreglos
 
 Lo primero que deberíamos hacer es identificarnos como superusuario o administrador de la wiki. En la barra inferior veremos un botón llamado _Conectarse_. Si lo pulsamos nos llevará a la página de login. Allí pondremos el nombre de usuario y la contraseña elegida durante la configuración.
 
-[![wiki-dokuwiki\_login](wiki-dokuwiki_login1-1024x394.png)](http://www.jmbravo.com/wp-content/uploads/2011/10/wiki-dokuwiki_login1.png)
+![wiki-dokuwiki\_login](wiki-dokuwiki_login1-1024x394.png)
 
 Una vez hecho esto podremos acceder a la página de administración mediante el botón _Administrar_. No obstante, salvo que os pique la curiosidad o seáis usuarios avanzados, de momento no necesitáis configurar nada más para comenzar a usar vuestra wiki.
 
@@ -173,15 +173,15 @@ Lo primero que deberíamos hacer es crear una página. Hay varias formas. Pero a
 
 Una forma rápida de crear una página es crear un nuevo archivo de texto en dicho directorio. Pero dado que hay cuestiones relativas a la nomenclatura de los archivos, es mejor que creemos las páginas desde la propia Dokuwiki.
 
-¿Cómo? Imaginad que queréis una nueva página para recoger vuestras anotaciones sobre una ciudad. Para continuar con el ejemplo de la entrada de esta bitácora [Cómo dibujar mapas de ciudades](https://jmbravo.com/dibujar-mapas-ciudades/), podremos llamar a esta ciudad Fuentenevada.
+¿Cómo? Imaginad que queréis una nueva página para recoger vuestras anotaciones sobre una ciudad. Para continuar con el ejemplo de la entrada de esta bitácora [Cómo dibujar mapas de ciudades](/dibujar-mapas-ciudades/), podremos llamar a esta ciudad Fuentenevada.
 
 Si buscamos el término mediante el formulario de búsqueda (arriba, a la derecha) DokuWiki nos informará de que (lógicamente) la página no existe aún, pero que podemos crearla empleando el botón _Crea esta página_ (marcado en rojo en la captura de pantalla bajo este párrafo).
 
-[![wiki-dokuwiki\_buscar-1024x321](wiki-dokuwiki_buscar-1024x3211-1024x321.png)](http://www.jmbravo.com/wp-content/uploads/2011/10/wiki-dokuwiki_buscar-1024x3211.png)
+![wiki-dokuwiki\_buscar-1024x321](wiki-dokuwiki_buscar-1024x3211-1024x321.png)
 
 Si lo hacéis veréis el formulario de edición de la página _fuentenevada_, donde podréis volcar vuestras anotaciones, o escribirlas desde cero. Desde el mismo momento que creáis la página, DokuWiki crea a su vez el archivo .txt de la misma, lo cual os permitirá consultar la información de forma independiente.
 
-[![wiki-dokuwiki\_crear](wiki-dokuwiki_crear1-1024x618.png)](http://www.jmbravo.com/wp-content/uploads/2011/10/wiki-dokuwiki_crear1.png)
+![wiki-dokuwiki\_crear](wiki-dokuwiki_crear1-1024x618.png)
 
 ## Sobre la sintaxis
 
@@ -227,7 +227,7 @@ Si en el anterior texto de ejemplo queremos incluir enlaces a páginas sobre otr
 
 Haced la prueba. Escribid un texto o emplead alguno que tengáis y colocad las referencias a lugares, naciones, gentes, personajes y demás términos entre corchetes dobles. Si lo hacemos con nuestro texto de ejemplo y guardamos la página, nos encontraremos con esto:
 
-[![wiki-dokuwiki\_referencias](wiki-dokuwiki_referencias1-1024x618.png)](http://www.jmbravo.com/wp-content/uploads/2011/10/wiki-dokuwiki_referencias1.png)
+![wiki-dokuwiki\_referencias](wiki-dokuwiki_referencias1-1024x618.png)
 
 Los enlaces en rojo son referencias a páginas aún no creadas. Bastará con visitarlas y editarlas para que nuestra wiki vaya creciendo.
 

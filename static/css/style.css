@@ -1163,10 +1163,27 @@
 
     .site-header-inner {
       height: 64px;
+      gap: 1rem;
     }
 
     .site-logo svg {
       height: 52px;
+    }
+
+    .site-nav {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      flex-shrink: 1;
+      min-width: 0;
+    }
+
+    .site-nav ul {
+      flex-wrap: nowrap;
+      padding-bottom: 2px;
+    }
+
+    .site-nav li {
+      flex-shrink: 0;
     }
 
     .site-nav a {
@@ -1216,22 +1233,6 @@
       flex-wrap: wrap;
       justify-content: center;
       gap: var(--sp-2);
-    }
-
-  }
-
-  @media (max-width: 480px) {
-
-    /* nav — scroll horizontal si los ítems no caben */
-
-    .site-nav ul {
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      padding-bottom: 2px;
-    }
-
-    .site-nav li {
-      flex-shrink: 0;
     }
 
   }

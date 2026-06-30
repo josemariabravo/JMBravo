@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Herramientas del oficio, iii: Software para escritores: Zenware"
 date: "2011-02-05"
@@ -23,7 +23,7 @@ De entre los muchos programas que existen y he probado, mi favorito es **WriteMo
 
 <!--more-->**[WriteMonkey](http://www.writemonkey.com/)** (que, por cierto, es el que estoy usando ahora para escribir este artículo) es un programa con muchas ventajas. Es ligero (ocupa 1508 KB), no requiere instalación (de forma que puedes llevarlo en una unidad de memoria USB y usarlo en cualquier ordenador), es muy configurable y dispone de numerosas funcionalidades, accesibles todas mediante atajos de teclado (que uso profusamente siempre que puedo).
 
-#### [![pantallazo\_writemonkey](images/pantallazo_writemonkey_thumb.png "pantallazo_writemonkey")](http://sombrasyceniza.com/wp-content/uploads/2011/02/pantallazo_writemonkey.png)
+#### ![pantallazo\_writemonkey](images/pantallazo_writemonkey_thumb.png "pantallazo_writemonkey")
 
 #### Pros:
 
@@ -48,7 +48,7 @@ En caso de que le des importancia a esas zarandajas de la multiplataformidad (va
 
 FocusWriter no dispone de tantas funcionalidades como WriteMonkey, si bien es igualmente portable (no requiere instalación), aunque no es tan ligero (el programa, descomprimido, alcanza casi los 30 MB) y con una interfaz con numerosas opciones de configuración (tenemos la opción de definir una imagen de fondo para la aplicación).
 
-[![pantallazo\_FocusWriter](images/pantallazo_focuswriter_thumb.png "pantallazo_FocusWriter")](http://sombrasyceniza.com/wp-content/uploads/2011/02/pantallazo_focuswriter.png)
+![pantallazo\_FocusWriter](images/pantallazo_focuswriter_thumb.png "pantallazo_FocusWriter")
 
 FocusWriter, a diferencia de WriteMonkey, permite trabajar con texto plano y con formato de texto enriquecido (.rtf). En el segundo caso se puede aplicar formato al texto (cursivas, negritas, alineaciones, sangrados, etcétera), si bien el programa viene, por defecto, configurado para usar texto plano.
 

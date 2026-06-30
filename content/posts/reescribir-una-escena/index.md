@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/reescribir-una-escena/"]
 title: "Cómo reescribir una escena"
 date: "2017-08-05"
@@ -134,7 +134,7 @@ Por otro lado, quizá no hayas usado este modo narrativo. En especial si usas un
 
 #### Diálogo
 
-(De este modo narrativo hay [tres artículos recientes en el blog](http://www.jmbravo.com/el-dialogo-1/), a los que te emplazo para ahondar en el tema).
+(De este modo narrativo hay [tres artículos recientes en el blog](/el-dialogo-1/), a los que te emplazo para ahondar en el tema).
 
 El diálogo es uno de los modos narrativos más comunes, y con motivo. Es poderoso, directo, ágil, y permite ofrecer información sobre los personajes que de otro modo sería muy difícil o imposible.
 

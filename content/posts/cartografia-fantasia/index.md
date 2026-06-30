@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/cartografia-fantasia/"]
 title: "De mapas y otras hierbas (Cartografía, i)"
 date: "2010-10-12"
@@ -8,7 +8,7 @@ tags:
   - "cartografia"
 ---
 
-[![](hobbit_map.jpg "hobbit_map.jpg")](http://sombrasyceniza.com/wp-content/uploads/2010/10/hobbit_map.jpg)Me encantan los mapas, en especial los de lugares fantásticos. Hace ya más de 20 años que dibujé el primero; no lo conservo, claro, pero lo recuerdo como si lo tuviera enfrente: era una copia del mapa que aparece en El Hobbit, de Tolkien, que dibujé a tinta, runas incluidas.
+![](hobbit_map.jpg "hobbit_map.jpg")Me encantan los mapas, en especial los de lugares fantásticos. Hace ya más de 20 años que dibujé el primero; no lo conservo, claro, pero lo recuerdo como si lo tuviera enfrente: era una copia del mapa que aparece en El Hobbit, de Tolkien, que dibujé a tinta, runas incluidas.
 
 Desde entonces he dibujado muchos mapas, con mayor o menor arte. Cuando era director de juego de rol tuve que dibujar muchos, y quizá sea por eso que no concibo escribir una historia de fantasía sin dibujar mapas y planos, aunque sean un bosquejos mal garrapateados.
 
@@ -18,7 +18,7 @@ Precisamente ayer mismo participaba (con el nick Sleerash) en un [hilo del foro 
 
 Es cierto, admití en el foro, aunque es innegable que un buen mapa es siendo una herramienta excelente para consolidar la labor de documentar el trasfondo de una historia y orientar al lector durante la lectura. Una trama que transcurre sin mapa me da la impresión de ingravidez, como ver el rodaje de una película en croma.
 
-\[caption id="attachment\_538" align="aligncenter" width="640" caption="Mapa realizado con el software Profantasy Campaign Cartographer 3"\][![](gallery13.jpg "gallery13.jpg")](http://sombrasyceniza.com/wp-content/uploads/2010/10/gallery13.jpg)\[/caption\]
+\[caption id="attachment\_538" align="aligncenter" width="640" caption="Mapa realizado con el software Profantasy Campaign Cartographer 3"\]![](gallery13.jpg "gallery13.jpg")\[/caption\]
 
 Comenté también como curiosidad que **Joey Abercrombie**, el autor de la trilogía de La Primera Ley, de la cual hice reseña [recientemente](http://sombrasyceniza.com/2010/09/17/la-primera-ley-joey-abercrombie/), había renegado públicamente en su [bitácora](http://www.joeabercrombie.com/) de los mapas (el título de la [entrada](http://www.joeabercrombie.com/2007/10/02/maps-craps-2/), _Maps. Craps?_, es más que revelador al que entienda un poquito de inglés); sin embargo, su nueva novela, **The Heroes**, ambientada en el mismo mundo que dicha trilogía, trae mapas, cinco en la edición digital. La conclusión es sencilla: incluso si no nos gustan, los mapas en las historias de fantasía son casi imprescindibles.
 

@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Suspensión de la incredulidad"
 date: "2010-11-10"
@@ -6,7 +6,7 @@ categories:
   - "articulos"
 ---
 
-### [![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")](http://sombrasyceniza.com/wp-content/uploads/2010/10/logo_e_eyb.gif)
+### ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")
 
 Quinto informe [Ouróboros](/tag/ouroboros/). Este artículo aborda un punto crucial en las historias de género fantástico: cómo cuidar la verosimilitud de nuestras historias, jugando con una contradicción evidente: las historias fantásticas son inverosímiles por definición; sin embargo, hay historias más creíbles que otras, o que el lector concibe como “posibles dentro de su imposibilidad”. ¿Cómo puede ser esto? Os invito a seguir leyendo si queréis ahondar en el tema:
 

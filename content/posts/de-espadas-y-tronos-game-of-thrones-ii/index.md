@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/de-espadas-y-tronos-game-of-thrones-ii/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (ii)"
 date: "2011-06-28"
@@ -63,7 +63,7 @@ En cualquier caso, como decía anteriormente, el fallo aquí es _Aguja_. Una exp
 
 Veo ceños fruncidos. He oído algún que otro bufido. Y no puedo culparos. Criticar esta escena parece una coña; en parte, lo es. Pero me gustaría que la recordaseis: me servirá para ilustrar los comentarios de las siguientes escenas. Si podéis, echarle un ojo de nuevo. Arya y el hijo del carnicero luchan con palos remedando espadas. ¿Quién no los ha imitado alguna vez cuando era pequeño? Se golpean por turnos, buscando la vara del contrario. Tap, tap, tap. Es normal. Son niños. Están jugando: no quieren hacerse daño, solo divertirse.
 
-[![Game-of-Thrones-s01e02.avi\_002677299](Game-of-Thrones-s01e02.avi_0026772991.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/Game-of-Thrones-s01e02.avi_0026772991.jpg)
+![Game-of-Thrones-s01e02.avi\_002677299](Game-of-Thrones-s01e02.avi_0026772991.jpg)
 
 ¿Cuál es el problema, entonces? Con esta escena, ninguno; pero que en las escenas de combate serias ocurra algo similar resulta, cuando menos, decepcionante. Aunque de eso hablaremos muy pronto.
 

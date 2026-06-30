@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/de-espadas-y-tronos-game-of-thrones-iii/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (iii)"
 date: "2011-07-15"
@@ -50,7 +50,7 @@ Aquí ya tenemos secuencia de luchas con algo más chicha a la que hincar el die
 
 Bien, los combates de Jon y sus compañeros no son muy distintos. Veamos un sencillo ejemplo: tenga la bondad de fijarse en esta secuencia de cuadros capturados de la serie: en el primero, bajo estas líneas, el oponente de Jon, Grenn, se dispone a asestar (formar, en lenguaje esgrimístico) una cuchillada. Lo normal sería tirarla de la forma más natural: en 45º, de derecha a izquierda: un tajo como dios manda. Jon tiene descubierto su interior (su lado izquierdo, en este caso). Grenn lo tiene a huevo, vamos.
 
-[![got\_03\_a](got_03_a.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/got_03_a.jpg)
+![got\_03\_a](got_03_a.jpg)
 
 Sin embargo, en mitad de la acción orienta su línea de ataque hacia la espada de Jon, como se puede apreciar en estas imágenes:
 
@@ -62,7 +62,7 @@ En realidad, este fallo es achacable a la gran mayoría de las secuencias de luc
 
 No obstante, un último apunte: el desarme que ejecuta Jon (minuto 48:43) está ejecutado con mucha corrección. Digamos que le doy un notable.
 
-[![got\_03\_desarme](got_03_desarme.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/got_03_desarme.jpg)
+![got\_03\_desarme](got_03_desarme.jpg)
 
 #### Escena n.º 4: Syrio Forel y Arya comienzan su entrenamiento
 
@@ -70,7 +70,7 @@ Ya comentamos en la segunda entrega de esta serie de artículos lo que podía de
 
 Teniendo en cuenta el tipo de esgrima y el arma empleada en la _danza del agua_, elegir espadas de madera para su enseñanza no es la mejor elección. De entrada, una espada de madera no es la mejor herramienta para practicar el juego de la esgrima[^8]. No transmite sensaciones, es inflexible, no tiene filo ni plano con el que jugar. Si hacemos la poco arriesgada suposición de que el dinero no es un problema, la mejor opción es emplear armas negras. En el caso de la espada ropera es incluso mejor, pues tras matarle los filos y abotonar la punta sería mucho menos peligrosa que las espadas negras que usan Jon y sus compañeros, por ejemplo. (Salvo en el caso de las estocadas a la cara, donde el peligro se mantiene, o incluso es mayor.)
 
-[![GameofThroness01e03.avi\_003341254](GameofThroness01e03.avi_003341254.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/11/GameofThroness01e03.avi_003341254.jpg)
+![GameofThroness01e03.avi\_003341254](GameofThroness01e03.avi_003341254.jpg)
 
 Los consejos con los que comienza Syrio la clase de esgrima son razonables. Algo esotéricos, cierto, pero era muy común que los maestros de esgrima de la época emplearan un lenguaje deliberadamente rebuscado cuando ponían por escrito sus enseñanzas. Mención aparte requiere el momento en el que Syrio corrige la postura de Arya; viene a decirle que se ponga de perfil (en referencia a la clásica planta de los esgrimidores de espada ropera), pero el caso es que Arya no adopta una postura ni remotamente parecida a esta… en fin, no seamos severos, es su primera clase.
 

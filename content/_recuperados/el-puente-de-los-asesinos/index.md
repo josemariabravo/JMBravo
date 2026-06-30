@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "El puente de los asesinos"
 date: "2011-12-10"
@@ -33,7 +33,7 @@ Tardé un año en hacer caso a mi amigo. Y cuando lo hice fue casi por casualida
 
 Afortunadamente me rasqué el bolsillo y me fui con el libro bajo el brazo. Catorce años después puedo acariciar con cariño mi ejemplar de _El capitán Alatriste_, que luce estupendo junto a los otros seis (hasta la fecha) títulos de la serie.
 
-[![Alatristes](images/Alatristes-1030x598.jpg)](http://www.jmbravo.com/wp-content/uploads/2015/10/Alatristes.jpg)
+![Alatristes](images/Alatristes-1030x598.jpg)
 
 Al autor, Pérez-Reverte, lo conocí mucho más a partir de entonces, tanto por su faceta novelística como por ese personaje de lengua despiadada, entre gruñón y entrañable, que habita sus columnas de prensa. Y cosa curiosa, no soy precisamente aficionado a sus novelas digamos más "al uso" (ni _El club Dumas_, _La piel del tambor_ o _La tabla de Flandes_, sus obras más señeras, llegaron a convencerme), pero soy un incondicional del capitán Alatriste ((No me pregunten, por favor, por su adaptación al cine, que no quiero cabrearme.))
 

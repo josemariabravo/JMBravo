@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/de-espadas-y-tronos-game-of-thrones-i/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (i)"
 date: "2011-06-25"
@@ -16,7 +16,7 @@ Pero antes toca poner en antecedentes a los que no conozcan la serie: _Juego de 
 
 Soy un acérrimo seguidor de la HBO, cuyas series han escrito páginas de oro en la historia de la televisión: citemos maravillas como _The Sopranos_, _Deadwood_, _Rome_, _The Wire_ o _Boardwalk Empire_, por ejemplo. Así que imaginad mi alborozo cuando supe que iba a ser esta cadena la encargada de adaptar una de mis sagas favoritas de fantasía: miel sobre hojuelas.
 
-El resultado no ha desmerecido mi entusiasmo, por muchos peros que puedan vérsele a la serie. Es cierto que hay cosas que me han gustado más y cosas que me han gustado menos (como los combates, por ejemplo), pero era inevitable. Ya comenté [no hace mucho](https://jmbravo.com/tal-y-como-lo-imaginaste-o-no/ "Tal y como lo imaginaste (o no)") que es imposible que una adaptación a otro medio nos «encaje» en nuestra propia versión mental de la saga.
+El resultado no ha desmerecido mi entusiasmo, por muchos peros que puedan vérsele a la serie. Es cierto que hay cosas que me han gustado más y cosas que me han gustado menos (como los combates, por ejemplo), pero era inevitable. Ya comenté [no hace mucho](/tal-y-como-lo-imaginaste-o-no/ "Tal y como lo imaginaste (o no)") que es imposible que una adaptación a otro medio nos «encaje» en nuestra propia versión mental de la saga.
 
 Pero lo cierto es que yo esperaba más en cuanto al verismo de los combates. Quizá precisamente porque tengo a la HBO en los altares imaginé que iban a cuidar este aspecto, sobre todo por lo poco comedidos que son en cuanto a escenas violentas. No esperaba el rigor de un documental, conste, pero sí un enfoque más alejado de las típicas producciones de Hollywood.
 
@@ -34,7 +34,7 @@ Iba a comentar que la parte en la que el Otro decapita al hermano negro es muy e
 
 No es que haya algo mal en esta escena en cuanto a verismo, es que no comprendo su planteamiento. Veamos. Arya dispara a la misma diana a la que está disparando Bran, desde una posición más alejada. Como puede verse sin problemas, su flecha se clava en el blanco perpendicularmente, así que no cabe duda: un tiro así solo es posible si la niña se encuentra en línea con la diana (y con Bran a su vez). La implicación evidente: Arya puso en peligro la vida de Bran y sus dos hermanos; de errar el tiro podría haberles metido un flechazo.
 
-[![wallpaperbranjon1600](wallpaperbranjon16001.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/wallpaperbranjon16001.jpg)
+![wallpaperbranjon1600](wallpaperbranjon16001.jpg)
 
 En fin. Si yo fuera Ned Stark le hubiera calzado unos buenos azotes a la niña. Pero ya sabemos cómo es Ned Stark, ¿verdad?
 
@@ -42,11 +42,11 @@ En fin. Si yo fuera Ned Stark le hubiera calzado unos buenos azotes a la niña. 
 
 Varias cosas me rechinan aquí. En primer lugar, la decapitación en sí. En Europa la pena por decapitación se ejecutaba mediante el hacha o la espada. El uso de la espada fue relativamente raro hasta el s. XVI.
 
-\[caption id="attachment\_3339" align="aligncenter" width="624"\][![¿Un arma demasiado noble para esos propósitos?](GameofThroness01e01.avi_0007947101.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/GameofThroness01e01.avi_0007947101.jpg) ¿Un arma demasiado noble para esos propósitos?\[/caption\]
+\[caption id="attachment\_3339" align="aligncenter" width="624"\]![¿Un arma demasiado noble para esos propósitos?](GameofThroness01e01.avi_0007947101.jpg) ¿Un arma demasiado noble para esos propósitos?\[/caption\]
 
 Cuando se empleaba el hacha, el reo se disponía arrodillado, con la cabeza posada sobre un bloque de madera (el tajo), y el verdugo asestaba un hachazo de arriba abajo, con ambas manos. No era tarea fácil, por cierto, y requería más destreza de la que podríamos pensar; de hecho, se sabe que en muchas ocasiones los verdugos necesitaban asestar dos o más tajos antes de conseguir decapitar al pobre reo[^2]. Haceos cargo de lo terrible (y sucia) que sería una muerte así.
 
-\[caption id="attachment\_3340" align="alignleft" width="259"\][![Grabado representando una decapitación. (Sí, el reo parece sonreír… ni idea de por qué, oigan)](zasca1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/zasca1.jpg) Grabado representando una decapitación. (Sí, el reo parece sonreír… ni idea de por qué, oigan)\[/caption\]
+\[caption id="attachment\_3340" align="alignleft" width="259"\]![Grabado representando una decapitación. (Sí, el reo parece sonreír… ni idea de por qué, oigan)](zasca1.jpg) Grabado representando una decapitación. (Sí, el reo parece sonreír… ni idea de por qué, oigan)\[/caption\]
 
 En el caso de la decapitación mediante espada no se usaba un bloque de madera, tal y como aparece en esta escena. La persona se disponía arrodillada o sentada. El verdugo se situaba a su espalda y asestaba una cuchillada horizontal, que debía ser precisa, recia y dirigida con firmeza para no cambiar en ningún momento la orientación del filo. Todo un arte, no os quepa duda.[^3]
 
@@ -92,7 +92,7 @@ No quiero terminar el comentario de esta escena sin añadir unas notas sobre los
 
 Qué decir de los cascos de la Guardia del Rey. Son un cruce entre una barbuta (o un casco corintio, que viene a ser muy similar), con las carrilleras dispuestas en un ángulo extraño, una cresta a modo de cimera y dos pletinas en cada lateral, a modo de alas, que no se sabe muy bien para qué son. Al margen de que tenga o no equivalente histórico (no lo tiene), ¿era necesario que fueran tan feos, copón?
 
-\[caption id="attachment\_3342" align="aligncenter" width="624"\][![Jaime Lannister, posando (cómo no)](GameofThroness01e01.avi_0016876021.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/GameofThroness01e01.avi_0016876021.jpg) Jaime Lannister, posando (cómo no)\[/caption\]
+\[caption id="attachment\_3342" align="aligncenter" width="624"\]![Jaime Lannister, posando (cómo no)](GameofThroness01e01.avi_0016876021.jpg) Jaime Lannister, posando (cómo no)\[/caption\]
 
 #### Escena n.º 5: Boda dothraki.
 
@@ -108,7 +108,7 @@ Aún más, en el siguiente párrafo, cuando comienza el combate, la edición en 
 
 > Los guerreros empezaron a moverse en círculo, lanzando estocadas \[…\]
 
-\[caption id="attachment\_3343" align="alignleft" width="74"\][![Khopesh egipcio](khopesh1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/khopesh1.jpg) Khopesh egipcio\[/caption\]
+\[caption id="attachment\_3343" align="alignleft" width="74"\]![Khopesh egipcio](khopesh1.jpg) Khopesh egipcio\[/caption\]
 
 Lo cual es la traducción de «_A dance of death began as the warriors circled and slashed \[…\]»_. El fallo en este caso de la traducción es traducir _slashed_ como _lanzando estocadas_; _slash_ es tajar, acuchillar. Dar estocadas con un arma similar a un _khopesh_ es muy difícil y no demasiado efectivo, dada la exagerada curva del arma.
 
@@ -118,7 +118,7 @@ Aclarado esto, un _khopesh_ no es, a mi juicio, el arma más adecuada para un ji
 
 Curiosamente, el uso del _arakh_ por parte de los dothraki (tal y como se ve en la serie) no concuerda, sin embargo, con el de un _khopesh_ egipcio. Estas armas no estaban afiladas en la parte interior de su curva; sin embargo, como se puede apreciar en la breve secuencia de lucha, cuando uno de los contendientes usa el arma a modo de hoz para eviscerar a su rival, la única forma de ejecutar dicha acción es con un arma afilada en su parte interior, tal y como como empuñaríamos una hoz.
 
-\[caption id="attachment\_3344" align="aligncenter" width="624"\][![El arakh en acción; cuidado, que salpica](GameofThroness01e01.avi_0031224941.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/GameofThroness01e01.avi_0031224941.jpg) El arakh en acción; cuidado, que salpica\[/caption\]
+\[caption id="attachment\_3344" align="aligncenter" width="624"\]![El arakh en acción; cuidado, que salpica](GameofThroness01e01.avi_0031224941.jpg) El arakh en acción; cuidado, que salpica\[/caption\]
 
 Como nota final, es cuando menos irónico que los _dothraki_, un pueblo guerrero y nómada que desprecia a los pueblos sedentarios, tengan como arma principal en su panoplia una espada que remeda tanto en forma como en uso un instrumento agrícola…
 
@@ -126,9 +126,9 @@ Y hasta aquí el comentario de este primer capítulo… muy pronto, los siguient
 
 © de las imágenes de la serie: HBO.
 
-_(Sigue en la [segunda parte](https://jmbravo.com/de-espadas-y-tronos-game-of-thrones-ii/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (ii)").)_
+_(Sigue en la [segunda parte](/de-espadas-y-tronos-game-of-thrones-ii/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (ii)").)_
 
-[^1]: Y, de paso, del éxito de mis dos artículos anteriores, _De espadas y falacias_, [primera](https://jmbravo.com/espadas-y-falacias-i/ "De espadas y falacias (i)") y [segunda](https://jmbravo.com/espadas-y-falacias-ii/ "De espadas y falacias (ii)") parte, que han superado entre ambos las 20.000 visitas únicas.
+[^1]: Y, de paso, del éxito de mis dos artículos anteriores, _De espadas y falacias_, [primera](/espadas-y-falacias-i/ "De espadas y falacias (i)") y [segunda](/espadas-y-falacias-ii/ "De espadas y falacias (ii)") parte, que han superado entre ambos las 20.000 visitas únicas.
 [^2]: La palma se la lleva el verdugo de la condesa de Salisbury, Margaret Pole, que necesitó diez golpes para decapitar a la pobre mujer en 1541
 [^3]: Para los morbosos que sepan inglés, [http://www.capitalpunishmentuk.org/behead.html](http://www.capitalpunishmentuk.org/behead.html)
 [^4]: Una altura bastante aceptable para Robb, que tiene unos catorce años al comienzo de la historia

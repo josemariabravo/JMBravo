@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/espadas-y-falacias-ii/"]
 title: "De espadas y falacias (ii)"
 date: "2011-06-16"
@@ -15,7 +15,7 @@ _(Viene de la [primera parte](/espadas-y-falacias-i/) de este artículo.)_
 
 Antes de seguir conviene hacer una aclaración breve sobre a qué me refiero con el término _espada a dos manos_. En el imaginario popular, estas espadas son enormes, pesadas e imponentes, y las manejan guerreros no menos enormes e imponentes para dar brutales tajos y reveses (entre gruñidos, para conferir aún más fiereza a la imagen).
 
-[!["Imagen](berserk.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/06/berserk.jpg)
+!["Imagen](berserk.jpg)
 
 No era para tanto. O, al menos, no siempre. Con el término _espada a dos manos_ nos podríamos referir a las llamadas _espadas bastardas_ o _de mano y media_; a las _espadas de guerra_, ya propiamente de dos manos; o a los mucho más posteriores montantes, que sí podían llegar a ser enormes, pero sin llegar a las exageraciones que en muchos casos retratan las obras de corte fantástico.
 

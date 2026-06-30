@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Breves notas sobre sintaxis"
 date: "2010-12-22"
@@ -6,7 +6,7 @@ categories:
   - "articulos"
 ---
 
-### [![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")](http://sombrasyceniza.com/wp-content/uploads/2010/10/logo_e_eyb.gif)
+### ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")
 
 Séptimo informe Ouróboros, que intenta apuntar unas breves notas sobre cuestiones sintácticas necesarias para escribir correctamente, evitando en lo posible enfangarse demasiado en cuestiones teóricas. El informe tiene sus años, pero aún así lo considero bastante útil como para "refrescar"  conocimientos y aclarar alguna que otra duda.
 

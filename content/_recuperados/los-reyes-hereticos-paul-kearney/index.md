@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Los reyes heréticos, Paul Kearney"
 date: "2011-05-19"
@@ -24,7 +24,7 @@ Cuando entrevera la urdimbre de la historia, Kearney sabe lo que se hace. El ela
 
 De nuevo, mi único reproche serio a esta novela es el mismo que le hice a _[El viaje de Hawkwood](file:///C:/2011/04/05/el-viaje-de-hawkwood-paul-kearney/)_: te deja con hambre y sed; parece un episodio de transición hacia la apoteosis que, aún en el horizonte, ya se barrunta, y que esperamos leer con ansia en los próximos títulos de la serie.
 
-[![guerrashierro\_gr](images/guerrashierro_gr-1.jpg)](http://www.jmbravo.com/wp-content/uploads/2011/05/guerrashierro_gr-1.jpg)Tras _Los reyes heréticos_ seguirá la publicación del tercer volumen, _Las guerras del hierro_…
+![guerrashierro\_gr](images/guerrashierro_gr-1.jpg)Tras _Los reyes heréticos_ seguirá la publicación del tercer volumen, _Las guerras del hierro_…
 
 … o eso espero. Para los que no estén al tanto, _Las monarquía de Dios_, por motivos que no consigo entender, no ha tenido la suerte comercial deseable. Su editor, Luis G. Prado, a raíz de las propuestas de los lectores en [esta entrada de su bitácora](http://artifexplus.blogspot.com/2011/02/proxima-entrega-de-las-monarquias-de.html), planteó [una solución](http://artifexplus.blogspot.com/2011/03/suscripcion-las-monarquias-de-dios.html): suscribirse a los tres números restantes de la serie, con un 10% de descuento sobre el precio de venta, con el objeto de asegurar una cantidad mínima de ejemplares vendidos que consiguiera que "saliesen las cuentas". Para tal efecto se necesitaban al menos 150 suscriptores.
 

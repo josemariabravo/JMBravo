@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/dibujar-mapas-ciudades/"]
 title: "Cómo dibujar mapas de ciudades (Cartografía, ii)"
 date: "2010-10-13"
@@ -75,7 +75,7 @@ También convendría marcar los límites de tu ciudad, y los accidentes geográf
 
 Con respecto a nuestro ejemplo, _Fuentenevada_, este es el bosquejo inicial:
 
-[![syc\_bosquejo\_1](syc_bosquejo_11.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/syc_bosquejo_11.jpg)
+![syc\_bosquejo\_1](syc_bosquejo_11.jpg)
 
 Como podéis ver he marcado una serie de puntos y un límite de la ciudad señalado por unas murallas. Aún no he dibujado ningún polígono; lo haré más adelante.
 
@@ -99,7 +99,7 @@ En resumen: usa la lógica. Y si estás falto de ideas, mi consejo es que busque
 
 Una vez termines, debería de haberte quedado algo similar a esto:
 
-[![syc\_bosquejo\_2](syc_bosquejo_21.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/syc_bosquejo_21.jpg)
+![syc\_bosquejo\_2](syc_bosquejo_21.jpg)
 
 Como puedes apreciar, ya he trazado los polígonos en torno a los lugares de interés tal y como mencioné antes. Recuerda: hazlo siempre que tengas plazas, fortalezas, jardines, edificios importantes y demás. La idea es reservar espacio vacío para ubicar esos sitios.
 
@@ -140,7 +140,7 @@ Ahora debes insertar tu bosquejo en papel, que habrás digitalizado previamente,
 
 Así es cómo quedó insertado el bosquejo de _Fuentenevada_:
 
-[![syc\_captura\_01](syc_captura_011.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/syc_captura_011.jpg)
+![syc\_captura\_01](syc_captura_011.jpg)
 
 Puedes, no obstante, trazar a ojo lo que has dibujado en papel. O, tal y como señalé al principio del punto 2, puedes haber dibujado ya los ejes de las calles en el ordenador.
 
@@ -148,7 +148,7 @@ En cualquier caso, hay que trazar los ejes de las calles. Usa la herramienta _l�
 
 Cuando termines, el aspecto debería ser más o menos este:
 
-[![syc\_captura\_02](syc_captura_021.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/syc_captura_021.jpg)
+![syc\_captura\_02](syc_captura_021.jpg)
 
 Como puedes apreciar he trazado los ejes de las calles, aunque he añadido líneas que creí necesarias.
 
@@ -162,7 +162,7 @@ Usa un color de línea distinto al de los ejes, en aras de la claridad.
 
 En nuestro ejemplo, los delimitadores de las islas tienen este aspecto:
 
-[![captura\_03](captura_03-1.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/captura_03-1.jpg)
+![captura\_03](captura_03-1.jpg)
 
 He trazado las “calles” en rojo, para mayor claridad, y he añadido un terreno ajardinado en el extremo oeste de la ciudad.
 
@@ -174,11 +174,11 @@ Pero podemos hacer algo aún mejor: emplear el comando _contorno_. Asegúrate de
 
 Aquí os pongo una captura del proceso de detectar los contornos:
 
-[![syc\_captura\_04](syc_captura_041.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/syc_captura_041.jpg)
+![syc\_captura\_04](syc_captura_041.jpg)
 
 Una vez hayas terminado, oculta las capas de los ejes y líneas desfasadas. Deberías ver algo así:
 
-[![syc\_captura\_05](syc_captura_051.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/syc_captura_051.jpg)
+![syc\_captura\_05](syc_captura_051.jpg)
 
 Puedes usar el comando _chaflán_ para eliminar los _picos_ demasiado pronunciados en las islas, aunque no es necesario. En el ejemplo lo he usado unas cuantas veces.
 
@@ -188,7 +188,7 @@ Listo. Tienes el trazado básico de las islas de tu ciudad. Puedes incrementar e
 
 **Nota:** Podrías usar las herramientas 3D de Autocad para dar “relieve” al mapa, de forma sencilla con el comando _extrusionar_. Un ejemplo en perspectiva isométrica:
 
-[![syc\_captura\_06](syc_captura_061.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/10/syc_captura_061.jpg)
+![syc\_captura\_06](syc_captura_061.jpg)
 
 No he representado las murallas, para mayor claridad. No es un modelado muy allá, el de este ejemplo, es cierto, pero es posible generarlo de forma rápida y es buen cimiento para añadir complejidad a nuestro mapa, si queremos, más adelante.
 

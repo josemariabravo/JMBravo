@@ -1,4 +1,4 @@
----
+﻿---
 aliases: ["/planificar-una-escena/"]
 title: "Cómo planificar una escena"
 date: "2017-07-22"
@@ -143,7 +143,7 @@ En este ejemplo hemos empleado bastante detalle en describir lo que ocurre, pero
 
 Un mapa de ideas es algo bastante más sencillo: tomas un papel (o una aplicación como Scapple, u OneNote, por ejemplo) y anotas ideas, conceptos, detalles, lo que te venga a la cabeza, y luego las relacionas de forma gráfica.
 
-Un ejemplo: [![](mapa_mental-1030x679.jpg)](http://www.jmbravo.com/wp-content/uploads/2017/07/mapa_mental.jpg) (Este diagrama está hecho en [Scapple](https://www.literatureandlatte.com/scapple.php "Scapple"), de los creadores de Scrivener).
+Un ejemplo: ![](mapa_mental-1030x679.jpg) (Este diagrama está hecho en [Scapple](https://www.literatureandlatte.com/scapple.php "Scapple"), de los creadores de Scrivener).
 
 **c) Cronograma**
 
@@ -169,7 +169,7 @@ Un cronograma o línea temporal secuencia una serie de hechos en el tiempo. En e
 > 
 > 12:22 Juan examina la foto.
 
-Para representar el cronograma podemos tirar de papel y lápiz, una hoja de cálculo, tal vez, o un programa especializado, como [Aeon Timeline](http://www.scribblecode.com/ "Scribblecode") (el cual os recomiendo). La secuencia cronológica anterior quedaría representada así: [![](Cronograma-1030x274.png)](http://www.jmbravo.com/wp-content/uploads/2017/07/Cronograma.png) Como podéis ver, este método no tiene mucho sentido en escenas tranquilas como la del ejemplo, pero puede ser de mucha utilidad en escenas complejas, con muchas acciones simultáneas: una persecución, una pelea entre varios combatientes, una situación de emergencia, etcétera.
+Para representar el cronograma podemos tirar de papel y lápiz, una hoja de cálculo, tal vez, o un programa especializado, como [Aeon Timeline](http://www.scribblecode.com/ "Scribblecode") (el cual os recomiendo). La secuencia cronológica anterior quedaría representada así: ![](Cronograma-1030x274.png) Como podéis ver, este método no tiene mucho sentido en escenas tranquilas como la del ejemplo, pero puede ser de mucha utilidad en escenas complejas, con muchas acciones simultáneas: una persecución, una pelea entre varios combatientes, una situación de emergencia, etcétera.
 
 Por último: si es importante para la escena, debemos tener en cuenta no solo los hechos que vamos a narrar, sino los que se eliden pero que influyen en el desarrollo de la escena. Sin ir más lejos, en una escena narrada desde un PdV concreto en la que sucedan muchas cosas a la vez, no se podrá narrar todo lo que ocurre (estamos ceñidos a la perspectiva de un personaje concreto), pero en aras de la continuidad y coherencia narrativas conviene dejar claras las acciones de otros personajes.
 

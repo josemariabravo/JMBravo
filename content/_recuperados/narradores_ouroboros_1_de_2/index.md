@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Narradores (i de ii)"
 date: "2010-10-20"
@@ -6,7 +6,7 @@ categories:
   - "articulos"
 ---
 
-### [![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")](http://sombrasyceniza.com/wp-content/uploads/2010/10/logo_e_eyb.gif)
+### ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")
 
 Tercera entrega de los informes de [Ouróboros](http://sombrasyceniza.com/tag/ouroboros/), esta vez dedicado a caracterizar los narradores de una historia. Debido a la longitud del artículo he optado por dividido en dos partes. Esta es la primera:
 

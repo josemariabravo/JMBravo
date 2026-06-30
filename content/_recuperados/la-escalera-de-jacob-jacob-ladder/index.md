@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "La escalera de Jacob (Jacob’s ladder)"
 date: "2010-10-04"
@@ -19,7 +19,7 @@ En cualquier caso, yo clasificaría directamente esta película como una alegor�
 
 La influencia de esta película en **Silent Hill** no se queda en el apartado visual. En los títulos de esta franquicia de Konami encontramos a personajes sumergidos en pesadillas íntimas, en las que la realidad se vuelve amenazadora o terrorífica por momentos; las historias se desarrollan en varios niveles en esta realidad cambiante, y nunca sabemos, realmente, en qué nivel nos encontramos; y por último, los protagonistas se sienten culpables de la pérdida de un ser querido.
 
-[![](images/jacobs_ladder.jpg "jacobs_ladder.jpg")](http://sombrasyceniza.com/wp-content/uploads/2010/10/jacobs_ladder.jpg)
+![](images/jacobs_ladder.jpg "jacobs_ladder.jpg")
 
 No obstante, la influencia de esta película va más allá de la franquicia de videojuegos de **Silent Hill**, y personalmente encuentro en esta película más de una idea embrionaria de obras posteriores tales como **El sexto sentido**, **Dark City**, **The Jacket** o incluso **Matrix** (seguramente, muchos de vosotros no estaréis de acuerdo en esta última). Hay algo que esta película puede arrogarse sin discusión: el uso del terrorífico efecto especial llamado “_Shaking head_” (cabeza que se agita, traducción libre), si bien no fue la pionera en usarlo. Este efecto se ha usado con profusión en muchas otras obras, incluyendo películas, videojuegos y videoclips. Citaré algunas películas: **House on Haunted Hill** (**La casa de la colina encantada**), la versión de 1999, **The Ring**, la franquicia de películas **Saw** y la más reciente **Mirrors** (**Reflejos**), con **Kiefer “Bauer” Sutherland** de protagonista.
 

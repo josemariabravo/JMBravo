@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "El lenguaje en las historias de fantasía (ii)"
 date: "2011-02-11"
@@ -6,7 +6,7 @@ categories:
   - "articulos"
 ---
 
-### [![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")](http://sombrasyceniza.com/wp-content/uploads/2010/10/logo_e_eyb.gif)
+### ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")
 
 Siguiente entrega del octavo informe Ouróboros, dividido en dos partes, sobre el tratamiento del lenguaje en las historias de fantasía.
 

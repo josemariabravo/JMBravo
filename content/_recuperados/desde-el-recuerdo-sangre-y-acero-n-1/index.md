@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Desde el recuerdo: Sangre y Acero (n.º 1)"
 date: "2010-09-22"
@@ -9,7 +9,7 @@ tags:
 coverImage: "Sangre-y-Acero_1_01-scaled.jpg"
 ---
 
-[![sya_portada](images/sya_portada2.jpg)](http://www.jmbravo.com/wp-content/uploads/2010/09/sya_portada2.jpg)
+![sya_portada](images/sya_portada2.jpg)
 
 La historia del fanzine _Sangre y Acero_ (a partir de ahora, SyA) comenzó hace unos 15 años, o así, cuando conocí a [Andrés Díaz Sánchez](http://aeeyb.es/articulos/autores/25-andres-diaz-sanchez.html) gracias al correo del lector del cómic _La Espada Salvaje de Conan_, allá por 1995. Andrés era un corresponsal asiduo a dicho correo, y un día me decidí a escribirle.  (Una carta, por cierto. De esas que se escribían a mano, sí.)
 

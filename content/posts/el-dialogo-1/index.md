@@ -1,4 +1,4 @@
----
+﻿---
 title: "El diálogo, 1"
 date: "2017-06-10"
 categories: 
@@ -100,7 +100,7 @@ Sin embargo, es mucho más recomendable emplear el carácter _horizontal bar_ (U
 
 Veamos por qué con estos dos ejemplos:
 
-[![](3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png)](http://www.jmbravo.com/wp-content/uploads/2018/03/3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png)
+![](3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png)
 
 Como puede apreciarse, en el primer ejemplo el carácter _em dash_ no se comporta todo lo bien que nos gustaría cuando la raya se encuentra a final de una línea, pues lo deseable sería que permaneciera pegada al inciso al cual afecta. En el segundo ejemplo, en el que se ha empleado el carácter _horizontal bar,_ el comportamiento es el deseable (y correcto desde el punto de vista ortotipográfico).[^8]
 

@@ -1,4 +1,4 @@
----
+﻿---
 draft: true
 title: "Sobre Sombras y ceniza, 1: Quid"
 date: "2019-07-19"
@@ -11,7 +11,7 @@ Es curioso, pero encuentro harto difícil hablar de mi obra (fíjense que vacil�
 
 Quién sabe. El caso es que he decidido poner por escrito algunas ideas y reflexiones sobre la novela, a modo de complemento de las «Notas sobre el trasfondo» que incluí poco antes de ultimar la autopublicación. Las cuales, por cierto, les brindo más abajo:
 
-[Sombras y ceniza – Notas sobre el trasfondo](http://jmbravo.com/download/sombras-y-ceniza-notas-sobre-el-trasfondo/)
+[Sombras y ceniza – Notas sobre el trasfondo](/download/sombras-y-ceniza-notas-sobre-el-trasfondo/)
 
 Fue mi amigo Pablo Vila el que me convenció de incluir este apéndice. Y tuvo que hacerlo porque me resistía a escribirlo. He de admitir que buena parte de mi reluctancia no eran sino prisas, impaciencia y, ¿para qué negarlo?, pereza. Y eso que —valga el alarde— tenía material de sobra para unos apéndices al menos el doble de extensos. Sea como fuere, opino que, pese a la premura, el resultado ha merecido la pena.
 
@@ -19,7 +19,7 @@ Así que veamos… ¿por dónde comenzar? Ah. Sí. Por el principio. No es mala 
 
 ## ¿Cómo concebí la novela?
 
-Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine _[Sangre y acero](http://jmbravo.com/category/sangre-y-acero/)_, el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga aquí).
+Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine _[Sangre y acero](/category/sangre-y-acero/)_, el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga aquí).
 
 De los relatos de Daramad Mur Asyb ya hablaré a su debido momento. Que espero no se demoré mucho; mi intención es reunirlos en un libro de relatos (_Runas de sangre_ es el título provisional) unidos por un hilo conductor (un _fix-up_, lo llaman los gringos) y autopublicarlos en edición digital y física.
 
@@ -29,7 +29,7 @@ Así que _Sangre y acero_, un fanzine editado en fotocopiadora, del que salían 
 
 No fue una buena idea, quizá. Resulta obvio que no estaba preparado para acometer un proyecto de tal magnitud. Muchas cosas a la vez tironeaban de mi atención, y tras un comienzo prometedor, en el que añadí varios personajes protagonistas, cambié el principal y fui madurando la trama, el proyecto quedó estancado muchos años.
 
-Pero eso ya lo conté (lloré) [aquí](https://jmbravo.com/esto-es-solo-el-principio/). Y [aquí](https://jmbravo.com/mis-pecados-capitales-en-esto-de-escribir/).
+Pero eso ya lo conté (lloré) [aquí](/esto-es-solo-el-principio/). Y [aquí](/mis-pecados-capitales-en-esto-de-escribir/).
 
 ## Sobre la estructura
 
