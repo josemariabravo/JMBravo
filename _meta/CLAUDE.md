@@ -19,6 +19,27 @@ sitio estático de José María Bravo (autor de fantasía/terror), migrado de wo
 4. fechas en español: usar el partial `layouts/partials/fecha.html`, no `.Date.Format` con nombres de mes en inglés (hugo no traduce los nombres de mes por defecto pese a `defaultContentLanguage = "es"`).
 5. sin Google Fonts ni ningún embed que dependa de un tercero salvo que José lo apruebe explícitamente — el sitio es deliberadamente cero-cookies, cero-tracking; ya se sustituyó un widget de Goodreads por un enlace plano por esta misma razón.
 
+## descargas
+
+los PDFs descargables siguen esta convención:
+
+- el fichero va en `static/files/nombre-del-archivo.pdf` — aquí vivirán **todos** los PDFs del sitio.
+- cada descarga tiene su propia carpeta en `content/descargas/nombre-descarga/` con un único `index.md` (leaf bundle, **sin** `_index.md` — tenerlos dos en la misma carpeta rompe Hugo).
+- el frontmatter del `index.md` usa el campo `archivo: files/nombre-del-archivo.pdf`; el template aplica `| relURL` para construir la ruta final.
+- campo opcional `tipo` para la etiqueta visible (p.ej. «Relato gratuito», «Publicación»).
+
+ejemplo mínimo:
+```yaml
+---
+title: "Sangre y acero, n.º 1"
+date: 2026-06-30
+tipo: Publicación
+archivo: files/Sangre y Acero_1.pdf
+description: "..."
+---
+Texto descriptivo de la descarga.
+```
+
 ## flujo de publicación
 
 publicación manual vía GitHub Desktop (commit + push) — se descartó el plugin Git de Obsidian por preferencia explícita del usuario (quiere revisar el diff antes de confirmar). github actions (`.github/workflows/hugo.yml`) construye y despliega solo.

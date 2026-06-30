@@ -4,7 +4,6 @@ date: "2026-06-30"
 no_pager: true
 description: "Aviso legal e información sobre el titular de jmbravo.com, conforme a la LSSICE."
 ---
-
 ## Titular del sitio web
 
 En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSICE), se facilitan los siguientes datos:
@@ -23,7 +22,7 @@ Todos los textos, imágenes y demás contenidos publicados en este sitio son pro
 
 ## Exclusión de responsabilidad
 
-El titular no se hace responsable del contenido de los sitios web enlazados desde este. Los enlaces externos se ofrecen a título informativo y no implican ningún tipo de endorsement o responsabilidad sobre su contenido.
+El titular no se hace responsable del contenido de los sitios web enlazados desde este. Los enlaces externos se ofrecen a título informativo y no implican ningún tipo de *endorsement* o responsabilidad sobre su contenido.
 
 ## Legislación aplicable
 
