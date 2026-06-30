@@ -14,7 +14,7 @@ Es sencillo. Tienes que reescribir esa escena o ese capítulo. Quizá incluso pa
 
 Ah, reescribir. Un fastidio en toda regla, sin duda. Pero reescribir es como los impuestos: necesario y ―para el común de los mortales― inevitable si queremos conseguir una obra de calidad.
 
-En este artículo quiero tratar las estrategias habituales que sigo cuando he de reescribir una escena (y donde pone escena, léase pasaje, capítulo, o incluso si me apuran, obra; les remito [a mi anterior artículo](http://www.jmbravo.com/planificar-una-escena/) si tienen dudas respecto a qué es una escena); pero antes, déjenme que aclare unos pocos conceptos:
+En este artículo quiero tratar las estrategias habituales que sigo cuando he de reescribir una escena (y donde pone escena, léase pasaje, capítulo, o incluso si me apuran, obra; les remito [a mi anterior artículo](/planificar-una-escena/) si tienen dudas respecto a qué es una escena); pero antes, déjenme que aclare unos pocos conceptos:
 
 ### Diferencias entre corregir, revisar y reescribir un texto:
 

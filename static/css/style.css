@@ -1155,4 +1155,85 @@
 
   .galeria-dialog-close:hover { background: var(--accent); }
 
+  /* ·· responsive: móvil ·· */
+
+  @media (max-width: 720px) {
+
+    /* header */
+
+    .site-header-inner {
+      height: 64px;
+    }
+
+    .site-logo svg {
+      height: 52px;
+    }
+
+    .site-nav a {
+      font-size: var(--fs-xs);
+    }
+
+    .site-nav li + li::before {
+      padding: 0 .55rem;
+    }
+
+    /* barra búsqueda — reajustar top al nuevo alto del header */
+
+    .site-search-bar {
+      top: 64px;
+    }
+
+    /* hero — ocultar fondo en pantallas muy estrechas */
+
+    .hero-bg {
+      display: none;
+    }
+
+    /* imágenes flotadas — cancelar float */
+
+    .img-derecha,
+    .img-izquierda {
+      float: none;
+      margin: 0 0 var(--sp-2) 0;
+      max-width: 100%;
+    }
+
+    /* sidebar — ya manejado en 860px, pero ajustar posición sticky */
+
+    .sidebar {
+      top: calc(64px + 2.5rem + var(--sp-2));
+    }
+
+    /* footer — apilar en columna */
+
+    .site-footer-inner {
+      flex-direction: column;
+      gap: var(--sp-2);
+      text-align: center;
+    }
+
+    .site-footer-nav {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: var(--sp-2);
+    }
+
+  }
+
+  @media (max-width: 480px) {
+
+    /* nav — scroll horizontal si los ítems no caben */
+
+    .site-nav ul {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      padding-bottom: 2px;
+    }
+
+    .site-nav li {
+      flex-shrink: 0;
+    }
+
+  }
+
 }
