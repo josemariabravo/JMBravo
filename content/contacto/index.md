@@ -1,7 +1,7 @@
 ---
 title: Contacto
 date: 2014-01-25
-no_pager: true
+no_pager: "true"
 ---
 Si está interesado en contactar conmigo, puede escribirme directamente a [josemariabravo@yahoo.es](mailto:josemariabravo@yahoo.es). Ya sabe: un correo electrónico. En los albores de Internet, se escribían muchos incluso fuera del trabajo.
 
