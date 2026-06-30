@@ -1,4 +1,15 @@
 {{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "{{ .Title }}",
+  "author": { "@type": "Person", "name": "José María Bravo", "url": "https://jmbravo.com/sobre-mi/" },
+  "description": "{{ with .Params.resumen }}{{ . }}{{ end }}",
+  "url": "{{ .Permalink }}"{{ with .Params.amazon_url }},
+  "offers": { "@type": "Offer", "url": "{{ . }}", "seller": { "@type": "Organization", "name": "Amazon" } }{{ end }}
+}
+</script>
 <div class="container">
   <article class="book-detail">
     <div class="book-detail-header">
