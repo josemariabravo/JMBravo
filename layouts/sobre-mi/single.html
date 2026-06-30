@@ -1,0 +1,25 @@
+{{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "José María Bravo Lineros",
+  "url": "https://jmbravo.com",
+  "description": "Escritor español de fantasía, terror y novela negra.",
+  "sameAs": [
+    "https://www.goodreads.com/author/show/19179861.Jos_Mar_a_Bravo_Lineros",
+    "https://www.linkedin.com/in/josemariabravo/"
+  ]
+}
+</script>
+<div class="container article-layout">
+  <article class="post">
+    <h1>{{ .Title }}</h1>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+    {{ if not .Params.no_pager }}{{ partial "page-close.html" . }}{{ end }}
+  </article>
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

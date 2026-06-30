@@ -8,7 +8,8 @@
       {{ $featured := $book.Params.featured | default false }}
       <a class="book-grid-item{{ if $featured }} book-grid-item--featured{{ end }}" href="{{ $book.Permalink }}">
         {{ with $book.Resources.GetMatch ($book.Params.cover | default "") }}
-          <img src="{{ .RelPermalink }}" alt="{{ $book.Title }}">
+          {{ $webp := .Process "webp" }}
+          <img src="{{ $webp.RelPermalink }}" alt="{{ $book.Title }}">
         {{ end }}
         <h3>{{ $book.Title }}</h3>
         {{ with $book.Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}

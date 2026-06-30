@@ -14,7 +14,8 @@
   <article class="book-detail">
     <div class="book-detail-header">
       {{ with .Resources.GetMatch (.Params.cover | default "") }}
-      <img class="book-detail-cover" src="{{ .RelPermalink }}" alt="{{ $.Title }}">
+      {{ $webp := .Process "webp" }}
+      <img class="book-detail-cover" src="{{ $webp.RelPermalink }}" alt="{{ $.Title }}">
       {{ end }}
       <div class="book-detail-info">
         <h1>{{ $.Title }}</h1>
