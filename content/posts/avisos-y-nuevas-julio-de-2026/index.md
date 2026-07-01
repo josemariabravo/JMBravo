@@ -1,6 +1,6 @@
 ---
 title: Avisos y nuevas (julio de 2026)
-date: 2026-07-01
+date: 2026-07-15
 categories:
   - novedades
 tags:
@@ -23,7 +23,7 @@ El cambio no es baladí. De páginas generadas mediante una consulta a una base 
 ¿Ventajas? Podría ponerme técnico y hablar de rapidez de carga, seguridad, coste y mantenimiento, control de versiones, privacidad, etc., pero no soy técnico, al menos no de informática (debí estudiar informática, ay; tengo el somatipo, desde luego). Así que lo expresaré desde mi punto de vista, resumido en dos palabras: control absoluto. Cada artículo, cada pieza de texto, cada bit de este sitio web está alojado en mi disco duro. ¿Quiero escribir un artículo nuevo? Abro un artículo en la bóveda de Obsidian, lo escribo (en sintaxis Markdown,[^2]
 ahí es nada) y, cuando quiero publicar, lo subo a un repositorio. No hay que meterlo en un editor con etiquetas y códigos que tenga que aprender. No hay que tenerle miedo a errores de seguridad o corrupciones de la base de datos. Siéntate, escribe en Obsidian una pieza de texto y súbela como página estática. Y, además, puedo previsualizarlo tranquilamente en mi ordenador, antes de subirlo, gracias a [hugo server](https://gohugo.io/commands/hugo_server/).
 
-No todo son ventajas, claro. Por ejemplo, supuestamente tendré que renunciar a ciertas funcionalidades de Wordpress, como los comentarios (pero nunca les he tenido aprecio; de hecho, los tenía desactivados desde hacía años), los widgets y… no sé, más cosas relucientes que no usaba ni pensaba usar. También es cierto que he tenido que currarme una plantilla propia, pero gracias a Claude Code ha sido un paseo.
+No todo son ventajas, claro. Por ejemplo, supuestamente tendré que renunciar a ciertas funcionalidades de Wordpress, como los comentarios (pero nunca les he tenido aprecio; de hecho, los tenía desactivados desde hacía años), los widgets y… no sé, más cosas relucientes que no usaba ni pensaba usar. También es cierto que he tenido que currarme una plantilla propia, pero gracias a Claude Code ha sido un paseo y, modestia aparte, este **Codex Ferox** no nos (ejem) ha quedado nada mal, nada mal.
 
 Así que este ha sido el resultado: una nueva web para JMBravo.com pensada para durar, con menos costes y mayor libertad para hacer con ella lo que me plazca.
 

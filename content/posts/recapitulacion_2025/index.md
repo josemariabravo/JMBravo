@@ -1,11 +1,11 @@
 ---
-title: "Recapitulación de 2025"
-date: "2026-01-15"
+title: Recapitulación de 2025
+date: 2026-01-15
 categories:
-  - "novedades"
-
+  - novedades
 tags:
-  - "recapitulaciones"
+  - recapitulaciones
+draft: true
 ---
 Aquí estamos de nuevo. 2025 pasó rápido, los años pasan cada vez más rápido, ¿será la edad? Claro, ¿qué, si no, hombre?
 

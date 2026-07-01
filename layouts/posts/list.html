@@ -1,0 +1,63 @@
+{{ define "main" }}
+<div class="container">
+  <div class="list-page">
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}<div class="section-intro">{{ .Content }}</div>{{ end }}
+
+    {{ $posts := .Pages.ByDate.Reverse }}
+    {{ $catLabels := dict "articulos" "Artículos" "novedades" "Novedades" "recomendaciones" "Recomendaciones" }}
+    {{ $cats := slice }}
+    {{ range $posts }}
+      {{ with .Params.categories }}{{ $cats = $cats | append (index . 0) }}{{ end }}
+    {{ end }}
+    {{ $cats = $cats | uniq | sort }}
+
+    {{ if gt (len $cats) 1 }}
+    <div class="archive-filters" role="group" aria-label="Filtrar artículos por categoría">
+      <button type="button" class="archive-filter is-active" data-filter="todos">Todos</button>
+      {{ range $cats }}
+      <button type="button" class="archive-filter" data-filter="{{ . }}">{{ default (. | humanize) (index $catLabels .) }}</button>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ $currentYear := "" }}
+    {{ range $posts }}
+      {{ $year := .Date.Format "2006" }}
+      {{ if ne $year $currentYear }}
+        {{ if ne $currentYear "" }}</ul></div>{{ end }}
+        <div class="archive-year" data-year="{{ $year }}">
+          <h2 class="archive-year-heading">{{ $year }}</h2>
+          <ul class="post-list">
+        {{ $currentYear = $year }}
+      {{ end }}
+      <li class="archive-row" data-cat="{{ with .Params.categories }}{{ index . 0 }}{{ end }}">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
+      </li>
+    {{ end }}
+    {{ if ne $currentYear "" }}</ul></div>{{ end }}
+  </div>
+</div>
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.archive-filter');
+  var yearBlocks = document.querySelectorAll('.archive-year');
+  buttons.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      buttons.forEach(function (b) { b.classList.toggle('is-active', b === btn); });
+      var filter = btn.getAttribute('data-filter');
+      yearBlocks.forEach(function (block) {
+        var anyVisible = false;
+        block.querySelectorAll('.archive-row').forEach(function (row) {
+          var show = filter === 'todos' || row.getAttribute('data-cat') === filter;
+          row.style.display = show ? '' : 'none';
+          if (show) anyVisible = true;
+        });
+        block.style.display = anyVisible ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
+{{ end }}
