@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Sangre y Acero n.º 1
+title: Sangre y acero n.º 1
 date: 2010-09-22
 categories:
   - recomendaciones
