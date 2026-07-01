@@ -1,5 +1,5 @@
 /* ==============================================
-   Codex — sistema visual de jmbravo.com
+   CODEX FEROX — sistema visual de jmbravo.com
    ============================================== */
 
 @layer reset, base, layout, components, pages;
@@ -1098,6 +1098,16 @@
   }
 
   .site-footer-nav a:hover { color: var(--text); }
+
+  .site-footer-credit {
+    margin-top: var(--sp-2);
+    font-family: var(--font-logo);
+    font-size: .7rem;
+    letter-spacing: .28em;
+    text-transform: uppercase;
+    color: var(--line);
+    text-align: center;
+  }
 
   /* ·· galería ·· */
 
