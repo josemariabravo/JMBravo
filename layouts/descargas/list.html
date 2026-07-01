@@ -5,7 +5,7 @@
     {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
     {{ if .Pages }}
     <ul class="descargas-list">
-      {{ range .Pages.ByDate.Reverse }}
+      {{ range .Pages.ByDate }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ with .Params.tipo }}<span class="descarga-tipo">{{ . }}</span>{{ end }}
