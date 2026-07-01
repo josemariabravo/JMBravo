@@ -361,7 +361,7 @@
   /* ·· home: libros ·· */
 
   .home-books {
-    padding-block: var(--sp-4);
+    padding-block: var(--sp-3);
     border-bottom: 1px solid var(--accent);
   }
 
@@ -402,7 +402,7 @@
   /* ·· home: lo último en ·· */
 
   .home-latest {
-    padding-block: var(--sp-4);
+    padding-block: var(--sp-3);
   }
 
   .home-latest > h2 {
@@ -529,7 +529,7 @@
 
   .list-page h1 { margin-bottom: var(--sp-3); }
 
-  /* ·· libros: rejilla ·· */
+  /* ·· Sección Libros: rejilla ·· */
 
   .book-grid {
     display: grid;
