@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "IMPACT-History.jpg"
 ---
-
 He leído esta mañana en [Carpe Noctem](http://sirmia.wordpress.com/), la bitácora recién estrenada de Israel Sánchez, esta interesante reflexión sobre el género que tanto amamos: [De géneros, generalidades y etiquetas en general](http://sirmia.wordpress.com/2010/10/05/de-generos-generalidades-y-etiquetas-en-general/).
 
 Estoy de acuerdo con las reflexiones de Israel. O con la mayoría. Me llamó la atención especialmente este párrafo al final de su artículo:

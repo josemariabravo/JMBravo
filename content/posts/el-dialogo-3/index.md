@@ -5,7 +5,6 @@ categories:
   - "articulos"
 coverImage: "pexels-photo-1309899.jpeg"
 ---
-
 En esta tercera y última entrega de esta serie de artículos abordaremos los incisos del diálogo y daremos unos cuantos consejos sobre ellos.
 
 Comencemos:

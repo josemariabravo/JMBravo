@@ -5,7 +5,6 @@ date: "2011-07-30"
 categories: 
   - "articulos"
 ---
-
 ### Capítulo 4: Cripples, Bastards, and Broken Things
 
 #### Escena n.º 1: Tyrion conversa con Theon

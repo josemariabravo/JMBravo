@@ -7,7 +7,6 @@ categories:
 tags:
   - sangre-y-acero
 ---
-
 ![Sangre-y-Acero\_4\_01](images/sangreyacero_4_01.jpg "Sangre-y-Acero_4_01") No, no me había olvidado de Sangre y Acero. Aquí os traigo el cuarto número, publicado originalmente en marzo de 2001, ocho meses después del número anterior. Este es el contenido:
 
 - **El corazón de la oscuridad**, relato de Luis G. del Corral. Por cierto, este relato tiene un desenlace prácticamente idéntico al del videojuego “Príncipe de Persia” (la primera y mítica versión, que jugué en mi viejo [Amstrad CPC 6128](http://es.wikipedia.org/wiki/Amstrad_CPC_6128)); lástima, me quedé con ganas de comentarlo con su autor y hemos perdido el contacto. Este relato viene acompañado de portadilla del ilustrador José Blaya.<!--more-->

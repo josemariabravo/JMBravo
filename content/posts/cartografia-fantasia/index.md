@@ -7,7 +7,6 @@ categories:
 tags: 
   - "cartografia"
 ---
-
 ![](hobbit_map.jpg "hobbit_map.jpg")Me encantan los mapas, en especial los de lugares fantásticos. Hace ya más de 20 años que dibujé el primero; no lo conservo, claro, pero lo recuerdo como si lo tuviera enfrente: era una copia del mapa que aparece en El Hobbit, de Tolkien, que dibujé a tinta, runas incluidas.
 
 Desde entonces he dibujado muchos mapas, con mayor o menor arte. Cuando era director de juego de rol tuve que dibujar muchos, y quizá sea por eso que no concibo escribir una historia de fantasía sin dibujar mapas y planos, aunque sean un bosquejos mal garrapateados.

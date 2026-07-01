@@ -7,7 +7,6 @@ categories:
 tags:
   - sangre-y-acero
 ---
-
 ![SyA\_3.jpg](images/sya_3.jpg)Y le toca el turno al tercer número de **Sangre y Acero**, publicado en julio de 2000, casi un año después del segundo. Ya teníamos encarrilada la maquetación y la línea editorial, y la respuesta de los aficionados había sido muy positiva, aunque teníamos el problema que tuvo toda publicación de aficionados: la imposibilidad de acceder a los canales de distribución profesionales.
 
 Sea como fuere, en este número 3 incluimos el siguiente contenido:

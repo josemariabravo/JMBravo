@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "f3ef15e3bbffa9dd12e3f6a6968c9dbd-1-e1685683903672.jpg"
 ---
-
 _The pound of flesh, which I demand of him,_ _Is dearly bought; 'tis mine and I will have it._ _If you deny me, fie upon your law!_
 
 _The merchant of Venice_, William Shakespeare

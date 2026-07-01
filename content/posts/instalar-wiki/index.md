@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "wiki.jpeg"
 ---
-
 El diablo está en los detalles, dicen. Y si hay algo que tenga muchos detalles es una historia, máxime si es de género fantástico: descripciones de personajes, lugares y sociedades; referencias históricas, culturales y religiosas; y cómo no, la propia maraña de referencias cruzadas del argumento en sí.
 
 Y todo ha de estar perfectamente imbricado, o nuestra historia corre el peligro de hacer aguas. Una tarea nada baladí, desde luego: el escritor ha de elaborar, reunir y ordenar las ingentes cantidades de información presentes en su historia.

@@ -12,6 +12,13 @@
     <div class="post-content">
       {{ .Content }}
     </div>
+    {{ with .GetTerms "tags" }}
+    <ul class="post-tags">
+      {{ range . }}
+      <li><a href="{{ .Permalink }}">{{ .Title | replaceRE `-` ` ` | lower }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
     {{ $related := first 3 (.Site.RegularPages.Related .) }}
     {{ with $related }}
     <aside class="related-posts">

@@ -1,11 +1,9 @@
 ---
-draft: true
 title: "Lugares comunes y otras hierbas, i: Plot armor"
 date: "2011-02-23"
 categories: 
   - "articulos"
 ---
-
 ![plot\_armor](images/plot_armor1.jpg "plot_armor") Hace poco me topé con una página en inglés muy interesante por pura casualidad, y antes de darme cuenta me había tirado casi tres horas navegando por sus páginas, con una sonrisa en los labios. La página de marras es [Tvtropes.org](http://tvtropes.org/). Quizá algunos de vosotros la conozcáis. Para los que no, [Tvtropes.org](http://tvtropes.org/) es una wiki sobre _tropes:_ tal y como ellos los denominan, un catálogo de los “trucos del oficio”, los lugares comunes más habituales en la ficción (pese al título, abarca desde la televisión a la literatura, pasando por juegos de rol, incluso).
 
 Pero ¿qué es un _trope_? La traducción mocosuena sería “tropo”, pero no es lo mismo en inglés que en español. En español, un “tropo” es esencialmente una figura retórica que comporta la sustitución de una palabra o expresión por otra de sentido figurado. Veamos un par de diccionarios:

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Avisos y nuevas (octubre de 2024)"
 date: "2024-10-29"
 categories: 
@@ -9,7 +8,6 @@ tags:
   - "libros"
 coverImage: "Dead-wrong_cubierta_v1.jpg"
 ---
-
 ## Edición física de _Homini lupus_
 
 Ya está disponible en Amazon la edición física del segundo volumen de los _Cuentos escabrosos_, _[Homini lupus](https://www.amazon.es/dp/B0DGBMCGP7)_, tanto en rústica (tapa blanda) como en cartoné (tapa dura). Aún no he podido hojearlo (en PDF no cuenta): me repito hasta la saciedad, pero hasta que no tengo el libro en las manos, no lo considero terminado.

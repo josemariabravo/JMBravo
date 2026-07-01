@@ -8,7 +8,6 @@ tags:
   - sangre-y-acero
 coverImage: Sangre-y-acero_5-scaled.jpg
 ---
-
 ![Cubierta del n.º 5 de \_Sangre y acero\_.](images/Sangre-y-acero_5-728x1030.jpg)
 
 De acuerdo, me lo he tomado con calma. He tardado prácticamente lo mismo en traeros el número 5 de _Sangre y Acero_ que lo que tardamos en su día en publicarlo: allá por julio de 2001. Casi diez años... cómo pasa el tiempo. Este fue el penúltimo número que sacamos, con el siguiente contenido:

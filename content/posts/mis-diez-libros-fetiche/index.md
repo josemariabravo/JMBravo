@@ -5,7 +5,6 @@ categories:
   - "articulos"
 coverImage: "imprenta-1.jpg"
 ---
-
 En [Escritoenelagua.com](http://www.escritoenelagua.com/?p=2760) Rodolfo Martínez invitó a los lectores de su bitácora a elaborar una lista con sus diez lecturas clave, esas que nos han configurado como lector, y de las que algunos reniegan. Lo cito:
 
 > Cada uno de nosotros tiene varios libros fetiche. Libros sin los que, tal vez, seríamos distintos; que nos han marcado en un momento muy concreto de nuestra vida; que nos han abierto los ojos, nos han mostrado lugares nuevos  o nos han enseñado a contemplar de otra manera lugares familiares. Libros que, en cierto modo, son parte de lo que somos. Nos definen, igual que lo hacen nuestras ideas políticas, nuestras creencias religiosas o nuestra actitud general hacia la vida.

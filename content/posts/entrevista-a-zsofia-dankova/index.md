@@ -1,12 +1,10 @@
 ---
-draft: true
 title: "Entrevista a Zsofia Dankova"
 date: "2019-07-07"
 categories: 
   - "articulos"
 coverImage: "zsofia_02.jpg"
 ---
-
 «No juzgues un libro por la cubierta», dicen.
 
 Menuda estupidez. Seamos claros: buena parte del atractivo de la literatura fantástica, en especial para los no conversos, son las cubiertas de los libros. Sirven de reclamo visual y ayudan al lector a situar la obra dentro de un género (o subgénero) concreto. Lo cual no tiene por qué ser, a priori, malo.

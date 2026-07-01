@@ -3,7 +3,6 @@
 Referencia rápida de sintaxis y patrones del sitio. Todo lo de aquí funciona tanto en Hugo como en la vista previa de Obsidian, salvo los shortcodes (marcados con ⚙️), que son exclusivos de Hugo.
 
 ---
-
 ## Frontmatter básico
 
 ```yaml
@@ -25,14 +24,12 @@ Parámetros opcionales disponibles:
 | `no_pager: true` | Oculta metadatos (fecha, tiempo de lectura) y navegación anterior/siguiente. Útil en páginas estáticas como Contacto o Sobre mí. |
 
 ---
-
 ## Estructura de un artículo
 
 Los artículos viven en `content/posts/nombre-del-articulo/index.md`.  
 El nombre de la carpeta define la URL — no cambiar una vez publicado.
 
 ---
-
 ## Énfasis y formato
 
 ```markdown
@@ -43,7 +40,6 @@ El nombre de la carpeta define la URL — no cambiar una vez publicado.
 ```
 
 ---
-
 ## Encabezados
 
 ```markdown
@@ -55,14 +51,12 @@ El nombre de la carpeta define la URL — no cambiar una vez publicado.
 El `# H1` lo pone la plantilla con el título del frontmatter — no repetirlo en el cuerpo.
 
 ---
-
 ## Párrafos y saltos de línea
 
 Un párrafo es un bloque de texto separado por una línea en blanco.  
 Para un salto de línea dentro del mismo párrafo: dos espacios al final de la línea, o `\` al final.
 
 ---
-
 ## Enlaces
 
 ```markdown
@@ -78,7 +72,6 @@ Para un salto de línea dentro del mismo párrafo: dos espacios al final de la l
 La segunda forma (`relref`) es más robusta: Hugo avisa si el destino no existe, y tolera cambios en la URL base del sitio.
 
 ---
-
 ## Imágenes
 
 Las imágenes van dentro de la carpeta del artículo (page bundle):
@@ -114,7 +107,6 @@ Para controlar alineación y tamaño, se usa el atributo título con palabras cl
 Recuerda que la imagen debe estar físicamente en la misma carpeta que el `index.md` de la página o artículo (`content/sobre-mi/`, `content/posts/mi-articulo/`, etc.) para que Hugo la encuentre.
 
 ---
-
 ## Listas
 
 **No ordenada:**
@@ -134,7 +126,6 @@ Recuerda que la imagen debe estar físicamente en la misma carpeta que el `index
 ```
 
 ---
-
 ## Citas
 
 ```markdown
@@ -146,7 +137,6 @@ Recuerda que la imagen debe estar físicamente en la misma carpeta que el `index
 ```
 
 ---
-
 ## Código
 
 Código en línea: `` `función()` ``
@@ -163,7 +153,6 @@ def saludo(nombre):
 Lenguajes habituales: `python`, `javascript`, `html`, `css`, `bash`, `markdown`.
 
 ---
-
 ## Notas al pie
 
 ```markdown
@@ -178,7 +167,6 @@ Otra nota más adelante.[^nombre-descriptivo]
 Las notas se definen al final del archivo pero Hugo las renderiza agrupadas al pie del artículo.
 
 ---
-
 ## Línea horizontal
 
 ```markdown
@@ -188,7 +176,6 @@ Las notas se definen al final del archivo pero Hugo las renderiza agrupadas al p
 (Separada del texto anterior y siguiente por una línea en blanco.)
 
 ---
-
 ## Tablas
 
 ```markdown
@@ -207,7 +194,6 @@ Alineación opcional:
 ```
 
 ---
-
 ## ⚙️ Shortcode: nota destacada
 
 Genera un párrafo con estilo visual diferenciado (clase CSS `nota`):
@@ -220,7 +206,6 @@ Admite **negrita**, _cursiva_ y [enlaces](https://ejemplo.com).
 ```
 
 ---
-
 ## ⚙️ Shortcode: figura con pie de foto
 
 Hugo incluye este shortcode de serie:
@@ -230,7 +215,6 @@ Hugo incluye este shortcode de serie:
 ```
 
 ---
-
 ## Caracteres especiales y tipografía
 
 Hugo convierte automáticamente:
@@ -245,7 +229,6 @@ Hugo convierte automáticamente:
 Para forzar un carácter literal sin conversión, escaparlo con `\`: `\*`, `\[`, etc.
 
 ---
-
 ## Galerías de imágenes ⚙️
 
 Las galerías van en su propia sección, separadas de los artículos.
@@ -261,14 +244,12 @@ Las galerías van en su propia sección, separadas de los artículos.
 title: "Nombre de la galería"
 date: "2026-01-15"
 ---
-
 {{</* galeria */>}}
 ```
 
 El shortcode recoge automáticamente todas las imágenes de la carpeta y las muestra en un grid. Al pinchar en una imagen se abre a pantalla completa; se cierra pinchando fuera o en el botón ×.
 
 ---
-
 ## Lo que no funciona en Obsidian (solo Hugo)
 
 - Shortcodes (`{{</* nota */>}}`, `{{</* figure */>}}`): Obsidian los muestra como texto plano. Son funcionales al publicar.

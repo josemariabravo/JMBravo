@@ -4,7 +4,6 @@ date: "2010-12-06"
 categories: 
   - "articulos"
 ---
-
 La ventaja de escribir a rebufo es que tienes la oportunidad de hacerlo con perspectiva. Así que debo intentarlo, al menos. ¿De qué va la entrada de hoy? En el fondo, de mi tema maldito preferido: el fandom. Y me explico. Recientemente saltó la polémica en uno de los mentideros más concurridos del fantástico español en la red, Sedice.com, con el hilo iniciado por **ollonois**, titulado de esta guisa: [¿Demasiados/as autores/as españoles/as?](http://www.sedice.com/modules.php?name=Forums&file=viewtopic&t=41560&postdays=0&postorder=asc&start=0).
 
 (No diré nada de la los _os/as/es/as_, que pierdo el hilo.)

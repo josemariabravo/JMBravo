@@ -7,7 +7,6 @@ amazon_url: "https://www.amazon.es/dp/B07RT6THJ9/"
 aliases:
   - /sombras-y-ceniza/
 ---
-
 _Primera sangre, repitió para sí Naúd. Largos años de adiestramiento se ponían a prueba ahora; sería el fin de las noches en vela, del miedo a la cobardía y al deshonor. Al cabo, todo se resumía en algo muy sencillo: o mataba o lo matarían._
 
 ## Sobre la historia

@@ -822,6 +822,31 @@
     color: var(--muted);
   }
 
+  /* ·· tags del artículo ·· */
+
+  .post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+    margin-top: var(--sp-3);
+  }
+
+  .post-tags li a {
+    display: inline-block;
+    padding: .3rem .8rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    transition: border-color var(--ease), color var(--ease);
+  }
+
+  .post-tags li a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
   /* ·· artículos relacionados ·· */
 
   .related-posts {

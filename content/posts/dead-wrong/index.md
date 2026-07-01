@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Dead wrong"
 date: "2024-11-23"
 categories: 
@@ -8,7 +7,6 @@ tags:
   - "libros"
 coverImage: "cover.jpg"
 ---
-
 Ya está disponible en Amazon mi nueva obra, _Dead wrong_, una noveleta (o, como prefiero llamar al formato, novela ultracorta) disponible en edición digital y, próximamente, en formato físico. Aquí, la sinopsis:
 
 _El deseo vence al miedo._

@@ -8,7 +8,6 @@ tags:
   - "esgrima"
 coverImage: "excalibur1-1.jpg"
 ---
-
 ![excalibur](excalibur1.jpg)
 
 Debía tener seis o siete años, calculo, la primera vez que la vi, y desde sus primeros fotogramas quedé fascinado. Años después volví a verla; ya no era lo mismo. Había envejecido bastante mal, y los combates a espada entre caballeros enfundados en brillantes (y anacrónicas) armaduras habían perdido mucho de su atractivo.

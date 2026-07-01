@@ -7,7 +7,6 @@ tags:
   - "lenguaje"
 coverImage: "1158260369_3ba07950e5_z-1.jpg"
 ---
-
 Continuamos nuestra serie con tres figuras retóricas de la letra a: la analepsis, la anástrofe y la antanaclasis.
 
 ### Analepsis

@@ -10,7 +10,6 @@ tags:
   - "libros"
 coverImage: "biblioteca.jpeg"
 ---
-
 Un amigo de la red, hace ya unos años, teleco de profesión, fue el primero en hablarme de la tinta digital y de sus maravillas. Aún no se han cumplido la mayor parte de sus cábalas sobre esta tecnología, pero ya hace tiempo que están en el mercado los lectores de elibros.
 
 No voy a descubrir la pólvora, vamos, si digo que estamos ante el futuro del texto escrito; otras plumas más cualificadas y ágiles lo habrán subrayado hasta aburrir. No obstante, el apoyo –a mi juicio- que se le está dando a este nuevo formato es muy tibio por parte de las editoriales profesionales.

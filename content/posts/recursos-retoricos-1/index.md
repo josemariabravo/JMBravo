@@ -6,7 +6,6 @@ categories:
 tags: 
   - "lenguaje"
 ---
-
 ## Introducción
 
 Puede que no supieras de su existencia, pero los has leído e incluso, quizá, los has usado de forma inconsciente, bien gracias a la inspiración o al aprendizaje inherente que supone la lectura.

@@ -3,7 +3,7 @@ title: "Recapitulación de 2025"
 date: "2026-01-15"
 categories:
   - "novedades"
-draft: true
+
 tags:
   - "recapitulaciones"
 ---

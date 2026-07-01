@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "imprenta-1.jpg"
 ---
-
 Leí ayer en la bitácora de Enrique Dans este interesante artículo, "[El futuro del papel](http://www.enriquedans.com/2010/09/el-futuro-del-papel.html)", que recomiendo leer, por su interés y concisión. Me gustó especialmente su segundo párrafo, un certero análisis de la renuencia ante abandonar el papel como medio de transmitir información que invita a no pocas reflexiones. Dice Enrique:
 
 > El futuro del papel es ya meramente coyuntural. Si cabe, como mucho, generacional: el papel durará hasta que aquellos que crecieron en un mundo en el que el papel era la forma más barata y eficiente de diseminar información se pasen finalmente a mejores métodos o, simplemente, desaparezcan. En una generación, la idea de cultivar bosques, talarlos, transportar la madera, someterla a complejos procesos de transformación física y química, imprimir con tinta sobre el producto y distribuirlo a los lectores se verá ya como lo que es hoy: un total y absoluto anacronismo.

@@ -5,7 +5,6 @@ categories:
   - "articulos"
 coverImage: "pexels-photo-1309899.jpeg"
 ---
-
 ## Introducción
 
 El diálogo es una de las herramientas más importantes que un escritor tiene a su alcance.

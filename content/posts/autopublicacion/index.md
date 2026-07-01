@@ -5,7 +5,6 @@ date: "2011-03-10"
 categories: 
   - "articulos"
 ---
-
 _Un escritor nunca olvida la primera vez que acepta unas monedas o un elogio a cambio de una historia. Nunca olvida la primera vez que siente el dulce veneno de la vanidad en la sangre y cree que, si consigue que nadie descubra su falta de talento, el sueño de la literatura será capaz de poner techo sobre su cabeza, un plato caliente al final del día y lo que más anhela: su nombre impreso en un miserable pedazo de papel que seguramente vivirá más que él. Un escritor está condenado a recordar ese momento, porque para entonces ya está perdido y su alma tiene precio._
 
 Así comienza _El juego del Ángel_, de Carlos Ruiz Zafón, y además de un inicio brillante y cautivador es una muy lúcida reflexión sobre el combustible principal del que escribe: llamémosle orgullo, vanidad, ego, necesidad de autorrealización, como nos plazca.

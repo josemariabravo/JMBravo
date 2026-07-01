@@ -5,7 +5,6 @@ date: "2011-08-09"
 categories: 
   - "articulos"
 ---
-
 _(Nota previa: se omiten capítulos en los que no hay escenas de combate o nada oportuno que comentar a su respecto.)_
 
 ### Capítulo 6: A Golden Crown

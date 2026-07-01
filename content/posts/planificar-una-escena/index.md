@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "6186308787_223131e63d_b.jpg"
 ---
-
 En este artículo expondré una serie de estrategias para planificar las escenas de una historia. Pero antes, permitidme que me detenga, siquiera de forma breve, en el quid del asunto:
 
 ## ¿Qué es una escena?

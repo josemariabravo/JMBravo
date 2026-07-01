@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "pexels-photo-339805.jpeg"
 ---
-
 _(Segunda entrega de esta serie de artículos, cuya primera parte podéis leer [aquí](/de-espadas-y-tronos-game-of-thrones-i/).)_
 
 **Aclaración previa sobre los comentarios a la traducción de Juego de Tronos:**

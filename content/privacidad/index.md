@@ -4,7 +4,6 @@ date: "2026-06-30"
 no_pager: true
 description: "Política de privacidad de jmbravo.com conforme al RGPD y la LOPDGDD."
 ---
-
 ## Responsable del tratamiento
 
 - **Responsable:** José María Bravo Lineros

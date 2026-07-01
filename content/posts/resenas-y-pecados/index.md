@@ -5,7 +5,6 @@ date: "2011-03-26"
 categories: 
   - "articulos"
 ---
-
 De los siete pecados capitales proclamados por la moral cristiana (pesada cadena donde las haya) incurro en mayor o menor medida en todos, si bien sobresalgo en cuatro: Gula, Ira, Soberbia y, ay, Pereza. Es precisamente por pereza que no he reseñado mis últimas lecturas y visionados, porque la verdad, escribir reseñas siempre me ha dado mucha pereza. Aún así he escrito bastantes, tanto en fanzines como en webs y de un tiempo a esta parte, en este blog. Y siempre me ha remordido la conciencia por no escribir más y mejores reseñas.
 
 Quizá sea que me lo tomo demasiado en serio. Quizá. Siempre he creído que el reseñador tiene una responsabilidad nada baladí con el público que lee su reseña: una reseña puede inclinar la balanza en el juicio público que se tenga sobre una obra.

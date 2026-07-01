@@ -7,7 +7,6 @@ tags:
   - "lenguaje"
 coverImage: "1158260369_3ba07950e5_z-1.jpg"
 ---
-
 Cuarta parte de esta serie sobre los recursos retóricos: en esta ocasión nos ocuparemos de dos recursos, la antítesis y el apóstrofe. Conviene recordar al lector que esta relación no es ni intenta ser exhaustiva; en otras palabras, retorciendo el retruécano del refranero: son todos los que están, pero no están todos los que son. Aclarado esto, comencemos:
 
 ### Antítesis

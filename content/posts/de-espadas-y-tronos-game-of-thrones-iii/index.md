@@ -5,7 +5,6 @@ date: "2011-07-15"
 categories: 
   - "articulos"
 ---
-
 ### Capítulo 3: Lord Snow
 
 #### Escena n.º 1: Entrenamiento de la Guardia de la Noche

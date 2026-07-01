@@ -7,7 +7,6 @@ categories:
 tags:
   - sangre-y-acero
 ---
-
 ![SyA\_02](images/sya_02.jpg "SyA_02") El segundo número de **Sangre y Acero** salió en agosto de 1999, nueve meses después del primero. Si bien muchos elementos del primero se mantuvieron intactos, en cuanto a maquetación este número fue un salto cualitativo respecto al anterior; usé mejores herramientas (Adobe Pagemaker, el antecesor del Adobe InDesign, frente al Microsoft Publisher del primer número) y ya iba cogiendo algo de soltura en esas lides.
 
 En cuanto al contenido, en este número dos encontramos lo siguiente:

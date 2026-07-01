@@ -5,7 +5,6 @@ date: "2010-09-30"
 categories: 
   - "articulos"
 ---
-
 ![Cainismo ibérico](goya.jpg "goya")No nos engañemos, el género fantástico (suerte de cajón de sastre en el que incluyo Terror, Fantasía, Ciencia ficción, e incluso realismo mágico) nunca ha estado muy bien visto en España, y el escrito originalmente aquí, aún menos. El panorama ha mejorado bastante, sí, pero no como para gritar hurras. No hace tanto de la época en la que autores como **Ángel Torres Quesada** o **Domingo Santos**, entre otros, publicaban títulos bajo seudónimos gringos (los llamados **bolsilibros** de Bruguera). Lo hacían en aras de mejores ventas, sí, pero también para superar el recelo, el cainismo del aficionado. Nadie es profeta en su tierra, y predicar la fantasía en nuestro idioma ha sido una empresa abocada al fracaso hasta no hace mucho.
 
 <!--more-->Es cierto, insisto, que las cosas están cambiando. Hay un saludable volumen de títulos de género fantástico  que se escriben en español, y no hace sino crecer cada vez más. No obstante, al fantástico en español aún le queda mucho que madurar, y para ello debe eliminar dos lacras fundamentales (todo esto con un gran [EMHO](http://es.wiktionary.org/wiki/EMHO "En Mi Humilde Opinión") por delante, claro, y además ahora hablo como lector de género):

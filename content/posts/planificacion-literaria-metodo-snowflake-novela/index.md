@@ -1,11 +1,9 @@
 ---
-draft: true
 title: "Método del copo de nieve (Planificación literaria, iii)"
 date: "2010-12-03"
 categories: 
   - "articulos"
 ---
-
 En anteriores entradas de esta bitácora he tanteado el arduo asunto de la creación de una novela. Hasta ahora solo he reflexionado sobre los dos métodos clásicos ([mapa o brújula](/mapa-o-brujula-planificacion-literaria-i/ "Mapa o brújula (Planificación literaria, i)")) y sobre cómo [organizar la información de una historia](/sobre-la-organizacion-de-una-novela-planificacion-literaria-ii/ "Sobre la organización de una novela (Planificación literaria, ii)").
 
 Quedaba pendiente, pues, agarrar por los cuernos al toro y abordar cómo se lleva a cabo la planificación de una novela. Pero en el ínterin encontré este método vagabundeando por la red y lo encontré muy interesante. Su autor es **[Randy Ingermanson](http://www.amazon.com/Randall-Scott-Ingermanson/e/B001IXMD5S/ref=ntt_dp_epwbk_0)**, escritor y responsable del sitio web [Advanced Fiction Writing](http://www.advancedfictionwriting.com/).

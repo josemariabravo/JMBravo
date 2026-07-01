@@ -5,7 +5,6 @@ categories:
   - "articulos"
 coverImage: "pexels-photo-1309899.jpeg"
 ---
-
 En la [primera entrega](/el-dialogo-1/ "El diálogo, 1") de esta serie de artículos definimos el diálogo y sus partes, y estudiamos lo esencial del uso de la raya según las normas ortotipográficas del castellano.
 
 Pero hay bastante más que decir sobre el diálogo aparte de dónde poner las rayas, desde luego. En esta y en las siguientes entregas abordaré con más detenimiento los aspectos principales del diálogo mediante una serie de consejos sobre sus distintas partes.

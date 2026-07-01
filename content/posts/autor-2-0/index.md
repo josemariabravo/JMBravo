@@ -5,7 +5,6 @@ date: "2010-10-21"
 categories: 
   - "articulos"
 ---
-
 ![Narciso\_de\_caravaggio](narciso_de_caravaggio.jpg "Narciso_de_caravaggio")
 
 El otro día leí en [librodenotas.com](http://librodenotas.com) un [breve artículo](http://librodenotas.com/textosdelcuervo/19131/el-autor-no-es-su-ficcion) de **Marcos Taracido** que abordaba una de mis viejas preocupaciones con respecto a la literatura: la identificación del autor con su obra. Concretamente, Marcos decía:

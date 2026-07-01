@@ -7,7 +7,6 @@ categories:
 tags: 
   - "cartografia"
 ---
-
 ![florencia](florencia.jpg)
 
 Bien: lo prometido es deuda. Tal y como adelanté ayer, voy a explicar el método que empleo para dibujar mapas de ciudades.

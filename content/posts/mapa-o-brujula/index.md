@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "map_compass.webp"
 ---
-
 Siempre he sido un maniático —casi un esclavo— de los detalles. Mi obsesión casi compulsiva se traslada, claro, a lo que escribo, así que nunca he podido escribir una historia sin planificar minuciosamente cada detalle. Esto tiene una consecuencia lógica: soy un escritor lento, muy lento.
 
 Últimamente he estado reflexionando sobre la forma en la que planifico la creación de un texto, en especial uno largo (los cuentos y relatos cortos son, en su mayoría, producto de un arrebato de inspiración, por mucho que entre en juego una cuidada reescritura).

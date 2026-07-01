@@ -8,7 +8,6 @@ tags:
   - sangre-y-acero
 coverImage: Sangre_y_Acero_06.png
 ---
-
 Con este número seis, publicado a finales de 2002, la aventura del fanzine **Sangre y Acero** llegaba a su término. Fueron cuatro años (de noviembre de 1998 a noviembre de 2002) llenos de ilusión, pero todo ha de llegar a su fin.
 
 ![Sangre y acero n.º 6](images/sangre-y-acero-6.jpg)

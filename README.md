@@ -7,7 +7,7 @@ este es el resultado de la conversión de `jmbravocom_WordPress_2026-06-25.xml`.
 - `content/posts/` — 105 entradas del blog, convertidas directamente desde wordpress. el texto es fiel al original.
 - `content/_index.md` — la portada, a partir de la antigua página «bienvenido».
 - `content/sobre-mi/`, `content/contacto/`, `content/libros/`, `content/sombras-y-ceniza/`, `content/politica-de-privacidad/` — páginas fijas.
-- `content/asesoria-literaria/` — una página que estaba en estado de borrador en wordpress (nunca se publicó). la conservo con `draft: true`, así que hugo no la publica a menos que decidas quitarle esa marca.
+- `content/asesoria-literaria/` — una página que estaba en estado de borrador en wordpress (nunca se publicó). la conservo con ``, así que hugo no la publica a menos que decidas quitarle esa marca.
 - `layouts/` y `static/css/style.css` — la plantilla mínima de la que hablamos: tres plantillas y una hoja de estilos de partida, pensada para que la rehagas a tu gusto.
 - `.github/workflows/hugo.yml` — el flujo de despliegue automático en github pages.
 - `static/CNAME` — ya contiene `jmbravo.com`, para cuando conectes el dominio.

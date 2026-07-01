@@ -6,7 +6,6 @@ categories:
   - "articulos"
 coverImage: "hieronymus_bosch_pecados_capitales-e1686293041629.png"
 ---
-
 Dice el refrán que nadie escarmienta en cabeza ajena. Muchos infieren de lo anterior que a nadie le valen las experiencias de los demás, y concluyen que es inútil dar consejos.
 
 No estoy de acuerdo. Con el refrán, sí, pero no con esa interpretación. Nadie escarmienta en cabeza ajena, de acuerdo; pero bien entendido, esto significa que, para que un consejo te sirva, has de interiorizarlo. Y nadie más puede hacer eso por ti.

@@ -7,7 +7,6 @@ tags:
   - "lenguaje"
 coverImage: "1158260369_3ba07950e5_z-1.jpg"
 ---
-
 En la tercera entrega de esta serie dedicada a los recursos retóricos veremos otras tres figuras: anticipación, antífrasis y antimetábole.
 
 Vamos con la primera:

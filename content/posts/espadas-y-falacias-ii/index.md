@@ -8,7 +8,6 @@ tags:
   - "esgrima"
 coverImage: "meyer_falacias.jpg"
 ---
-
 _(Viene de la [primera parte](/espadas-y-falacias-i/) de este artículo.)_
 
 ### Mito n.º 6: Las espadas a dos manos

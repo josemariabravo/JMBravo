@@ -4,7 +4,9 @@ date: 2010-09-12
 tipo: Publicación
 archivo: files/Sangreyacero_1.pdf
 description: Descarga gratuita del primer número del fanzine Sangre y acero, editado por José María Bravo y Andrés Díaz Sánchez.
+tags:
+  - sangre-y-acero
 ---
 El primer número del fanzine *Sangre y acero*, disponible de forma gratuita en PDF.
 
-Sobre los detalles de esta publicación, puede leer este artículo: [Sangre y acero](http://localhost:1313/posts/sangre-y-acero-1/).
+Sobre los detalles de esta publicación, puede leer este artículo: [Sangre y acero n.º 1](http://localhost:1313/posts/sangre-y-acero-1/).

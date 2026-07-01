@@ -5,7 +5,6 @@ date: "2010-10-30"
 categories: 
   - "articulos"
 ---
-
 ![](56_geeks_thumb.jpg "56_geeks_thumb.jpg") [](http://sombrasyceniza.files.wordpress.com/2010/10/56_geeks2.jpg)En mi época, en el fandom —un tiempo no tan lejano— una tribu de aficionados a lo fantástico era la que controlaba el cotarro. Yo los llamaba, en plan coña, cifistas[^1], por su vinculación ineludible a la ciencia ficción, y los personificaba en lo que ahora llamaríamos un _geek_, con gafas de pasta y cara de follar poco. No señalo a nadie, faltaría más; tan solo es la imagen, personal e intransferible, que me formé del aficionado prototípico a la ciencia ficción en España.
 
 En cualquier caso, esa tribu de aficionados no leían a muchos autores más allá de sus adorados Asimov, Heinlein, Dick, Bradbury, Clarke y Herbert, por citar unos pocos, y, ¡ay del que incluyera la cifi en el saco de la fantasía! Qué atrevimiento.
