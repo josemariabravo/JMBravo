@@ -34,7 +34,12 @@
       <a class="site-logo" href="{{ .Site.Home.RelPermalink }}" aria-label="Inicio">
         {{ readFile "static/svg/jmbravo_logo.svg" | safeHTML }}
       </a>
-      <nav class="site-nav">
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Abrir menú">
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+      </button>
+      <nav class="site-nav" id="site-nav">
         <ul>
           {{ range .Site.Menus.main }}
           <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
@@ -69,5 +74,23 @@
       </nav>
     </div>
   </footer>
+
+  <script>
+  (function () {
+    var btn = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('site-nav');
+    if (!btn || !nav) return;
+    btn.addEventListener('click', function () {
+      var open = nav.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open);
+    });
+    nav.addEventListener('click', function (e) {
+      if (e.target.tagName === 'A') {
+        nav.classList.remove('is-open');
+        btn.setAttribute('aria-expanded', 'false');
+      }
+    });
+  })();
+  </script>
 </body>
 </html>

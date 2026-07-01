@@ -7,6 +7,11 @@
   <div class="container">
     <div class="hero-inner">
       {{ .Content }}
+      <div class="hero-links">
+        <a class="btn-hero" href="{{ "libros/" | relURL }}">Libros</a>
+        <a class="btn-hero" href="{{ "proyectos/" | relURL }}">Proyectos</a>
+        <a class="btn-hero" href="{{ "posts/" | relURL }}">Artículos</a>
+      </div>
     </div>
   </div>
 </section>

@@ -7,5 +7,3 @@ date: "2019-06-09"
 Soy José María Bravo Lineros, escritor de fantasía y terror. Escribo cuentos y novelas para hurgar en los rincones más oscuros y profundos del alma humana.
 
 Aquí encontrarás información sobre mis [libros](/libros/), mis [proyectos](/proyectos/) en curso y los [artículos](/posts/) sobre escritura y narrativa que voy publicando.
-
-[libros](/libros/) | [proyectos](/proyectos/) | [artículos](/posts/)
