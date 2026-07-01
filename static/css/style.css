@@ -35,7 +35,7 @@
     --text:         #2b2a28;
     --muted:        #504e4b;
     --accent:       #D62A1C;
-    --line:         #ddd6cc;
+    --line:         #a3998d;
 
     /* fuentes */
     --font-logo:    'Cinzel', serif;
@@ -1093,6 +1093,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-bottom: 0.8rem;
   }
 
   .site-footer-inner p {
@@ -1122,7 +1123,7 @@
     font-size: .65rem;
     letter-spacing: .28em;
     text-transform: uppercase;
-    color: var(--muted);
+    color: var(--line);
     text-align: center;    
     border-top: 1px solid var(--accent);
   }

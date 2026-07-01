@@ -1,56 +1,56 @@
 baseURL = "https://jmbravo.com/"
 languageCode = "es-es"
 defaultContentLanguage = "es"
-title = "José María Bravo — Fantasía, terror y novela negra"
+title = "Sitio web de José María Bravo Lineros"
 
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
 
 [params]
-  description = "José María Bravo: fantasía, terror y otras hierbas literarias."
+  description = "Página del escritor José María Bravo Lineros: fantasía y otras hierbas literarias."
 
 [[menu.main]]
-  name = "proyectos"
+  name = "Proyectos"
   url = "/proyectos/"
   weight = 1
 
 [[menu.main]]
-  name = "libros"
+  name = "Libros"
   url = "/libros/"
   weight = 2
 
 [[menu.main]]
-  name = "obra"
+  name = "Obra"
   url = "/obra/"
   weight = 3
 
 [[menu.main]]
-  name = "artículos"
+  name = "Artículos"
   url = "/posts/"
   weight = 4
 
 [[menu.main]]
-  name = "descargas"
+  name = "Descargas"
   url = "/descargas/"
   weight = 5
 
 [[menu.footer]]
-  name = "sobre mí"
+  name = "Sobre mí"
   url = "/sobre-mi/"
   weight = 1
 
 [[menu.footer]]
-  name = "contacto"
+  name = "Contacto"
   url = "/contacto/"
   weight = 2
 
 [[menu.footer]]
-  name = "aviso legal"
+  name = "Aviso legal"
   url = "/aviso-legal/"
   weight = 3
 
 [[menu.footer]]
-  name = "privacidad"
+  name = "Privacidad"
   url = "/privacidad/"
   weight = 4
