@@ -1,12 +1,12 @@
 ---
-draft: true
-title: "Sangre y Acero n.º 5"
-date: "2011-05-18"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "sangre-y-acero"
-coverImage: "Sangre-y-acero_5-scaled.jpg"
+draft: false
+title: Sangre y Acero n.º 5
+date: 2011-05-18
+categories:
+  - recomendaciones
+tags:
+  - sangre-y-acero
+coverImage: Sangre-y-acero_5-scaled.jpg
 ---
 
 ![Cubierta del n.º 5 de \_Sangre y acero\_.](images/Sangre-y-acero_5-728x1030.jpg)

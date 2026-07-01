@@ -1,17 +1,17 @@
 ---
-draft: true
-title: "Sangre y Acero n.º 6"
-date: "2011-08-24"
-categories: 
-  - "articulos"
-tags: 
-  - "sangre-y-acero"
-coverImage: "Sangre_y_Acero_06.png"
+draft: false
+title: Sangre y Acero n.º 6
+date: 2011-08-24
+categories:
+  - articulos
+tags:
+  - sangre-y-acero
+coverImage: Sangre_y_Acero_06.png
 ---
 
 Con este número seis, publicado a finales de 2002, la aventura del fanzine **Sangre y Acero** llegaba a su término. Fueron cuatro años (de noviembre de 1998 a noviembre de 2002) llenos de ilusión, pero todo ha de llegar a su fin.
 
-![](images/Sangre_y_Acero_06.png)
+![Sangre y acero n.º 6](images/sangre-y-acero-6.jpg)
 
 Este fue el contenido del último número:
 
@@ -29,6 +29,6 @@ Este fue el contenido del último número:
 
 En este número usamos una ilustración del fallecido Angus McBride para la portada y contraportada, que ilustra uno de los momentos clave en la batalla de Hastings.
 
-Para esta ocasión, y gracias a Andrés Díaz Sánchez, que me facilitó los archivos originales de la maquetación, he podido componer el pdf a partir de dichos archivos, en vez de los anteriores escaneos del fanzine en papel.
+Para esta ocasión, y gracias a Andrés Díaz Sánchez, que me facilitó los archivos originales de la maquetación, he podido componer el PDF a partir de dichos archivos, en vez de los anteriores escaneos del fanzine en papel.
 
 Podéis bajaros este número desde este [enlace](/archivos/pdf/sya_06.pdf).

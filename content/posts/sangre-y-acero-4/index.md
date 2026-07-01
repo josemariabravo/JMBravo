@@ -1,11 +1,11 @@
 ---
-draft: true
-title: "Sangre y Acero n.º 4"
-date: "2010-12-30"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "sangre-y-acero"
+draft: false
+title: Sangre y Acero n.º 4
+date: 2010-12-30
+categories:
+  - recomendaciones
+tags:
+  - sangre-y-acero
 ---
 
 ![Sangre-y-Acero\_4\_01](images/sangreyacero_4_01.jpg "Sangre-y-Acero_4_01") No, no me había olvidado de Sangre y Acero. Aquí os traigo el cuarto número, publicado originalmente en marzo de 2001, ocho meses después del número anterior. Este es el contenido:
