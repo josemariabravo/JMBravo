@@ -1,6 +1,7 @@
 ---
 title: "Cierre de la cronología 1006-1007 p.G."
 date: 2026-06-14
+draft: true
 categories:
   - "proyectos"
 tags:

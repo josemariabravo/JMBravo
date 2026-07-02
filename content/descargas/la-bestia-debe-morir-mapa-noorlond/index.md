@@ -1,6 +1,7 @@
 ---
 title: "Mapa de Noorlond [dato de relleno]"
 date: 2026-06-01
+draft: true
 tipo: "Material adicional"
 archivo: "files/mapa-noorlond.pdf"
 proyecto: la-bestia-debe-morir

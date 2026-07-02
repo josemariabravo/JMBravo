@@ -1,6 +1,7 @@
 ---
 title: "Avance en el arco de Crenad Aggvaldsson"
 date: 2026-06-28
+draft: true
 categories:
   - "proyectos"
 tags:

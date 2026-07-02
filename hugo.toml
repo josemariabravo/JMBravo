@@ -10,10 +10,10 @@ title = "Sitio web de José María Bravo Lineros"
 [params]
   description = "Página del escritor José María Bravo Lineros: fantasía y otras hierbas literarias."
 
-[[menu.main]]
-  name = "Proyectos"
-  url = "/proyectos/"
-  weight = 1
+#[[menu.main]]
+#  name = "Proyectos"
+#  url = "/proyectos/"
+#  weight = 1
 
 [[menu.main]]
   name = "Libros"
