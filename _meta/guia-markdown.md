@@ -250,6 +250,93 @@ date: "2026-01-15"
 El shortcode recoge automáticamente todas las imágenes de la carpeta y las muestra en un grid. Al pinchar en una imagen se abre a pantalla completa; se cierra pinchando fuera o en el botón ×.
 
 ---
+## Proyectos en curso
+
+Cada proyecto (novela, worldbuilding...) tiene una página **hub** que agrega ficha, progreso, actualizaciones y descargas — sin duplicar contenido, solo enlazando y resumiendo.
+
+**Estructura de carpetas:**
+
+```
+content/proyectos/nombre-del-proyecto/
+  _index.md                      ← ficha del proyecto
+  actualizaciones/
+    _index.md                    ← índice, no tocar el frontmatter salvo el título
+    primera-actualizacion/
+      index.md
+    segunda-actualizacion/
+      index.md
+```
+
+El nombre de la carpeta del proyecto define la URL (`/proyectos/nombre-del-proyecto/`) — usar guiones, no guiones bajos, igual que el resto del sitio.
+
+**Frontmatter de la ficha (`_index.md` del proyecto):**
+
+```yaml
+---
+title: "Título de la novela"
+genero: "Fantasía"
+resumen: "Sinopsis breve, tres o cuatro líneas."
+etiquetas:
+  - "fantasía"
+  - "Noorlond"
+fases:
+  - nombre: "Worldbuilding"
+    porcentaje: 100
+  - nombre: "Borrador"
+    porcentaje: 60
+  - nombre: "Revisión"
+    porcentaje: 0
+---
+```
+
+Las `fases` son libres — cada proyecto puede tener las suyas (no hace falta repetir siempre worldbuilding/borrador/revisión/corrección/maquetación si un proyecto tiene un proceso distinto). El `porcentaje` dibuja la barra de progreso.
+
+Portada opcional: campo `portada: "nombre-imagen.jpg"` con la imagen dentro de la misma carpeta que el `_index.md`.
+
+**Actualizaciones (bitácora del proyecto):**
+
+Cada entrada de `actualizaciones/` es un artículo de peso (mínimo 300 palabras recomendado):
+
+```yaml
+---
+title: "Avance en el arco de Fulano"
+date: "2026-06-28"
+proyecto: "nombre-del-proyecto"
+etiqueta: "avance-narrativo"
+extracto: "Resumen de una línea para el listado."
+---
+```
+
+`etiqueta` es libre en el texto, pero por convención se usa una de: `worldbuilding`, `avance-narrativo`, `proceso`. No hace falta añadir `type: actualizaciones` a mano — la carpeta `actualizaciones/_index.md` lo propaga automáticamente a todo lo que haya dentro.
+
+El hub del proyecto muestra las 3 actualizaciones más recientes con enlace a «ver todas»; la página `actualizaciones/` lista el historial completo.
+
+**Descargas asociadas a un proyecto:**
+
+No hace falta una colección aparte: cualquier descarga de `content/descargas/` (ver más abajo) se enlaza automáticamente en el hub del proyecto si su frontmatter incluye:
+
+```yaml
+proyecto: "nombre-del-proyecto"
+```
+
+---
+## Descargas
+
+Los archivos descargables (PDFs, extractos, mapas...) viven en `content/descargas/nombre-descarga/index.md` (leaf bundle — nunca combinar con un `_index.md` en la misma carpeta).
+
+```yaml
+---
+title: "Extracto en PDF"
+date: "2026-06-01"
+tipo: "Adelanto"
+archivo: "files/nombre-del-archivo.pdf"
+proyecto: "nombre-del-proyecto"
+---
+```
+
+El PDF físico va en `static/files/nombre-del-archivo.pdf`. El campo `proyecto` es opcional — solo hace falta si la descarga pertenece a un proyecto en curso.
+
+---
 ## Lo que no funciona en Obsidian (solo Hugo)
 
 - Shortcodes (`{{</* nota */>}}`, `{{</* figure */>}}`): Obsidian los muestra como texto plano. Son funcionales al publicar.

@@ -1,12 +1,13 @@
 {{ define "main" }}
 <div class="container">
-  <div class="list-page">
-    <h1>{{ .Title }}</h1>
-    {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
 
-    {{ if .Parent.IsHome }}
+  {{ if .Parent.IsHome }}
 
-      {{/* /proyectos/ — hub con todos los proyectos y sus novedades agregadas */}}
+    {{/* /proyectos/ — hub con todos los proyectos y sus novedades agregadas */}}
+    <div class="list-page">
+      <h1>{{ .Title }}</h1>
+      {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
+
       {{ if .Sections }}
       <div class="proyectos-grid">
         {{ range .Sections }}
@@ -30,23 +31,86 @@
         {{ end }}
       </ul>
       {{ end }}
+    </div>
 
-    {{ else }}
+  {{ else }}
 
-      {{/* /proyectos/proyecto-x/ — hub del proyecto con sus novedades */}}
-      {{ if .Pages }}
-      <h2>Novedades</h2>
-      <ul class="post-list">
-        {{ range .Pages.ByDate.Reverse }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
-        </li>
+    {{/* /proyectos/<slug>/ — ficha, progreso, actualizaciones y descargas del proyecto */}}
+    <article class="proyecto-hub">
+
+      <div class="proyecto-ficha">
+        {{ with .Resources.GetMatch (.Params.portada | default "") }}
+        {{ $img := .Process "webp" }}
+        <img class="proyecto-portada" src="{{ $img.RelPermalink }}" alt="{{ $.Title }}">
         {{ end }}
-      </ul>
+        <div class="proyecto-ficha-info">
+          <h1>{{ .Title }}</h1>
+          {{ with .Params.resumen }}<p class="proyecto-resumen">{{ . }}</p>{{ end }}
+          {{ if or .Params.genero .Params.etiquetas }}
+          <div class="proyecto-tags">
+            {{ with .Params.genero }}<span class="proyecto-tag proyecto-tag--genero">{{ . }}</span>{{ end }}
+            {{ range .Params.etiquetas }}<span class="proyecto-tag">{{ . }}</span>{{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+      {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
+
+      {{ with .Params.fases }}
+      <section class="proyecto-progreso">
+        <h2>Progreso</h2>
+        <div class="fases-grid">
+          {{ range . }}
+          <div class="fase">
+            <p class="fase-nombre">{{ .nombre }}</p>
+            <div class="fase-barra"><div class="fase-barra-fill" style="width:{{ .porcentaje }}%"></div></div>
+          </div>
+          {{ end }}
+        </div>
+      </section>
       {{ end }}
 
-    {{ end }}
-  </div>
+      {{ with .GetPage "actualizaciones" }}
+      {{ $ultimas := first 3 .Pages.ByDate.Reverse }}
+      {{ if $ultimas }}
+      <section class="proyecto-actualizaciones">
+        <h2>Últimas actualizaciones</h2>
+        <ul class="actualizacion-list">
+          {{ range $ultimas }}
+          <li>
+            <a href="{{ .Permalink }}">
+              {{ if not .Date.IsZero }}<span class="actualizacion-fecha">{{ partial "fecha.html" .Date }}</span>{{ end }}
+              <span class="actualizacion-titulo">{{ .Title }}</span>
+              {{ with .Params.etiqueta }}<span class="actualizacion-etiqueta">{{ . }}</span>{{ end }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        <a class="ver-todas" href="{{ .Permalink }}">Ver todas las actualizaciones →</a>
+      </section>
+      {{ end }}
+      {{ end }}
+
+      {{ $slug := .File.ContentBaseName }}
+      {{ $descargas := where (where .Site.RegularPages "Section" "descargas") "Params.proyecto" $slug }}
+      {{ if $descargas }}
+      <section class="proyecto-descargas">
+        <h2>Descargas</h2>
+        <ul class="descargas-list">
+          {{ range $descargas.ByDate }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ with .Params.tipo }}<span class="descarga-tipo">{{ . }}</span>{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      </section>
+      {{ end }}
+
+    </article>
+
+  {{ end }}
+
 </div>
 {{ end }}

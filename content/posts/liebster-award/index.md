@@ -3,7 +3,6 @@ title: "Liebster Award (!)"
 date: "2014-02-26"
 categories: 
   - "articulos"
-coverImage: "Liebster-1.png"
 ---
 De bien nacido es ser agradecido, así que gracias a Megumi, autora del blog [Universos imaginados](http://universosdetintaypapel.blogspot.com.es/), por proponerme para un [Liebster Award](http://liebsterawards.blogspot.com.es/). Si, como yo, no tenían mucha idea de qué van estos premios, pueden [pasarse por su página](http://liebsterawards.blogspot.com.es/), o leer mi ―perezosa pero concisa― descripción: en esencia, son premios que se otorgan entre sí los autores de blogs pequeños (ouch), con el objeto de iniciar y mantener una cadena: para ganar un _Liebster Award_ has de proponer, a su vez, a otros blogs, para que estos propongan a su vez a otros, y así _ad infinitum_.
 

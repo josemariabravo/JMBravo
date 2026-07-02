@@ -222,20 +222,24 @@
 
   .site-search-inner {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: var(--sp-3);
+    row-gap: .5rem;
   }
 
   .search-bar-form {
     display: flex;
     gap: .4rem;
-    flex-shrink: 0;
-    width: 220px;
+    flex-shrink: 1;
+    min-width: 0;
+    width: min(220px, 100%);
     margin-left: auto;
   }
 
   .search-bar-form input {
     flex: 1;
+    min-width: 0;
     padding: .38rem .7rem;
     border: 1px solid var(--line);
     background: var(--paper);
@@ -273,7 +277,7 @@
     align-items: baseline;
     gap: 1rem;
     margin: .65rem 0 0 1rem;
-    border-bottom: 1px dashed var(--dimmed);    
+    border-bottom: 1px dashed var(--dimmed);
   }
 
   .post-list a {
@@ -728,6 +732,144 @@
 
   .proyecto-card p { color: var(--muted); max-width: none; }
 
+  /* ·· proyecto individual: ficha ·· */
+
+  .proyecto-hub { padding-block: var(--sp-4); }
+
+  .proyecto-ficha {
+    display: flex;
+    gap: var(--sp-3);
+    align-items: flex-start;
+    margin-bottom: var(--sp-3);
+  }
+
+  .proyecto-portada {
+    width: 140px;
+    flex-shrink: 0;
+    border-radius: var(--radius);
+    box-shadow: 0 6px 20px rgb(0 0 0 / .16);
+  }
+
+  .proyecto-ficha-info h1 { margin-bottom: var(--sp-1); }
+
+  .proyecto-resumen {
+    font-size: var(--fs-md);
+    font-style: italic;
+    color: var(--muted);
+    margin-bottom: var(--sp-2);
+  }
+
+  .proyecto-tags {
+    display: flex;
+    gap: .5rem;
+    flex-wrap: wrap;
+  }
+
+  .proyecto-tag {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: .2rem .6rem;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+  }
+
+  .proyecto-tag--genero {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+
+  @media (max-width: 600px) {
+    .proyecto-ficha { flex-direction: column; }
+    .proyecto-portada { width: 120px; }
+  }
+
+  /* ·· proyecto individual: progreso, actualizaciones, descargas ·· */
+
+  .proyecto-progreso,
+  .proyecto-actualizaciones,
+  .proyecto-descargas {
+    margin-block: var(--sp-4);
+  }
+
+  .proyecto-progreso h2,
+  .proyecto-actualizaciones h2,
+  .proyecto-descargas h2 {
+    margin-bottom: var(--sp-2);
+  }
+
+  .fases-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: var(--sp-3);
+  }
+
+  .fase-nombre {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    margin-bottom: .4rem;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+  }
+
+  .fase-barra {
+    height: 4px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+  }
+
+  .fase-barra-fill {
+    height: 100%;
+    background: var(--accent);
+  }
+
+  .actualizacion-list li {
+    padding: var(--sp-2) 0;
+    border-bottom: 1px dashed var(--dimmed);
+  }
+
+  .actualizacion-list a {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: .6rem;
+    color: var(--text);
+  }
+
+  .actualizacion-list a:hover { color: var(--accent); }
+
+  .actualizacion-fecha {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .actualizacion-titulo { font-size: var(--fs-md); }
+
+  .actualizacion-etiqueta {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    border: 1px solid var(--line);
+    padding: .1rem .5rem;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+  }
+
+  .actualizacion-extracto {
+    font-size: var(--fs-sm);
+    color: var(--muted);
+    margin: .3rem 0 0;
+    max-width: none;
+  }
+
+  .ver-todas {
+    display: inline-block;
+    margin-top: var(--sp-2);
+    font-size: var(--fs-sm);
+    color: var(--accent);
+  }
+
   /* ·· intro de sección ·· */
 
   .section-intro {
@@ -752,6 +894,8 @@
   }
 
   .tipo-card {
+    display: flex;
+    flex-direction: column;
     padding-bottom: var(--sp-2);
     border-bottom: 2px solid var(--line);
     transition: border-color var(--ease);
@@ -772,7 +916,8 @@
 
   .btn-tipo {
     display: inline-block;
-    margin-top: var(--sp-2);
+    margin-top: auto;
+    padding-top: var(--sp-2);
     font-family: var(--font-ui);
     font-size: var(--fs-sm);
     color: var(--accent);
@@ -1270,7 +1415,10 @@
 
   /* ·· responsive: móvil ·· */
 
-  @media (max-width: 720px) {
+  /* el breakpoint es 1060px, no 720px: el logo (~522px) + el menú horizontal
+     (que no hace wrap) necesitan ~1006px, así que el menú hamburguesa debe
+     activarse antes de ese punto para evitar overflow horizontal */
+  @media (max-width: 1060px) {
 
     /* header */
 

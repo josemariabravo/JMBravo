@@ -12,7 +12,7 @@ coverImage: "biblioteca.jpeg"
 ---
 Un amigo de la red, hace ya unos años, teleco de profesión, fue el primero en hablarme de la tinta digital y de sus maravillas. Aún no se han cumplido la mayor parte de sus cábalas sobre esta tecnología, pero ya hace tiempo que están en el mercado los lectores de elibros.
 
-No voy a descubrir la pólvora, vamos, si digo que estamos ante el futuro del texto escrito; otras plumas más cualificadas y ágiles lo habrán subrayado hasta aburrir. No obstante, el apoyo –a mi juicio- que se le está dando a este nuevo formato es muy tibio por parte de las editoriales profesionales.
+No voy a descubrir la pólvora, vamos, si digo que estamos ante el futuro del texto escrito; otras plumas más cualificadas y ágiles lo habrán subrayado hasta aburrir. No obstante, el apoyo —a mi juicio— que se le está dando a este nuevo formato es muy tibio por parte de las editoriales profesionales.
 
 Rodolfo Martínez expone las claves principales del porqué de esta renuencia de las grandes editoriales [en esta entrada](http://www.escritoenelagua.com/2010/08/24/zascandileando-el-circulo-sin-fin/) de su web **Escrito en el agua**. Concuerdo plenamente con el asturiano. Las grandes editoriales y los editores consagrados no le dan el espaldarazo definitivo al elibro por la razón más vieja y poderosa del mundo: miedo, miedo a que les corten el rollo y les jodan el chiringuito (perdón por mi francés).
 
@@ -30,7 +30,7 @@ Veamos ahora el precio del libro en formato digital:
 
 [http://www.casadellibro.com/e-book-los-idus-de-marzo-ebook/1773001/2900001396026](http://www.casadellibro.com/e-book-los-idus-de-marzo-ebook/1773001/2900001396026 "http://www.casadellibro.com/e-book-los-idus-de-marzo-ebook/1773001/2900001396026")
 
-14,99. 15 euros, vaya, que el céntimo no nos sacará de pobretones. 15 eurazos. 15 eurazos por un montón de ceros y unos, y si el libro resulta una boñiga, no podré ni revenderlo, ni usarlo para calzar un sofá o alimentar la barbacoa, o tirárselo a algún vendedor a domicilio o testigo de Jehová[^1], que son 320 páginas y en cartoné, y con tino y algo de impulso eso debe de hacer pupa.
+14,99. 15 euros, vaya, que el céntimo no nos sacará de pobretones. 15 eurazos. 15 eurazos por un montón de ceros y unos, y si el libro resulta una boñiga, no podré ni revenderlo, ni usarlo para calzar un sofá o alimentar la barbacoa, o tirárselo a algún vendedor a domicilio o testigo de Jehová,[^1] que son 320 páginas y en cartoné, y con tino y algo de impulso eso debe de hacer pupa.
 
 Anda, hombre, anda. Menudo timo.
 
@@ -42,7 +42,7 @@ Con este panorama, no es de extrañar que la gente piratee los libros, o sencill
 
 Al cabo, seamos francos, le pese a quien le pese, si la gente puede bajarse algo gratis, ¿por qué va a pagar por ello? Por mucho que lo criminalicemos. Por muchos reparos morales, campañas publicitarias, caras contritas de autores llorando por no tener con qué alimentar a sus hijos, por eso y más, no se va en contra de los instintos de la gente. Si es gratis, no hago ningún perjuicio y puedo hacerlo, ¿por qué no bajarme algo?
 
-Un ejemplo sencillo de lo que quiero decir. El que esto suscribe se baja series americanas –a las que soy adicto- con regularidad. Y sin embargo, tengo las dos temporadas de _Rome_, todas las de _Battlestar Galáctica_, las de _The Shield_, las de _The Sopranos_… etcétera. Nadie me obligó a comprarlas. Y aún así, pagué un dinero –abusivo, a mi juicio- que no me sobra por tenerlas. ¿Por qué? Pues porque quería tenerlas en soporte físico. Por la caja. Por la figurita. Por qué sé yo instinto fetichista de poseer cosas, tesoros, nuevos juguetes.
+Un ejemplo sencillo de lo que quiero decir. El que esto suscribe se baja series americanas con regularidad. Y sin embargo, tengo las dos temporadas de _Rome_, todas las de _Battlestar Galáctica_, las de _The Shield_, las de _The Sopranos_… etcétera. Nadie me obligó a comprarlas. Y aún así, pagué un dinero —abusivo, a mi juicio— que no me sobra por tenerlas. ¿Por qué? Pues porque quería tenerlas en soporte físico. Por la caja. Por la figurita. Por qué sé yo instinto fetichista de poseer cosas, tesoros, nuevos juguetes.
 
 Otro ejemplo más: en pudiendo bajarme películas, ¿por qué ir al cine? Porque sí, porque me apetece ver con calidad y ya un estreno que me interese.
 

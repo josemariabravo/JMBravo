@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="container">
+  <div class="list-page">
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
+    {{ if .Pages }}
+    <ul class="actualizacion-list">
+      {{ range .Pages.ByDate.Reverse }}
+      <li>
+        <a href="{{ .Permalink }}">
+          {{ if not .Date.IsZero }}<span class="actualizacion-fecha">{{ partial "fecha.html" .Date }}</span>{{ end }}
+          <span class="actualizacion-titulo">{{ .Title }}</span>
+          {{ with .Params.etiqueta }}<span class="actualizacion-etiqueta">{{ . }}</span>{{ end }}
+        </a>
+        {{ with .Params.extracto }}<p class="actualizacion-extracto">{{ . }}</p>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    <a class="ver-todas" href="{{ .CurrentSection.Parent.RelPermalink }}">← Volver al proyecto</a>
+  </div>
+</div>
+{{ end }}
