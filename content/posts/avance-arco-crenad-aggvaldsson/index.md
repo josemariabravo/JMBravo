@@ -1,7 +1,10 @@
 ---
 title: "Avance en el arco de Crenad Aggvaldsson"
 date: 2026-06-28
-proyecto: la-bestia-debe-morir
+categories:
+  - "proyectos"
+tags:
+  - "la-bestia-debe-morir"
 etiqueta: "avance-narrativo"
 extracto: "[Dato de relleno] El segundo acto ya tiene forma: Crenad se enfrenta a la primera gran decisión moral de la novela."
 ---

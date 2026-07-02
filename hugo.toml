@@ -26,7 +26,7 @@ title = "Sitio web de José María Bravo Lineros"
   weight = 3
 
 [[menu.main]]
-  name = "Artículos"
+  name = "Blog"
   url = "/posts/"
   weight = 4
 

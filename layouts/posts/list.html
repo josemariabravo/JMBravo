@@ -5,7 +5,7 @@
     {{ if .Content }}<div class="section-intro">{{ .Content }}</div>{{ end }}
 
     {{ $posts := .Pages.ByDate.Reverse }}
-    {{ $catLabels := dict "articulos" "Artículos" "novedades" "Novedades" "recomendaciones" "Recomendaciones" }}
+    {{ $catLabels := dict "articulos" "Artículos" "novedades" "Novedades" "recomendaciones" "Recomendaciones" "proyectos" "Proyectos" }}
     {{ $cats := slice }}
     {{ range $posts }}
       {{ with .Params.categories }}{{ $cats = $cats | append (index . 0) }}{{ end }}
@@ -13,7 +13,7 @@
     {{ $cats = $cats | uniq | sort }}
 
     {{ if gt (len $cats) 1 }}
-    <div class="archive-filters" role="group" aria-label="Filtrar artículos por categoría">
+    <div class="archive-filters" role="group" aria-label="Filtrar entradas por categoría">
       <button type="button" class="archive-filter is-active" data-filter="todos">Todos</button>
       {{ range $cats }}
       <button type="button" class="archive-filter" data-filter="{{ . }}">{{ default (. | humanize) (index $catLabels .) }}</button>

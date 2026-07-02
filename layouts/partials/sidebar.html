@@ -1,7 +1,7 @@
 <aside class="sidebar">
 
   <div class="sidebar-block">
-    <h2>Últimos artículos</h2>
+    <h2>Últimas entradas</h2>
     <ul class="sidebar-list">
       {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>

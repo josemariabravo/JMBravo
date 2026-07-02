@@ -1,27 +1,14 @@
 <section class="home-latest container">
-  <h2>Lo último en</h2>
-  <div class="home-columns">
-    <div>
-      <h3>Proyectos</h3>
-      <ul class="post-list">
-        {{ range first 5 (where .Site.RegularPages "Section" "proyectos").ByDate.Reverse }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
-        </li>
-        {{ end }}
-      </ul>
-    </div>
-    <div>
-      <h3>Artículos</h3>
-      <ul class="post-list">
-        {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
-        </li>
-        {{ end }}
-      </ul>
-    </div>
+  <h2>Lo último</h2>
+  <ul class="post-list">
+    {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+  <div class="home-latest-more">
+    <a class="btn-hero" href="{{ "posts/" | relURL }}">Ver más →</a>
   </div>
 </section>

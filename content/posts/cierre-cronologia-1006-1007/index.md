@@ -1,7 +1,10 @@
 ---
 title: "Cierre de la cronología 1006-1007 p.G."
 date: 2026-06-14
-proyecto: la-bestia-debe-morir
+categories:
+  - "proyectos"
+tags:
+  - "la-bestia-debe-morir"
 etiqueta: "worldbuilding"
 extracto: "[Dato de relleno] Fijados los dos años previos al arranque de la novela: la caída de la casa Aggvaldsson y el ascenso de Zaiel como senescal."
 ---

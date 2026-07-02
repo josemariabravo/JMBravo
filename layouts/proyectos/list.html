@@ -19,7 +19,7 @@
       </div>
       {{ end }}
 
-      {{ $novedades := where .Site.RegularPages "Section" "proyectos" }}
+      {{ $novedades := where .Site.RegularPages "Params.categories" "intersect" (slice "proyectos") }}
       {{ if $novedades }}
       <h2>Todas las novedades</h2>
       <ul class="post-list">
@@ -71,8 +71,9 @@
       </section>
       {{ end }}
 
-      {{ with .GetPage "actualizaciones" }}
-      {{ $ultimas := first 3 .Pages.ByDate.Reverse }}
+      {{ $slug := .File.ContentBaseName }}
+      {{ $actualizaciones := where .Site.RegularPages "Params.tags" "intersect" (slice $slug) }}
+      {{ $ultimas := first 3 $actualizaciones.ByDate.Reverse }}
       {{ if $ultimas }}
       <section class="proyecto-actualizaciones">
         <h2>Últimas actualizaciones</h2>
@@ -87,12 +88,10 @@
           </li>
           {{ end }}
         </ul>
-        <a class="ver-todas" href="{{ .Permalink }}">Ver todas las actualizaciones →</a>
+        <a class="ver-todas" href="{{ printf "/tags/%s/" $slug | relLangURL }}">Ver todas las actualizaciones →</a>
       </section>
       {{ end }}
-      {{ end }}
 
-      {{ $slug := .File.ContentBaseName }}
       {{ $descargas := where (where .Site.RegularPages "Section" "descargas") "Params.proyecto" $slug }}
       {{ if $descargas }}
       <section class="proyecto-descargas">

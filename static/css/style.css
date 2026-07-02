@@ -404,7 +404,7 @@
     color: var(--muted);
   }
 
-  /* ·· home: lo último en ·· */
+  /* ·· home: lo último ·· */
 
   .home-latest {
     padding-block: var(--sp-3);
@@ -416,24 +416,9 @@
     letter-spacing: .18em;
   }
 
-  .home-columns {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: var(--sp-4);
-  }
-
-  .home-columns h3 {
-    font-family: var(--font-ui);
-    font-size: var(--fs-xs);
-    font-weight: 600;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: var(--muted);
-    margin-bottom: var(--sp-2);
-  }
-
-  @media (max-width: 640px) {
-    .home-columns { grid-template-columns: 1fr; gap: var(--sp-3) 0; }
+  .home-latest-more {
+    margin-top: var(--sp-3);
+    text-align: right;
   }
 
   /* ·· artículo (single) ·· */
