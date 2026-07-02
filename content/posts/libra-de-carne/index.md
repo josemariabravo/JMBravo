@@ -1,22 +1,23 @@
 ---
-aliases: ["/libra-de-carne/"]
-title: "La libra de carne"
-date: "2014-10-08"
-categories: 
-  - "articulos"
-coverImage: "f3ef15e3bbffa9dd12e3f6a6968c9dbd-1-e1685683903672.jpg"
+aliases:
+  - /libra-de-carne/
+title: La libra de carne
+date: 2014-10-08
+categories:
+  - articulos
+revisado: true
 ---
-_The pound of flesh, which I demand of him,_ _Is dearly bought; 'tis mine and I will have it._ _If you deny me, fie upon your law!_
+> *The pound of flesh, which I demand of him, is dearly bought; 'tis mine and I will have it. If you deny me, fie upon your law!*
 
-_The merchant of Venice_, William Shakespeare
+*The merchant of Venice*, William Shakespeare
 
-Llevaba largo tiempo sin decidirme a escribir este artículo; llevaba también demasiado tiempo sin escribir en este _blog_, a secas. Esta vez toca hablar de un asunto espinoso: el «pirateo» de libros.
+Llevaba largo tiempo sin decidirme a escribir este artículo; llevaba también demasiado tiempo sin escribir en este *blog*, a secas. Esta vez toca hablar de un asunto espinoso: el «pirateo» de libros.
 
-Las ideas para este artículo me rondaban el magín desde que leí los artículos de Javier Marías ([_Las bandas de la banda ancha_](http://elpais.com/elpais/2013/12/19/eps/1387465128_839474.html), _El País_, 12/2013) y Arturo Pérez-Reverte ([_Ese fulano \[quizás usted\] me roba_](https://www.perezreverte.com/articulo/patentes-corso/810/ese-fulano-quizas-usted-me-roba/), _XL Semanal_, 01/2014).
+Las ideas para este artículo me rondaban el magín desde que leí los artículos de Javier Marías ([«Las bandas de la banda ancha»](https://elpais.com/elpais/2013/12/19/eps/1387465128_839474.html), *El País*, 12/2013) y Arturo Pérez-Reverte ([«Ese fulano \[quizás usted\] me roba»](https://www.perezreverte.com/articulo/patentes-corso/810/ese-fulano-quizas-usted-me-roba/), *XL Semanal*, 01/2014).
 
-A pesar de la admiración que profeso a estos autores (a Marías más como editor, a Pérez-Reverte por sus novelas históricas y su impagable Alatriste), lamentablemente las posturas que muestran en sus artículos me parecieron obsoletas y desafortunadas (y un poco tecnófobas), aunque probablemente inevitables y consecuentes con una forma de comprender el mercado editorial que, para bien o para mal, tiene los días contados.
+A pesar de la admiración que profeso a estos autores (a Marías más como editor, a Pérez-Reverte por sus novelas históricas y su impagable *Alatriste*), lamentablemente las posturas que muestran en sus artículos me parecieron obsoletas y desafortunadas (y un poco tecnófobas), aunque probablemente inevitables y consecuentes con una forma de comprender el mercado editorial que, para bien o para mal, tiene los días contados.
 
-Pero realmente el detonante de este artículo fue leer la entrada [_Los puntos sobre las íes_](http://desdelanieve.blogspot.com.es/2014/09/los-puntos-sobre-las-ies.html), en el _blog_ de Virginia Pérez de la Puente, autora relevante del género fantástico en español. Releer, de nuevo, los mismos argumentos vacíos y quejosos ha acabado por impulsarme a escribir de una vez este artículo.
+Pero el detonante de este artículo fue leer la entrada [*Los puntos sobre las íes*](http://desdelanieve.blogspot.com.es/2014/09/los-puntos-sobre-las-ies.html), en el *blog* de Virginia Pérez de la Puente, autora relevante del género fantástico en español. Releer, de nuevo, los mismos argumentos vacíos y quejosos ha acabado por impulsarme a escribir de una vez este artículo.
 
 Pero vayamos al grano. Si uno lee con algo de detenimiento los artículos que he citado encontrará tres argumentos que se repiten y que considero discutibles e incluso falaces.
 
@@ -32,15 +33,15 @@ Para comenzar, comparar el (según estos autores) arduo oficio de escritor con e
 
 Un autor, sin embargo, acomete el duro trabajo de escribir una novela por su propia cuenta y riesgo,[^1] sin saber realmente ―al menos durante el inicio de su carrera literaria― si llegará a cobrar algo por ello. Dicho de forma clara y llana: nadie obliga a un escritor a escribir una novela.
 
-Pero cuidado. No quiero decir que escribir una novela no sea un trabajo duro; en mi opinión lo es, o debería serlo. Y en un mundo ideal, todo autor debería recibir una recompensa material que le permitiera seguir creando.
+Pero cuidado. No quiero decir que escribir una novela no sea laborioso; en mi opinión lo es, o debería serlo. Y en un mundo ideal, todo autor debería recibir una recompensa material que le permitiera seguir creando.
 
 La pega es que no estamos en ese mundo ideal. Y, en puridad, si la vara de medir es el sudor expirado, el mismo esfuerzo puede invertirse en escribir una obra pésima o soberbia, según quién la escriba. Decidir luego a qué lado de la balanza se inclina cada novela que se publica (o autopublica) no es tan sencillo como parece.
 
-Porque, realmente, eso de que las novelas se escriben en raptos de inspiración feliz, sin esfuerzo ni dolor, es tan falso como que escribir una novela está solo al alcance de unos pocos elegidos por las musas.
+Porque eso de que las novelas se escriben en raptos de inspiración feliz, sin esfuerzo ni dolor, es tan falso como que escribir una novela está solo al alcance de unos pocos elegidos por las musas.
 
 No. Nada de eso. Escribir una novela no es tan difícil. Escribir una buena novela es condenadamente difícil, naturalmente; requiere años de oficio, técnica, y el poso de muchas lecturas y vivencias.
 
-Pero siendo francos, escribir una obra está, hoy en día, al alcance de cualquiera que se lo proponga; por suerte, además. Y lamentablemente, no hay (no la ha habido, no la habrá nunca) una relación directa entre el esfuerzo invertido en una obra y la remuneración que un autor puede (_puede_; no necesariamente debe) conseguir con ella.
+Pero siendo francos, escribir una obra está, hoy en día, al alcance de cualquiera que se lo proponga; por suerte, además. Y lamentablemente, no hay (no la ha habido, no la habrá nunca) una relación directa entre el esfuerzo invertido en una obra y la remuneración que un autor puede (*puede*; no necesariamente debe) conseguir con ella.
 
 ## Argumento n.º 2: Cada descarga es una venta perdida
 
@@ -48,9 +49,9 @@ Otra línea de argumentación frecuente es equiparar cada descarga digital con l
 
 En primer lugar, que una persona se baje un libro gratis («pirata», a decir de muchos) no comporta, automáticamente:
 
-— que, de no estar a su alcance _ilegalmente_, hubiera comprado la obra por un medio _legal_;
+- que, de no estar a su alcance *ilegalmente*, hubiera comprado la obra por un medio *legal*;
 
-— que vaya a leer dicha obra.
+- que vaya a leer dicha obra.
 
 Pura lógica, desde mi punto de vista. A los que tengan lectores de libros electrónicos, les planteo la siguiente pregunta: ¿cuántos libros gratis tienen en sus dispositivos? ¿Cuántos de esos libros tienen aún por leer? En muchos casos, la respuesta a esta última pregunta es, probablemente, «demasiados».
 
@@ -70,7 +71,7 @@ Aparentemente, este tipo de conductas acabarán por sumir al sector editorial y 
 
 ## Argumento n.º 3: No habrá escritores que escriban nuevas obras
 
-Este argumento es, de todos, es el que más me choca. En el fondo, su planteamiento es impecable: si los autores no pueden sacar réditos (léase: dinerito) de sus obras, estos dejarán de escribirlas y no habrá más obras nuevas que leer.
+De todos, este argumento es el que más me choca. En el fondo, su planteamiento es impecable: si los autores no pueden sacar réditos (léase: dinerito) de sus obras, estos dejarán de escribirlas y no habrá más obras nuevas que leer.
 
 Aunque impecable en su planteamiento, la conclusión es tan demencial como ridícula.
 
@@ -90,7 +91,7 @@ No sé cómo será el futuro de la profesión de escritor. No sé si desaparecer
 
 Concienciar a los lectores del trabajo que supone una novela y de que el autor de la misma necesita recibir una recompensa económica por su tiempo y esfuerzo es una idea excelente. Hacerlo mediante insultos, quejas, lloros y berrinches no es muy inteligente, me temo.
 
-Y un apunte. Para el lector, el autor es irrelevante hasta que su obra lo cautiva. A partir de ese momento el escritor habrá ganado un lector para su obra pasada, presente y futura; alguien que estará mucho más dispuesto a recompensarlo por su esfuerzo, si puede y está a su alcance el hacerlo; alguien que hablará con la boca llena de su autor favorito, que recomendará el libro a sus amigos y que no cejará hasta que acaben por leerlo, incluso si para ello ha de prestarles su propio ejemplar.
+Y un apunte. Para el lector, el autor es irrelevante hasta que su obra lo cautiva. A partir de ese momento, el escritor habrá ganado un lector para su obra pasada, presente y futura; alguien que estará mucho más dispuesto a recompensarlo por su esfuerzo, si puede y está a su alcance el hacerlo; alguien que hablará con la boca llena de su autor favorito, que recomendará el libro a sus amigos y que no cejará hasta que acaben por leerlo, incluso si para ello ha de prestarles su propio ejemplar.
 
 Así que puedes, autor, seguir culpando a la piratería de todos tus males. Puedes protestar y gruñir, rasgarte las vestiduras, llamar ladrones a tus lectores potenciales.
 
