@@ -12,19 +12,19 @@ Citando a **Azorín**, «Con gerundios se escribe a lo manga por hombro». Sin e
 
 <!--more-->**2\. Definición y características:**
 
-El gerundio, tanto en su forma simple (ej.: _andando_) como en la compuesta (ej. _habiendo andado_), es una forma del verbo no personal o auxiliar, y como tal, carece de variación morfológica de persona. El gerundio comparte aspectos, además, con los adjetivos y adverbios. Uno de sus aspectos adverbiales es que podemos colocarnos donde nos plazca en una oración. Valga este ejemplo:
+El gerundio, tanto en su forma simple (ej.: *andando*) como en la compuesta (ej. *habiendo andado*), es una forma del verbo no personal o auxiliar, y como tal, carece de variación morfológica de persona. El gerundio comparte aspectos, además, con los adjetivos y adverbios. Uno de sus aspectos adverbiales es que podemos colocarnos donde nos plazca en una oración. Valga este ejemplo:
 
-_Andando se hace el camino._
+*Andando se hace el camino.*
 
-_El camino se hace andando._
+*El camino se hace andando.*
 
-_El camino, andando, se hace._
+*El camino, andando, se hace.*
 
-Otra de sus características es la admisión de pronombres enclíticos pero no proclíticos (esto es: son válidos _cantándome, cantándole, cantándonos_, pero no _me cantando_, _le cantando_, etcétera). En algunos gerundios se admiten las formas diminutivas, como _callandito_, aunque es más usual en el español de América y en el uso familiar del lenguaje.
+Otra de sus características es la admisión de pronombres enclíticos pero no proclíticos (esto es: son válidos *cantándome, cantándole, cantándonos*, pero no *me cantando*, *le cantando*, etcétera). En algunos gerundios se admiten las formas diminutivas, como *callandito*, aunque es más usual en el español de América y en el uso familiar del lenguaje.
 
 **3\. Formación del gerundio:**
 
-El gerundio tiene dos significantes ((Según el DRAE: «Fonema o secuencia de fonemas o letras que, asociados con un significado, constituyen un signo lingüístico».)): las terminaciones _ando_ (_cantando, andando_) y _iendo_ (_comiendo, viniendo_). En su formación tenemos dos casos:
+El gerundio tiene dos significantes[^1]: las terminaciones *ando* (*cantando, andando*) y *iendo* (*comiendo, viniendo*). En su formación tenemos dos casos:
 
 **3.1. Gerundios regulares:**
 
@@ -34,13 +34,13 @@ Dependiendo de la terminación del verbo usaremos uno u otro significante:
 
 **A) Caso primero; i por y:**
 
-En verbos como _destruir, leer, caer_ el gerundio se formaría con el significante –iendo, resultando, en principio, las siguientes formas verbales: \*_destruiendo, \*leiendo, \*caiendo_. En estos casos, claramente incorrectos, hemos de aplicar la regla ortográfica ((Descrita en el apartado 2.5.1 de la Ortografía de la Lengua Española.)) relativa a las palabras cuyas íes tienen rasgos conso­nánticos (forman un fonema palatal sonoro). En estos casos, la i se sustituye por y. Ejemplos: _ca_**y**_endo, re_**y**_es, ca_**y**_ado, ho_**y**_o, destru_**y**_endo._
+En verbos como *destruir, leer, caer* el gerundio se formaría con el significante –iendo, resultando, en principio, las siguientes formas verbales: \**destruiendo, \*leiendo, \*caiendo*. En estos casos, claramente incorrectos, hemos de aplicar la regla ortográfica[^2] relativa a las palabras cuyas íes tienen rasgos conso­nánticos (forman un fonema palatal sonoro). En estos casos, la i se sustituye por y. Ejemplos: *ca***y***endo, re***y***es, ca***y***ado, ho***y***o, destru***y***endo.*
 
 **B) Caso segundo; e por i:**
 
 Entre los verbos con gerundio irregular (cambio de la e por i) tenemos:
 
-adherir (adhiriendo); convertir (convirtiendo); corregir (corrigiendo), decir (diciendo), bendecir (bendiciendo); contradecir (contradiciendo); maldecir (maldiciendo); predecir (prediciendo); derretir (derritiendo);divertir (divirtiendo);elegir (eligiendo (reelegir (reeligiendo); erguir (irguiendo); freír (frien­do); herir (hiriendo); hervir (hirviendo); invertir (invirtiendo); medir (midiendo); mentir (mintiendo); desmentir (desmintiendo); pedir (pidiendo); (impedir (impidiendo); pervertir (pervirtiendo); preferir (prefiriendo); repetir (repitiendo); reír (riendo); rendir (rindiendo); reñir (riñendo); seguir (siguiendo); conseguir (consiguiendo); perseguir (persiguiendo); sentir (sintiendo); presentir (presintiendo); servir (sirviendo); venir (viniendo); convenir (conviniendo); intervenir (interviniendo); prevenir (previniendo); subvenir (subviniendo); vestir (vistiendo).
+adherir (adhiriendo); convertir (convirtiendo); corregir (corrigiendo), decir (diciendo), bendecir (bendiciendo); contradecir (contradiciendo); maldecir (maldiciendo); predecir (prediciendo); derretir (derritiendo);divertir (divirtiendo); elegir (eligiendo (reelegir (reeligiendo); erguir (irguiendo); freír (frien­do); herir (hiriendo); hervir (hirviendo); invertir (invirtiendo); medir (midiendo); mentir (mintiendo); desmentir (desmintiendo); pedir (pidiendo); (impedir (impidiendo); pervertir (pervirtiendo); preferir (prefiriendo); repetir (repitiendo); reír (riendo); rendir (rindiendo); reñir (riñendo); seguir (siguiendo); conseguir (consiguiendo); perseguir (persiguiendo); sentir (sintiendo); presentir (presintiendo); servir (sirviendo); venir (viniendo); convenir (conviniendo); intervenir (interviniendo); prevenir (previniendo); subvenir (subviniendo); vestir (vistiendo).
 
 **C) Caso tercero; o por u:**
 
@@ -94,23 +94,23 @@ Es más que recomendable tener mucho cuidado con los gerundios de posterioridad.
 
 El sujeto de la acción del gerundio es, en la mayor parte de los casos, el mismo de la oración en la que se encuentra. Así, en «Juan pintaba el cuarto sonriendo», el sujeto de la acción principal de la oración, pintar, y la del gerundio, sonreír, coinciden (Juan).
 
-Extraordinariamente, el sujeto de la acción del gerundio puede ser el complemento directo de la oración. Es este otro punto controvertido en el uso del gerundio. Según **Manuel Seco** ((Diccionario de dudas y dificultades de la Lengua Española.)), el gerundio «puede ser sujeto de la acción del gerundio el complemento directo de la oración, pero solo —según Cuervo— cuando el gerundio denota una actitud que se toma, una operación que se está ejerciendo o un movimiento que se ejecuta ocasionalmente en la época señalada por el verbo principal: «_Tuvo la sorpresa de encontrarlo en un extremo del muelle hablando con Iturrioz_» (Baroja, cit. Spaulding)».
+Extraordinariamente, el sujeto de la acción del gerundio puede ser el complemento directo de la oración. Es este otro punto controvertido en el uso del gerundio. Según **Manuel Seco**[^3], el gerundio «puede ser sujeto de la acción del gerundio el complemento directo de la oración, pero solo —según Cuervo— cuando el gerundio denota una actitud que se toma, una operación que se está ejerciendo o un movimiento que se ejecuta ocasionalmente en la época señalada por el verbo principal: «*Tuvo la sorpresa de encontrarlo en un extremo del muelle hablando con Iturrioz*» (Baroja, cit. Spaulding)».
 
-Por lo tanto, no serían correctas oraciones como esta: _Te envío una carta incluyendo fotos_ (la alternativa más lógica sería: _Te envío una carta que incluye fotos,_ o: _Te envío una carta con fotos_). Tampoco sería correcto, por supuesto, referir el gerundio a otros elementos de la oración; nos dice Seco: «Es incorrecto, según Cuervo, referirlo \[el gerundio\] a otros complementos: _Oirá la voz del héroe admirándonos con su fortaleza, del sabio predicando la verdad, y la del Siervo de Dios acusando nuestra tibieza_; o al predicativo: _La Religión es Dios mismo hablando y moviéndose en la humanidad. Se ve más clara la anomalía en estos ejemplos: «Ambos sois del pueblo esforzándose_ \[=que se esfuerza\] _hacia la altura_» (Maragall, _Elogios_, 90); «_El honrado labriego, senci­llo y sin letras, hablando_ \[=que hablaba\] _con dificultad la lengua castellana»_ (Unamuno, _Religión_, 441)».
+Por lo tanto, no serían correctas oraciones como esta: *Te envío una carta incluyendo fotos* (la alternativa más lógica sería: *Te envío una carta que incluye fotos,* o: *Te envío una carta con fotos*). Tampoco sería correcto, por supuesto, referir el gerundio a otros elementos de la oración; nos dice Seco: «Es incorrecto, según Cuervo, referirlo \[el gerundio\] a otros complementos: *Oirá la voz del héroe admirándonos con su fortaleza, del sabio predicando la verdad, y la del Siervo de Dios acusando nuestra tibieza*; o al predicativo: *La Religión es Dios mismo hablando y moviéndose en la humanidad. Se ve más clara la anomalía en estos ejemplos: «Ambos sois del pueblo esforzándose* \[=que se esfuerza\] *hacia la altura*» (Maragall, *Elogios*, 90); «*El honrado labriego, senci­llo y sin letras, hablando* \[=que hablaba\] *con dificultad la lengua castellana»* (Unamuno, *Religión*, 441)».
 
 **5.3. Carácter adverbial del gerundio:**
 
-El gerundio tiene un marcado carácter adverbial y su uso se justifica cuando explica o aclara la acción principal, expresando modo (_lo hizo sonriendo_), medio (_corriendo pudo llegar a tiempo_), condición (_aunando nuestras fuerzas podremos conseguirlo_) o tiempo (_Yendo al trabajo le llamaron del hospital_). Hay que evitar la inclusión de gerundios sin ese carácter adverbial. Según Manuel Seco, «de otra forma se convierte en un mero adjetivo del sujeto, como ocurre en este ejemplo: «_Ciento setenta y siete buques de la Armada, despla­zando 1.021.510 toneladas (…)_»; donde debió decirse, en lugar de _desplazando_, _que desplazan_».
+El gerundio tiene un marcado carácter adverbial y su uso se justifica cuando explica o aclara la acción principal, expresando modo (*lo hizo sonriendo*), medio (*corriendo pudo llegar a tiempo*), condición (*aunando nuestras fuerzas podremos conseguirlo*) o tiempo (*Yendo al trabajo le llamaron del hospital*). Hay que evitar la inclusión de gerundios sin ese carácter adverbial. Según Manuel Seco, «de otra forma se convierte en un mero adjetivo del sujeto, como ocurre en este ejemplo: «*Ciento setenta y siete buques de la Armada, despla­zando 1.021.510 toneladas (…)*»; donde debió decirse, en lugar de *desplazando*, *que desplazan*».
 
 **6\. Usos particulares:**
 
 **6.1. Gerundio en oraciones nominales:**
 
-El gerundio se usa aquí en oraciones sin verbo personal; según **Manuel Seco**, en oraciones que «expresan una acción ocasional en su transcurso, en su producirse. Se presentan en exclamaciones: ¡Una casa ardiendo! (‘una casa está ahora, ante mis ojos, ardiendo’), o en títulos de obras literarias o pictóricas —en que se quiere representar una cosa a lo vivo, poniéndola a los ojos del espectador o lector—: _Las ranas pidiendo rey_; _Napoleón pasando los Alpes_ (‘las ranas están, en este relato, pidiendo rey’; ‘Napoleón está, en este cuadro, pasando los Alpes’).»
+El gerundio se usa aquí en oraciones sin verbo personal; según **Manuel Seco**, en oraciones que «expresan una acción ocasional en su transcurso, en su producirse. Se presentan en exclamaciones: ¡Una casa ardiendo! (‘una casa está ahora, ante mis ojos, ardiendo’), o en títulos de obras literarias o pictóricas —en que se quiere representar una cosa a lo vivo, poniéndola a los ojos del espectador o lector—: *Las ranas pidiendo rey*; *Napoleón pasando los Alpes* (‘las ranas están, en este relato, pidiendo rey’; ‘Napoleón está, en este cuadro, pasando los Alpes’).»
 
 **6.2. Gerundio en construcciones comparativas:**
 
-Es correcto el uso del gerundio precedido de _como_ con valor comparativo. Ejemplo: _Le contó aquello como riéndose._ Equivale a la construcción _**como si**_ **\+ subjuntivo** (_Le contó aquello como si se riera_). **No** **son correctos** usos provenientes del francés o el inglés, como estos (tomados del _Diccionario de dudas y dificultades de la lengua española_, de **Manuel Seco**):
+Es correcto el uso del gerundio precedido de *como* con valor comparativo. Ejemplo: *Le contó aquello como riéndose.* Equivale a la construcción ***como si*** **\+ subjuntivo** (*Le contó aquello como si se riera*). **No** **son correctos** usos provenientes del francés o el inglés, como estos (tomados del *Diccionario de dudas y dificultades de la lengua española*, de **Manuel Seco**):
 
 «El rey ha declarado nulas las resoluciones adoptadas por los diputados…, como siendo ilega­les e inconstitucionales. (Martínez de la Rosa.)»
 
@@ -118,11 +118,11 @@ Es correcto el uso del gerundio precedido de _como_ con valor comparativo. Ejemp
 
 **6.3. Gerundio especificativo:**
 
-No es normal el uso del gerundio para especificar o individualizar una parte de un conjunto. Ejemplo: _Ya no quedan (…) más personas (…) llevando (…) el apellido de Landrey_. (Emilia Pardo Bazán). Lo correcto sería usar «que llevan».
+No es normal el uso del gerundio para especificar o individualizar una parte de un conjunto. Ejemplo: *Ya no quedan (…) más personas (…) llevando (…) el apellido de Landrey*. (Emilia Pardo Bazán). Lo correcto sería usar «que llevan».
 
 **6.4. Gerundio adjetivo:**
 
-Salvo en los casos de _ardiendo_ e _hirviendo_, el gerundio no debe emplearse como adjetivo. Es vá­lido: _Un chorro de agua hirviendo_ o: _Me trajo un papel ardiendo_, pero no: _Me trajo una piedra brillando_; lo correc­to sería sustituir el gerundio por una proposición relativa: _Me trajo una piedra que brillaba._
+Salvo en los casos de *ardiendo* e *hirviendo*, el gerundio no debe emplearse como adjetivo. Es vá­lido: *Un chorro de agua hirviendo* o: *Me trajo un papel ardiendo*, pero no: *Me trajo una piedra brillando*; lo correc­to sería sustituir el gerundio por una proposición relativa: *Me trajo una piedra que brillaba.*
 
 **7\. Conclusiones**
 
@@ -141,5 +141,9 @@ El **sujeto** de la acción del gerundio **coincidirá con la del verbo principa
 **C) Tercera regla. Adverbio:**
 
 **El gerundio debe actuar como adverbio del verbo principal**. Puede expresar modo (lo hizo sonriendo), medio (corriendo pudo llegar a tiempo), condición (aunando nuestras fuerzas podremos conseguirlo) o tiempo (Yendo al trabajo le llamaron del hospital).
+
+[^1]: Según el DRAE: «Fonema o secuencia de fonemas o letras que, asociados con un significado, constituyen un signo lingüístico».
+[^2]: Descrita en el apartado 2.5.1 de la Ortografía de la Lengua Española.
+[^3]: Diccionario de dudas y dificultades de la Lengua Española.
 
 © 2004, Zaral Arelsiak, José María Bravo, Óscar Camarero, María de los Ángeles Flores, Israel Sánchez. Publicado bajo licencia **Creative Commons** [Atribución-No Comercial-No Derivadas 3.0 Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es_MX).

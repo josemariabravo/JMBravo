@@ -70,19 +70,19 @@ Entonces, el ejemplo anterior podría reformularse de esta forma:
 
 ## 2\. Usa un verbo declarativo adecuado, y si tienes dudas, usa decir
 
-En la primera entrega de esta serie ya vimos el asunto de los verbos llamados declarativos, de habla o de comunicación, a los que prefiero referirme con el simpático latinajo _dicendi_.
+En la primera entrega de esta serie ya vimos el asunto de los verbos llamados declarativos, de habla o de comunicación, a los que prefiero referirme con el simpático latinajo *dicendi*.
 
-Sin asomo de duda, el verbo _decir_ es el dicendi más usual y de significado más neutro que tenemos a nuestra disposición para atribuir un parlamento. Por pura repetición, los lectores tenemos interiorizado _dijo_, y apenas si reparamos en él.
+Sin asomo de duda, el verbo *decir* es el dicendi más usual y de significado más neutro que tenemos a nuestra disposición para atribuir un parlamento. Por pura repetición, los lectores tenemos interiorizado *dijo*, y apenas si reparamos en él.
 
-No obstante, emplear _decir_ tal vez no sea apropiado en ciertos casos. Puede ser interesante utilizar un dicendi que aporte matices de significado,[^1] y, en opinión de algunos autores, es un desperdicio de recursos el uso rutinario y automático de decir.
+No obstante, emplear *decir* tal vez no sea apropiado en ciertos casos. Puede ser interesante utilizar un dicendi que aporte matices de significado,[^1] y, en opinión de algunos autores, es un desperdicio de recursos el uso rutinario y automático de decir.
 
-Tal vez; no hay un consenso claro respecto a este punto. Algunos autores son partidarios de la variedad en los dicendi, otros lo son de la austeridad y de limitarse casi de forma exclusiva, salvo contadas excepciones, a _decir_.
+Tal vez; no hay un consenso claro respecto a este punto. Algunos autores son partidarios de la variedad en los dicendi, otros lo son de la austeridad y de limitarse casi de forma exclusiva, salvo contadas excepciones, a *decir*.
 
 Yo mismo no tengo aún clara mi postura, que supongo está más o menos entre ambas posiciones. Pero lo que sí tengo claro es que la elección de los dicendi ha de seguir dos de los principios básicos e irrenunciables de la escritura ―sea esta con fines estéticos o no―: precisión y claridad. (Y, me atrevería a añadir, economía, pero quizá haya quien discrepe conmigo en esto).
 
-A este respecto recomiendo la lectura del capítulo «Los verbos parlanchines»,[^2] del libro _Estilo rico, estilo pobre_, de Luis Magrinyà (2015, Debate, Barcelona), en el cual saca los colores a muchos autores por su estilo pretencioso y rebuscado, en aras, seguramente, de no caer en la repetición del verbo _decir_.
+A este respecto recomiendo la lectura del capítulo «Los verbos parlanchines»,[^2] del libro *Estilo rico, estilo pobre*, de Luis Magrinyà (2015, Debate, Barcelona), en el cual saca los colores a muchos autores por su estilo pretencioso y rebuscado, en aras, seguramente, de no caer en la repetición del verbo *decir*.
 
-Así que puedes, si lo crees conveniente, emplear dicendi diferentes a decir; faltaría más. Pero te rogaría que te asegures de que cuando un personaje _argumenta_, _añade_, _asevera_, _aduce_, _refuta_, _comenta_, _exige_, _masculla_ (?), _titubea_, _susurra_ y un largo, larguísimo etcétera, lo está haciendo de veras.[^3]
+Así que puedes, si lo crees conveniente, emplear dicendi diferentes a decir; faltaría más. Pero te rogaría que te asegures de que cuando un personaje *argumenta*, *añade*, *asevera*, *aduce*, *refuta*, *comenta*, *exige*, *masculla* (?), *titubea*, *susurra* y un largo, larguísimo etcétera, lo está haciendo de veras.[^3]
 
 Y para eso, nada como hacerle una visita a nuestro amigo el diccionario. Muchas veces he creído saber el significado de una palabra y al consultarlo me he llevado una sorpresa; y es mejor, en cualquier caso, llevársela antes y no después de haber terminado de escribir.
 
@@ -126,7 +126,7 @@ Quizá haya lectores a los que el primer ejemplo les guste ―quién sabe―, pe
 
 En parte, este gusto (casi obsesión) por las acotaciones se debe a la intención de dotar a literatura de viveza y, retorciendo el término, de visualidad, en buena parte porque los escritores vivimos inmersos en la época de la imagen, pero admitámoslo: nunca podremos transmitir lo mismo que la actuación de un actor.[^4]
 
-Como estímulo para la reflexión acerca de las acotaciones, recomiendo de nuevo la lectura de un capítulo del libro de Margrinyà, _Estilo rico, estilo pobre_, «Sacudir la cabeza»,[^5] al que cito a continuación:
+Como estímulo para la reflexión acerca de las acotaciones, recomiendo de nuevo la lectura de un capítulo del libro de Margrinyà, *Estilo rico, estilo pobre*, «Sacudir la cabeza»,[^5] al que cito a continuación:
 
 «Esta carpintería de los diálogos, que no solo incluye gestos como sacudir la cabeza, asentir, encogerse de hombros, fruncir el ceño, chasquear la lengua, etc. sino todo un surtido cansino de verbos de mirar (mirar fijamente, levantar o bajar la vista o los ojos o la mirada, con hacia o sin hacia, escrutar, escudriñar, lanzar o echar o dirigir o clavar o fijar una mirada, etc.), es un índice harto significativo de lo que entienden muchos narradores por narración. Para ellos entre una línea de diálogo y la siguiente, o entre partes de la misma alocución, parece que hay como un abismo espantoso. Abrumados, y a la vez envalentonados, por el horror vacui, se apresuran a llenarlo, uno diría que la mayoría de las veces con los ojos cerrados. Porque qué curioso, ¿no?, que siempre lo llenen con lo mismo».
 
@@ -138,7 +138,7 @@ No comparto la opinión de Magrinyà, sin embargo, y considero que esa «carpint
 
 ―y, por último, permiten que la lectura se frene en los puntos que lo necesita, como momentos de tensión dramática, de forma que el diálogo pueda ‘respirar’, en especial tras una larga batería de diálogos a palo seco.
 
-Por último: a los que estén interesados en trabajar en sus acotaciones, les recomiendo la siguiente lectura (en inglés, lo siento): _The Emotion Thesaurus: A Writer’s Guide To Character expression_ (Angela Ackerman & Becca Puglisi, 2012, autopublicación).
+Por último: a los que estén interesados en trabajar en sus acotaciones, les recomiendo la siguiente lectura (en inglés, lo siento): *The Emotion Thesaurus: A Writer’s Guide To Character expression* (Angela Ackerman & Becca Puglisi, 2012, autopublicación).
 
 ## 4\. Usa introspecciones para caracterizar a tus personajes
 
@@ -196,7 +196,7 @@ Como resulta habitual en muchos textos, los detalles que se dan del personaje qu
 
 > Álvaro era alto, regordete y bonachón.
 
-Hemos eliminado el resto de la descripción y nos hemos quedado con tres detalles descriptivos esenciales, siguiendo la conocida _rule of three_ ([regla del tres](http://www.gabriellaliteraria.com/la-regla-de-tres/)) anglosajona.[^7] No obstante, sigue sin gustarme demasiado: si la escena ya ha arrancado, yo optaría por comenzar con la primera línea de diálogo de Álvaro, tal que así:
+Hemos eliminado el resto de la descripción y nos hemos quedado con tres detalles descriptivos esenciales, siguiendo la conocida *rule of three* ([regla del tres](http://www.gabriellaliteraria.com/la-regla-de-tres/)) anglosajona.[^7] No obstante, sigue sin gustarme demasiado: si la escena ya ha arrancado, yo optaría por comenzar con la primera línea de diálogo de Álvaro, tal que así:
 
 > ―¡Juan! ¡Eh! ¡Juan!―dijo, casi a gritos, alborozado como un perro de aguas enorme y rubicundo que viera a su dueño tras una larga ausencia.
 
@@ -230,9 +230,9 @@ Lo antedicho puede aplicarse de igual forma a la descripción de lugares y, tamb
 
 Bien: aquí concluye esta serie. Espero que te haya resultado interesante.
 
-[^1]: Siempre, insisto, según el narrador y punto de vista elegido. Un ejemplo muy claro es usar el dicendi _mentir_. El narrador que lo emplea debe saber que el personaje ha mentido, suponiendo que no esté mintiendo a su vez, claro está.
+[^1]: Siempre, insisto, según el narrador y punto de vista elegido. Un ejemplo muy claro es usar el dicendi *mentir*. El narrador que lo emplea debe saber que el personaje ha mentido, suponiendo que no esté mintiendo a su vez, claro está.
 [^2]: Puedes leerlo en dos partes en [www.eldiario.es/Kafka/verbos-parlanchines-primera-parte\_0\_110589749.html](http://www.eldiario.es/Kafka/verbos-parlanchines-primera-parte_0_110589749.html "Verbos parlanchines") y [www.eldiario.es/Kafka/Interrogados-inquiridos\_0\_111989069.html](http://www.eldiario.es/Kafka/Interrogados-inquiridos_0_111989069.html).
-[^3]: Mención aparte merecen los dicendi imposibles, debidos a las (malas) traducciones del inglés, como los bestiales _aullar_, _bramar_, _graznar_, _gruñir_, _ladrar_, _rebuznar_ (!), etcétera, muy propios de la literatura fantástica, por cierto. Aunque muy coloridos, ¿realmente es creíble que alguien ―humano― brame o ladre algo entendible? Sin olvidar, por cierto, que son verbos intransitivos.
+[^3]: Mención aparte merecen los dicendi imposibles, debidos a las (malas) traducciones del inglés, como los bestiales *aullar*, *bramar*, *graznar*, *gruñir*, *ladrar*, *rebuznar* (!), etcétera, muy propios de la literatura fantástica, por cierto. Aunque muy coloridos, ¿realmente es creíble que alguien ―humano― brame o ladre algo entendible? Sin olvidar, por cierto, que son verbos intransitivos.
 [^4]: Recordemos esto: el secreto de la buena literatura reside en que las palabras sugieran al lector sus propias imágenes: así, cada lector se figurará su propia e intransferible concepción de lo que lee.
 [^5]: [www.eldiario.es/Kafka/Sacudir-cabeza\_0\_78392320.html](http://www.eldiario.es/Kafka/Sacudir-cabeza_0_78392320.html)
 [^6]: No me olvido del estilo indirecto libre y del estilo directo libre, pero en aras de la sencillez solo consideraré estos dos estilos.

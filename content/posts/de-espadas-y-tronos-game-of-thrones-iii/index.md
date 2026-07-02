@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/de-espadas-y-tronos-game-of-thrones-iii/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (iii)"
 date: "2011-07-15"
@@ -13,13 +13,13 @@ En este capítulo hay dos escenas en las que asistimos al entrenamiento de la Gu
 
 No se dispone de mucha información al respecto. Las fuentes históricas coinciden en que el caballero medieval comenzaba su adiestramiento muy joven, a partir de los siete años. Además de ejercicios para robustecer su cuerpo, el aprendizaje marcial comprendía el uso de la lanza, la espada y el escudo. En cuanto a estos dos últimos, uno de los ejercicios más importantes era el llamado "tirar al poste", en el juego de la espada y otras armas[^1].
 
-Conocido ya por los romanos, el poste (_pell_, en inglés) era uno de los útiles de entrenamiento más viejos y fiables. Era probablemente el primer ejercicio empleado para adiestrar a un combatiente. Su objetivo era desarrollar fuerza y precisión en los golpes.
+Conocido ya por los romanos, el poste (*pell*, en inglés) era uno de los útiles de entrenamiento más viejos y fiables. Era probablemente el primer ejercicio empleado para adiestrar a un combatiente. Su objetivo era desarrollar fuerza y precisión en los golpes.
 
 ![Ilustración en un códice del s. XIV que muestra el ejercicio de «tirar al poste»](pell_01.jpg)
 
 ![Espada de madera del artesano José Acedo](waster.jpg)
 
-Las armas cuerpo a cuerpo no se limitaban solo a la espada; la maza y el hacha eran armas usuales, incluso más efectivas según qué circunstancias; y en cualquier caso, aprender a manejar bien el escudo era primordial. En cuanto a las espadas de práctica, durante el entrenamiento era frecuente el uso de espadas de madera, o _wasters_, lastradas para que fueran más pesadas que las de acero. Las armas negras[^2] no fueron usuales, por su elevado coste, hasta finales de la edad media. En cualquier caso, si bien no se dispone de mucha información sobre los combates de práctica, podemos asumir que se harían entre combatientes ya hechos al uso de la espada mediante el entrenamiento con el poste.
+Las armas cuerpo a cuerpo no se limitaban solo a la espada; la maza y el hacha eran armas usuales, incluso más efectivas según qué circunstancias; y en cualquier caso, aprender a manejar bien el escudo era primordial. En cuanto a las espadas de práctica, durante el entrenamiento era frecuente el uso de espadas de madera, o *wasters*, lastradas para que fueran más pesadas que las de acero. Las armas negras[^2] no fueron usuales, por su elevado coste, hasta finales de la edad media. En cualquier caso, si bien no se dispone de mucha información sobre los combates de práctica, podemos asumir que se harían entre combatientes ya hechos al uso de la espada mediante el entrenamiento con el poste.
 
 Dicho esto, y volviendo a la escena en sí, hay varios detalles que no me cuadraron al verla por primera vez. En primer lugar, el equipo que usa Jon y sus compañeros durante el entrenamiento con armas. Como se puede ver claramente en la escena, como protección usan una especie de petos, algo toscos, y debajo de ellos el clásico gambesón[^3]. No usan ningún tipo de protección para la cabeza, sin embargo. Aunque las espadas que usan son negras, un golpe bien colocado en la cabeza podía ser muy peligroso. Los golpes tirados al cuerpo no harían demasiado daño, teniendo en cuenta la protección combinada del peto y el gambesón (y esto lo puedo atestiguar de primera mano), salvo en el caso de las manos, más expuestas de lo que parece en el juego de la esgrima, sobre todo entre combatientes inexpertos (de nuevo, puedo dar fe de esto).
 
@@ -29,7 +29,7 @@ Veamos cómo se describe la escena en el texto original de la novela:
 
 Esto tiene mucho más sentido que lo representado en la serie. Tal y como puede leerse, el entrenamiento se hacía completamente pertrechado con armadura, yelmo incluido. Esto tiene una ventaja doble: acostumbrar al alumno al peso y el calor de la armadura, para incrementar su resistencia física, y protegerlo de los golpes recibidos durante el asalto con armas negras.
 
-Eso no significa que fuera un juego de niños, ojo. No serían raros dedos rotos, mandíbulas, pómulos o narices fracturadas, y por supuesto todo un rosario de magulladuras y contusiones. El riesgo más grave sería una estocada a la zona de los ojos; y en cuanto a esto, o asumían el riesgo, o evitaban dirigir  estocadas a la cabeza.
+Eso no significa que fuera un juego de niños, ojo. No serían raros dedos rotos, mandíbulas, pómulos o narices fracturadas, y por supuesto todo un rosario de magulladuras y contusiones. El riesgo más grave sería una estocada a la zona de los ojos; y en cuanto a esto, o asumían el riesgo, o evitaban dirigir estocadas a la cabeza.
 
 ¿Dónde está el fallo, además de las diferencias entre el texto y la interpretación de la serie, como la licencia "artística" de que no llevaran yelmo? A mi juicio, y es algo achacable tanto a la adaptación como al original, el fallo más grave es la omisión del escudo, pieza clave en el adiestramiento del guerrero medieval.
 
@@ -37,7 +37,7 @@ Ya comenté en el mito n.º 6 del artículo [De espadas y falacias (ii)](/espada
 
 ### Escena n.º 2: Conversación entre ser Jorah y Rakharo
 
-El comentario de ser Jorah sobre su espada, a la que llama _broadsword_[^5], no va mal desencaminado del todo, aunque su afirmación de que dicha arma está "diseñada para penetrar las placas de un armadura" es errónea. El arma de ser Jorah es el arma clásica del caballero medieval, pensada para blandirse a una mano, bien a caballo, bien a pie, en conjunción con un escudo. Por su diseño era idónea para asestar recias cuchilladas con ambos filos; en cuanto a la punta, esta se fue aguzando a medida que fue conveniente el uso de la estocada, que como ya anotamos en el mito n.º 3 del artículo [De espadas y falacias (i)](/espadas-y-falacias-i/ "De espadas y falacias (i)"), es el mejor ataque para atravesar los puntos débiles de una armadura de placas, o arnés blanco.
+El comentario de ser Jorah sobre su espada, a la que llama *broadsword*[^5], no va mal desencaminado del todo, aunque su afirmación de que dicha arma está "diseñada para penetrar las placas de un armadura" es errónea. El arma de ser Jorah es el arma clásica del caballero medieval, pensada para blandirse a una mano, bien a caballo, bien a pie, en conjunción con un escudo. Por su diseño era idónea para asestar recias cuchilladas con ambos filos; en cuanto a la punta, esta se fue aguzando a medida que fue conveniente el uso de la estocada, que como ya anotamos en el mito n.º 3 del artículo [De espadas y falacias (i)](/espadas-y-falacias-i/ "De espadas y falacias (i)"), es el mejor ataque para atravesar los puntos débiles de una armadura de placas, o arnés blanco.
 
 Pero de ahí a que sea ideal para ello, media un abismo, claro.
 
@@ -67,7 +67,7 @@ No obstante, un último apunte: el desarme que ejecuta Jon (minuto 48:43) está 
 
 Ya comentamos en la segunda entrega de esta serie de artículos lo que podía deducirse sobre los bravos, los espadachines de las Ciudades Libres, y sus armas, asimilables a las espadas roperas del s. XV.
 
-Teniendo en cuenta el tipo de esgrima y el arma empleada en la _danza del agua_, elegir espadas de madera para su enseñanza no es la mejor elección. De entrada, una espada de madera no es la mejor herramienta para practicar el juego de la esgrima[^8]. No transmite sensaciones, es inflexible, no tiene filo ni plano con el que jugar. Si hacemos la poco arriesgada suposición de que el dinero no es un problema, la mejor opción es emplear armas negras. En el caso de la espada ropera es incluso mejor, pues tras matarle los filos y abotonar la punta sería mucho menos peligrosa que las espadas negras que usan Jon y sus compañeros, por ejemplo. (Salvo en el caso de las estocadas a la cara, donde el peligro se mantiene, o incluso es mayor.)
+Teniendo en cuenta el tipo de esgrima y el arma empleada en la *danza del agua*, elegir espadas de madera para su enseñanza no es la mejor elección. De entrada, una espada de madera no es la mejor herramienta para practicar el juego de la esgrima[^8]. No transmite sensaciones, es inflexible, no tiene filo ni plano con el que jugar. Si hacemos la poco arriesgada suposición de que el dinero no es un problema, la mejor opción es emplear armas negras. En el caso de la espada ropera es incluso mejor, pues tras matarle los filos y abotonar la punta sería mucho menos peligrosa que las espadas negras que usan Jon y sus compañeros, por ejemplo. (Salvo en el caso de las estocadas a la cara, donde el peligro se mantiene, o incluso es mayor.)
 
 ![GameofThroness01e03.avi\_003341254](GameofThroness01e03.avi_003341254.jpg)
 
@@ -77,15 +77,15 @@ En cuanto a la técnica de Syrio prefiero reservar mis comentarios para las sigu
 
 Y hasta aquí la tercera entrega. Hasta la siguiente.
 
-© de las imágenes de la serie _Juego de Tronos_: HBO.
+© de las imágenes de la serie *Juego de Tronos*: HBO.
 
-_(Sigue en la [cuarta parte](/de-espadas-y-tronos-game-of-thrones-iv/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (iv)").)_
+*(Sigue en la [cuarta parte](/de-espadas-y-tronos-game-of-thrones-iv/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (iv)").)*
 
 [^1]: El equivalente para el uso de la lanza sería el juego del estafermo.
 [^2]: Armas negras son aquellas sin filo ni punta vivos, en contraposición a las armas blancas.
-[^3]: El gambesón era una prenda acolchada que se llevaba bajo la armadura para mitigar tanto el roce de la misma como para acolchar los golpes recibidos
-[^4]: _Boiled leather_ hace referencia al cuero hervido, también conocido antaño como cuir bouilli; no es más que una pieza de cuero hervida en agua o aceite, tras lo cual adquiría una gran dureza y, lógicamente, rigidez.
-[^5]: El término más adecuado sería _arming sword_, espada de arzón, en castellano, por el hecho que se llevaba en la silla de montar
-[^6]: A ese respecto, recomiendo la lectura del n.º 2 de la excelente publicación sobre historia militar _[Desperta Ferro](http://www.despertaferro-ediciones.com/)_
-[^7]: La versión original de R. E. Howard, por cierto, no incurre en tales sandeces, y el cimmerio en su versión literaria favorece el uso de armadura siempre que puede
+[^3]: El gambesón era una prenda acolchada que se llevaba bajo la armadura para mitigar tanto el roce de la misma como para acolchar los golpes recibidos.
+[^4]: *Boiled leather* hace referencia al cuero hervido, también conocido antaño como cuir bouilli; no es más que una pieza de cuero hervida en agua o aceite, tras lo cual adquiría una gran dureza y, lógicamente, rigidez.
+[^5]: El término más adecuado sería *arming sword*, espada de arzón, en castellano, debido a que se llevaba en la silla de montar.
+[^6]: A ese respecto, recomiendo la lectura del n.º 2 de la excelente publicación sobre historia militar *[Desperta Ferro](http://www.despertaferro-ediciones.com/)*.
+[^7]: La versión original de R. E. Howard, por cierto, no incurre en tales sandeces, y el cimmerio en su versión literaria favorece el uso de armadura siempre que puede.
 [^8]: Asunto aparte es el entrenamiento en solitario, como hemos comentado antes, en el ejercicio de tirar al poste, por ejemplo.

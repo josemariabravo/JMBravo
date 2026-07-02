@@ -1,13 +1,13 @@
 ---
 draft: false
-title: Sangre y Acero n.º 3
+title: Sangre y acero n.º 3
 date: 2010-10-28
 categories:
   - recomendaciones
 tags:
   - sangre-y-acero
 ---
-![SyA\_3.jpg](images/sya_3.jpg)Y le toca el turno al tercer número de **Sangre y Acero**, publicado en julio de 2000, casi un año después del segundo. Ya teníamos encarrilada la maquetación y la línea editorial, y la respuesta de los aficionados había sido muy positiva, aunque teníamos el problema que tuvo toda publicación de aficionados: la imposibilidad de acceder a los canales de distribución profesionales.
+![SyA\_3.jpg](images/sya_3.jpg)Y le toca el turno al tercer número de **Sangre y acero**, publicado en julio de 2000, casi un año después del segundo. Ya teníamos encarrilada la maquetación y la línea editorial, y la respuesta de los aficionados había sido muy positiva, aunque teníamos el problema que tuvo toda publicación de aficionados: la imposibilidad de acceder a los canales de distribución profesionales.
 
 Sea como fuere, en este número 3 incluimos el siguiente contenido:
 
@@ -27,4 +27,4 @@ Sea como fuere, en este número 3 incluimos el siguiente contenido:
 
 En cuanto a la portada y contraportada, en este número apostamos por un clásico: nada más y nada menos que el **Death Dealer** de Frazetta. Las [ilustraciones de este personaje](http://frankfrazetta.org/deathdealer0001.php), que conforman por sí solas una saga, son de lo mejor de este maestro de la ilustración, fallecido recientemente (el pasado 10 de mayo de este año).
 
-Podéis descargaros este número tres de Sangre y Acero desde este enlace: [Sangre y Acero n.º 3](/archivos/pdf/sya_03.pdf).
+Podéis descargaros este número tres de Sangre y acero desde este enlace: [Sangre y acero n.º 3](/archivos/pdf/sya_03.pdf).

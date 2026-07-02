@@ -10,11 +10,11 @@ Siempre he sido un maniático —casi un esclavo— de los detalles. Mi obsesió
 
 Últimamente he estado reflexionando sobre la forma en la que planifico la creación de un texto, en especial uno largo (los cuentos y relatos cortos son, en su mayoría, producto de un arrebato de inspiración, por mucho que entre en juego una cuidada reescritura).
 
-Llevo varios años (más de los que quisiera admitir) embarcado en un proyecto de larga duración, que debido a diversos motivos personales –el peso del mundo, como me gusta decir– he dejado en barbecho demasiado tiempo. Ahora que lo he retomado con ánimos, me doy cuenta que lo que escribí tiempo ha, pese a que en su momento era un versión casi definitiva, ahora ya no vale. He de hacer cambios, quitar esta parte o esta otra, modificar esto o aquello para que case con los capítulos posteriores... en fin, algo muy desalentador.
+Llevo varios años (más de los que quisiera admitir) embarcado en un proyecto de larga duración, que debido a diversos motivos personales –el peso del mundo, como me gusta decir– he dejado en barbecho demasiado tiempo. Ahora que lo he retomado con ánimos, me doy cuenta que lo que escribí tiempo ha, pese a que en su momento era una versión casi definitiva, ahora ya no vale. He de hacer cambios, quitar esta parte o esta otra, modificar esto o aquello para que case con los capítulos posteriores... en fin, algo muy desalentador.
 
 No es que lo que esté escrito no valga. Vale. Pero buena parte del tiempo empleado en pulir estos capítulos lo he perdido, porque puestos a modificarlos después, ¿para qué pulirlos en primera instancia?
 
-Así que me plantee, sin quererlo, otro de los viejos temas de debate en la teoría de la creación literaria, en particular de la novela: ¿planificación meticulosa o seguir el hilo de la inspiración? ¿Mapa o brújula, como le llaman algunos?
+Así que me planteé, sin quererlo, otro de los viejos temas de debate en la teoría de la creación literaria, en particular de la novela: ¿planificación meticulosa o seguir el hilo de la inspiración? ¿Mapa o brújula, como le llaman algunos?
 
 Mi respuesta es algo ambigua. Mapa y brújula. Ambos.
 

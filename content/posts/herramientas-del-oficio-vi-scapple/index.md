@@ -5,7 +5,7 @@ categories:
   - "articulos"
 coverImage: "scapple_logo-win-128.png"
 ---
-_The hardest thing is knowing what to write._ Syd Field
+*The hardest thing is knowing what to write.* Syd Field
 
 Quizás sea la primera vez que cito al famoso guionista Syd Field, pero no será la última. Como bien dice Field, saber qué escribir es lo más difícil. Por supuesto, el saber cómo escribirlo entraña, también, no pocas dificultades y secretos, pero en narrativa una cosa debería llevar a la otra: una vez que sabemos qué queremos contar, encontrar el cómo es una tarea mucho más llevadera.
 
@@ -13,7 +13,7 @@ En esta entrega de la serie analizaré una herramienta que considero especialmen
 
 ## ¿Sca… qué?
 
-Scapple es un programa creado y distribuido por [Literature & Latte](http://www.literatureandlatte.com/), los padres de [Scrivener](http://www.literatureandlatte.com/scrivener.php), del cuya beta para Windows [ya hablé en su día](http://www.sombrasyceniza.com/herramientas-del-oficio-iv-software-para-escritores-scrivener/).
+Scapple es un programa creado y distribuido por [Literature & Latte](http://www.literatureandlatte.com/), los padres de [Scrivener](http://www.literatureandlatte.com/scrivener.php), de cuya beta para Windows [ya hablé en su día](http://www.sombrasyceniza.com/herramientas-del-oficio-iv-software-para-escritores-scrivener/).
 
 Se trata de un programa intuitivo y fácil de usar. Su propósito es anotar ideas mediante notas breves de forma no lineal, rápida y libre, en una especie de «pizarra virtual», para después interrelacionarlas y disponerlas a nuestro antojo, de forma que podamos organizar visualmente nuestras ideas.
 
@@ -29,7 +29,7 @@ Al abrir el programa, lo primero que vemos es esto:
 
 ![Scapple\_01](images/Scapple_011-1024x616.png)
 
-Nada más. Una pantalla en blanco, con una interfaz mínima, y un escueto mensaje: _Double-click anywhere to create a note_ (Doble clic en cualquier lugar para crear una nota).
+Nada más. Una pantalla en blanco, con una interfaz mínima, y un escueto mensaje: *Double-click anywhere to create a note* (Doble clic en cualquier lugar para crear una nota).
 
 Y ya está. Superado el primer instante de desconcierto, probamos a crear nuestra primera nota:
 
@@ -39,7 +39,7 @@ Y un par más:
 
 ![Scapple\_02](images/Scapple_021-1024x616.png)
 
-Y así, si quisiéramos, _ad infinitum_. El lienzo de un archivo de Scapple, a diferencia de una pizarra o una hoja de papel, es prácticamente inacabable.
+Y así, si quisiéramos, *ad infinitum*. El lienzo de un archivo de Scapple, a diferencia de una pizarra o una hoja de papel, es prácticamente inacabable.
 
 Ahora bien, ¿qué podemos hacer con estas notas?
 

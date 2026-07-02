@@ -9,7 +9,7 @@ tags:
 coverImage: sangre-y-acero-1
 ---
 ![sya_portada-1](images/sangre-y-acero-1.jpg "izquierda 250")
-La historia del fanzine _Sangre y Acero_ (a partir de ahora, SyA) comenzó hace unos 15 años, o así, cuando conocí a [Andrés Díaz Sánchez](https://andresdiazsanchez.com/) gracias al correo del lector del cómic _La Espada Salvaje de Conan_, allá por 1995.
+La historia del fanzine *Sangre y acero* (a partir de ahora, SyA) comenzó hace unos 15 años, o así, cuando conocí a [Andrés Díaz Sánchez](https://andresdiazsanchez.com/) gracias al correo del lector del cómic *La Espada Salvaje de Conan*, allá por 1995.
 
 Al poco tiempo establecimos una fluida correspondencia (postal, a todo esto; sí, niños, cartas de nuestro puño y letra), durante la cual nos pasábamos nuestros cuentos y relatos. Unos pocos de los míos, varios cientos de los suyos; Andrés tiene una habilidad innata para la escritura, y decir que es prolífico es quedarse corto. En aquella época, yo escribía los relatos a mano (bueno, aún escribo a mano, soy así de esnob), y luego los pasaba a limpio trabajosamente para luego mecanografiarlos en la Olivetti —con las teclas duras como un cuerno— en la que mi padre me había enseñado (gracias, papá) el método de mecanografiar con diez dedos. Luego vino una máquina de escribir eléctrica… y, en 1998, mi primer ordenador personal de 32 bits me dio acceso al procesador de textos (ese Wordperfect de pantalla azul… qué tiempos). Ya habíamos hablado, Andrés y yo, de la posibilidad de editar una revista (él siempre se negó a considerarlo un fanzine) sobre nuestros temas favoritos, en el que podríamos dar rienda suelta a nuestra creatividad (filias y fobias incluidas).  
 
@@ -36,8 +36,8 @@ El primer número tuvo el siguiente contenido:
 - Galería de ilustraciones de Fernando Caro.
 
 
-En cuanto a las cubiertas de Sangre y Acero, la portada tenía una ilustración de Jim Steranko; la contraportada, nada más y nada menos que una de Frank Frazetta.
+En cuanto a las cubiertas de Sangre y acero, la portada tenía una ilustración de Jim Steranko; la contraportada, nada más y nada menos que una de Frank Frazetta.
 
-Tenéis disponible el PDF aquí: [Sangre y Acero n.º 1](/descargas/sangre-y-acero/sangre-y-acero-1/).
+Tenéis disponible el PDF aquí: [Sangre y acero n.º 1](/descargas/sangre-y-acero/sangre-y-acero-1/).
 
 Lamentablemente he tenido que partir de las fotocopias y no de los archivos de maquetación, por lo que el PDF pesa bastante (unos 23 megas). En cualquier caso, espero que os guste. A mí, por lo menos, ha conseguido arrancarme una sonrisa nostálgica.

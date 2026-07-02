@@ -5,7 +5,7 @@ categories:
   - "novedades"
 coverImage: "ps_cover.jpg"
 ---
-Tras no pocos dimes y diretes por correo electrónico, por fin Amazon ha accedido a igualar el precio y poner gratuito el título _Primera sangre_, el adelanto de _Sombras y ceniza_. Este incluye todo el libro I (de dos) de la obra, por lo que sirve para hacerse una buena idea de cómo es la novela, para los indecisos. Dicho de otro modo, el adelanto comprende la mitad de la novela, que se dice pronto.  
+Tras no pocos dimes y diretes por correo electrónico, por fin Amazon ha accedido a igualar el precio y poner gratuito el título *Primera sangre*, el adelanto de *Sombras y ceniza*. Este incluye todo el libro I (de dos) de la obra, por lo que sirve para hacerse una buena idea de cómo es la novela, para los indecisos. Dicho de otro modo, el adelanto comprende la mitad de la novela, que se dice pronto.  
 Os dejo aquí los enlaces:
 
 ## Amazon:

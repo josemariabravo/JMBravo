@@ -28,7 +28,9 @@ Antes de proseguir, se presentan a continuación una serie de definiciones que s
 
 **Acto preternatural:** todo aquel acto que se sale fuera de las leyes del mundo real conocido.
 
-**Agente:** el que realiza el acto preternatural (por voluntad propia o no). Fuente: recurso material o inmaterial de dónde se obtiene la energía para realizar el acto preternatural.
+**Agente:** el que realiza el acto preternatural (por voluntad propia o no).
+
+**Fuente:** recurso material o inmaterial de donde se obtiene la energía para realizar el acto preternatural.
 
 **Foco:** recurso material o inmaterial con el que el agente canaliza la energía de la fuente para realizar el acto preternatural.
 
@@ -50,9 +52,9 @@ Con frecuencia se produce una tipificación de los elementos preternaturales, to
 
 A continuación se establece un método de análisis, pensado como una herramienta para orientar al escritor en el proceso de creación de un sistema coherente de elementos preternaturales. El análisis debe iniciarse sobre unas sencillas preguntas, que son:
 
-a) Origen: ¿_de dónde_ proviene el acto preternatural?
+a) Origen: ¿*de dónde* proviene el acto preternatural?
 
-b) Medio: ¿_cómo y por qué_ sucede?
+b) Medio: ¿*cómo y por qué* sucede?
 
 **Advertencia:** las opciones de las siguientes clasificaciones **no se excluyen a priori entre sí**; de esta manera, el análisis es más flexible y permite elementos preternaturales que combinen varias de las posibilidades reflejadas simultáneamente.
 
@@ -62,17 +64,17 @@ Respecto a la fuente, aquello que aporta la energía del acto mágico, se pueden
 
 1.1. Posición de la **fuente** respecto al **agente**.
 
-1.1. Definición física de la **fuente**.
+1.2. Definición física de la **fuente**.
 
-1.1. Influencia de la **fuente** sobre el **agente**.
+1.3. Influencia de la **fuente** sobre el **agente**.
 
 **1.1. Posición respecto al Agente:**
 
 La clasificación de este punto, puesto que el agente es el referente, es inmediata. La fuente puede estar:
 
-**I. En el interior del agente**. Se tiene entonces un _acto preternatural endógeno_.
+**I. En el interior del agente**. Se tiene entonces un *acto preternatural endógeno*.
 
-**II. En el exterior del agente**. El escritor maneja un _acto preternatural exógeno_.
+**II. En el exterior del agente**. El escritor maneja un *acto preternatural exógeno*.
 
 > Ejemplos:
 > 
@@ -122,7 +124,7 @@ En otras palabras, ¿qué consecuencias tiene para el agente el realizar actos p
 
 **2\. Canalización del acto preternatural:**
 
-Antes hablamos del _de dónde_; ahora, del _cómo_; ¿cómo realizan el acto preternatural los agentes? ¿De qué medios se valen? ¿Cómo lo hacen?
+Antes hablamos del *de dónde*; ahora, del *cómo*; ¿cómo realizan el acto preternatural los agentes? ¿De qué medios se valen? ¿Cómo lo hacen?
 
 **2.1. El desencadenante es la voluntad del agente:**
 

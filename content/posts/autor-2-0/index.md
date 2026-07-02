@@ -5,19 +5,19 @@ date: "2010-10-21"
 categories: 
   - "articulos"
 ---
-![Narciso\_de\_caravaggio](narciso_de_caravaggio.jpg "Narciso_de_caravaggio")
+![Narciso de Caravaggio](narciso_de_caravaggio.jpg "Narciso de Caravaggio")
 
 El otro día leí en [librodenotas.com](http://librodenotas.com) un [breve artículo](http://librodenotas.com/textosdelcuervo/19131/el-autor-no-es-su-ficcion) de **Marcos Taracido** que abordaba una de mis viejas preocupaciones con respecto a la literatura: la identificación del autor con su obra. Concretamente, Marcos decía:
 
-_La heteronimia debiera ser, quizás, una obligación para el autor; firmar su obra con nombres extraños al suyo propio podría ayudar a desgajar esos cuerpos siameses que son el autor y el narrador para los lectores._
+*La heteronimia debiera ser, quizás, una obligación para el autor; firmar su obra con nombres extraños al suyo propio podría ayudar a desgajar esos cuerpos siameses que son el autor y el narrador para los lectores.*
 
 Siempre he sido de la opinión que obra y autor han de estar perfectamente separados. Realmente no importa que una obra que nos ha gustado la haya escrito Fulano, albañil en su día a día, o Zutano, catedrático de la universidad de Salamanca (es un poner).
 
 <!--more-->
 
-Tampoco importa si el autor es feo o guapo, alto o gordo; o que cargue más bien a derechas o izquierdas, políticamente hablando; o qué sé yo, que hable con acento maño, andaluz o vasco. No nos importa, o más bien, no nos _debería importar_.
+Tampoco importa si el autor es feo o guapo, alto o gordo; o que cargue más bien a derechas o izquierdas, políticamente hablando; o qué sé yo, que hable con acento maño, andaluz o vasco. No nos importa, o más bien, no nos *debería importar*.
 
-Sin embargo, la disociación necesaria entre escritor y obra se da de bruces con la nueva concepción del autor, bautizada como “2.0”, en consonancia con la tan traída **Web 2.0.**, conocida por el lema _la web como plataforma (social)_.
+Sin embargo, la disociación necesaria entre escritor y obra se da de bruces con la nueva concepción del autor, bautizada como “2.0”, en consonancia con la tan traída **Web 2.0.**, conocida por el lema *la web como plataforma (social)*.
 
 Antes, cuando no había interné salvo en ensoñaciones propias de la ciencia ficción y uno se curraba las cosas a mano, los autores eran una foto en las solapas interiores de un libro. Quizá ni eso; un nombre, como mucho, que si era extranjero decía bastante poco; como anécdota, les juro que durante mucho tiempo creí que la Dragonlance\[1\] la habían escrito dos señoras, Margaret Weis y Tracy Hickman.
 
@@ -27,7 +27,7 @@ A lo que iba: se acabó eso del autor gris, desconocido, encerrado en la soledad
 
 Ya no basta con arrojar al mundo nuestras obras, tal que botellas con mensaje a la deriva; hoy en día, salvo que tengas el abrigo de una gran editorial por tu parte, la promoción te la haces tú mismo: la idea es encontrar tu nicho entre los lectores y fidelizarlo, lo cual es, por otra parte, una tarea de por vida.
 
-La buena noticia es que tienes muchos medios para hacerlo. Redes sociales, la consabida bitácora, archivos multimedia, presentaciones interactivas, _marketing_ viral… la lista es larga. La mala, que te arriesgas a sacrificar tu intimidad en el proceso. Se acabó el anonimato. El señor en blanco y negro que nos miraba desde la solapa de un libro está ahora en Facebook y lo puedes sumar a tus amigos; puedes seguir sus andanzas vía Twitter, leer los últimos desbarres de su bitácora o curiosear sus fotos de veraneo en Flickr.
+La buena noticia es que tienes muchos medios para hacerlo. Redes sociales, la consabida bitácora, archivos multimedia, presentaciones interactivas, *marketing* viral… la lista es larga. La mala, que te arriesgas a sacrificar tu intimidad en el proceso. Se acabó el anonimato. El señor en blanco y negro que nos miraba desde la solapa de un libro está ahora en Facebook y lo puedes sumar a tus amigos; puedes seguir sus andanzas vía Twitter, leer los últimos desbarres de su bitácora o curiosear sus fotos de veraneo en Flickr.
 
 Así que el peligro de confundir autor y obra, o de prejuzgar el qué según el quién, está cada vez más presente. Pero es lo que hay. Cada vez más, la frontera entre el escritor profesional y el amateur se diluye.
 

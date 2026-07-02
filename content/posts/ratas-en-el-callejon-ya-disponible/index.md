@@ -5,13 +5,13 @@ categories:
   - "novedades"
 coverImage: "Ratas-en-el-callejon_cubierta-v1-1.png"
 ---
-Ya está disponible mi nuevo libro, _Ratas en el callejón. Cuentos escabrosos, 1_:
+Ya está disponible mi nuevo libro, *Ratas en el callejón. Cuentos escabrosos, 1*:
 
-_En el largo herir del tiempo, no hay inocentes._  
+*En el largo herir del tiempo, no hay inocentes.*  
   
 Adéntrate en el callejón hacia los aledaños oscuros de la Ciudad: las ratas te están esperando. A lo largo del camino, descubrirás que los favores se pagan tarde o temprano y que ciertas herencias están envenenadas; que debes tener mucho cuidado con lo que deseas y que, sin importar cuán hondo se entierren, los secretos acaban siempre saliendo a la luz; que ciertas pasiones pueden desafiar a la misma muerte y que algunas pesadillas son infiernos privados.  
   
-En _Ratas en el callejón_, primer volumen de los _Cuentos escabrosos_, se recopilan dieciséis relatos de suspense y terror no aptos para almas sensibles. Sé bienvenido, pero recuerda: algunos caminos no tienen vuelta atrás.
+En *Ratas en el callejón*, primer volumen de los *Cuentos escabrosos*, se recopilan dieciséis relatos de suspense y terror no aptos para almas sensibles. Sé bienvenido, pero recuerda: algunos caminos no tienen vuelta atrás.
 
 Disponible en [formato digital en Amazon](https://www.amazon.es/dp/B0C5L88XQM).
 

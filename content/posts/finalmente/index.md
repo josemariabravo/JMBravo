@@ -7,15 +7,15 @@ coverImage: "Sombras-y-ceniza_Cubierta-ebook_reducido.jpg"
 ---
 ![](images/Sombras-y-ceniza_Cubierta-ebook_reducido-644x1030.jpg)
 
-Finalmente. Estoy por no creérmelo, pero sí: ya está disponible mi primera novela, _Sombras y ceniza_, en [Amazon](https://www.amazon.es/dp/B07RT6THJ9/), [Lektu](https://lektu.com/l/jose-maria-bravo/sombras-y-ceniza/11331) y [Smashwords](https://www.smashwords.com/books/view/939388).
+Finalmente. Estoy por no creérmelo, pero sí: ya está disponible mi primera novela, *Sombras y ceniza*, en [Amazon](https://www.amazon.es/dp/B07RT6THJ9/), [Lektu](https://lektu.com/l/jose-maria-bravo/sombras-y-ceniza/11331) y [Smashwords](https://www.smashwords.com/books/view/939388).
 
 Esta es la sinopsis:
 
 **Últer, año 194 después del Azote:**
 
 Los Viejos Dioses han muerto, según los profetas de la Magra; las piras de los muertos, siempre prendidas durante los años de la peste, son poco más que un recuerdo amargo. Amanece una nueva era en Septentrión, marcada por las armas de trueno y los buques de guerra. Las naciones del mañana, fieras y orgullosas, se están forjando; y frente a ellas, imparable, se alza un común enemigo: el Imperio taibnio.  
-La ciudad de Mur’ubi es ahora el enclave estratégico que condiciona el dominio marítimo del mundo conocido. Cuando un brutal asesinato conduce a la casa Mur Asyb a retomar una antigua lid de sangre, cuatro hombres se internarán en las sombras para enfrentase a sus propios fantasmas: Naúd, joven asesino del culto a la diosa Mahyarat, se estremecerá al descubrir un pasado que contradice cuanto cree saber; Zaiel Mevnorás, veterano de la Armada devenido en senescal, sentirá sobre los hombros el peso de responsabilidades que jamás pensó en acometer; Nezaj, patriarca de los Mur Asyb, luchará por mantener el ascendiente de su linaje sumido en la rabia y el rencor; y es justo allí, en las sombras, donde vive Faruh, un viejo soldado preso de una promesa al que sus ojos ciegos han condenado a medrar en las calles.  
-En Mur’ubi, la política y la guerra son las dos caras de la misma moneda. _Sombras y ceniza_ narra los hechos que engendra tal arbitrariedad. Si el poder, el secreto y la traición son la causa, el acero, el fuego y la sangre son la inevitable consecuencia.
+La ciudad de Mur’ubi es ahora el enclave estratégico que condiciona el dominio marítimo del mundo conocido. Cuando un brutal asesinato conduce a la casa Mur Asyb a retomar una antigua lid de sangre, cuatro hombres se internarán en las sombras para enfrentarse a sus propios fantasmas: Naúd, joven asesino del culto a la diosa Mahyarat, se estremecerá al descubrir un pasado que contradice cuanto cree saber; Zaiel Mevnorás, veterano de la Armada devenido en senescal, sentirá sobre los hombros el peso de responsabilidades que jamás pensó en acometer; Nezaj, patriarca de los Mur Asyb, luchará por mantener el ascendiente de su linaje sumido en la rabia y el rencor; y es justo allí, en las sombras, donde vive Faruh, un viejo soldado preso de una promesa al que sus ojos ciegos han condenado a medrar en las calles.  
+En Mur’ubi, la política y la guerra son las dos caras de la misma moneda. *Sombras y ceniza* narra los hechos que engendra tal arbitrariedad. Si el poder, el secreto y la traición son la causa, el acero, el fuego y la sangre son la inevitable consecuencia.
 
 \*\*\*
 

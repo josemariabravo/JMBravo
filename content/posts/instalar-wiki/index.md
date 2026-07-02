@@ -12,7 +12,7 @@ Y todo ha de estar perfectamente imbricado, o nuestra historia corre el peligro 
 
 Lidiar con tantos diablos puede ser amedrentador. Durante años tiré de métodos tradicionales: el socorrido garrapateo de notas en un batiburrillo de libretas, blocs y folios, en los que anotaba desarrollos del trasfondo, ideas sueltas y muchos etcétera. Con el tiempo, me forcé a compilar las anotaciones más importantes en informes, mediante archivos de texto; pero siempre me quedé con el gusanillo de algo más. No era un mal método, aunque no pasaba de ser una versión mejorada de una máquina de escribir.
 
-La respuesta a mi inquietud llegó gracias a mi interés por la _Canción_ _de Hielo y Fuego_ de George R. R. Martin, probablemente la serie novelada más representativa del género en los últimos años. Sus lectores conocen bien lo complejo y elaborado del trasfondo de la saga. Durante mis conversaciones con otros aficionados (léase: sufridores) a esta saga una pregunta era frecuente: ¿cómo demonios se las apaña este buen hombre para no hacerse un lío?
+La respuesta a mi inquietud llegó gracias a mi interés por la *Canción de Hielo y Fuego* de George R. R. Martin, probablemente la serie novelada más representativa del género en los últimos años. Sus lectores conocen bien lo complejo y elaborado del trasfondo de la saga. Durante mis conversaciones con otros aficionados (léase: sufridores) a esta saga una pregunta era frecuente: ¿cómo demonios se las apaña este buen hombre para no hacerse un lío?
 
 Aún me lo pregunto. Pero sospecho que los aficionados le han hecho buena parte del trabajo a Mr. Martin. Si sois seguidores de la saga es muy posible que conozcáis la web anglosajona de referencia sobre dicha serie de novelas: [Westeros.org](http://westeros.org/). Y más concretamente, la [wiki hospedada en dicha web](http://awoiaf.westeros.org/).
 
@@ -24,13 +24,13 @@ Qué demonios, me dije, no tiene que ser tan difícil. Y me puse manos a la obra
 
 ### Pero ¿qué es una wiki?
 
-Antes de seguir conviene aclarar a qué nos referimos con el término wiki. Para muchos es sinónimo de Wikipedia. No es tal, aunque la popularidad de esta enciclopedia online (que ha superado ya, ampliamente, a enciclopedias “serias” como la Británica) justifica de sobra la sinécdoque. Precisamente en la Wikipedia podemos encontrar una buena [definición del término wiki](<http://es.wikipedia.org/wiki/Wiki >):
+Antes de seguir conviene aclarar a qué nos referimos con el término wiki. Para muchos es sinónimo de Wikipedia. No es tal, aunque la popularidad de esta enciclopedia online (que ha superado ya, ampliamente, a enciclopedias “serias” como la Británica) justifica de sobra la sinécdoque. Precisamente en la Wikipedia podemos encontrar una buena [definición del término wiki](<http://es.wikipedia.org/wiki/Wiki>):
 
 > Un wiki o una wiki (del hawaiano wiki, «rápido») es un sitio web cuyas páginas pueden ser editadas por múltiples voluntarios a través del navegador web.
 > 
 > La principal utilidad de un wiki es que permite crear y mejorar las páginas de forma instantánea, dando una gran libertad al usuario, y por medio de una interfaz muy simple.
 
-La idea es emplear las bondades de una wiki (facilidad de uso, capacidad de almacenar de forma simple e interrelacionada grandes cantidades de información) para organizar todos los datos relevantes de nuestra historia: una _wikipedia_ de consumo propio, si se me permite la licencia.
+La idea es emplear las bondades de una wiki (facilidad de uso, capacidad de almacenar de forma simple e interrelacionada grandes cantidades de información) para organizar todos los datos relevantes de nuestra historia: una *wikipedia* de consumo propio, si se me permite la licencia.
 
 De entre los posibles usos de esta wiki de uso personal podemos sugerir los siguientes:
 
@@ -64,7 +64,7 @@ Veamos, de forma somera y atendiendo a esta lista de características deseadas, 
 
 ### Wikis en red
 
-Existen varios servicios en red para montarnos una wiki de uso personal. De entre ellos tenemos [Wikispaces](< http://www.wikispaces.com/>), [Springnote](http://www.springnote.com/) o [Wikidot.com](http://www.wikidot.com/), por citar los más señeros.
+Existen varios servicios en red para montarnos una wiki de uso personal. De entre ellos tenemos [Wikispaces](<http://www.wikispaces.com/>), [Springnote](http://www.springnote.com/) o [Wikidot.com](http://www.wikidot.com/), por citar los más señeros.
 
 Es obvio que no cumplen las características deseadas. Aunque el coste es cero en muchos casos (no siempre, ojo), nos atamos a un servicio que algún día puede fallar o incluso desaparecer. Por no hablar de que no siempre es conveniente trabajar en la nube, por motivos de disponibilidad de la red y seguridad.
 
@@ -86,9 +86,9 @@ La solución fue sencilla: emular, mediante software, un servidor local (esto es
 
 > **Actualización a 23/06/2013:**
 > 
-> _En la primera edición de este artículo recomendaba Wampserver para instalar localmente una wiki. Actualmente prefiero [AppServ](http://www.appservnetwork.com/?newlang=spanish), así que he decidido actualizar el artículo en consecuencia._
+> *En la primera edición de este artículo recomendaba Wampserver para instalar localmente una wiki. Actualmente prefiero [AppServ](http://www.appservnetwork.com/?newlang=spanish), así que he decidido actualizar el artículo en consecuencia.*
 
-_**Nota:** conviene comentar que con estos programas es posible hacer instalaciones locales de software web, como Wordpress, Joomla, Drupal o Phpbb, por lo que puede ser muy útil para replicar un blog o foro fuera de red. Esto es especialmente interesante cuando tenemos pensado hacer “remodelaciones”, como un cambio de diseño._
+***Nota:** conviene comentar que con estos programas es posible hacer instalaciones locales de software web, como Wordpress, Joomla, Drupal o Phpbb, por lo que puede ser muy útil para replicar un blog o foro fuera de red. Esto es especialmente interesante cuando tenemos pensado hacer “remodelaciones”, como un cambio de diseño.*
 
 Sin embargo, tras varios escarceos con MediaWiki llegué a la conclusión de que quizás no era la mejor wiki para mis propósitos: no cumplía de forma satisfactoria el requisito de portabilidad y facilidad en el respaldo de la información. En mi opinión, claro está.
 
@@ -96,7 +96,7 @@ Tal vez hacer copias de seguridad de una base de datos MySQL parezca trivial par
 
 Finalmente, gracias a [Wikimatrix.org](http://www.wikimatrix.org/), web de comparativa entre distintas wikis, y tras no pocas probaturas, encontré el software web ideal para montar wikis para uso privado y local: [Dokuwiki](http://www.dokuwiki.org/es:dokuwiki). ![dokuwiki-128](dokuwiki-1281.png)Dokuwiki tiene una sintaxis sencilla y muy similar a MediaWiki. Es también gratuito y con licencia libre (GNU 2.0), dispone de numerosos plugins, permite migrar a MediaWiki, dado el caso, y está localizado al español.
 
-Pero la característica clave que me hizo emplear Dokuwiki es su sistema de ficheros. En vez de una base de datos emplea algo tan elegante, sencillo y accesible como un conjunto de ficheros de texto (.txt), por lo que hacer copias de seguridad de nuestra wiki en Dokuwiki es tan sencillo como copiar su directorio de instalación. Y si necesitamos consultar la información de la wikisin tener instalado Dokuwiki, bastará con buscar el fichero .txt para tener acceso a ella.
+Pero la característica clave que me hizo emplear Dokuwiki es su sistema de ficheros. En vez de una base de datos emplea algo tan elegante, sencillo y accesible como un conjunto de ficheros de texto (.txt), por lo que hacer copias de seguridad de nuestra wiki en Dokuwiki es tan sencillo como copiar su directorio de instalación. Y si necesitamos consultar la información de la wiki sin tener instalado Dokuwiki, bastará con buscar el fichero .txt para tener acceso a ella.
 
 Pero basta ya de cháchara. Veamos cómo podemos instalarla en nuestro equipo.
 
@@ -134,7 +134,7 @@ Primero, elegid el código de vuestro idioma en el formulario “Choose your lan
 
 **Nombre del wiki:** El nombre de vuestra wiki.
 
-**Super-usuario:** El nombre de usuario del administrador dela wiki.
+**Super-usuario:** El nombre de usuario del administrador de la wiki.
 
 **Nombre real:** vuestro verdadero nombre.
 
@@ -142,7 +142,7 @@ Primero, elegid el código de vuestro idioma en el formulario “Choose your lan
 
 **Contraseña:** La contraseña del administrador. Tendréis que confirmarla en el siguiente campo.
 
-**Política de ACL inicial:** ACL es el acrónimo de _access control list_, lista de control de acceso ([http://es.wikipedia.org/wiki/Lista\_de\_control\_de\_acceso](http://es.wikipedia.org/wiki/Lista_de_control_de_acceso)). En cristiano, se trata de decidir cuál será la configuración de privacidad inicial de nuestra wiki. Hay tres opciones:
+**Política de ACL inicial:** ACL es el acrónimo de *access control list*, lista de control de acceso ([http://es.wikipedia.org/wiki/Lista\_de\_control\_de\_acceso](http://es.wikipedia.org/wiki/Lista_de_control_de_acceso)). En cristiano, se trata de decidir cuál será la configuración de privacidad inicial de nuestra wiki. Hay tres opciones:
 
 - Wiki abierta (todos tienen permiso de lectura, edición y subida).
 - Wiki pública (todos tienen permiso de lectura, solo algunos usuarios tienen permisos de edición y subida).
@@ -152,7 +152,7 @@ Cuál elijamos depende de nuestras intenciones. Si pensamos usarla wiki en modo 
 
 Por último, la configuración nos pide que elijamos un tipo de licencia para nuestros contenidos. De igual forma que el punto anterior, esto solo será relevante en el caso de que subamos la wiki a un servidor en red.
 
-Una vez terminemos pulsamos _Guardar_. Si no ha habido problemas, DokuWiki debería mostrarnos el siguiente mensaje: _La configuración ha concluido correctamente. Ahora puede eliminar el archivo install.php. Visite su nuevo DokuWiki_.
+Una vez terminemos pulsamos *Guardar*. Si no ha habido problemas, DokuWiki debería mostrarnos el siguiente mensaje: *La configuración ha concluido correctamente. Ahora puede eliminar el archivo install.php. Visite su nuevo DokuWiki*.
 
 Para acceder a vuestra wiki personal haced clic en el enlace de esa página. También podéis dirigiros a la dirección **http://localhost/Nombre\_de\_vuestra\_wiki**. La página que veréis debería ser tal que esta:
 
@@ -162,11 +162,11 @@ No es muy impresionante, es cierto. Aún tenemos que hacer unos cuantos arreglos
 
 ## Primeros pasos:
 
-Lo primero que deberíamos hacer es identificarnos como superusuario o administrador de la wiki. En la barra inferior veremos un botón llamado _Conectarse_. Si lo pulsamos nos llevará a la página de login. Allí pondremos el nombre de usuario y la contraseña elegida durante la configuración.
+Lo primero que deberíamos hacer es identificarnos como superusuario o administrador de la wiki. En la barra inferior veremos un botón llamado *Conectarse*. Si lo pulsamos nos llevará a la página de login. Allí pondremos el nombre de usuario y la contraseña elegida durante la configuración.
 
 ![wiki-dokuwiki\_login](wiki-dokuwiki_login1-1024x394.png)
 
-Una vez hecho esto podremos acceder a la página de administración mediante el botón _Administrar_. No obstante, salvo que os pique la curiosidad o seáis usuarios avanzados, de momento no necesitáis configurar nada más para comenzar a usar vuestra wiki.
+Una vez hecho esto podremos acceder a la página de administración mediante el botón *Administrar*. No obstante, salvo que os pique la curiosidad o seáis usuarios avanzados, de momento no necesitáis configurar nada más para comenzar a usar vuestra wiki.
 
 Lo primero que deberíamos hacer es crear una página. Hay varias formas. Pero antes de comentarlas, conviene saber que todas las páginas creadas en DokuWiki se guardan como archivos de texto plano (.txt) en el directorio **\\data\\pages** del directorio principal de DokuWiki. (Esto es, si hemos instalado DokuWiki en **C:\\Archivos de programa\\AppServ\\www\\Dokuwiki**, las páginas se guardarán en **C:\\Archivos de programa\\AppServ\\www\\Dokuwiki\\data\\pages**.
 
@@ -174,11 +174,11 @@ Una forma rápida de crear una página es crear un nuevo archivo de texto en dic
 
 ¿Cómo? Imaginad que queréis una nueva página para recoger vuestras anotaciones sobre una ciudad. Para continuar con el ejemplo de la entrada de esta bitácora [Cómo dibujar mapas de ciudades](/dibujar-mapas-ciudades/), podremos llamar a esta ciudad Fuentenevada.
 
-Si buscamos el término mediante el formulario de búsqueda (arriba, a la derecha) DokuWiki nos informará de que (lógicamente) la página no existe aún, pero que podemos crearla empleando el botón _Crea esta página_ (marcado en rojo en la captura de pantalla bajo este párrafo).
+Si buscamos el término mediante el formulario de búsqueda (arriba, a la derecha) DokuWiki nos informará de que (lógicamente) la página no existe aún, pero que podemos crearla empleando el botón *Crea esta página* (marcado en rojo en la captura de pantalla bajo este párrafo).
 
 ![wiki-dokuwiki\_buscar-1024x321](wiki-dokuwiki_buscar-1024x3211-1024x321.png)
 
-Si lo hacéis veréis el formulario de edición de la página _fuentenevada_, donde podréis volcar vuestras anotaciones, o escribirlas desde cero. Desde el mismo momento que creáis la página, DokuWiki crea a su vez el archivo .txt de la misma, lo cual os permitirá consultar la información de forma independiente.
+Si lo hacéis veréis el formulario de edición de la página *fuentenevada*, donde podréis volcar vuestras anotaciones, o escribirlas desde cero. Desde el mismo momento que creáis la página, DokuWiki crea a su vez el archivo .txt de la misma, lo cual os permitirá consultar la información de forma independiente.
 
 ![wiki-dokuwiki\_crear](wiki-dokuwiki_crear1-1024x618.png)
 
@@ -198,7 +198,7 @@ Ejemplo:
 
 **Negritas, cursivas y subrayados.**
 
-Para que una palabra salga en **negrita**hay que escribirla entre dobles asteriscos (\*\*): \*\*negrita\*\*, por tanto, sería formateado como **negrita**. Las _cursivas_, mediante dobles barras (//): //cursivas// » _cursivas_. El texto subrayado, entre dobles guiones bajos (\_\_): \_\_subrayado\_\_ » subrayado.
+Para que una palabra salga en **negrita**hay que escribirla entre dobles asteriscos (\*\*): \*\*negrita\*\*, por tanto, sería formateado como **negrita**. Las *cursivas*, mediante dobles barras (//): //cursivas// » *cursivas*. El texto subrayado, entre dobles guiones bajos (\_\_): \_\_subrayado\_\_ » subrayado.
 
 **Epígrafes**
 
@@ -252,17 +252,17 @@ A modo de ejemplo, estas son las categorías que empleo, con algunos cambios:
 
 Naturalmente no es obligatorio emplear un sistema de clasificación (y mucho menos el que pongo de ejemplo), pero es muy recomendable emplear alguno.
 
-Sea como fuere, en Dokuwiki tenemos dos formas principales de organizar las páginas creadas. Una mediante los _namespaces_, directorios, y la segunda mediante categorías. No son excluyentes, por cierto.
+Sea como fuere, en Dokuwiki tenemos dos formas principales de organizar las páginas creadas. Una mediante los *namespaces*, directorios, y la segunda mediante categorías. No son excluyentes, por cierto.
 
-Un _namespace_ no es más que un directorio de información que almacena páginas. Existen como subdirectorios en el directorio **\\data\\pages**, y pueden crearse directamente así, respetando la sintaxis ya comentada en los nombres de páginas.
+Un *namespace* no es más que un directorio de información que almacena páginas. Existen como subdirectorios en el directorio **\\data\\pages**, y pueden crearse directamente así, respetando la sintaxis ya comentada en los nombres de páginas.
 
-Con respecto a los _namespaces_ tenéis información bastante completa aquí: [www.dokuwiki.org/es:namespaces](http://www.dokuwiki.org/es:namespaces)
+Con respecto a los *namespaces* tenéis información bastante completa aquí: [www.dokuwiki.org/es:namespaces](http://www.dokuwiki.org/es:namespaces)
 
 La segunda forma emplea un plugin específico, que recomiendo instalar.
 
-_Nota previa: DokuWiki dispone de numerosos plugins, o complementos, algunos de ellos muy interesantes. Tenéis la lista completa en [www.dokuwiki.org/plugins](http://www.dokuwiki.org/plugins) (por desgracia, solo en inglés). Para descargar un plugin e instalarlo tenéis que usar el enlace Download y descomprimir los ficheros en el directorio de Dokuwiki \\lib\\plugins._
+*Nota previa: DokuWiki dispone de numerosos plugins, o complementos, algunos de ellos muy interesantes. Tenéis la lista completa en [www.dokuwiki.org/plugins](http://www.dokuwiki.org/plugins) (por desgracia, solo en inglés). Para descargar un plugin e instalarlo tenéis que usar el enlace Download y descomprimir los ficheros en el directorio de Dokuwiki \\lib\\plugins.*
 
-El plugin en cuestión es _tag_ ([http://www.dokuwiki.org/plugin:tag](http://www.dokuwiki.org/plugin:tag)). _Tag_ permite añadir etiquetas a nuestras páginas, lo cual nos permitirá ordenarlas mediante categorías. Para usarlo habremos de incluir en cada página las etiquetas que consideremos oportunas, mediante el marcado siguiente: {{tag>etiqueta}}, donde _etiqueta_ es el nombre de la categoría (sin espacios, ojo) que queremos emplear. Naturalmente podemos usar más de una etiqueta, empleando espacios para separarlas.
+El plugin en cuestión es *tag* ([http://www.dokuwiki.org/plugin:tag](http://www.dokuwiki.org/plugin:tag)). *Tag* permite añadir etiquetas a nuestras páginas, lo cual nos permitirá ordenarlas mediante categorías. Para usarlo habremos de incluir en cada página las etiquetas que consideremos oportunas, mediante el marcado siguiente: {{tag>etiqueta}}, donde *etiqueta* es el nombre de la categoría (sin espacios, ojo) que queremos emplear. Naturalmente podemos usar más de una etiqueta, empleando espacios para separarlas.
 
 Ejemplo: en la página de Fuentenevada, una vez instalado el plugin, podemos incluir una primera línea de etiquetado, tal que esta:
 
@@ -270,9 +270,9 @@ Ejemplo: en la página de Fuentenevada, una vez instalado el plugin, podemos inc
 
 Así, la página de Fuentenevada está incluida en las categorías “ciudades” y “lugares”, bastante claras por otro lado.
 
-Si queremos mostrar en una página las que están etiquetadas con estas categorías tendremos que emplear el marcado {{topic>etiqueta}}, donde _etiqueta_ es la categoría (o categorías, si incluimos más de una y las separamos con espacios).
+Si queremos mostrar en una página las que están etiquetadas con estas categorías tendremos que emplear el marcado {{topic>etiqueta}}, donde *etiqueta* es la categoría (o categorías, si incluimos más de una y las separamos con espacios).
 
-En el ejemplo anterior, si queremos mostrar todas las páginas etiquetadas con la categoría “Ciudades” en una página (por ejemplo, la de inicio, llamada _start_), escribiremos el marcado {{topic>ciudades}}.
+En el ejemplo anterior, si queremos mostrar todas las páginas etiquetadas con la categoría “Ciudades” en una página (por ejemplo, la de inicio, llamada *start*), escribiremos el marcado {{topic>ciudades}}.
 
 ## Cómo hacer copias de respaldo
 

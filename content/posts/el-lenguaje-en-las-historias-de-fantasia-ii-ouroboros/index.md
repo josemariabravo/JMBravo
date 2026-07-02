@@ -18,19 +18,19 @@ Para completar este apartado puede ser interesante examinar algunas de las “fa
 
 #### Rameras, furcias y otras mujeres de mal vivir
 
-_¿Quién te hizo puta?_
+*¿Quién te hizo puta?*
 
-_El vino y la fruta._
+*El vino y la fruta.*
 
 **Dicho popular**
 
  
 
-_A vosotras las busconas, damas de alquiler, sufridoras del trabajo, mujeres al trote, mullidoras del deleite, jornaleras de cópulas, hembras mortales, ninfas de daca y toma, vínculos de la lujuria, lo cual, traducido al castellano, quiere decir putas y cotorreras._
+*A vosotras las busconas, damas de alquiler, sufridoras del trabajo, mujeres al trote, mullidoras del deleite, jornaleras de cópulas, hembras mortales, ninfas de daca y toma, vínculos de la lujuria, lo cual, traducido al castellano, quiere decir putas y cotorreras.*
 
 **Francisco de Quevedo**
 
-No cabe duda que _puta_ (según el DRAE _f. Prostituta, ramera, mujer pública_) es el insulto femenino por excelencia en la mayor parte de las culturas y uno de los términos ofensivos que mayor legión de sinónimos, derivados y eufemismos acaudilla. Curiosamente, en español es un término de origen etimológico incierto: no aparece como tal en el latín clásico.
+No cabe duda que *puta* (según el DRAE *f. Prostituta, ramera, mujer pública*) es el insulto femenino por excelencia en la mayor parte de las culturas y uno de los términos ofensivos que mayor legión de sinónimos, derivados y eufemismos acaudilla. Curiosamente, en español es un término de origen etimológico incierto: no aparece como tal en el latín clásico.
 
 Intentar clasificar el ingente volumen de términos derivados y sinónimos de puta es difícil, sin embargo existen una serie de “familias” con atributos similares. Veamos las principales:
 
@@ -38,55 +38,55 @@ Intentar clasificar el ingente volumen de términos derivados y sinónimos de pu
 
 Estos términos se construyen por lo general con aumentativos o diminutivos o, también, con atributos que cumplan esa función.
 
-Algunos ejemplos: _puta, putilla, putangona, putarazana, mala puta, puteja, putuela, putaña, putorra, putaco, putona, putona, putón verbenero, putón desorejado, putón malayo._
+Algunos ejemplos: *puta, putilla, putangona, putarazana, mala puta, puteja, putuela, putaña, putorra, putaco, putona, putona, putón verbenero, putón desorejado, putón malayo.*
 
-Conviene también no olvidar los vocablos derivados etimológicamente de _puta_ que no son sinónimos, pero que guardan una relación evidente con el insulto. Valgan estos ejemplos: _putería_ (arrumaco, roncería, soflama que usan algunas mujeres); _putaísmo, putería, putanismo_ (vida de puta, reunión de putas); _putero, putañero_ (el que frecuenta putas), incluyendo el verbo _putañear_; _putada_ (acción digna de una puta), también con su verbo, _putear_; _putesco_ (relativo a la puta); y por inversión, _puto, homosexual_.
+Conviene también no olvidar los vocablos derivados etimológicamente de *puta* que no son sinónimos, pero que guardan una relación evidente con el insulto. Valgan estos ejemplos: *putería* (arrumaco, roncería, soflama que usan algunas mujeres); *putaísmo, putería, putanismo* (vida de puta, reunión de putas); *putero, putañero* (el que frecuenta putas), incluyendo el verbo *putañear*; *putada* (acción digna de una puta), también con su verbo, *putear*; *putesco* (relativo a la puta); y por inversión, *puto, homosexual*.
 
 ##### II. Los abiertamente explícitos de la actividad
 
 Estos términos aluden a comportamientos y pormenores explícitos de la putería en sí, por lo que son inevitablemente groseros.
 
-Algunos ejemplos: _pajillera, tragona, mamona, ponecoños, trota ancas, coño alegre._ En otros idiomas tenemos buenos ejemplos: en francés, _branleuse, bandeuse, escaladeuse de braguettes, braguette, Marie–couche–toi–là_ (pajillera, empinadora, alpinista de braguetas, bragueta, María acuéstate ahí); en inglés _ass–peddler, broad, broad gauge lady_ (vendeculos, ancha, señora de culo ensanchado); en italiano, _mangiacazzi, zoccola, bucal, bucaiolo, bocchinara_ (comepollas, vulva, agujero, agujerito, tragona); y, en ruso, _yebushka, júyeva posudína, pízda_ (folladora, coño para pollas y coño).
+Algunos ejemplos: *pajillera, tragona, mamona, ponecoños, trota ancas, coño alegre.* En otros idiomas tenemos buenos ejemplos: en francés, *branleuse, bandeuse, escaladeuse de braguettes, braguette, Marie–couche–toi–là* (pajillera, empinadora, alpinista de braguetas, bragueta, María acuéstate ahí); en inglés *ass–peddler, broad, broad gauge lady* (vendeculos, ancha, señora de culo ensanchado); en italiano, *mangiacazzi, zoccola, bucal, bucaiolo, bocchinara* (comepollas, vulva, agujero, agujerito, tragona); y, en ruso, *yebushka, júyeva posudína, pízda* (folladora, coño para pollas y coño).
 
 ##### III. Los relativos al vil metal
 
-Aquí se incluyen todos los que aluden a la transacción económica del comercio carnal, por ejemplo: _gorrona, fletera, hermana de la sagrada tarifa, frete, freteira_. También podríamos incluir el eufemismo _mercenaria del amor_.
+Aquí se incluyen todos los que aluden a la transacción económica del comercio carnal, por ejemplo: *gorrona, fletera, hermana de la sagrada tarifa, frete, freteira*. También podríamos incluir el eufemismo *mercenaria del amor*.
 
-Una variante aún más despectiva de esta familia es asociar la condición de asequible a la mujer que se prostituye, esto es, que, además de puta, sea barata. Ejemplos: _puta de tres al cuarto, puta barata, pesetera, puta de (_aquí una cifra monetaria de poca cuantía_)._
+Una variante aún más despectiva de esta familia es asociar la condición de asequible a la mujer que se prostituye, esto es, que, además de puta, sea barata. Ejemplos: *puta de tres al cuarto, puta barata, pesetera, puta de (*aquí una cifra monetaria de poca cuantía*).*
 
 ##### IV. Bestialismos varios
 
-Ahora nos ocuparemos de los insultos basados en establecer símiles o sustituciones con animales. Es una familia más extensa de lo que parece, y bastante singular. Por ejemplo, en español tenemos _araña, alondra, burraca, bestezuela, cabra, cigarra, gallina (más puta que), gaviota, lagarta, loba, pájara, pécora, perra, puerca, tarasca, raposa, urraca, víbora, zorra._ En otros idiomas tenemos abundante copia, por ejemplo en inglés _bitch, fox, foxy lady, bird, chicken, cat, cow, sow, slut, jade, vixen_ (perra, zorra, señora zorra, pájara, polluela, gata, vaca, cerda, puerca, zorra); en ruso, _súka, súchka_ (perra, perrita); y en francés, _bourrin, cocotte, chameau, chienne, grue, langouste, gousse_ (rocín, gallinita, camella, perra, grulla, langosta, perra).
+Ahora nos ocuparemos de los insultos basados en establecer símiles o sustituciones con animales. Es una familia más extensa de lo que parece, y bastante singular. Por ejemplo, en español tenemos *araña, alondra, burraca, bestezuela, cabra, cigarra, gallina (más puta que), gaviota, lagarta, loba, pájara, pécora, perra, puerca, tarasca, raposa, urraca, víbora, zorra.* En otros idiomas tenemos abundante copia, por ejemplo en inglés *bitch, fox, foxy lady, bird, chicken, cat, cow, sow, slut, jade, vixen* (perra, zorra, señora zorra, pájara, polluela, gata, vaca, cerda, puerca, zorra); en ruso, *súka, súchka* (perra, perrita); y en francés, *bourrin, cocotte, chameau, chienne, grue, langouste, gousse* (rocín, gallinita, camella, perra, grulla, langosta, perra).
 
 ##### V. Los relativos al cómo, al dónde y al con quién:
 
 Otra familia de insultos se deriva de los lugares y las formas en las que las prostitutas captan a sus clientes y consuman el negocio.
 
-De las prostitutas que captan a sus clientes por las calles, recorriéndolas a pie o apostadas en las esquinas, tenemos: _callejera, esquinera, cantonera, trotera, trotona, correcalles, trotacalles, andorra, andorrera, zancudas._ Derivadas del efecto de andar, tenemos un ejemplo muy sonoro: _taconera._ Sumemos a esto las construcciones basadas en este concepto: _hacer la calle, andar en corso, hacer la esquina_, _hacer la carrera,_ y otros. El francés tiene dos variantes más rurales: _aller aux asperges, cueillir du persil_ (ir a por espárragos, ir a por perejil). Una variante culta podría ser _dar un paseo por el monte de Venus._
+De las prostitutas que captan a sus clientes por las calles, recorriéndolas a pie o apostadas en las esquinas, tenemos: *callejera, esquinera, cantonera, trotera, trotona, correcalles, trotacalles, andorra, andorrera, zancudas.* Derivadas del efecto de andar, tenemos un ejemplo muy sonoro: *taconera.* Sumemos a esto las construcciones basadas en este concepto: *hacer la calle, andar en corso, hacer la esquina*, *hacer la carrera,* y otros. El francés tiene dos variantes más rurales: *aller aux asperges, cueillir du persil* (ir a por espárragos, ir a por perejil). Una variante culta podría ser *dar un paseo por el monte de Venus.*
 
-Siguiendo con el cómo, tenemos un curioso ejemplo de la germanía; _amesada_, prostituta que se alquilaba por meses y a la que se daba alojamiento y comida.
+Siguiendo con el cómo, tenemos un curioso ejemplo de la germanía; *amesada*, prostituta que se alquilaba por meses y a la que se daba alojamiento y comida.
 
-Y en cuanto al dónde, tenemos también bastantes ejemplos. Verbigracia: _carcavera (en los cementerios), bucólica_ (en los parques), _chamicera, puta de celosía o de tapete_ (putas de burdel), _pupila_ (puta de mancebía, por lo de estar a cargo de un padre de mancebía).
+Y en cuanto al dónde, tenemos también bastantes ejemplos. Verbigracia: *carcavera (en los cementerios), bucólica* (en los parques), *chamicera, puta de celosía o de tapete* (putas de burdel), *pupila* (puta de mancebía, por lo de estar a cargo de un padre de mancebía).
 
-Respecto al con quién tenemos _cantonera_ y _matacandiles_ (prostituta de frailes y curas).
+Respecto al con quién tenemos *cantonera* y *matacandiles* (prostituta de frailes y curas).
 
 ##### VI. Suma o asociación de significados
 
-- Aquí cabrían bastantes términos que suman o asocian otro significado al de _puta_. Por ejemplo:
-- La falta de higiene: _guarra, puerca_.
-- La vejez o el exceso de uso se unen en los términos que tratan de representar la idea de algo muy usado, viejo y por tanto despreciado: _pingo, pingona, pingorra, tirada, arrastrada, piltrofera, zurrona, zurrupio, rastrera._
-- Con vestidos o enseres: _barragana_ (de barragán, abrigo de tela basta), _matraze_ (colchón, en alemán), _bagasa_ y _gabasa_ (de la raíz provenzal bagaça, bolso de piel).
-- De la idea de colgar y piel, asociado también a la vejez: _pendona, pelleja, pelona, pelandusca, pendón_.
+- Aquí cabrían bastantes términos que suman o asocian otro significado al de *puta*. Por ejemplo:
+- La falta de higiene: *guarra, puerca*.
+- La vejez o el exceso de uso se unen en los términos que tratan de representar la idea de algo muy usado, viejo y por tanto despreciado: *pingo, pingona, pingorra, tirada, arrastrada, piltrofera, zurrona, zurrupio, rastrera.*
+- Con vestidos o enseres: *barragana* (de barragán, abrigo de tela basta), *matraze* (colchón, en alemán), *bagasa* y *gabasa* (de la raíz provenzal bagaça, bolso de piel).
+- De la idea de colgar y piel, asociado también a la vejez: *pendona, pelleja, pelona, pelandusca, pendón*.
 
 ##### VII. Los eufemismos
 
-Hay un amplio número de eufemismos para _puta_; el principal, actualmente, es sin duda prostituta. Entre los más suaves tenemos _mujer de moral relajada, mujer de virtud pequeña, mujer de vida alegre, mujer de mal vivir._
+Hay un amplio número de eufemismos para *puta*; el principal, actualmente, es sin duda prostituta. Entre los más suaves tenemos *mujer de moral relajada, mujer de virtud pequeña, mujer de vida alegre, mujer de mal vivir.*
 
-No es nada raro que los eufemismos, a veces, acaben por convertirse en términos más duros que el propio significado del vocablo al que sustituyen. Júzguense estos ejemplos: _mujer pública, perdida, desviada, descarriada, fulana, mengana, zutana, cualquiera, tipeja, anónima, individua._
+No es nada raro que los eufemismos, a veces, acaben por convertirse en términos más duros que el propio significado del vocablo al que sustituyen. Júzguense estos ejemplos: *mujer pública, perdida, desviada, descarriada, fulana, mengana, zutana, cualquiera, tipeja, anónima, individua.*
 
 #### La condición sexual
 
-_\[…\] y en la oscuridad ríe el antiguo diablo, que no es más que la especie._
+*\[…\] y en la oscuridad ríe el antiguo diablo, que no es más que la especie.*
 
 **Pío Baroja**
 
@@ -100,29 +100,29 @@ En cualquier caso, dividiremos en familias estos insultos como en el ejemplo ant
 
 ##### I. Derivados
 
-Estos insultos derivan de unos pocos a partir de aumentativos y diminutivos. El insulto más común para un homosexual masculino es _marica;_ a partir de él tenemos _marimarica, mariquita, maricona, mariconcete, maruso, mariquituso_ y, por supuesto, el aumentativo más frecuente: _maricón._
+Estos insultos derivan de unos pocos a partir de aumentativos y diminutivos. El insulto más común para un homosexual masculino es *marica;* a partir de él tenemos *marimarica, mariquita, maricona, mariconcete, maruso, mariquituso* y, por supuesto, el aumentativo más frecuente: *maricón.*
 
 ##### II. Insultos abiertamente explícitos
 
-Aquí se incluyen los insultos que aluden a comportamientos sexuales de la forma más explícita y grosera posible. Ejemplos: _culómano, porculero, porculizador, enculador, poneculos_ y _chupapollas._ En inglés tenemos _arse–crawler (_traducible como _arrastraculo_), _bum–fucker_ (jodedor de culos) y _cock–sucker_ (chupapollas).
+Aquí se incluyen los insultos que aluden a comportamientos sexuales de la forma más explícita y grosera posible. Ejemplos: *culómano, porculero, porculizador, enculador, poneculos* y *chupapollas.* En inglés tenemos *arse–crawler (*traducible como *arrastraculo*), *bum–fucker* (jodedor de culos) y *cock–sucker* (chupapollas).
 
 ##### III. Metáforas animales
 
-Ya vimos esta clase de insultos antes, construidos con símiles o metáforas animales, en este caso bastante menos prolija. Ejemplos: _palomo_ (_más maricón que un palomo cojo_)_, mariposa_ (con el aumentativo _mariposón_), _jibia, sepia_.
+Ya vimos esta clase de insultos antes, construidos con símiles o metáforas animales, en este caso bastante menos prolija. Ejemplos: *palomo* (*más maricón que un palomo cojo*)*, mariposa* (con el aumentativo *mariposón*), *jibia, sepia*.
 
 ##### IV. Suma, asociación y derivación de significados
 
-En la familia de insultos relativos a la prostitución femenina ya vimos algunos mecanismos por los que la lengua asocia significados a un término ofensivo y este acaba derivando de forma a veces sorprendente e imprevisble.
+En la familia de insultos relativos a la prostitución femenina ya vimos algunos mecanismos por los que la lengua asocia significados a un término ofensivo y este acaba derivando de forma a veces sorprendente e imprevisible.
 
-Un buen ejemplo es _bujarrón,_ que proviene, según el DRAE, del italiano _buggerone_ y este, a su vez, del latín tardío _bugerum._ _Bujarrón_, y todas sus derivaciones (_bujarra, buja, bujarro, bujendi, bujarronería_ y aun el verbo _bujarronear_) tienen un origen etimológico oscuro y en absoluto bien establecido.
+Un buen ejemplo es *bujarrón,* que proviene, según el DRAE, del italiano *buggerone* y este, a su vez, del latín tardío *bugerum.* *Bujarrón*, y todas sus derivaciones (*bujarra, buja, bujarro, bujendi, bujarronería* y aun el verbo *bujarronear*) tienen un origen etimológico oscuro y en absoluto bien establecido.
 
-También tenemos en _puto_ un cambio de significado, en concreto una inversión. _Puto_ era un insulto muy frecuente en el español del renacimiento para designar al homosexual. Hoy en día se usa bastante menos como sustantivo y mucho más como adjetivo (Ej.: _El puto autobús siempre llega tarde_).
+También tenemos en *puto* un cambio de significado, en concreto una inversión. *Puto* era un insulto muy frecuente en el español del renacimiento para designar al homosexual. Hoy en día se usa bastante menos como sustantivo y mucho más como adjetivo (Ej.: *El puto autobús siempre llega tarde*).
 
-En inglés tenemos algunos ejemplos bastante curiosos: por ejemplo, _faggot_, en su origen un galicismo con el significado de “haz de leña”. La asociación al homosexual viene, muy probablemente, de cuando la Iglesia quemaba a los acusados de sodomía. También está _queer_, que proviene de la raíz sajona _qver_ (atravesar)_._ El significado podría asimilarse en español a _atravesado_.
+En inglés tenemos algunos ejemplos bastante curiosos: por ejemplo, *faggot*, en su origen un galicismo con el significado de “haz de leña”. La asociación al homosexual viene, muy probablemente, de cuando la Iglesia quemaba a los acusados de sodomía. También está *queer*, que proviene de la raíz sajona *qver* (atravesar)*.* El significado podría asimilarse en español a *atravesado*.
 
 ##### V. Eufemismos
 
-Algunos eufemismos resultan francamente curiosos, como los automovilísticos: _le va la marcha atrás_, _le patina el embrague_ y _pierde aceite_. Además de los neutros _desviado_, _invertido, equivocado_ o _afeminado_, tenemos el _ahembrado_ propio del español del siglo de oro y los que asocian a la condición de homosexual la inclusión en una especie de grupo distintivo: _es de la acera de enfrente, es del otro bando, es de la cofradía del amor distinto, es del gremio, es de los que cuentan_ (el equivalente de la germanía al actual _es_ _de los que entienden_).
+Algunos eufemismos resultan francamente curiosos, como los automovilísticos: *le va la marcha atrás*, *le patina el embrague* y *pierde aceite*. Además de los neutros *desviado*, *invertido, equivocado* o *afeminado*, tenemos el *ahembrado* propio del español del siglo de oro y los que asocian a la condición de homosexual la inclusión en una especie de grupo distintivo: *es de la acera de enfrente, es del otro bando, es de la cofradía del amor distinto, es del gremio, es de los que cuentan* (el equivalente de la germanía al actual *es* *de los que entienden*).
 
 #### b) Homosexualidad femenina
 
@@ -130,37 +130,37 @@ Es bastante menos frecuente el bagaje de insultos que aluden a la condición hom
 
 ##### I. Símiles culinarios
 
-De origen incierto y oscuro es la subfamilia más conocida en español: _bollera_ (y sus derivados _bollito, bollaca, bollo_, _le va el rollo bollo_) y _tortillera_ (abreviado en _torti_)
+De origen incierto y oscuro es la subfamilia más conocida en español: *bollera* (y sus derivados *bollito, bollaca, bollo*, *le va el rollo bollo*) y *tortillera* (abreviado en *torti*)
 
 ##### II. Los que dudan de la feminidad
 
-Estos insultos asocian la condición de homosexual a las mujeres de aspecto masculino o de actitud poco femenina. Tenemos _virago, camionera, marimacho_, _machorra_.
+Estos insultos asocian la condición de homosexual a las mujeres de aspecto masculino o de actitud poco femenina. Tenemos *virago, camionera, marimacho*, *machorra*.
 
 ##### III. Los abiertamente procaces
 
-No hay muchos. Podríamos proponer _lamerrajas_, muy explícito y grosero, junto a otros como _comepelusas_ y _comecoños._ En todo caso son poco frecuentes_._
+No hay muchos. Podríamos proponer *lamerrajas*, muy explícito y grosero, junto a otros como *comepelusas* y *comecoños.* En todo caso son poco frecuentes*.*
 
 #### Insultos familiares y otras lindezas
 
-Afirma Ricardo Morant en su _Gramática femenina_ que el insulto dirigido al español acaba siempre recayendo sobre la mujer y que, por tanto, siempre se le insulta a través de ella. Cierta o no, esta afirmación cobra mucha fuerza si se analiza un hecho relativamente objetivo: los principales insultos masculinos comparan al hombre con la mujer (cuestionando así su virilidad) o denigran a su madre o esposa.
+Afirma Ricardo Morant en su *Gramática femenina* que el insulto dirigido al español acaba siempre recayendo sobre la mujer y que, por tanto, siempre se le insulta a través de ella. Cierta o no, esta afirmación cobra mucha fuerza si se analiza un hecho relativamente objetivo: los principales insultos masculinos comparan al hombre con la mujer (cuestionando así su virilidad) o denigran a su madre o esposa.
 
 Básicamente, en cuanto a insultos familiares, hay dos familias: las que atacan a los padres del interpelado (o las circunstancias de su nacimiento o concepción) y las que denigran a su esposa:
 
 ##### I. A través de los padres:
 
-Resulta evidente que los insultos que denigran a la madre del aludido son más frecuentes que los que se dirigen a su padre. Entre ellos, el insulto estrella es _hijo de puta_, _hijoputa_ en la forma abreviada actual e _hideputa_ en la clásica del siglo de oro. De ahí se derivan _hijo de tu madre, hijo de mala madre, hijo de la gran puta, hijo de perra, hijo de la grandísima_ y demás aumentativos pintorescos.
+Resulta evidente que los insultos que denigran a la madre del aludido son más frecuentes que los que se dirigen a su padre. Entre ellos, el insulto estrella es *hijo de puta*, *hijoputa* en la forma abreviada actual e *hideputa* en la clásica del siglo de oro. De ahí se derivan *hijo de tu madre, hijo de mala madre, hijo de la gran puta, hijo de perra, hijo de la grandísima* y demás aumentativos pintorescos.
 
-_Bastardo_ y los insultos y expresiones insultantes derivados ponen sin embargo en duda la paternidad “oficial” del individuo y atañen, en principio, a su padre, pero, al tiempo, atacan a la madre de este, ya que suponen –y con bastante éxito– que parir un hijo ilegítimo es una deshonra para una mujer y un signo de vileza. De hecho, cuando la figura familiar a través de la que se insulta es el padre, se duda de su virilidad o se insinúa o declara abiertamente su condición de cornudo. Frases como _Tu padre es un maricón_ atacan por tres flancos: la condición homosexual del padre, la dudosa paternidad del individuo y, a su vez, cuestionan la moralidad de la madre. _Los cuernos de tu padre_ atacan por los dos últimos frentes al sujeto, si bien de cornudo a maricón hay poco trecho. Como puede verse, la idea de que al final de todo insulto dedicado a un varón hay una mujer no es cosa baladí.
+*Bastardo* y los insultos y expresiones insultantes derivados ponen sin embargo en duda la paternidad “oficial” del individuo y atañen, en principio, a su padre, pero, al tiempo, atacan a la madre de este, ya que suponen –y con bastante éxito– que parir un hijo ilegítimo es una deshonra para una mujer y un signo de vileza. De hecho, cuando la figura familiar a través de la que se insulta es el padre, se duda de su virilidad o se insinúa o declara abiertamente su condición de cornudo. Frases como *Tu padre es un maricón* atacan por tres flancos: la condición homosexual del padre, la dudosa paternidad del individuo y, a su vez, cuestionan la moralidad de la madre. *Los cuernos de tu padre* atacan por los dos últimos frentes al sujeto, si bien de cornudo a maricón hay poco trecho. Como puede verse, la idea de que al final de todo insulto dedicado a un varón hay una mujer no es cosa baladí.
 
-También pueden ocuparse, de forma más o menos explícita, de las circunstancias de la concepción del insultado: _a ti no te parieron, te cagaron_, por poner un ejemplo de estas lindezas; _malnacido,_ además, pone en duda las condiciones físicas y mentales del sujeto.
+También pueden ocuparse, de forma más o menos explícita, de las circunstancias de la concepción del insultado: *a ti no te parieron, te cagaron*, por poner un ejemplo de estas lindezas; *malnacido,* además, pone en duda las condiciones físicas y mentales del sujeto.
 
 ##### II. Cuernos
 
-Insulto prácticamente exclusivo del hombre, la condición de cornudo ha sido y es origen de numerosos insultos, expresiones y chanzas del acervo popular. El insulto más fuerte de esta familia es _cabrón_ (que, como puta, tiene asociado el vulgarismo _cabronada_, hecho digno de un cabrón), junto a sus derivados (_cabronazo, cabroncete, cabrito, cabestro, macho cabrío)_. En realidad, el _cabrón_, en sentido estricto, sería el cornudo que consiente los cuernos, distinguiendo así dos cornudos: el que ignora su estado y es, según la tradición, el último en enterarse, y el que consiente los cuernos: el cabrón propiamente dicho (cuya condición se explicita con insultos como _cabrón consentido_).
+Insulto prácticamente exclusivo del hombre, la condición de cornudo ha sido y es origen de numerosos insultos, expresiones y chanzas del acervo popular. El insulto más fuerte de esta familia es *cabrón* (que, como puta, tiene asociado el vulgarismo *cabronada*, hecho digno de un cabrón), junto a sus derivados (*cabronazo, cabroncete, cabrito, cabestro, macho cabrío)*. En realidad, el *cabrón*, en sentido estricto, sería el cornudo que consiente los cuernos, distinguiendo así dos cornudos: el que ignora su estado y es, según la tradición, el último en enterarse, y el que consiente los cuernos: el cabrón propiamente dicho (cuya condición se explicita con insultos como *cabrón consentido*).
 
-(Como nota adjunta, la curiosa expresión “_además de cornudo, apaleado”_ proviene del castigo que la Inquisición administraba a los maridos engañados que no lavaban con sangre su cornudez: los paseaban a lomos de un mulo con un tocado de cuernos en la cabeza, para escarnio de la multitud, que escupía y vituperaba al cornudo a placer.)
+(Como nota adjunta, la curiosa expresión “*además de cornudo, apaleado”* proviene del castigo que la Inquisición administraba a los maridos engañados que no lavaban con sangre su cornudez: los paseaban a lomos de un mulo con un tocado de cuernos en la cabeza, para escarnio de la multitud, que escupía y vituperaba al cornudo a placer.)
 
-Pero volviendo a los ejemplos de insultos, tenemos un buen número de ellos basados en la idea de los cuernos, ya sea ampliando la comparación con animales _(astado, caracol, novillo, toro de lidia, alce, buey, ciervo_), algunos muy específicos y tauromáquicos (como _vitorino, miura, morlaco, manso, corniveleto),_ o con derivados y sinónimos de cornudo: _cornicabra, cornucopia, cornúpeta, cornuto, enastado, bicorne,_ etcétera_._
+Pero volviendo a los ejemplos de insultos, tenemos un buen número de ellos basados en la idea de los cuernos, ya sea ampliando la comparación con animales *(astado, caracol, novillo, toro de lidia, alce, buey, ciervo*), algunos muy específicos y tauromáquicos (como *vitorino, miura, morlaco, manso, corniveleto),* o con derivados y sinónimos de cornudo: *cornicabra, cornucopia, cornúpeta, cornuto, enastado, bicorne,* etcétera*.*
 
 #### Diferencias entre sexos
 
@@ -216,15 +216,15 @@ En cualquier caso se trata de que el lenguaje sirva de vehículo de expresión p
 
 #### Lenguas extranjeras.
 
-Un caso idiolectal muy interesante (y complementario a la anterior exposición del lenguaje–foco) es el de un personaje extranjero. Asumamos la siguiente hipótesis: disponemos en nuestra historia de una sociedad _metacrónica_[](#nota1a)\[i\] que emplea como lengua propia la vernácula (el castellano); existe también una lengua extranjera para el que empleamos de base algún idioma real. ¿Qué podemos hacer entonces con un personaje que chapurrea el castellano? Tiene simple solución: si hemos acudido a dos idiomas reales, busquemos la manera en que se producen las interferencias entre ambos idiomas: seguro que hay precedentes. Nada resultará tan coherente como esta solución.
+Un caso idiolectal muy interesante (y complementario a la anterior exposición del lenguaje–foco) es el de un personaje extranjero. Asumamos la siguiente hipótesis: disponemos en nuestra historia de una sociedad *metacrónica*[](#nota1a)\[i\] que emplea como lengua propia la vernácula (el castellano); existe también una lengua extranjera para el que empleamos de base algún idioma real. ¿Qué podemos hacer entonces con un personaje que chapurrea el castellano? Tiene simple solución: si hemos acudido a dos idiomas reales, busquemos la manera en que se producen las interferencias entre ambos idiomas: seguro que hay precedentes. Nada resultará tan coherente como esta solución.
 
-Supongamos el gallego como idioma extranjero que geográficamente coincide con el castellano. Entre otros errores, podríamos topar, por ejemplo, con uno de género: en gallego _paisaxe_ (paisaje) es palabra femenina. Esta voz gallega podría decir en castellano: _Una paisaje tan bonita_.
+Supongamos el gallego como idioma extranjero que geográficamente coincide con el castellano. Entre otros errores, podríamos topar, por ejemplo, con uno de género: en gallego *paisaxe* (paisaje) es palabra femenina. Esta voz gallega podría decir en castellano: *Una paisaje tan bonita*.
 
-Son frecuentes los errores con los tiempos verbales. Un gallego no distingue entre el antepresente y el pretérito; entonces dirá siempre: _Comí el arroz._ Aunque lo correcto en un determinado caso sea decir: _He comido el arroz._
+Son frecuentes los errores con los tiempos verbales. Un gallego no distingue entre el antepresente y el pretérito; entonces dirá siempre: *Comí el arroz.* Aunque lo correcto en un determinado caso sea decir: *He comido el arroz.*
 
 Otra posibilidad, más agresiva pero con gran potencial: una mezcla directa de palabras en ambos idiomas. Supongamos un personaje inglés:
 
-_—Yo istoui… Estoui… How do you…_ _—acompaña con un gesto de llevar comida a la boca__—; ¿iitin…?_ _¿Coumeendou? ¿Coumiindou? Yeah! That's it. Istoui coumiindou. Aurrós. Yeah_ _—__suspiro de alivio__—__. Cheeses! Really hard to pronounce this spanish stuff, huh?_
+*—Yo istoui… Estoui… How do you…* _—acompaña con un gesto de llevar comida a la boca__—; ¿iitin…?_ *¿Coumeendou? ¿Coumiindou? Yeah! That's it. Istoui coumiindou. Aurrós. Yeah* _—__suspiro de alivio__—__. Cheeses! Really hard to pronounce this spanish stuff, huh?_
 
 ### Creación de sistemas lingüísticos
 
@@ -234,9 +234,9 @@ Estamos, por fin, ante uno de los grandes problemas de ambientación de una nove
 
 Cualquiera que sea el enfoque elegido, para una historia y un mundo en que exista más de una lengua será necesario muy probablemente un sistema lingüístico que lo defina. Así, en este apartado nos plantearemos por encima cómo podemos abordar la creación de ese sistema lingüístico con esperanza de una calidad razonable.
 
-Necesitamos de una definición preliminar: ¿qué es un _sistema lingüístico_?
+Necesitamos de una definición preliminar: ¿qué es un *sistema lingüístico*?
 
-Un _sistema lingüístico_ es aquel conjunto de reglas que servirán para dar la coherencia de una de las lenguas en el marco de la narración. Así, queda claro que este sistema puede ser más o menos complejo; de ahí que un sistema lingüístico pueda ser tan simple como un par de reglas en la construcción antroponímica o bien algo tan extenso como la definición de toda una lengua. En un primer extremo tenemos a muchos autores; un ejemplo, que a veces hasta resulta desagradable, es esa tendencia irremisible a poner la letra _k_ en sus nombres de personas y lugares, sin haber realizado ningún tipo de reflexión. Porque lo han hecho otros, porque está de moda… Porque suena familiar… En el otro extremo está Tolkien, que decide crear un mundo para que sus lenguas sean más coherentes. En fin: la pregunta que a todos nos interesa contestar es: ¿podemos construir sistemas lingüísticos coherentes, creíbles pero razonablemente simples? Con más claridad: ¿podemos evitar construir todo un idioma y que el resultado sea digno?
+Un *sistema lingüístico* es aquel conjunto de reglas que servirán para dar la coherencia de una de las lenguas en el marco de la narración. Así, queda claro que este sistema puede ser más o menos complejo; de ahí que un sistema lingüístico pueda ser tan simple como un par de reglas en la construcción antroponímica o bien algo tan extenso como la definición de toda una lengua. En un primer extremo tenemos a muchos autores; un ejemplo, que a veces hasta resulta desagradable, es esa tendencia irremisible a poner la letra *k* en sus nombres de personas y lugares, sin haber realizado ningún tipo de reflexión. Porque lo han hecho otros, porque está de moda… Porque suena familiar… En el otro extremo está Tolkien, que decide crear un mundo para que sus lenguas sean más coherentes. En fin: la pregunta que a todos nos interesa contestar es: ¿podemos construir sistemas lingüísticos coherentes, creíbles pero razonablemente simples? Con más claridad: ¿podemos evitar construir todo un idioma y que el resultado sea digno?
 
 Sí, siempre y cuando el uso directo que se haga de este idioma ficticio sea muy limitado.
 
@@ -288,7 +288,7 @@ No obstante, nunca está demás saber detalles como cuántas vocales hay (esto t
 
 #### Evolución lingüística
 
-Una lengua es como un ser vivo: así que nace, crece, se procrea, envejece y muere. En este proceso evolutivo existen una serie de mecanismos que operan para modificar la lengua. Estos posibles mecanismos evolutivos ya los hemos comentado aquí de forma suficientemente extensiva. Pero bueno, unos ejemplos nunca vienen mal: Importaciones para nuevos conceptos semánticos; por modas. Influencias de otros sistemas lingüísticos. Dialectos, argots… Necesidades de nuevos términos por una revolución social o tecnológica. La simplificación silábica (bolígrafo → _boli_), desgaste de grupos cultos (obscuro → oscuro), renovación semántica de determinadas palabras, etcétera.
+Una lengua es como un ser vivo: así que nace, crece, se procrea, envejece y muere. En este proceso evolutivo existen una serie de mecanismos que operan para modificar la lengua. Estos posibles mecanismos evolutivos ya los hemos comentado aquí de forma suficientemente extensiva. Pero bueno, unos ejemplos nunca vienen mal: Importaciones para nuevos conceptos semánticos; por modas. Influencias de otros sistemas lingüísticos. Dialectos, argots… Necesidades de nuevos términos por una revolución social o tecnológica. La simplificación silábica (bolígrafo → *boli*), desgaste de grupos cultos (obscuro → oscuro), renovación semántica de determinadas palabras, etcétera.
 
 Decíamos que una lengua nace, crece, evoluciona, envejece y muere. Es un ciclo vital, que a su vez proporciona otros ciclos vitales. ¿Cómo nace entonces una lengua? Pues precisamente a través de pequeñas variaciones que se van consolidando poco a poco y la apartan de la lengua madre. En este terreno de las pequeñas variaciones entra el concepto de dialecto, como variación de la lengua madre, sobre todo en un determinado ámbito geográfico. Por supuesto, un dialecto casi seguro que morirá; que se expanda es improbable. Así que los dialectos, como las jergas, tienen su ciclo vital. De vez en cuando, ciertos dialectos prosperan y pueden evolucionar, salir de sus fronteras por determinados hechos históricos (conquistas bélicas, comerciales) y convertirse en lenguas por derecho propio. En este nivel, también se hace uso de la palabra dialecto para relacionar paternidad: el castellano y el gallego, por ejemplo, son dialectos del romance, o del mismo latín.
 
@@ -296,7 +296,7 @@ Entonces, vayamos a las posibilidades prácticas de los dialectos así definidos
 
 Una posible táctica consistiría en trabajar con grupos de palabras del mismo idioma pero con origen distinto: por ejemplo, para una región determinada, abundancia de palabras castellanas de origen gala; y para otra, abundancia en palabras castellanas de origen arábiga.
 
-Un último apunte: cuando una sociedad madura lo suficiente y el caos bélico decrece, la cultura se vuelve más importante. Una consecuencia de esto es el intento de normalización, extensivo a cualquier aspecto de la vida cotidiana: desde comercio, moneda, carpintería, medidas…, hasta la lengua misma y su escritura. De ahí que, en determinado momento _pueden_, por ejemplo, aparecer organismos de control de la lengua que intenta establecer unas bases, una ortografía, un manual del bien decir. A mayor estabilidad social, mayor madurez en la normalización. Y viceversa.
+Un último apunte: cuando una sociedad madura lo suficiente y el caos bélico decrece, la cultura se vuelve más importante. Una consecuencia de esto es el intento de normalización, extensivo a cualquier aspecto de la vida cotidiana: desde comercio, moneda, carpintería, medidas…, hasta la lengua misma y su escritura. De ahí que, en determinado momento *pueden*, por ejemplo, aparecer organismos de control de la lengua que intenta establecer unas bases, una ortografía, un manual del bien decir. A mayor estabilidad social, mayor madurez en la normalización. Y viceversa.
 
 #### Topónimos y antropónimos
 
@@ -313,7 +313,7 @@ Algunos ejemplos de topónimos:
 - Olesa de Bonesvalls. Olesa es una variedad de olivo y bones valls son buenos valles.
 - Viladecavalls (villa de caballos), Vacarisses (vacas) o Porqueres (corrales de cerdos).
 - Valladolid: Valle de la Vid.
-- Galaroza: De _Al-Jaroza_, Valle de las Doncellas.
+- Galaroza: De *Al-Jaroza*, Valle de las Doncellas.
 
 ### Últimas reflexiones
 
@@ -325,7 +325,7 @@ Encontraremos una aplicación práctica en antropónimos y topónimos, lo primer
 
 Aquí hay que reflexionar sobre varios puntos: en primer lugar, ¿cuál es la lengua real de nuestro personaje? ¿Un castellano retocado? Detalle de coherencia nada baladí. Esto está muy bien; más peliagudo es un personaje que habla un idioma ajeno o textos extranjeros. ¿Cuál es la mejor forma de llevar esto? Imaginemos que un personaje ve un escrito en un idioma del que nada sabe. ¿Cómo se lo mostramos en ese caso al lector? Tolkien (indudable referente para la creación de sistemas lingüísticos) lo hace directamente. Para eso ha trabajado antes en varias lenguas y puede escribir las runas apropiadas cuando le conviene. Pero si ese no es un camino que queramos seguir, por la complejidad que implica, podríamos trabajar sobre la asunción de que toda palabra no castellana es una traducción fonética al castellano; y los metatextos son a su vez una traducción escrita, al igual que la de los personajes. Lo cual, en cierta medida, nos deja en un punto muerto, sin demasiada base sólida y nada más que opciones cómodas y que diferencien al narrador.
 
-Queda, sin embargo, el tercer camino ya anunciado: asumir con valentía que el idioma en que se escribe el libro (castellano) _es_ el marco lingüístico de la historia; o bien una pequeña variante. No olvidemos, por otro lado, que Tolkien no solo usaba lenguas ajenas, sino que también trabajó con variaciones del idioma vernáculo —el inglés, en este caso— cuyas sutilezas se pierden, por desgracia, en la traducción al castellano.
+Queda, sin embargo, el tercer camino ya anunciado: asumir con valentía que el idioma en que se escribe el libro (castellano) *es* el marco lingüístico de la historia; o bien una pequeña variante. No olvidemos, por otro lado, que Tolkien no solo usaba lenguas ajenas, sino que también trabajó con variaciones del idioma vernáculo —el inglés, en este caso— cuyas sutilezas se pierden, por desgracia, en la traducción al castellano.
 
 **Notas:**
 
@@ -333,16 +333,16 @@ Queda, sin embargo, el tercer camino ya anunciado: asumir con valentía que el i
 
 ### Bibliografía:
 
-\* Chamorro, M. I. _Tesoro de villanos: Diccionario de germanía_. Herder, 2002. ISBN 84-254-2220-5.
+\* Chamorro, M. I. *Tesoro de villanos: Diccionario de germanía*. Herder, 2002. ISBN 84-254-2220-5.
 
-\* Luque, J. de D.; Pamies, A.; Manjón. F. J. _El arte del insulto: Estudio lexicográfico_. Península, 1997. Atalaya. ISBN 84-8307-057-X.
+\* Luque, J. de D.; Pamies, A.; Manjón. F. J. *El arte del insulto: Estudio lexicográfico*. Península, 1997. Atalaya. ISBN 84-8307-057-X.
 
-\* Moliner, M. _Diccionario del uso del español_. 3.ª edición. Gredos, 2007. ISBN 97-884-2492886-5.
+\* Moliner, M. *Diccionario del uso del español*. 3.ª edición. Gredos, 2007. ISBN 97-884-2492886-5.
 
-\* Seco, M. _Diccionario de dudas y dificultades de la lengua española_. Espasa, 2004. ISBN 97-884-2399425-0.
+\* Seco, M. *Diccionario de dudas y dificultades de la lengua española*. Espasa, 2004. ISBN 97-884-2399425-0.
 
-\* Varios autores. _Diccionario panhispánico de dudas_. Espasa, 2005. ISBN 84-294-0623-9.
+\* Varios autores. *Diccionario panhispánico de dudas*. Espasa, 2005. ISBN 84-294-0623-9.
 
-\* Varios autores. _Diccionario de la lengua española_. 22.ª edición. Espasa, 2001. ISB 97-884-2396814-5.
+\* Varios autores. *Diccionario de la lengua española*. 22.ª edición. Espasa, 2001. ISBN 97-884-2396814-5.
 
-2004, Zaral Arelsiak, José María Bravo, Óscar Camarero, María de los Ángeles Flores, Israel Sánchez. Publicado bajo licencia **Creative Commons**[Atribución-No Comercial-No Derivadas 3.0 Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es_MX).
+2004, Zaral Arelsiak, José María Bravo, Óscar Camarero, María de los Ángeles Flores, Israel Sánchez. Publicado bajo licencia **Creative Commons** [Atribución-No Comercial-No Derivadas 3.0 Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es_MX).

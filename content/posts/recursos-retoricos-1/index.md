@@ -38,7 +38,7 @@ La aliteración es una figura clasificada como de repetición fonológica; consi
 
 Aunque se podría considerar más propio de la poesía que de la prosa, este recurso puede emplearse en esta de forma muy efectiva para sugerir sensaciones, reforzar significados y favorecer la expresividad. En algunos casos, la aliteración recrea sonidos y podría asimilarse a una onomatopeya.
 
-La aliteración es muy frecuente en los dichos populares y en los trabalenguas (artificios del lenguaje menos inocentes de lo que uno pudiera pensar, pues se han empleado como _shibboleth_[^2] a lo largo de la historia).
+La aliteración es muy frecuente en los dichos populares y en los trabalenguas (artificios del lenguaje menos inocentes de lo que uno pudiera pensar, pues se han empleado como *shibboleth*[^2] a lo largo de la historia).
 
 Veamos algunos ejemplos:
 
@@ -82,7 +82,7 @@ Lo veremos mejor con algunos ejemplos:
 
 «Mal te perdonarán a ti las horas; / las horas que limando están los días, / los días que royendo están los años» (Luis de Góngora).
 
-«Estando en Valencia el Cid de trabajos muy cansado, / cansado de tantas guerras como por él han pasado» (Anónimo: _Romancero del Cid_).
+«Estando en Valencia el Cid de trabajos muy cansado, / cansado de tantas guerras como por él han pasado» (Anónimo: *Romancero del Cid*).
 
 **Teatro:**
 
@@ -126,10 +126,10 @@ Bien, aquí finaliza la primera entrega; espero que les haya gustado.
 
 ## Bibliografía
 
-- GARCÍA BARRIENTOS, JOSÉ LUIS: _Las figuras retóricas. El lenguaje literario 2,_ 3.a ed., Madrid: Arco Libros, 2007.
-- SPANG, KURT: _Fundamentos de retórica literaria y publicitaria,_ 3.ª ed., Pamplona: Ediciones Universidad de Navarra, 1991.
+- GARCÍA BARRIENTOS, JOSÉ LUIS: *Las figuras retóricas. El lenguaje literario 2,* 3.a ed., Madrid: Arco Libros, 2007.
+- SPANG, KURT: *Fundamentos de retórica literaria y publicitaria,* 3.ª ed., Pamplona: Ediciones Universidad de Navarra, 1991.
 - [http://retorica.librodenotas.com/](http://retorica.librodenotas.com/ "Retórica en Libro de Notas")
 - [http://www.retoricas.com/](http://www.retoricas.com/ "Retóricas")
 
-[^1]: Junto a los tropos, las figuras eran parte fundamental del _ornatus_ retórico de la _elocutio,_ la tercera de las partes _artis_ o fases de elaboración del discurso según Cicerón _(Inventio, Dispositio, Elocutio, Memoria_ y _Actio)._
-[^2]: _Shibboleth,_ término de origen hebreo, podría asimilarse al concepto de santo y seña; frases que delatan a ciertos grupos, como los hablantes nativos de un idioma de los que lo han aprendido en la edad adulta. Los trabalenguas se han empleado para este fin porque pueden resultar prácticamente imposibles de recitar bien para los hablantes no nativos de un idioma.
+[^1]: Junto a los tropos, las figuras eran parte fundamental del *ornatus* retórico de la *elocutio,* la tercera de las partes *artis* o fases de elaboración del discurso según Cicerón *(Inventio, Dispositio, Elocutio, Memoria* y *Actio).*
+[^2]: *Shibboleth,* término de origen hebreo, podría asimilarse al concepto de santo y seña; frases que delatan a ciertos grupos, como los hablantes nativos de un idioma de los que lo han aprendido en la edad adulta. Los trabalenguas se han empleado para este fin porque pueden resultar prácticamente imposibles de recitar bien para los hablantes no nativos de un idioma.

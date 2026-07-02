@@ -10,9 +10,9 @@ Leí ayer en la bitácora de Enrique Dans este interesante artículo, "[El futur
 
 > El futuro del papel es ya meramente coyuntural. Si cabe, como mucho, generacional: el papel durará hasta que aquellos que crecieron en un mundo en el que el papel era la forma más barata y eficiente de diseminar información se pasen finalmente a mejores métodos o, simplemente, desaparezcan. En una generación, la idea de cultivar bosques, talarlos, transportar la madera, someterla a complejos procesos de transformación física y química, imprimir con tinta sobre el producto y distribuirlo a los lectores se verá ya como lo que es hoy: un total y absoluto anacronismo.
 
-La frase que sigue la tengo aún en el magín: "hasta que aquellos que crecieron en un mundo en el que el papel \[...\] se pasen finalmente a mejores métodos". Cuánta verdad. Y yo que me incluyo en esa _generación de papel_.
+La frase que sigue la tengo aún en el magín: "hasta que aquellos que crecieron en un mundo en el que el papel \[...\] se pasen finalmente a mejores métodos". Cuánta verdad. Y yo que me incluyo en esa *generación de papel*.
 
-Y para muestra, un botón: admito sin tapujos que por mucho que me emocione la perspectiva de la edición digital[^1]) y los lectores de elibros, aún y con todo, deseo ver mi obra, algún día, en papel. No puedo evitarlo: mi bibliofilia es demasiado fuerte. Los enamorados de la lectura de esa _generación de papel_ hemos desarrollado una irresistible filia —codicia, diría— hacia el libro como objeto de culto, y no podemos desprendernos del papel impreso tan fácilmente.
+Y para muestra, un botón: admito sin tapujos que por mucho que me emocione la perspectiva de la edición digital[^1] y los lectores de elibros, aún y con todo, deseo ver mi obra, algún día, en papel. No puedo evitarlo: mi bibliofilia es demasiado fuerte. Los enamorados de la lectura de esa *generación de papel* hemos desarrollado una irresistible filia —codicia, diría— hacia el libro como objeto de culto, y no podemos desprendernos del papel impreso tan fácilmente.
 
 Así que lo admito: si no llego a publicar en papel sentiré que me falta algo. Me pasa una cosa similar con la música; pese a que ahora acceder a casi cualquier grupo o autor está al alcance de cualquiera, de forma casi instantánea, me encuentro con que añoro los viejos soportes físicos en los que escuchaba música. Mis cintas, vamos, sin ir más lejos.
 
@@ -20,4 +20,4 @@ Pero volviendo al cauce de la reflexión: el problema, bien lo dice Dans, no es 
 
 ... o quizás no. Quién sabe. En cualquier caso, ojalá estemos aquí para verlo.
 
-[^1]: Me remito a mis anteriores reflexiones: [Autoedición digital o el nuevo Parnaso](/autoedicion-digital/) y [Libros electrónicos: ¿el futuro?](/libros-electronicos/
+[^1]: Me remito a mis anteriores reflexiones: [Autoedición digital o el nuevo Parnaso](/autoedicion-digital/) y [Libros electrónicos: ¿el futuro?](/libros-electronicos/)

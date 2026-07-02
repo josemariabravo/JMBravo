@@ -32,7 +32,7 @@ Definición: Complemento directo es un complemento verbal en el que recae la acc
 
 Para situar estas explicaciones, veamos el siguiente ejemplo:
 
-_El niño comía lentejas con sus padres aquella tarde._
+*El niño comía lentejas con sus padres aquella tarde.*
 
 Mientras que "el niño" es claramente el sujeto de la acción verbal "comer", "lentejas con sus padres aquella tarde" son los complementos verbales. Hay bastantes y no vamos a tratarlos aquí. En concreto: "lentejas" es el complemento directo, porque sobre él recae la directamente la acción del verbo comer. Si la frase fuera: "El niño comía lentejas fritas con chorizo", entonces el complemento directo se identifica con "lentejas fritas con chorizo". Es decir, un grupo de palabras que gira en torno a "lentejas", que es su núcleo.
 
@@ -48,15 +48,15 @@ b) "lentejas fritas con chorizo"
 
 Expuesta esta pequeña introducción, volvemos al asunto de los verbos transitivos e intransitivos. ¿Qué importancia puede tener?
 
-> Correr (_del lat. currere_):
+> Correr (*del lat. currere*):
 > 
 > 1\. intr. Ir de prisa.
 > 
-> 28\. tr. echar ( deponer a alguien de su empleo).
+> 28\. tr. echar (deponer a alguien de su empleo).
 
 El diccionario nos dice que en su primera acepción, el verbo correr es intransitivo. Siguiendo lo expuesto antes, este verbo "no puede" llevar complemento directo.
 
-_Manolo corría por las praderas._
+*Manolo corría por las praderas.*
 
 - Manolo > sujeto
 - corría > verbo
@@ -68,15 +68,15 @@ Con el significado al que alude la primera definición es imposible meter un com
 
 Bien, volvamos al primer ejemplo, el del verbo "fintar", que el diccionario tilda de intransitivo. He utilizado este verbo adrede porque no es la primera vez que veo casos así entre textos de fantasía. La siguiente oración constituye un claro ejemplo de incorrección, de alguien que "escuchó campanas pero no sabe dónde" con esta palabra.
 
-_Abelardo fintó la toledana._
+*Abelardo fintó la toledana.*
 
-> esgrimir. (_Quizá del prov. ant. escremir,practicar la esgrima, y este del franco \*skermjan, proteger_).
+> esgrimir. (*Quizá del prov. ant. escremir, practicar la esgrima, y este del franco \*skermjan, proteger*).
 > 
 > 1\. tr. Jugar y manejar la espada, el sable y otras armas blancas, reparando y deteniendo los golpes del contrario, o acometiéndole.
 
 En cambio, con la definición del verbo "esgrimir" delante, podemos verificar que el siguiente ejemplo es correcto.
 
-_Abelardo esgrimió la toledana._
+*Abelardo esgrimió la toledana.*
 
 Bien: ¿y cómo sabemos si estamos tratando o no con el complemento directo? He aquí unas directrices.
 
@@ -86,49 +86,49 @@ b) El objeto directo (OD) puede ser de dos tipos: De persona o de animal o cosa.
 
 Ejemplos:
 
-_El niño come lentejas._
+*El niño come lentejas.*
 
-_Armando asesinó a Juan._
+*Armando asesinó a Juan.*
 
 c) Truco mnemotécnico: el objeto directo siempre, siempre, siempre, puede convertirse en el sujeto de una oración pasiva de idéntico significado, mientras que el sujeto de la oración original pasa a funcionar como complemento agenteii. Entonces, partiendo de los dos ejemplos anteriores, los resultados son:
 
-_Las lentejas fueron comidas por el niño._
+*Las lentejas fueron comidas por el niño.*
 
-_Juan fue asesinado por Armando._
+*Juan fue asesinado por Armando.*
 
-Veamos un ejemplo donde la pasiva indica claramente que el candidato no es OD: _María escribió a Juan._ \> Juan fue escrito por María ... (¡NO!)
+Veamos un ejemplo donde la pasiva indica claramente que el candidato no es OD: *María escribió a Juan.* \> Juan fue escrito por María ... (¡NO!)
 
 No es el complemento directo aunque el verbo es transitivo y el complemento parece directo. Pero la acción de escribir recae en lo que escribe (palabras, frases, libros, cartas), y no a quién.
 
-_María escribió cartas_ > _Cartas fueron escritas por María._ (Correcto)
+*María escribió cartas* > *Cartas fueron escritas por María.* (Correcto)
 
 d) Truco mnemotécnico complementario para averiguar sobre quién recae la acción. Un OD siempre responde a la pregunta "qué" o "a quién". Por ejemplo:
 
-_Juan comió patatas._ <–> _¿Qué comió Juan? Patatas._
+*Juan comió patatas.* <–> *¿Qué comió Juan? Patatas.*
 
-_Pedro mató a Tomás._ <–> _¿A quién mató Pedro? A Tomás._
+*Pedro mató a Tomás.* <–> *¿A quién mató Pedro? A Tomás.*
 
-Pero la regla de la pasiva, bien empleada, es una prueba definitiva, mientras que esta puede conducir a engaños, por lo que debe tomarse como complementaria. Basta con probarlo en los ejemplos anteriores _María escribió a Juan_ y _María escribió cartas_ para comprobar que ambas sugieren la existencia de OD con la regla (d).
+Pero la regla de la pasiva, bien empleada, es una prueba definitiva, mientras que esta puede conducir a engaños, por lo que debe tomarse como complementaria. Basta con probarlo en los ejemplos anteriores *María escribió a Juan* y *María escribió cartas* para comprobar que ambas sugieren la existencia de OD con la regla (d).
 
 Una última indicación sobre los verbos transitivos, cuya definición especifica que pueden tener objeto directo. Pueden, sí, pero no necesariamente. Un verbo transitivo no está obligado a tener un complemento directoiii. Ejemplos obvios:
 
-_Juan mató._ (verbo transitivo sin un complemento directo)
+*Juan mató.* (verbo transitivo sin un complemento directo)
 
-_Juan mató a Pedro._ (verbo tr. con un complemento directo \[a Pedro\])
+*Juan mató a Pedro.* (verbo tr. con un complemento directo \[a Pedro\])
 
 La RAE aplica a veces su criterio de transitividad e intransitividad (lleva/no lleva) de la siguiente manera:
 
-> beber (_del lat. Bibere_)
+> beber (*del lat. bibere*)
 > 
 > 1\. intr. Ingerir un líquido. Ú.t.c.tr.
 
 (Este ejemplo es bastante claro. Primero dice que es intransitivo, que se podría corresponder con el ejemplo:
 
-_Juan bebió._
+*Juan bebió.*
 
 Luego añade el la siguiente sigla: Ú.t.c.tr., que quiere decir: "úsase también como transitivo".
 
-_Juan bebió vino._
+*Juan bebió vino.*
 
 Parece más fácil no entrar en esas sutilezas y considerar que el verbo en esta acepción es simplemente transitivo, es decir, que puede llevar un objeto directo.
 
@@ -136,23 +136,23 @@ Parece más fácil no entrar en esas sutilezas y considerar que el verbo en esta
 
 Casi sin darnos cuenta hemos aterrizado en el siguiente problema, muy habitual entre los escritores, y que guarda íntima relación con lo expuesto en el primer punto. Estos defectos tan habituales consisten en poner el correspondiente pronombre aludido en lugar del correcto.
 
-_Martín la dijo que se fuera._ (laísmo, lo correcto sería "le")
+*Martín la dijo que se fuera.* (laísmo, lo correcto sería "le")
 
-_Amanda le pensó todo muy bien._ (leísmo, lo correcto sería "lo")
+*Amanda le pensó todo muy bien.* (leísmo, lo correcto sería "lo")
 
-_Marcos lo escribió una carta._ (loísmo, lo correcto sería "le")
+*Marcos lo escribió una carta.* (loísmo, lo correcto sería "le")
 
 Una nota: la RAE permite (a regañadientes) leísmos sobre persona. Así, lo correcto sería:
 
-_Satas lo mató._
+*Satas lo mató.*
 
 ... Pero también se admite por fuerza incontenible de uso popular:
 
-_Satas le mató._
+*Satas le mató.*
 
 Y ahora veamos cómo se determinan estos casos. le/lo/la/los/las son, para este caso, pronombres, que quiere decir que sustituye a un nombre en la oración; un nombre o un sintagma nominal, según lo comentado antes. Por ejemplo:
 
-_¿Escribió la carta? Sí, **la** escribió._
+*¿Escribió la carta? Sí, **la** escribió.*
 
 Y "la" sustituye en la segunda oración a "la carta"; sintagma nominal que, de nuevo, es el objeto directo de la oración.
 
@@ -176,15 +176,15 @@ Las reglas para la correcta colocación de comas y puntos y coma están plagadas
 
 Constituyen siempre una llamada a alguien y, efectivamente, por definición van entre comas (salvo que estén al comienzo o al final de la oración, claro: entonces solo hay una coma).
 
-_Juan, ven a casa._
+*Juan, ven a casa.*
 
-_Ven a casa, Juan._
+*Ven a casa, Juan.*
 
 #### ¿Qué son los adjetivos explicativos y especificativos?
 
-_La niña pálida vino hacia mí._
+*La niña pálida vino hacia mí.*
 
-_La niña, pálida, vino hacia mí._
+*La niña, pálida, vino hacia mí.*
 
 Notemos la diferencia semántica de ambas oraciones. El primer caso es un adjetivo especificativo, mientras que el segundo es un adjetivo explicativo (que tiene que llevar comas), y no define a la niña; solo aporta un dato sobre alguien ya conocido.
 
@@ -192,15 +192,15 @@ Notemos la diferencia semántica de ambas oraciones. El primer caso es un adjeti
 
 Aquella que consta de un solo verbo conjugado. La oración posee significado completo e independiente. Es conveniente realizar una distinción entre oración y frase. La frase no tiene por qué poseer significado completo e independiente, ni tiene requisitos estructurales sintácticos.
 
-_Joaquín come patatas._
+*Joaquín come patatas.*
 
-_Hola_ —> No es oración, pero es frase.
+*Hola* —> No es oración, pero es frase.
 
 #### ¿Qué es una oración compuesta?
 
 Aquella que posee más de dos verbos, uno principal y otro secundariov, con distintas funciones en la misma. Por ejemplo:
 
-_El niño que vino de México sonreía mucho._
+*El niño que vino de México sonreía mucho.*
 
 #### ¿Qué es una proposición?
 
@@ -214,9 +214,9 @@ Una proposición está dentro de (subordinada a) otra, porque cumple una funció
 
 Lo mejor es poner un ejemplo:
 
-_El niño que tenía manchas en las manos no apareció esta tarde._
+*El niño que tenía manchas en las manos no apareció esta tarde.*
 
-(_que tenía manchas en las manos_) es una subordinada adjetiva.
+(*que tenía manchas en las manos*) es una subordinada adjetiva.
 
 Si lo sustituimos por un adjetivo (ejemplo: manchado) la oración funciona igual.
 
@@ -224,21 +224,21 @@ Entonces, igual que en el caso de un adjetivo, hay dos tipos de subordinadas adj
 
 a) Especificativas:
 
-_El chiquillo gracioso._
+*El chiquillo gracioso.*
 
-_El chiquillo que es un gracioso…_
+*El chiquillo que es un gracioso…*
 
 b) Explicativas.
 
-_El chiquillo, gracioso_, …
+*El chiquillo, gracioso*, …
 
-_El chiquillo, que era gracioso, …_
+*El chiquillo, que era gracioso, …*
 
 #### ¿Qué son las aposiciones?
 
 Un sintagma en aposición cumple la función de un adjetivo explicativo dentro de otro sintagma nominal. Es más: puede verse como una reducción de una proposición subordinada adjetiva explicativa. Por ejemplo:
 
-_El chiquillo, que era un gracioso_, … —> _El chiquillo, un gracioso_, ... (un gracioso es la aposición)
+*El chiquillo, que era un gracioso*, … —> *El chiquillo, un gracioso*, ... (un gracioso es la aposición)
 
 #### ¿Cuál es el orden regular de una oración simple?
 
@@ -250,7 +250,7 @@ El sujeto desarrolla la acción del verbo. Consiste en un sintagma nominal; por 
 
 artículo + sustantivo + adjetivo + complemento preposicional.
 
-_El hijo bueno de María._
+*El hijo bueno de María.*
 
 ¿Qué es el predicado?
 
@@ -264,17 +264,17 @@ OI es el objeto indirecto. Los circunstanciales son aquellos que sitúan en tiem
 
 Son proposiciones al mismo nivel: la función de una es equivalente a la otra. Hay de varios tipos: copulativas, disyuntivas, adversativas y yuxtapuestas. Ejemplos:
 
-_El niño comía patatas y la niña bebía zumo._ —> Copulativa.
+*El niño comía patatas y la niña bebía zumo.* —> Copulativa.
 
-_O sales conmigo o sales con él._ — Disyuntiva.
+*O sales conmigo o sales con él.* — Disyuntiva.
 
-_Vine, vi, vencí._ —> Yuxtapuesta.
+*Vine, vi, vencí.* —> Yuxtapuesta.
 
-_Le dije que sí, pero no vino._ —> Adversativa: la segunda corrige a la primera.
+*Le dije que sí, pero no vino.* —> Adversativa: la segunda corrige a la primera.
 
 Las proposiciones coordinadas se suelen distinguir fácil porque aunque sustituyas la coma por un punto no se pierde el sentido en cada unidad (proposición) simple, y pasamos a tener una cadena de oraciones simples.
 
-_El niño comía patatas. La niña bebía zumo._
+*El niño comía patatas. La niña bebía zumo.*
 
 #### ¿Qué son las proposiciones subordinadas adverbiales?
 
@@ -284,25 +284,25 @@ Las variantes son: de tiempo, de lugar, de modo, comparativas, causales, consecu
 
 Una oración simple:
 
-_Consiguió su objetivo al final del día._
+*Consiguió su objetivo al final del día.*
 
-(_al final del día_) —> Complemento circunstancial de tiempo.
+(*al final del día*) —> Complemento circunstancial de tiempo.
 
 Una oración compuesta:
 
-_Consiguió su objetivo cuando acabó el día._
+*Consiguió su objetivo cuando acabó el día.*
 
-(_cuando acabó el día_) — Proposición subordinada adverbial de tiempo, con función de complemento circunstancial de tiempo.
+(*cuando acabó el día*) — Proposición subordinada adverbial de tiempo, con función de complemento circunstancial de tiempo.
 
 Más ejemplos:
 
-_Atacó \[como si de un toro furioso se tratara\]._ — Comparativa.
+*Atacó \[como si de un toro furioso se tratara\].* — Comparativa.
 
-_\[Por mucho que lo intentes\], no derrotarás al maestro._ — Concesiva.
+*\[Por mucho que lo intentes\], no derrotarás al maestro.* — Concesiva.
 
-_Atacó al maestro \[para defender a su amigo herido\]._ — Final.
+*Atacó al maestro \[para defender a su amigo herido\].* — Final.
 
-_\[Como su amigo estaba herido\], atacó al maestro._ — Causal.
+*\[Como su amigo estaba herido\], atacó al maestro.* — Causal.
 
 ### 4\. Sintaxis y los recursos del escritor.
 
@@ -314,13 +314,13 @@ Las alteraciones de sintaxis producidas con las figuras de posición pueden prov
 
 ### Notas:
 
-i Un sintagma nominal precedido por una preposición se denominal sintagma preposicional.
+i Un sintagma nominal precedido por una preposición se denomina sintagma preposicional.
 
 ii De que también se habla en el informe sobre el problema de las pasivas. (Ver [Vicios del estilo, i: La voz pasiva](http://sombrasyceniza.com/2010/10/11/vicios-del-estilo-i-la-voz-pasiva/ "Vicios del estilo, i: La voz pasiva").)
 
 iii Se podría entonces hablar de oraciones transitivas (aquellas que tienen de facto el OD) e intransitivas (aquellas que no tienen el OD). Está claro que un verbo intransitivo solo puede generar oraciones intransitivas, mientras que un verbo transitivo puede generar oraciones transitivas e intransitivas.
 
-iv El Objeto Indirecto (OI) es un sintagma preposicional (a/para + SN) que "recibe el daño o el provecho de la acción del verbo.
+iv El Objeto Indirecto (OI) es un sintagma preposicional (a/para + SN) que "recibe el daño o el provecho de la acción del verbo."
 
 v Los tiempos compuestos y las perífrasis podemos considerarlos a todos los efectos como un verbo único.
 

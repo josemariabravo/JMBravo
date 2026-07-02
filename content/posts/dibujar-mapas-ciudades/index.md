@@ -19,7 +19,7 @@ Un consejo: al principio es mejor que te centres en las islas mayores de la ciud
 
 El método tiene dos partes. En la primera se hace un bosquejo inicial de la ciudad, que recomiendo hacer a lápiz; en la segunda, se vectoriza\[1\] a partir de dicho bosquejo.
 
-\[1\] _Vectorizar:_ convertir una imagen raster en un [gráfico vectorial](http://es.wikipedia.org/wiki/Gr%C3%A1fico_vectorial).
+\[1\] *Vectorizar:* convertir una imagen raster en un [gráfico vectorial](http://es.wikipedia.org/wiki/Gr%C3%A1fico_vectorial).
 
 Bueno: vamos al grano.
 
@@ -29,7 +29,7 @@ Estos son los pasos a seguir:
 
 **1.a. Consideraciones previas**
 
-Antes de sentarte a dibujar es preciso hacerse unas cuantas preguntas. La primera y más obvia es cómo se llama el asentamiento que vamos a dibujar; si no tenemos un nombre, pon uno provisional (_La ciudad donde nació Fulano_).
+Antes de sentarte a dibujar es preciso hacerse unas cuantas preguntas. La primera y más obvia es cómo se llama el asentamiento que vamos a dibujar; si no tenemos un nombre, pon uno provisional (*La ciudad donde nació Fulano*).
 
 Define su ubicación en el mundo y la geografía de sus inmediaciones: ¿Es una ciudad de interior o costera? ¿Hay ríos? ¿Qué hay en los alrededores? ¿Montañas, bosques, campos de cultivo?
 
@@ -52,7 +52,7 @@ Todas estas consideraciones influirán en el bosquejo inicial de nuestro mapa.
 
 **Ejemplo:**
 
-A modo de ejemplo usaré la ciudad de _Fuentenevada_ (si no os gusta el nombre, lo siento, es el que primero me vino al magín). _Fuentenevada_ tiene unos 6000 habitantes; es una ciudad sita en el interior, sin ríos que la atraviesen, con un terreno llano en su mayor parte y una muralla que circunda sus límites.
+A modo de ejemplo usaré la ciudad de *Fuentenevada* (si no os gusta el nombre, lo siento, es el que primero me vino al magín). *Fuentenevada* tiene unos 6000 habitantes; es una ciudad sita en el interior, sin ríos que la atraviesen, con un terreno llano en su mayor parte y una muralla que circunda sus límites.
 
 Vayamos al siguiente paso:
 
@@ -72,7 +72,7 @@ En el caso de que los puntos de interés tengan más relevancia, necesitas reser
 
 También convendría marcar los límites de tu ciudad, y los accidentes geográficos que la afectan: la línea de costa, si es una ciudad costera, o el río (o ríos) que la atraviesan, si tal; otros ejemplos de accidentes geográficos a indicar son acantilados, lagos y campos de cultivo, de un largo etcétera.
 
-Con respecto a nuestro ejemplo, _Fuentenevada_, este es el bosquejo inicial:
+Con respecto a nuestro ejemplo, *Fuentenevada*, este es el bosquejo inicial:
 
 ![syc\_bosquejo\_1](syc_bosquejo_11.jpg)
 
@@ -114,7 +114,7 @@ Si aparecen “nodos” en los que confluyen muchas calles, puede que hayas dibu
 
 **Segunda parte: Vectorizado del mapa**
 
-_**Nota:** Si se te dan bien los programas de diseño vectorial, podrías dibujar el bosquejo inicial directamente en el ordenador. No obstante, no lo recomiendo._
+***Nota:** Si se te dan bien los programas de diseño vectorial, podrías dibujar el bosquejo inicial directamente en el ordenador. No obstante, no lo recomiendo.*
 
 Para dibujar las islas que conforman la ciudad puedes usar cualquier software de diseño vectorial, como Adobe Illustrator, [Inkscape](http://inkscape.org/?lang=es) (gratuito y de código abierto) o Freehand. También vendrá bien disponer de un escáner para digitalizar tus bosquejos, aunque no es necesario.
 
@@ -135,15 +135,15 @@ El primer paso es dibujar los ejes de las calles, los que dibujaste en el punto 
 
 Naturalmente, puedes cambiar los nombres, y añadir más capas a medida que sea necesario. Pero considero que esas son las mínimas.
 
-Ahora debes insertar tu bosquejo en papel, que habrás digitalizado previamente, mediante el comando _enlazar_. Inserta la imagen en la capa _Fondo._ Hazlo a tamaño real de la página; es decir, si has dibujado en un A4 apaisado, inserta la imagen con unas dimensiones de 297x210 mm.
+Ahora debes insertar tu bosquejo en papel, que habrás digitalizado previamente, mediante el comando *enlazar*. Inserta la imagen en la capa *Fondo.* Hazlo a tamaño real de la página; es decir, si has dibujado en un A4 apaisado, inserta la imagen con unas dimensiones de 297x210 mm.
 
-Así es cómo quedó insertado el bosquejo de _Fuentenevada_:
+Así es cómo quedó insertado el bosquejo de *Fuentenevada*:
 
 ![syc\_captura\_01](syc_captura_011.jpg)
 
 Puedes, no obstante, trazar a ojo lo que has dibujado en papel. O, tal y como señalé al principio del punto 2, puedes haber dibujado ya los ejes de las calles en el ordenador.
 
-En cualquier caso, hay que trazar los ejes de las calles. Usa la herramienta _línea_; para mayor comodidad traza líneas largas, y con el comando _recortar_, elimina lo que sobre.
+En cualquier caso, hay que trazar los ejes de las calles. Usa la herramienta *línea*; para mayor comodidad traza líneas largas, y con el comando *recortar*, elimina lo que sobre.
 
 Cuando termines, el aspecto debería ser más o menos este:
 
@@ -153,9 +153,9 @@ Como puedes apreciar he trazado los ejes de las calles, aunque he añadido líne
 
 **2.b Delimita las islas**
 
-Ahora tienes que delimitar las islas, según el ancho de las calles. En Autocad es muy sencillo: usa el comando _desfase_ y replica los ejes de las calles; la mitad del ancho de la calle será la distancia que uses para el desfase. Es mejor que pongas las líneas desfasadas en otra capa; el comando lo puede hacer directamente.
+Ahora tienes que delimitar las islas, según el ancho de las calles. En Autocad es muy sencillo: usa el comando *desfase* y replica los ejes de las calles; la mitad del ancho de la calle será la distancia que uses para el desfase. Es mejor que pongas las líneas desfasadas en otra capa; el comando lo puede hacer directamente.
 
-Otra opción es usar líneas múltiples, pero es más laborioso y no lo recomiendo. Eso sí: al usar el comando _desfase_ puede que los contornos de las islas no queden definidos. Tendrás que “estirar” dichas líneas.
+Otra opción es usar líneas múltiples, pero es más laborioso y no lo recomiendo. Eso sí: al usar el comando *desfase* puede que los contornos de las islas no queden definidos. Tendrás que “estirar” dichas líneas.
 
 Usa un color de línea distinto al de los ejes, en aras de la claridad.
 
@@ -167,9 +167,9 @@ He trazado las “calles” en rojo, para mayor claridad, y he añadido un terre
 
 **2.c. Traza las islas**
 
-Estamos terminando. Ahora tienes que trazar las islas en su capa correspondiente. Puedes usar el comando _polilínea_ y traza los polígonos inscritos en los polígonos originales, los que resultan de la intersección de los ejes de las calles.
+Estamos terminando. Ahora tienes que trazar las islas en su capa correspondiente. Puedes usar el comando *polilínea* y traza los polígonos inscritos en los polígonos originales, los que resultan de la intersección de los ejes de las calles.
 
-Pero podemos hacer algo aún mejor: emplear el comando _contorno_. Asegúrate de marcar “Detección de islas”; tan solo tienes que ir designando puntos en el interior de tus islas, y listo. Tienes la opción de dibujar _regiones_ en vez de _polilíneas_, lo cual es, en teoría, más correcto, pero no hay apenas diferencia en la práctica.
+Pero podemos hacer algo aún mejor: emplear el comando *contorno*. Asegúrate de marcar “Detección de islas”; tan solo tienes que ir designando puntos en el interior de tus islas, y listo. Tienes la opción de dibujar *regiones* en vez de *polilíneas*, lo cual es, en teoría, más correcto, pero no hay apenas diferencia en la práctica.
 
 Aquí os pongo una captura del proceso de detectar los contornos:
 
@@ -179,13 +179,13 @@ Una vez hayas terminado, oculta las capas de los ejes y líneas desfasadas. Debe
 
 ![syc\_captura\_05](syc_captura_051.jpg)
 
-Puedes usar el comando _chaflán_ para eliminar los _picos_ demasiado pronunciados en las islas, aunque no es necesario. En el ejemplo lo he usado unas cuantas veces.
+Puedes usar el comando *chaflán* para eliminar los *picos* demasiado pronunciados en las islas, aunque no es necesario. En el ejemplo lo he usado unas cuantas veces.
 
 Como puede observarse, he rellenado la zona ajardinada con un sombreado simbólico, y las islas con un tono gris.
 
 Listo. Tienes el trazado básico de las islas de tu ciudad. Puedes incrementar el detalle dibujando islas dentro de las islas; de nuevo, usa capas separadas.
 
-**Nota:** Podrías usar las herramientas 3D de Autocad para dar “relieve” al mapa, de forma sencilla con el comando _extrusionar_. Un ejemplo en perspectiva isométrica:
+**Nota:** Podrías usar las herramientas 3D de Autocad para dar “relieve” al mapa, de forma sencilla con el comando *extrusionar*. Un ejemplo en perspectiva isométrica:
 
 ![syc\_captura\_06](syc_captura_061.jpg)
 
@@ -216,7 +216,7 @@ En una de las tablas de dicho artículo aparecen listadas densidades de poblaci�
 - Ciudades europeas (griegas y romanas): 100-115.
 - Ciudades del renacimiento: 175-190.
 
-Vamos a emplear el método 2 para estimar el área de _Fuentenevada_. Hemos dicho antes que tenía 6000 habitantes. Vamos a usar el modelo histórico de una ciudad del renacimiento, con una densidad de 175 habitantes por cada hectárea (ha).
+Vamos a emplear el método 2 para estimar el área de *Fuentenevada*. Hemos dicho antes que tenía 6000 habitantes. Vamos a usar el modelo histórico de una ciudad del renacimiento, con una densidad de 175 habitantes por cada hectárea (ha).
 
 6000 habitantes x 175 habitantes\-1 x ha = 34,28 ha
 

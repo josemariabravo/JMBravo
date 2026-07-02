@@ -6,11 +6,11 @@ categories:
 ---
 ### ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")
 
-Tercera entrega de los informes de [Ouróboros](http://sombrasyceniza.com/tag/ouroboros/), esta vez dedicado a caracterizar los narradores de una historia. Debido a la longitud del artículo he optado por dividido en dos partes. Esta es la primera:
+Tercera entrega de los informes de [Ouróboros](http://sombrasyceniza.com/tag/ouroboros/), esta vez dedicado a caracterizar los narradores de una historia. Debido a la longitud del artículo he optado por dividirlo en dos partes. Esta es la primera:
 
 **1\. Concepto**
 
-¿Quién es el narrador? Como la palabra mismo bien indica, es aquel que cuenta la historia. Ahora, existen muchos tipos de narradores; cada variante ofrece sutiles diferencias que todo escritor debe considerar con cuidado. La elección del narrador es una de las decisiones más importantes a la hora de contar una historia, ya que afectará a todos los verbos de la novela, cuento o relato, y estos, los verbos, son el motor de cualquier historia que nos propongamos contar: nada puede ocurrir sin ellos. <!--more-->En el esquema de una obra de arte, el narrador sería la figura central que conecta al autor (el creador) y la historia que cuenta (la obra de arte) con el lector (el receptor). No se debe confundir jamás al autor con el narrador; jamás coinciden y, en todo caso, pueden estar superpuestos. Al escribir, el autor enmascara su identidad con la del narrador, a través del cual filtra la información que se transmite al lector.
+¿Quién es el narrador? Como la palabra misma bien indica, es aquel que cuenta la historia. Ahora, existen muchos tipos de narradores; cada variante ofrece sutiles diferencias que todo escritor debe considerar con cuidado. La elección del narrador es una de las decisiones más importantes a la hora de contar una historia, ya que afectará a todos los verbos de la novela, cuento o relato, y estos, los verbos, son el motor de cualquier historia que nos propongamos contar: nada puede ocurrir sin ellos. <!--more-->En el esquema de una obra de arte, el narrador sería la figura central que conecta al autor (el creador) y la historia que cuenta (la obra de arte) con el lector (el receptor). No se debe confundir jamás al autor con el narrador; jamás coinciden y, en todo caso, pueden estar superpuestos. Al escribir, el autor enmascara su identidad con la del narrador, a través del cual filtra la información que se transmite al lector.
 
 **2\. Aspectos básicos: persona y tiempo verbal.**
 
@@ -18,15 +18,15 @@ Dos accidentes gramaticales de singular importancia determinan al narrador: pers
 
 **2.1. Persona.** La persona del narrador delimita al autor de las palabras vertidas en la narración. ¿Quién cuenta la acción? ¿Quién la escribe? Para responder a estas preguntas hay por tradición tres opciones:
 
-**1) Primera persona.** El narrador es el _Yo_. e.g. _Caminé por la calle, con calma, y saludé a Juan._ Es posible también el narrador _Nosotros_.
+**1) Primera persona.** El narrador es el *Yo*. e.g. *Caminé por la calle, con calma, y saludé a Juan.* Es posible también el narrador *Nosotros*.
 
-**2) Segunda persona.** Aparece el _Tú_ (aunque no es el que narra, véase explicación posterior). e.g. _Caminabas por la calle, con calma, y saludaste a Juan_.
+**2) Segunda persona.** Aparece el *Tú* (aunque no es el que narra, véase explicación posterior). e.g. *Caminabas por la calle, con calma, y saludaste a Juan*.
 
-**3) Tercera persona.** El narrador es _Él_. e.g. _Caminó por la calle, con calma, y saludó a Juan._
+**3) Tercera persona.** El narrador es *Él*. e.g. *Caminó por la calle, con calma, y saludó a Juan.*
 
-La elección más común es la tercera persona. Es la opción más impersonal, dado que se expresa de forma más fría y aséptica; también es una de las más flexibles dado el gran número de enfoques que permite. La narración en segunda persona, mucho menos habitual, resulta enormemente coactiva, agrede al lector, le provoca o delata: le dice lo que hizo, hace o hará. Sin embargo, el narrador en segunda persona, sensu stricto, no existe como tal. Un texto en segunda persona es, en realidad, un texto en primera persona, porque para que exista un _TÚ_ es indispensable un _YO_ que comunique. Por ejemplo, la típica carta:
+La elección más común es la tercera persona. Es la opción más impersonal, dado que se expresa de forma más fría y aséptica; también es una de las más flexibles dado el gran número de enfoques que permite. La narración en segunda persona, mucho menos habitual, resulta enormemente coactiva, agrede al lector, le provoca o delata: le dice lo que hizo, hace o hará. Sin embargo, el narrador en segunda persona, sensu stricto, no existe como tal. Un texto en segunda persona es, en realidad, un texto en primera persona, porque para que exista un *TÚ* es indispensable un *YO* que comunique. Por ejemplo, la típica carta:
 
-_Querido amigo:_ _Por la presente deseo que te encuentres bien, y que todos tus problemas hayan quedado atrás._
+*Querido amigo:* *Por la presente deseo que te encuentres bien, y que todos tus problemas hayan quedado atrás.*
 
 Aquí se hace evidente. No la escribe el TÚ, sino el YO: sigue siendo una primera persona quien escribe. En realidad, lo que cambia es lo que a veces se denomina el conocimiento del narrador, del que se hablará más adelante. En definitiva, este conocimiento alcanza para el presente caso al TÚ, sea el lector mismo o un personaje más de la historia.
 
@@ -34,11 +34,11 @@ Por último, la narración en primera persona establece un vínculo entre el lec
 
 **2.2. Tiempo.** El tiempo del narrador define los tiempos verbales que este emplea. De nuevo, tres posibilidades:
 
-1) Pasado: narración en retrospectiva. Ej.: _Caminé por la calle, con calma, y saludé a Juan_.
+1) Pasado: narración en retrospectiva. Ej.: *Caminé por la calle, con calma, y saludé a Juan*.
 
-2) Presente: narración de cualquier acción contemporánea. Ej.: _Camina por la calle, con calma, y saluda a Juan_.
+2) Presente: narración de cualquier acción contemporánea. Ej.: *Camina por la calle, con calma, y saluda a Juan*.
 
-3) Futuro: narración de lo venidero. Ej.: _Caminará por la calle, con calma, y saludará a Juan_. En este caso, la elección más habitual es la de tiempo pasado: se trata de hechos ya acaecidos, alejados del tiempo del lector, y por tanto tiene la ventaja de su veracidad, de su solidez. El presente, en cambio, ofrece unos hechos que suceden de forma paralela a la lectura; transmite inmediatez y cercanía a cambio de perder la veracidad del pasado. El futuro es el menos usado por razones obvias, al menos en textos largos. Es increíblemente difícil. Suele reservarse para los desenlaces, para narrar sucesos que ocurren de manera usual. Transmite una sensación de algo solemne, amenazador, profético e inexorable. Se pueden combinar distintos tiempos verbales en una misma narración, mientras que el resultado sea coherente.
+3) Futuro: narración de lo venidero. Ej.: *Caminará por la calle, con calma, y saludará a Juan*. En este caso, la elección más habitual es la de tiempo pasado: se trata de hechos ya acaecidos, alejados del tiempo del lector, y por tanto tiene la ventaja de su veracidad, de su solidez. El presente, en cambio, ofrece unos hechos que suceden de forma paralela a la lectura; transmite inmediatez y cercanía a cambio de perder la veracidad del pasado. El futuro es el menos usado por razones obvias, al menos en textos largos. Es increíblemente difícil. Suele reservarse para los desenlaces, para narrar sucesos que ocurren de manera usual. Transmite una sensación de algo solemne, amenazador, profético e inexorable. Se pueden combinar distintos tiempos verbales en una misma narración, mientras que el resultado sea coherente.
 
 **3\. La historia y el narrador.**
 
@@ -72,7 +72,7 @@ El narrador lo sabe todo acerca de la historia: lo interno, externo, lo presente
 
 El narrador se sitúa desde un punto de vista restringido. La información que tiene de los acontecimientos está limitada por su perspectiva. Si el narrador se sitúa en el punto de vista de un personaje sordo, por ejemplo, no podrá describir percepciones acústicas. Es muy común que el narrador parcial se sitúe en un personaje, al que llamaremos personaje-foco. Al asociarse a dicho personaje-foco, el narrador se ve obligado a filtrar sus percepciones según los aspectos personales de este, y, en sentido estricto, estaría limitado por:
 
-1) Las percepciones del personaje-foco, entendiendo percepciones tanto como el estímulo en sí (un color, un sonido, una forma) como la forma de asimilar mentalmente dicho estímulo (que, en realidad, es la percepción en sí). 2) El estado de ánimo de dicho personaje-foco. Es obvio que los hechos que presenciamos no los interpretamos de la misma forma según nuestro estado anímico. 3) La idiosincrasia del personaje-foco, su forma de pensar, especialmente cuando el narrador ahonda en los pensamientos y juicios de valor del personaje-foco. 4) Su vocabulario, especialmente si se desea conseguir un grado de subjetividad lo más alto posible. e.g. Un niño que observe un edificio en ruinas no percibirá los mismos elementos (y los describirá con tanta precisión) como, por ejemplo, un arquitecto. Por supuesto, la subjetividad del narrador parcial no tiene que ser absoluta, de forma que es posible relajar (o desoírlas por completo) algunas de estas limitaciones. Sin embargo, jamás debería usarse un narrador parcial para narrar hechos que el personaje- foco no pudo presenciar.
+1) Las percepciones del personaje-foco, entendiendo percepciones tanto como el estímulo en sí (un color, un sonido, una forma) como la forma de asimilar mentalmente dicho estímulo (que, en realidad, es la percepción en sí). 2) El estado de ánimo de dicho personaje-foco. Es obvio que los hechos que presenciamos no los interpretamos de la misma forma según nuestro estado anímico. 3) La idiosincrasia del personaje-foco, su forma de pensar, especialmente cuando el narrador ahonda en los pensamientos y juicios de valor del personaje-foco. 4) Su vocabulario, especialmente si se desea conseguir un grado de subjetividad lo más alto posible. e.g. Un niño que observe un edificio en ruinas no percibirá los mismos elementos (y los describirá con tanta precisión) como, por ejemplo, un arquitecto. Por supuesto, la subjetividad del narrador parcial no tiene que ser absoluta, de forma que es posible relajar (o desoírlas por completo) algunas de estas limitaciones. Sin embargo, jamás debería usarse un narrador parcial para narrar hechos que el personaje-foco no pudo presenciar.
 
 **4.2. Conocimiento del Narrador vs MET**
 
@@ -108,7 +108,7 @@ Las primeras preguntas que debe hacerse el escritor son: ¿este narrador resulta
 
 En primer lugar, es necesario hacer una distinción muy importante: el que un narrador resulte creíble no tiene nada que ver con el hecho de que lo que cuente sea o no creíble. Hay que justificar la posición del narrador para que sea creíble en sí mismo. Si el narrador es un personaje, es una justificación en sí misma. Si no lo es, se puede buscar algo más sutil. Dos ejemplos de esto último:
 
-1)         **El Señor de los Anillos.** La historia no es nada creíble (cuatro hobbits de aventuras codeándose con héroes, grandes guerras, etc.). Tolkien justifica la historia con una artimaña: los hechos narrados son, en realidad, una transcripción de un Libro Rojo escrito por los propios hobbits, única fuente histórica de esa supuesta época pasada.
+1) **El Señor de los Anillos.** La historia no es nada creíble (cuatro hobbits de aventuras codeándose con héroes, grandes guerras, etc.). Tolkien justifica la historia con una artimaña: los hechos narrados son, en realidad, una transcripción de un Libro Rojo escrito por los propios hobbits, única fuente histórica de esa supuesta época pasada.
 
 2)         **El Nombre de la Rosa.** Todo el escrito se basa en manuscritos antiguos de un tal Adso que el autor encontró en tal sitio. En el prólogo, el autor nos comenta que los textos no son confiables, debido a las numerosas traducciones y transcripciones, etc., comunes a todo texto histórico.
 
@@ -120,6 +120,6 @@ Un punto a tener en cuenta: si un narrador cualquiera habla de un tiempo medieva
 
 En definitiva, si el narrador es creíble de por sí, debido a que está asociado a un personaje, el problema en este terreno de la credibilidad es pequeño. Si el narrador no está asociado a un personaje, entonces hay que minimizar su existencia en lo posible y no delatar su poder, de manera que conserve esa capacidad de manipulación que el escritor busca.
 
-_(Continuará.)_
+*(Continuará.)*
 
 © 2004, Zaral Arelsiak, José María Bravo, Óscar Camarero, María de los Ángeles Flores, Israel Sánchez. Publicado bajo licencia **Creative Commons** [Atribución-No Comercial-No Derivadas 3.0 Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es_MX).

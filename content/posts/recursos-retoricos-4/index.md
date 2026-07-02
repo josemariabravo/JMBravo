@@ -17,7 +17,7 @@ Este recurso consigue un fuerte contraste que, bien utilizado, produce imágenes
 
 Veamos unos cuantos ejemplos:
 
-«Es tan corto el amor / y tan largo el olvido». (Pablo Neruda: _Veinte poemas de amor y una canción desesperada_).
+«Es tan corto el amor / y tan largo el olvido». (Pablo Neruda: *Veinte poemas de amor y una canción desesperada*).
 
 «Ante el vicio de pedir, la virtud de no dar» (Popular).
 
@@ -61,23 +61,23 @@ Sea como fuere, y dado que todos estos recursos son muy similares, para nuestra 
 
 Algunos ejemplos:
 
-«¡Intelijencia, dame el nombre exacto de las cosas!» (Juan Ramón Jiménez: _Eternidades_).
+«¡Intelijencia, dame el nombre exacto de las cosas!» (Juan Ramón Jiménez: *Eternidades*).
 
 «Olas gigantes que os rompéis bramando / en las playas desiertas y remotas, / envuelto entre las sábanas de espuma, / ¡llevadme con vosotras!» (Gustavo Adolfo Bécquer: «Rima LII»).
 
-«¡O virtuosa, magnífica guerra! / En ti las querellas volverse debían, / en ti do los nuestros muriendo vivían / por gloria en los cielos y fama en la tierra, / en ti do la lanza cruel nunca yerra / nin teme la sangre verter de parientes; / revoca concordes a ti nuestras gentes / de tales quistiones y tanta desferra» (Juan de Mena: _Laberinto de Fortuna_).
+«¡O virtuosa, magnífica guerra! / En ti las querellas volverse debían, / en ti do los nuestros muriendo vivían / por gloria en los cielos y fama en la tierra, / en ti do la lanza cruel nunca yerra / nin teme la sangre verter de parientes; / revoca concordes a ti nuestras gentes / de tales quistiones y tanta desferra» (Juan de Mena: *Laberinto de Fortuna*).
 
-«Goza cuello, cabello, labio y frente, / antes que lo que fue en tu edad dorada / oro, lirio, clavel, cristal luciente, / no solo en plata o viola troncada / se vuelva, más tú y ello juntamente / en tierra, en humo, en polvo, en sombra, en nada» (Luis de Góngora: _Mientras por competir con tu cabello…_).
+«Goza cuello, cabello, labio y frente, / antes que lo que fue en tu edad dorada / oro, lirio, clavel, cristal luciente, / no solo en plata o viola troncada / se vuelva, más tú y ello juntamente / en tierra, en humo, en polvo, en sombra, en nada» (Luis de Góngora: *Mientras por competir con tu cabello…*).
 
-«Ven, noche gentil, noche tierna y sombría dame a mi Romeo y, cuando yo muera, córtalo en mil estrellas menudas: lucirá tan hermoso el firmamento que el mundo, enamorado de la noche, dejará de adorar al sol hiriente» (William Shakespeare: _Romeo y Julieta_).
+«Ven, noche gentil, noche tierna y sombría dame a mi Romeo y, cuando yo muera, córtalo en mil estrellas menudas: lucirá tan hermoso el firmamento que el mundo, enamorado de la noche, dejará de adorar al sol hiriente» (William Shakespeare: *Romeo y Julieta*).
 
-«Vida, ¿qué puedo yo darle / a mi Dios que vive en mí, / si no es perderte a ti para mejor a Él gozarle?» (Santa Teresa de Jesús: _Vivo sin vivir en mí_).
+«Vida, ¿qué puedo yo darle / a mi Dios que vive en mí, / si no es perderte a ti para mejor a Él gozarle?» (Santa Teresa de Jesús: *Vivo sin vivir en mí*).
 
 Y hasta aquí llegó la cuarta entrega. Os espero en la próxima.
 
 ## Bibliografía
 
-- GARCÍA BARRIENTOS, JOSÉ LUIS: _Las figuras retóricas. El lenguaje literario 2,_ 3.a ed., Madrid: Arco Libros, 2007.
-- SPANG, KURT: _Fundamentos de retórica literaria y publicitaria,_ 3.ª ed., Pamplona: Ediciones Universidad de Navarra, 1991.
+- GARCÍA BARRIENTOS, JOSÉ LUIS: *Las figuras retóricas. El lenguaje literario 2,* 3.a ed., Madrid: Arco Libros, 2007.
+- SPANG, KURT: *Fundamentos de retórica literaria y publicitaria,* 3.ª ed., Pamplona: Ediciones Universidad de Navarra, 1991.
 - [http://retorica.librodenotas.com/](http://retorica.librodenotas.com/ "Retórica en Libro de Notas")
 - [http://www.retoricas.com/](http://www.retoricas.com/ "Retóricas")

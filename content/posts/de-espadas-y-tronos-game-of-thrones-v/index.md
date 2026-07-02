@@ -5,13 +5,13 @@ date: "2011-08-09"
 categories: 
   - "articulos"
 ---
-_(Nota previa: se omiten capítulos en los que no hay escenas de combate o nada oportuno que comentar a su respecto.)_
+*(Nota previa: se omiten capítulos en los que no hay escenas de combate o nada oportuno que comentar a su respecto.)*
 
 ### Capítulo 6: A Golden Crown
 
 #### Escena n.º 1: Robb rescata a Bran de los salvajes
 
-En esta escena aparece un tropo habitual en las escenas de combate, popularizado por el cine de artes marciales oriental, en especial el llamado género _wuxia_: las esquivas. Me refiero a cuando el protagonista elude con suma facilidad los ataques de su adversario (o adversarios) mediante contorsiones y quiebros varios.
+En esta escena aparece un tropo habitual en las escenas de combate, popularizado por el cine de artes marciales oriental, en especial el llamado género *wuxia*: las esquivas. Me refiero a cuando el protagonista elude con suma facilidad los ataques de su adversario (o adversarios) mediante contorsiones y quiebros varios.
 
 ![¡Huy!](Game-of-Thrones-s01e06_robb1.jpg)
 
@@ -41,11 +41,11 @@ Atención al minuto 2:05, un ejemplo de cómo hacer las cosas difíciles (e inve
 
 ¿Qué decir de esta escena? Que un hombre armado únicamente con una espada de madera logre derrotar a tres oponentes vestidos de acero de pies a cabeza es, obviamente, una pasada de rosca, pero, eso sí, de las que molan mucho.
 
-En cualquier caso, esta escena me vale como excusa para hablar del mito "uno frente a muchos". Los gringos, que tienen nombres para casi todo, llaman a este recurrente tropo _one–man army_ (ejército de un hombre), en su versión más exagerada.
+En cualquier caso, esta escena me vale como excusa para hablar del mito "uno frente a muchos". Los gringos, que tienen nombres para casi todo, llaman a este recurrente tropo *one–man army* (ejército de un hombre), en su versión más exagerada.
 
 Es muy inspiradora la idea de que un hombre pueda derrotar a muchos, pero lamentablemente es tan solo una entelequia. En una pelea de uno frente a varios, en la enorme mayoría de casos el que está solo acaba mal, muy mal.
 
-Comprendo que muchos se resistan a que les destruyan este mito tan romántico. Y cuando argumentan para defender la verosimilitud de este mito, casi inevitablemente acaban recurriendo al mismo argumento, que yo llamo de la _superioridad innata_: _Sí, ellos son más, pero es que Fulano es mucho mejor, está mejor entrenado, es la RELECHE. Etcétera._
+Comprendo que muchos se resistan a que les destruyan este mito tan romántico. Y cuando argumentan para defender la verosimilitud de este mito, casi inevitablemente acaban recurriendo al mismo argumento, que yo llamo de la *superioridad innata*: *Sí, ellos son más, pero es que Fulano es mucho mejor, está mejor entrenado, es la RELECHE. Etcétera.*
 
 Es curioso como, en las películas, cuanto mayor es la desproporción numérica en un combate, peor es la habilidad media (o la puntería) de los combatientes del grupo más numeroso. Pero que no se diga: aceptemos el supuesto de que los oponentes sean muy inferiores en habilidad al protagonista. Es una asunción muy optimista, pero bueno, la daremos por válida.
 
@@ -59,9 +59,9 @@ Así que para que un solo oponente pueda sobrevivir a un combate frente a muchos
 
 #### Escena n.º 3: Khal Drogo masacra a Mago
 
-Es fácil adivinar el propósito de esta escena: una sobrada _ad hoc_ para lucimiento de Khal Drogo, o mejor dicho, el actor que lo interpreta, Jason Momoa. De hecho, según he podido leer, fue el mismo actor el que sugirió su inclusión en el guión. ¿Tiene esto algo que ver con la participación de Momoa en la inminente reencarnación fílmica del bárbaro cimmerio, léase Conan? Quién sabe.
+Es fácil adivinar el propósito de esta escena: una sobrada *ad hoc* para lucimiento de Khal Drogo, o mejor dicho, el actor que lo interpreta, Jason Momoa. De hecho, según he podido leer, fue el mismo actor el que sugirió su inclusión en el guión. ¿Tiene esto algo que ver con la participación de Momoa en la inminente reencarnación fílmica del bárbaro cimmerio, léase Conan? Quién sabe.
 
-En cualquier caso, permítanme que retome el tema de las esquivas, tal y como prometí al principio de este artículo. Para explicarme tendré que emplear un concepto que se emplea habitualmente en esgrima antigua para definir las acciones: el llamado _tiempo_, que no es sino lo que se tarda en ejecutar una acción. Simplificando mucho, hay acciones de pie y acciones de mano, y cada una tiene su tiempo. Por lo general, como resulta obvio, el _tiempo de mano_ de un oponente es por lo general mucho más breve que su _tiempo de pie_. Así, es más rápida una acción ejecutada (guiada) con la mano que con los pies, pues esta última mueve, sin más remedio, todo el cuerpo.
+En cualquier caso, permítanme que retome el tema de las esquivas, tal y como prometí al principio de este artículo. Para explicarme tendré que emplear un concepto que se emplea habitualmente en esgrima antigua para definir las acciones: el llamado *tiempo*, que no es sino lo que se tarda en ejecutar una acción. Simplificando mucho, hay acciones de pie y acciones de mano, y cada una tiene su tiempo. Por lo general, como resulta obvio, el *tiempo de mano* de un oponente es por lo general mucho más breve que su *tiempo de pie*. Así, es más rápida una acción ejecutada (guiada) con la mano que con los pies, pues esta última mueve, sin más remedio, todo el cuerpo.
 
 ¿A dónde quiero llegar? Muy sencillo. Para que podamos evitar los ataques de un oponente con pasos y movimientos que nos aparten de la trayectoria de sus ataques hemos de superar el tiempo de sus acciones de mano. Y esto es sumamente difícil.
 
@@ -71,7 +71,7 @@ Ahora dispónganse con el brazo hábil extendido, a una distancia en la que el a
 
 Bien, están listos. Acción, entonces: el agente les intentará tocar el pecho con su "arma", pudiéndose mover libremente; y ustedes tratarán de evitarlo con un movimiento de "esquiva". Les deseo suerte.
 
-_**Lector hipotético:** Claro, pero eso es porque el agente está muy cerca. So listo._
+***Lector hipotético:** Claro, pero eso es porque el agente está muy cerca. So listo.*
 
 Muy bien, prueben a comenzar tres o cuatro pasos separados. El agente avanzará hacia ustedes, que retrocederán para evitarlo. Les prometo que les cogerá, tarde o temprano, salvo que se den la vuelta y echen a correr. ¿Y por qué? Sencillo: una persona que retrocede cubre mucha menos distancia que una que avanza. Incluso si la que retrocede tiene una zancada mucho mayor, la que avanza acabará por ganarle la distancia, y eso suponiendo que al retroceder no se tope con algún obstáculo. Como una pared, por ejemplo.
 
@@ -85,10 +85,10 @@ Eso sí, la escena, aunque una sobrada, tiene su aquel, lo admito. O será que e
 
 #### Escena n.º 1: Ser Jorah lucha con Qotho
 
-Y llegamos a la última escena. Podemos ver en esta breve secuencia de lucha algunos de los clichés y mitos ya desmontados a lo largo de estos artículos y sus predecesores, _De espadas y falacias_ ([i](/espadas-y-falacias-i/ "De espadas y falacias (i)") y [ii](/espadas-y-falacias-ii/ "De espadas y falacias (ii)")). Tenemos las clásicas cuchilladas al arma, cómo no, y de propina, un par de giros de 360º (¡yuju!); pero si de cosas molonas es de lo que hablamos, ¿qué me dicen del salto a lo Brad Pitt en Troya en el minuto 33:52? Simplemente memorable, oigan.
+Y llegamos a la última escena. Podemos ver en esta breve secuencia de lucha algunos de los clichés y mitos ya desmontados a lo largo de estos artículos y sus predecesores, *De espadas y falacias* ([i](/espadas-y-falacias-i/ "De espadas y falacias (i)") y [ii](/espadas-y-falacias-ii/ "De espadas y falacias (ii)")). Tenemos las clásicas cuchilladas al arma, cómo no, y de propina, un par de giros de 360º (¡yuju!); pero si de cosas molonas es de lo que hablamos, ¿qué me dicen del salto a lo Brad Pitt en Troya en el minuto 33:52? Simplemente memorable, oigan.
 
 ![Game-of-Thrones-s01e09\_flying\_qotho](Game-of-Thrones-s01e09_flying_qotho1.jpg)
 
 Toquen a fanfarria, señores: aquí termina esta serie de artículos. Espero que hayan sido de su agrado o, al menos, mínimamente interesantes. Gracias por su lectura.
 
-© de las imágenes de la serie _Juego de Tronos_: HBO.
+© de las imágenes de la serie *Juego de Tronos*: HBO.

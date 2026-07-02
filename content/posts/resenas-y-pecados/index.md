@@ -11,7 +11,7 @@ Quizá sea que me lo tomo demasiado en serio. Quizá. Siempre he creído que el 
 
 Incluso he procurado seguir unas reglas sencillas a la hora de escribirlas. Considero que una reseña debería contar siempre con una serie de elementos, a saber: **identificación** (donde se dan los datos esenciales para identificar de qué obra trata la reseña); **resumen** (una sinopsis del argumento, sus personajes, el marco y género de la historia) y, por último, la más delicada y controvertida, la **crítica**: donde el autor de la reseña pone la carne en el asador y dice si la obra le pareció o no meritoria, y por qué: y hagamos énfasis en este porqué. Si no podemos argumentar nuestras opiniones, de poco valen, porque les faltará el contexto adecuado para que el lector de la reseña pueda valorar si esta le es (o no) útil.
 
-En una reseña no vale un simple: _esto es cojonudo_. No, eso no pasa de una recomendación más o menos afortunada. Y seamos francos: la mayoría de reseñas que leo en la red no pasan de ser recomendaciones con preámbulos más o menos ingeniosos. (Probablemente las mías estén también en ese saco.)
+En una reseña no vale un simple: *esto es cojonudo*. No, eso no pasa de una recomendación más o menos afortunada. Y seamos francos: la mayoría de reseñas que leo en la red no pasan de ser recomendaciones con preámbulos más o menos ingeniosos. (Probablemente las mías estén también en ese saco.)
 
 Luego está la reseña como moneda: en este mercadillo de las vanidades que es el fandom patrio, la reseña hace de divisa, y con ella se acarician o apuñalan espaldas según convenga y apetezca.
 
@@ -31,6 +31,6 @@ Así que, extrapolando mi caso al resto, me pregunto cuántos reseñadores “pr
 
 Me lo pregunto, pero claro, quizá es que soy un malpensado con mucho tiempo libre y exceso de bilis. O un inoportuno, hablando de cosas que todo el mundo sabe o barrunta pero nadie dice. Al final, en esto de las reseñas, como en la vida, habrá de todo: y allá cada uno con su conciencia.
 
-En cualquier caso, y para finalizar, valga lo que sigue como declaración de intenciones: a partir de ahora no pienso publicar más reseñas (si alguien se planteaba enviarme un libro para que se lo reseñe, por favor, que se abstenga). Descaradamente me subo al carro de las recomendaciones, pero al menos no las disfrazaré con alardes de ingenio: la franqueza tiene sus ventajas, aunque no sea muy política. De momento me ahorraré la onerosa tarea de reseñar las obras que no me hayan gustado. El silencio es muy elocuente; bien lo expresó Calderón de la Barca en _La vida es sueño_:
+En cualquier caso, y para finalizar, valga lo que sigue como declaración de intenciones: a partir de ahora no pienso publicar más reseñas (si alguien se planteaba enviarme un libro para que se lo reseñe, por favor, que se abstenga). Descaradamente me subo al carro de las recomendaciones, pero al menos no las disfrazaré con alardes de ingenio: la franqueza tiene sus ventajas, aunque no sea muy política. De momento me ahorraré la onerosa tarea de reseñar las obras que no me hayan gustado. El silencio es muy elocuente; bien lo expresó Calderón de la Barca en *La vida es sueño*:
 
-_Cuando tan torpe la razón se halla,_ _mejor habla, señor, quien mejor calla._
+*Cuando tan torpe la razón se halla,* *mejor habla, señor, quien mejor calla.*

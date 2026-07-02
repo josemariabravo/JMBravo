@@ -1,17 +1,17 @@
 ---
 draft: false
-title: Sangre y Acero n.º 2
+title: Sangre y acero n.º 2
 date: 2010-10-06
 categories:
   - recomendaciones
 tags:
   - sangre-y-acero
 ---
-![SyA\_02](images/sya_02.jpg "SyA_02") El segundo número de **Sangre y Acero** salió en agosto de 1999, nueve meses después del primero. Si bien muchos elementos del primero se mantuvieron intactos, en cuanto a maquetación este número fue un salto cualitativo respecto al anterior; usé mejores herramientas (Adobe Pagemaker, el antecesor del Adobe InDesign, frente al Microsoft Publisher del primer número) y ya iba cogiendo algo de soltura en esas lides.
+![SyA\_02](images/sya_02.jpg "SyA_02") El segundo número de **Sangre y acero** salió en agosto de 1999, nueve meses después del primero. Si bien muchos elementos del primero se mantuvieron intactos, en cuanto a maquetación este número fue un salto cualitativo respecto al anterior; usé mejores herramientas (Adobe Pagemaker, el antecesor del Adobe InDesign, frente al Microsoft Publisher del primer número) y ya iba cogiendo algo de soltura en esas lides.
 
 En cuanto al contenido, en este número dos encontramos lo siguiente:
 
-- **¡Muero matando!**, de **Israel Sánchez** .
+- **¡Muero matando!**, de **Israel Sánchez**.
 
 <!--more-->
 
@@ -24,8 +24,8 @@ En cuanto al contenido, en este número dos encontramos lo siguiente:
 - **La Horda**, el correo del lector, que lógicamente no hubo en el primer número.
 - La segunda galería de ilustraciones, esta vez dedicada a **Carlos Jiménez**, dibujante cordobés que ilustraría, años más tarde, el cómic de **El Espartano** con guión de Andrés Díaz.
 
-En este número para la portada y contraportada elegimos una misma ilustración partida en dos, obra del genial [Angus McBride](http://es.wikipedia.org/wiki/Angus_McBride) (que en paz descanse), publicada en la serie de [Osprey](http://www.ospreypublishing.com/) **Elite** , en concreto el dedicado a los [vikingos](http://www.ospreypublishing.com/store/The-Vikings_9780850455656). En España los editó Ediciones del Prado; creo que los han reeditado recientemente. (La ilustración de McBride, por cierto, recreaba una batalla naval narrada en la saga del rey Olaf Tryggvasson.)
+En este número para la portada y contraportada elegimos una misma ilustración partida en dos, obra del genial [Angus McBride](http://es.wikipedia.org/wiki/Angus_McBride) (que en paz descanse), publicada en la serie de [Osprey](http://www.ospreypublishing.com/) **Elite**, en concreto el dedicado a los [vikingos](http://www.ospreypublishing.com/store/The-Vikings_9780850455656). En España los editó Ediciones del Prado; creo que los han reeditado recientemente. (La ilustración de McBride, por cierto, recreaba una batalla naval narrada en la saga del rey Olaf Tryggvasson.)
 
-Podéis descargaros este número 2 a través del siguiente enlace: [Sangre y Acero n.º 2](/archivos/pdf/sya_02.pdf).
+Podéis descargaros este número 2 a través del siguiente enlace: [Sangre y acero n.º 2](/archivos/pdf/sya_02.pdf).
 
 Tal y como ya comenté en la entrada del número uno, he tenido que partir de una digitalización de las fotocopias para confeccionar el pdf, así que la calidad no es muy buena. No obstante, espero que eso no os impida su disfrute.

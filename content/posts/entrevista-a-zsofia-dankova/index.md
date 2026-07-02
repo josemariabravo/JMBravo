@@ -13,7 +13,7 @@ En el caso de la música ocurre algo muy similar. En mis años mozos, las carát
 
 En el caso de Powerwolf, sin duda las carátulas de sus discos ayudaron bastante. Descubrí este grupo alemán no hace mucho (gracias, Spotify), y me encantó su curiosa imaginería (¿hombres lobo y vampiros santos?), cuyas ilustraciones eran magníficas.
 
-Así que, cuando me puse a buscar ilustrador para la cubierta de _[Sombras y ceniza](https://www.amazon.es/dp/B07RT6THJ9)_, la cuestión acabó por plantearse ella sola. ¿Y si contactaba con el autor de las cubiertas de Powerwolf?
+Así que, cuando me puse a buscar ilustrador para la cubierta de *[Sombras y ceniza](https://www.amazon.es/dp/B07RT6THJ9)*, la cuestión acabó por plantearse ella sola. ¿Y si contactaba con el autor de las cubiertas de Powerwolf?
 
 Pronto di con él. Pero no era él, sino ella.
 
@@ -33,17 +33,17 @@ Me fascina especialmente el Barroco, los viejos maestros académicos y el Romant
 
 **¿Te gusta el cómic?**
 
-Siendo sincera, no leo cómics, no sabría decir el motivo. El único cómic que he comprado ha sido _Star Wars Omnibus: Rise of the Sith_, porque me gustó el dibujo y la historia, que incluía alguno de mis personajes favoritos de la saga.
+Siendo sincera, no leo cómics, no sabría decir el motivo. El único cómic que he comprado ha sido *Star Wars Omnibus: Rise of the Sith*, porque me gustó el dibujo y la historia, que incluía alguno de mis personajes favoritos de la saga.
 
 **¿Cuáles son tus películas y libros favoritos? ¿Y en cuanto a videojuegos?**
 
-Hay tres libros de mi biblioteca que tengo en especial estima: _Drácula_, de Bram Stoker; _Cuentos completos_, de Edgard Allan Poe; y _La divina comedia_, de Dante.
+Hay tres libros de mi biblioteca que tengo en especial estima: *Drácula*, de Bram Stoker; *Cuentos completos*, de Edgar Allan Poe; y *La divina comedia*, de Dante.
 
 Aunque la mayor parte de mis lecturas están relacionadas con los mitos y leyendas de la Antigüedad y con temas históricos.
 
-No veo demasiado cine y tampoco sabría decirte por qué. Puede sonar extraño, pero me gustan las películas mudas de los primeros tiempos del cine. Mis películas favoritas son _Häxan_, _L’Inferno_, _Nosferatu_, _Drácula_ and _Frankenstein_.
+No veo demasiado cine y tampoco sabría decirte por qué. Puede sonar extraño, pero me gustan las películas mudas de los primeros tiempos del cine. Mis películas favoritas son *Häxan*, *L’Inferno*, *Nosferatu*, *Drácula* y *Frankenstein*.
 
-Y en cuanto a videojuegos, _Skyrim_ y, especialmente, _The Witcher_,[\[1\]](#_ftn1) sin duda alguna.
+Y en cuanto a videojuegos, *Skyrim* y, especialmente, *The Witcher*,[\[1\]](#_ftn1) sin duda alguna.
 
 **¿Cuál es tu género de música favorito?**
 
@@ -116,4 +116,4 @@ Para más información sobre el arte de Zsofia:
 
 * * *
 
-[\[1\]](#_ftnref1) N. del T.: _The Witcher_ es una trilogía de videojuegos desarrollados por la compañía polaca CD Projekt, basados en las novelas de Andrzej Sapkowski, conocido autor polaco de fantasía.
+[\[1\]](#_ftnref1) N. del T.: *The Witcher* es una trilogía de videojuegos desarrollados por la compañía polaca CD Projekt, basados en las novelas de Andrzej Sapkowski, conocido autor polaco de fantasía.

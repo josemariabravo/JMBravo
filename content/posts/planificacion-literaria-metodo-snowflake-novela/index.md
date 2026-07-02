@@ -8,15 +8,15 @@ En anteriores entradas de esta bitácora he tanteado el arduo asunto de la creac
 
 Quedaba pendiente, pues, agarrar por los cuernos al toro y abordar cómo se lleva a cabo la planificación de una novela. Pero en el ínterin encontré este método vagabundeando por la red y lo encontré muy interesante. Su autor es **[Randy Ingermanson](http://www.amazon.com/Randall-Scott-Ingermanson/e/B001IXMD5S/ref=ntt_dp_epwbk_0)**, escritor y responsable del sitio web [Advanced Fiction Writing](http://www.advancedfictionwriting.com/).
 
-El nombre del método en inglés es _Snowflake Method_, traducible como "método del copo de nieve" (me adelanto al gracioso de turno; es del copo, no del copón)_._ Podéis leer la versión original del artículo [aquí](http://www.advancedfictionwriting.com/art/snowflake.php)_._ He decidido traducirlo y compartirlo con vosotros porque creo que puede resultaros interesante. Quizá no queráis seguirlo a rajatabla; pero seguramente, como a mí, os hará reflexionar sobre la planificación de una novela. Merece, por lo menos, una lectura.
+El nombre del método en inglés es *Snowflake Method*, traducible como "método del copo de nieve" (me adelanto al gracioso de turno; es del copo, no del copón)*.* Podéis leer la versión original del artículo [aquí](http://www.advancedfictionwriting.com/art/snowflake.php)*.* He decidido traducirlo y compartirlo con vosotros porque creo que puede resultaros interesante. Quizá no queráis seguirlo a rajatabla; pero seguramente, como a mí, os hará reflexionar sobre la planificación de una novela. Merece, por lo menos, una lectura.
 
 <!--more-->Por otra parte, es perfectamente compatible con el método de organización que [propuse en esta entrada](/sobre-la-organizacion-de-una-novela-planificacion-literaria-ii/ "Sobre la organización de una novela (Planificación literaria, ii)"). (Los documentos de planificación que resulta de este método entrarían en la categoría **ARG**.)
 
 **Notas sobre esta traducción:**
 
-(1) He decidido eliminar casi todas las referencias que hace al autor acerca del _book proposal_, traducible como “propuesta editorial”, las cuales no forman parte, _sensu stricto_, del método.
+(1) He decidido eliminar casi todas las referencias que hace al autor acerca del *book proposal*, traducible como “propuesta editorial”, las cuales no forman parte, *sensu stricto*, del método.
 
-No obstante, haré una breve aclaración: un _book proposal_ no es más que una sinopsis de varias páginas en la que se resume el argumento de una novela **aún por escribir**, con el objeto de enviarla a los posibles editores. Es lo que se conoce como “vender un libro”, pero como aún no hay tal, lo que en realidad se vende son los derechos de publicación de una obra en proyecto.
+No obstante, haré una breve aclaración: un *book proposal* no es más que una sinopsis de varias páginas en la que se resume el argumento de una novela **aún por escribir**, con el objeto de enviarla a los posibles editores. Es lo que se conoce como “vender un libro”, pero como aún no hay tal, lo que en realidad se vende son los derechos de publicación de una obra en proyecto.
 
 El editor, si decide comprar los derechos de publicación de la novela, se compromete a publicarla y paga al escritor una cantidad variable de dinero que no es sino un adelanto a cuenta de los futuros beneficios del libro (es decir: si le adelanta 10.000 $, el autor no cobraría nada más hasta que su parte de los beneficios de las ventas del libro superen los 10.000 $). La idea es que el autor pueda vivir con ese adelanto y se dedique a escribirla.
 
@@ -30,7 +30,7 @@ El editor, si decide comprar los derechos de publicación de la novela, se compr
 > 
 > La cuestión fundamental es esta: ¿Cómo planear una novela?
 > 
-> Durante varios años fui programador de _software_ y participé en proyectos de cierta envergadura. Escribo novelas de la misma forma que programo _software_, usando la **metáfora del copo de nieve**. ¿De qué se trata? Antes de continuar, échale un ojo a esta página: [http://math.rice.edu/~lanius/frac/koch/koch.html](http://math.rice.edu/~lanius/frac/koch/koch.html)
+> Durante varios años fui programador de *software* y participé en proyectos de cierta envergadura. Escribo novelas de la misma forma que programo *software*, usando la **metáfora del copo de nieve**. ¿De qué se trata? Antes de continuar, échale un ojo a esta página: [http://math.rice.edu/~lanius/frac/koch/koch.html](http://math.rice.edu/~lanius/frac/koch/koch.html)
 > 
 > En la parte superior de la página verás un curioso patrón conocido como el **fractal del copo de nieve**. No vayas contándolo por ahí, pero ha sido estudiado profusamente por las Matemáticas. Para nuestros propósitos es simplemente un bonito esbozo de un copo de nieve. Si bajas un poco en esa página, verás dos botones con flechas; si presionas la de la derecha de forma repetida, verás paso a paso la creación del copo de nieve. Al principio no parece un copo de nieve, pero, tras unos pocos pasos, comienza pareciéndolo más y más hasta que está completo.
 
@@ -50,7 +50,7 @@ El editor, si decide comprar los derechos de publicación de la novela, se compr
 > 
 > Tómate una hora y resume tu novela en una sola frase. Algo como “Un físico canalla viaja atrás en el tiempo para matar al apóstol Pablo”.
 
-(**Nota:** este es el resumen de la primera novela del autor del método, _[Transgresión](http://www.amazon.com/Transgression-City-God-Randall-Ingermanson/dp/0736901957/)_.)
+(**Nota:** este es el resumen de la primera novela del autor del método, *[Transgresión](http://www.amazon.com/Transgression-City-God-Randall-Ingermanson/dp/0736901957/)*.)
 
 > La frase te servirá más adelante y en el futuro para vender tu historia. Se trata de ver tu novela a gran escala, de definir, siguiendo la analogía propuesta, el gran triángulo con el que comienza el copo de nieve.
 > 
@@ -83,7 +83,7 @@ El editor, si decide comprar los derechos de publicación de la novela, se compr
 > - Un resumen de una frase de la historia del personaje.
 > - La motivación del personaje (¿qué es lo que quiere, en abstracto?).
 > - Los objetivos del personaje (¿qué es lo que quiere, en concreto).
-> - El conflicto del personaje (¿qué le impode alcanzar su objetivo?).
+> - El conflicto del personaje (¿qué le impide alcanzar su objetivo?).
 > - La revelación del personaje (qué es lo que aprenderá, cómo cambiará durante la historia).
 > - Un resumen de un párrafo de la historia del personaje.
 > 
@@ -107,7 +107,7 @@ El editor, si decide comprar los derechos de publicación de la novela, se compr
 > 
 > ### **Paso 7:**
 > 
-> Dispón de otra semana para extender las descripciones de tus personajes en una tabla completa que detalle todo lo que es preciso conocer de cada uno. Lo normal es detallar lugar y fecha de nacimiento, descripción, historia, motivaciones, propósitos, etcétera, y lo más importante: la evolución del personaje a lo largo de la historia. Este paso consiste en agrandar lo que hiciste en el paso 3. Te enseñará mucho sobre de tus personajes. Como antes, querrás con toda probabilidad volver atrás y revisar los pasos anteriores para hacer correcciones, a medida que tus personajes se vuelven “reales” para ti y comienzan a imponer sus propios cambios. Esto es una excelente señal —la buena ficción está dirigida por los personajes—; tómate tanto tiempo como necesites para terminar esto, porque a la larga dará frutos.
+> Dispón de otra semana para extender las descripciones de tus personajes en una tabla completa que detalle todo lo que es preciso conocer de cada uno. Lo normal es detallar lugar y fecha de nacimiento, descripción, historia, motivaciones, propósitos, etcétera, y lo más importante: la evolución del personaje a lo largo de la historia. Este paso consiste en agrandar lo que hiciste en el paso 3. Te enseñará mucho sobre tus personajes. Como antes, querrás con toda probabilidad volver atrás y revisar los pasos anteriores para hacer correcciones, a medida que tus personajes se vuelven “reales” para ti y comienzan a imponer sus propios cambios. Esto es una excelente señal —la buena ficción está dirigida por los personajes—; tómate tanto tiempo como necesites para terminar esto, porque a la larga dará frutos.
 > 
 > ### **Paso 8:**
 > 
@@ -121,7 +121,7 @@ El editor, si decide comprar los derechos de publicación de la novela, se compr
 
 > Haz una hoja de cálculo detallando las escenas que salen de esa sinopsis de cuatro páginas. Emplea una fila por cada escena. En una columna lista los **POV**\[1\]. En otra columna detalla qué es lo que ocurre. Si quieres puedes añadir más columnas que digan cuantas páginas esperas llenar por cada escena. Esta hoja de cálculo te será muy útil, porque podrás ver el flujo de la historia de un vistazo, y será fácil reordenar la lista de escenas a tu antojo si es preciso.
 
-\[1\] En el original, el autor usa POV (siglas de _Point Of View_). Se trata del personaje que focaliza la narración, desde cuyo punto de vista se cuenta la historia. Como traducción del término uso habitualmente “personaje–foco”, aunque es quizá más común usar "punto de vista".
+\[1\] En el original, el autor usa POV (siglas de *Point Of View*). Se trata del personaje que focaliza la narración, desde cuyo punto de vista se cuenta la historia. Como traducción del término uso habitualmente “personaje–foco”, aunque es quizá más común usar "punto de vista".
 
 > Mis hojas de cálculo tienen normalmente cien filas, una por cada escena de la novela. A medida que desarrollo la historia, hago nuevas versiones de la hoja de cálculo, lo cual resulta muy útil para analizar la historia. Puede llevar una semana hacer un buen esbozo. Cuando hayas terminado, puedes incluir una nueva columna para el número de capítulos y asignar a cada escena un capítulo.
 
@@ -143,7 +143,7 @@ El editor, si decide comprar los derechos de publicación de la novela, se compr
 > 
 > Quizá pienses que la creatividad de la historia se habrá perdido para cuando hayas llegado a este punto. Bueno, no, salvo que te hayas excedido en tu análisis al escribir tu copo de nieve. Se supone que esa es la parte divertida, porque hay muchos pequeños problemas que resolver. ¿Cómo conseguirá el héroe escapar de ese árbol rodeado de caimanes y rescatar a la heroína que está en el bote en llamas? Ahora es el momento de pensarlo. Pero es divertido porque ya conoces la estructura a gran escala de la novela. Así que solo tienes que resolver un conjunto de problemas a pequeña escala, y puedes escribir relativamente rápido.
 > 
-> He escuchado quejarse a muchos escritores de ficción acerca de lo difícil que les resulta escribir el primer borrador de una novela. Invariablemente, esto es porque no tienen ni idealmente de qué viene a continuación. ¡Cielo santo! La vida es muy corta para escribir así.
+> He escuchado quejarse a muchos escritores de ficción acerca de lo difícil que les resulta escribir el primer borrador de una novela. Invariablemente, esto es porque no tienen ni idea de qué viene a continuación. ¡Cielo santo! La vida es muy corta para escribir así.
 > 
 > No hay motivos para gastar 500 horas escribiendo a tientas el primer borrador de tu novela cuando puedes escribirlo a tiro hecho en 150. Incluso teniendo en cuenta las 100 horas que puede llevarte la planificación según este método, aún llevarías sobrada ventaja.
 > 
@@ -163,4 +163,4 @@ El editor, si decide comprar los derechos de publicación de la novela, se compr
 
 ¿Qué os ha parecido el método? Personalmente, la idea de una sinopsis incremental me parece muy buena, y viene a ser el desarrollo lógico de cualquier idea. Desengañaos: a nadie (o a casi nadie) le viene la musa un día y le inspira una trama genial, detallada y sólida. Es la constancia lo que cuenta: partiendo de una idea sencilla que nos atrae vamos añadiendo complejidad, paso a paso, capa a capa, hasta que el resultado nos sorprende a nosotros mismos (lo cual es, a mi juicio, el mayor gozo de escribir: los chispazos casi clarividentes que conectan los cabos sueltos de una trama).
 
-Y por último, por si queréis animaros a probar el método os dejo una plantilla de texto en rtf que resume los pasos que afectan al argumento. Podéis descarla desde [Google Docs](https://drive.google.com/file/d/0BxjEh1zjsOmZZmNhNjI2MjItZjIyYi00NGQyLTkyZjYtM2NmMzZiNWNjMWFh/view?usp=sharing&authkey=CO2bjIEF "plantilla del método del copo de nieve") en los siguientes formatos: [odt](https://docs.google.com/uc?id=0BxjEh1zjsOmZNTJkYTZjZjItOTY2Ny00ZjEyLTk0ZTAtMTg4MjZmMTI5NzA0&export=download&hl=en) (OpenOffice), [rtf](https://docs.google.com/uc?id=0BxjEh1zjsOmZZWMzNjhmNmItNTM5Yi00OTg2LThiYTMtZWI3YWUyN2NhZDZj&export=download&hl=en) y [doc](https://docs.google.com/uc?id=0BxjEh1zjsOmZYjA5YWRlMWMtMTFhNy00NmRmLWJhYWUtMGJmYWFkOGRhZGNm&export=download&hl=en).
+Y por último, por si queréis animaros a probar el método os dejo una plantilla de texto en rtf que resume los pasos que afectan al argumento. Podéis descargarla desde [Google Docs](https://drive.google.com/file/d/0BxjEh1zjsOmZZmNhNjI2MjItZjIyYi00NGQyLTkyZjYtM2NmMzZiNWNjMWFh/view?usp=sharing&authkey=CO2bjIEF "plantilla del método del copo de nieve") en los siguientes formatos: [odt](https://docs.google.com/uc?id=0BxjEh1zjsOmZNTJkYTZjZjItOTY2Ny00ZjEyLTk0ZTAtMTg4MjZmMTI5NzA0&export=download&hl=en) (OpenOffice), [rtf](https://docs.google.com/uc?id=0BxjEh1zjsOmZZWMzNjhmNmItNTM5Yi00OTg2LThiYTMtZWI3YWUyN2NhZDZj&export=download&hl=en) y [doc](https://docs.google.com/uc?id=0BxjEh1zjsOmZYjA5YWRlMWMtMTFhNy00NmRmLWJhYWUtMGJmYWFkOGRhZGNm&export=download&hl=en).

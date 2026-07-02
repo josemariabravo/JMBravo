@@ -21,17 +21,17 @@ Veamos algún que otro ejemplo:
 
 **Prosa:**
 
-«No quiero que interpretéis malamente ahora esta palabra \[…\]» (Azorín: _El caballero del verde gabán_).
+«No quiero que interpretéis malamente ahora esta palabra \[…\]» (Azorín: *El caballero del verde gabán*).
 
 «―¿Que cómo llegaremos hasta allí? Ya lo he pensado: cogeremos un taxi hasta la estación de autobuses, y nos subiremos al que sale a las dos de la tarde. Y por si te preguntas qué comeremos, tranquilo: he preparado unos bocadillos. Así que vamos, ¡que hay prisa!».
 
 **Poesía:**
 
-«Dirás que muchas barcas / con el favor en popa, / saliendo desdichadas, / volvieron venturosas. No mires los ejemplos / de las que van y tornan; / que a muchas ha perdido / la dicha de las otras» (Lope de Vega: _Pobre barquilla mía_).
+«Dirás que muchas barcas / con el favor en popa, / saliendo desdichadas, / volvieron venturosas. No mires los ejemplos / de las que van y tornan; / que a muchas ha perdido / la dicha de las otras» (Lope de Vega: *Pobre barquilla mía*).
 
 **Teatro:**
 
-«BRUTO.— Tened calma hasta el fin. ¡Romanos, compatriotas y amigos! Oídme defender mi causa y guardad silencio para que podáis oírme. \[…\] Si hubiese alguno en esta asamblea que profesará entrañable amistad a César, a él le digo que el afecto de Bruto por César no era menos que el suyo. Y si entonces ese amigo preguntase por qué Bruto se alzó contra César, ésta es mi contestación: “No porque amaba a César menos, sino porque amaba más a Roma”» (William Shakespeare, _Julio César_).
+«BRUTO.— Tened calma hasta el fin. ¡Romanos, compatriotas y amigos! Oídme defender mi causa y guardad silencio para que podáis oírme. \[…\] Si hubiese alguno en esta asamblea que profesará entrañable amistad a César, a él le digo que el afecto de Bruto por César no era menos que el suyo. Y si entonces ese amigo preguntase por qué Bruto se alzó contra César, ésta es mi contestación: “No porque amaba a César menos, sino porque amaba más a Roma”» (William Shakespeare, *Julio César*).
 
 ### Antífrasis
 
@@ -59,7 +59,7 @@ Ejemplos:
 
 «¿Cómo creerá que sientes lo que dices / oyendo cuán bien dices lo que sientes?» (Bartolomé Leonardo de Argensola).
 
-«Tropelía son de la malicia los buenos malos y los malos buenos» (Francisco de Quevedo: _Vida de Marco Bruto_).
+«Tropelía son de la malicia los buenos malos y los malos buenos» (Francisco de Quevedo: *Vida de Marco Bruto*).
 
 «¿No ha de haber un espíritu valiente? / ¿Siempre se ha de sentir lo que se dice? / ¿Nunca se ha de decir lo que se siente?» (Francisco de Quevedo).
 
@@ -75,7 +75,7 @@ Bien: aquí acaba esta tercera entrega.
 
 ## Bibliografía
 
-- GARCÍA BARRIENTOS, JOSÉ LUIS: _Las figuras retóricas. El lenguaje literario 2,_ 3.a ed., Madrid: Arco Libros, 2007.
-- SPANG, KURT: _Fundamentos de retórica literaria y publicitaria,_ 3.ª ed., Pamplona: Ediciones Universidad de Navarra, 1991.
+- GARCÍA BARRIENTOS, JOSÉ LUIS: *Las figuras retóricas. El lenguaje literario 2,* 3.a ed., Madrid: Arco Libros, 2007.
+- SPANG, KURT: *Fundamentos de retórica literaria y publicitaria,* 3.ª ed., Pamplona: Ediciones Universidad de Navarra, 1991.
 - [http://retorica.librodenotas.com/](http://retorica.librodenotas.com/ "Retórica en Libro de Notas")
 - [http://www.retoricas.com/](http://www.retoricas.com/ "Retóricas")

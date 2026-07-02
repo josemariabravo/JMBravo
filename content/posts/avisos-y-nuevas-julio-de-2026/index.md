@@ -5,6 +5,8 @@ categories:
   - novedades
 tags:
   - avisos-y-nuevas
+  - blog
+revisado: true
 ---
 A finales de 2025, tuve una pequeña crisis (una más) respecto a esta página que usted ahora lee. Si bien tengo claro que quiero seguir escribiendo (porque si te preguntas tanto el porqué, realmente tienes un qué y el tiempo ya te dará el cómo), no sabía qué demonios hacer con esta página. Solo echando un vistazo a la escasa actividad resultaba patente que no había muchos motivos para continuar; y si la página era un mero «escaparate» de mi obra, tampoco estaba cumpliendo bien sus funciones, a fuer de sinceros.
 

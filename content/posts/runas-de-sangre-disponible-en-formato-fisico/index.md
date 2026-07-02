@@ -6,7 +6,7 @@ categories:
 coverImage: "cover.jpg"
 ---
 Quizá sea un poco absurdo, en especial habida cuenta de los tiempos que corren, pero hasta que no veo en mis manos el libro en el que trabajo no lo considero terminado.  
-Así que puedo decir que he terminado _Runas de sangre_. Aquí tienen algunas fotos de prueba y muestra:
+Así que puedo decir que he terminado *Runas de sangre*. Aquí tienen algunas fotos de prueba y muestra:
 
 <figure>
 
@@ -14,13 +14,13 @@ Así que puedo decir que he terminado _Runas de sangre_. Aquí tienen algunas fo
 
 <figcaption>
 
-_Runas de sangre_
+*Runas de sangre*
 
 </figcaption>
 
 </figure>
 
-Podéis obtener _Runas de sangre_ en formato físico o digital [a través de este enlace](https://mybook.to/Runas_de_sangre). Bajo estas líneas, la vista previa:  
+Podéis obtener *Runas de sangre* en formato físico o digital [a través de este enlace](https://mybook.to/Runas_de_sangre). Bajo estas líneas, la vista previa:  
 
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B086821JM7&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_bgsVEbKWA61D9"></iframe>
 

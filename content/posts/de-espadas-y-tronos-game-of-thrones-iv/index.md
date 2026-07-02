@@ -9,9 +9,9 @@ categories:
 
 #### Escena n.º 1: Tyrion conversa con Theon
 
-Ya he comentado en la [primera parte](/de-espadas-y-tronos-game-of-thrones-i/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (i)") de esta serie de artículos (escena n.º 4) lo absurdas y rematadamente feas que me parecieron las armaduras de la Guardia del Rey; pero las de los soldados Lannister que escoltan a Tyrion se llevan la palma. Está claro, eso sí, por dónde iban los tiros del responsable de atrezo de la serie: la armadura tiene aires orientales innegables. En concreto, japoneses: el casco semeja un _kabuto_ (yelmo samurai), sobre todo con las dos partes de la visera levantadas: vienen a remedar las _alas_[^1] o placas laterales del _kabuto_.
+Ya he comentado en la [primera parte](/de-espadas-y-tronos-game-of-thrones-i/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (i)") de esta serie de artículos (escena n.º 4) lo absurdas y rematadamente feas que me parecieron las armaduras de la Guardia del Rey; pero las de los soldados Lannister que escoltan a Tyrion se llevan la palma. Está claro, eso sí, por dónde iban los tiros del responsable de atrezo de la serie: la armadura tiene aires orientales innegables. En concreto, japoneses: el casco semeja un *kabuto* (yelmo samurai), sobre todo con las dos partes de la visera levantadas: vienen a remedar las *alas*[^1] o placas laterales del *kabuto*.
 
-En cuanto al peto, las semejanzas son aún más evidentes con el _dou_, la pieza de armadura que protegía el pecho del samurai, en concreto los de tipo laminar.
+En cuanto al peto, las semejanzas son aún más evidentes con el *dou*, la pieza de armadura que protegía el pecho del samurai, en concreto los de tipo laminar.
 
 ![Game-of-Thrones-s01e04.avi\_000321738](Game-of-Thrones-s01e04.avi_0003217381.jpg)
 
@@ -29,11 +29,11 @@ Hacer más sangre respecto a estas escenas, después de lo anotado en la [anteri
 
 #### Escena n.º 1: Combate entre los hermanos Clegane
 
-En apenas veinticinco segundos esta escena acumula buena parte de los mitos asociados a las espadas a dos manos y las armaduras comentados en _De espadas y falacias_ ([i](/espadas-y-falacias-i/ "De espadas y falacias (i)") y [ii](/espadas-y-falacias-ii/ "De espadas y falacias (ii)")), además del n.º 7, _Trabar las armas y mirarse con cara de cagar duro_, que no podía fallar (minuto 09:20). Cuchilladas sin apenas control, buscando el arma del oponente, tiradas con mucho aparato de fuerza y trabajo, más algún que otro forcejeo (con la habitual inexistencia de acciones propias del juego corto[^2], por supuesto), todo regado con gruñidos para darle más traza de fiereza a la cosa.  No se me ocurre qué añadir a lo ya dicho aquí y en otros artículos. Bueno, sí, una cosa: algún día, en una escena de combate con espadas a dos manos alguien incluirá alguna técnica vistosa y razonablemente veraz, y el público quedará boquiabierto. Creedme, alguna vez pasará.
+En apenas veinticinco segundos esta escena acumula buena parte de los mitos asociados a las espadas a dos manos y las armaduras comentados en *De espadas y falacias* ([i](/espadas-y-falacias-i/ "De espadas y falacias (i)") y [ii](/espadas-y-falacias-ii/ "De espadas y falacias (ii)")), además del n.º 7, *Trabar las armas y mirarse con cara de cagar duro*, que no podía fallar (minuto 09:20). Cuchilladas sin apenas control, buscando el arma del oponente, tiradas con mucho aparato de fuerza y trabajo, más algún que otro forcejeo (con la habitual inexistencia de acciones propias del juego corto[^2], por supuesto), todo regado con gruñidos para darle más traza de fiereza a la cosa. No se me ocurre qué añadir a lo ya dicho aquí y en otros artículos. Bueno, sí, una cosa: algún día, en una escena de combate con espadas a dos manos alguien incluirá alguna técnica vistosa y razonablemente veraz, y el público quedará boquiabierto. Creedme, alguna vez pasará.
 
 ![Game-of-Thrones-s01e05.Cleganes](Game-of-Thrones-s01e05.Cleganes.jpg)
 
-**Nota adicional:** Es curiosa la reacción de Sandor Clegane ante la orden de Robert: se detiene de súbito, incluso en mitad de un golpe, sin cuidarse de su hermano hará o no lo mismo… no parece algo muy sensato, ¿verdad?
+**Nota adicional:** Es curiosa la reacción de Sandor Clegane ante la orden de Robert: se detiene de súbito, incluso en mitad de un golpe, sin cuidarse de si su hermano hará o no lo mismo… no parece algo muy sensato, ¿verdad?
 
 #### Escena n.º 2: Emboscada en el camino al Valle
 
@@ -53,11 +53,11 @@ En fin. ¿Qué añadir a lo ya dicho y redicho sobre todos estos errores? Nada, 
 
 Y hasta aquí, esta cuarta entrega. Hasta la próxima (y última) parte de esta serie.
 
-© de las imágenes de la serie _Juego de Tronos_: HBO.
+© de las imágenes de la serie *Juego de Tronos*: HBO.
 
-_(Sigue en la [quinta parte](/de-espadas-y-tronos-game-of-thrones-v/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (v)").)_
+*(Sigue en la [quinta parte](/de-espadas-y-tronos-game-of-thrones-v/ "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (v)").)*
 
-[^1]: _Fukigaeshi_, en japonés.
+[^1]: *Fukigaeshi*, en japonés.
 [^2]: El juego corto es la  parte del combate que se desarrolla en distancia corta, y comprende acciones varias, como desarmes, golpes con el pomo y los gavilanes de la espada, acciones de mano desnuda o de cuerpo a cuerpo, como presas, golpes, patadas y estrangulamientos.
-[^3]: La tradición alemana de Liechtenauer define tres tipos de heridas con la hoja de una espada, las _Drei Wünder_ (tres heridas): estocada, cuchillada y corte, este último referido al que se produce cuando se arrastra o empuja la hoja sobre el oponente, sin movimiento previo que la impulse.
-[^4]: Entusiastas de lo japonés en general y de las _katanas_ en particular: sí, incluso estas.
+[^3]: La tradición alemana de Liechtenauer define tres tipos de heridas con la hoja de una espada, las *Drei Wünder* (tres heridas): estocada, cuchillada y corte, este último referido al que se produce cuando se arrastra o empuja la hoja sobre el oponente, sin movimiento previo que la impulse.
+[^4]: Entusiastas de lo japonés en general y de las *katanas* en particular: sí, incluso estas.

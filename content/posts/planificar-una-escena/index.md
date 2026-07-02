@@ -34,7 +34,7 @@ Sea como fuere, planificar una escena tiene innegables ventajas:
 
 ―podemos trabajar de antemano la caracterización de los personajes que intervienen en una escena, así como los detalles del trasfondo en la que esta transcurre;
 
-―al conocer previamente cómo se desarrollará la escena, aunque sea _grosso modo_, nos será posible ver los posibles fallos de continuidad en su estructura;
+―al conocer previamente cómo se desarrollará la escena, aunque sea *grosso modo*, nos será posible ver los posibles fallos de continuidad en su estructura;
 
 ―aunque, en principio, planificar una escena lleva tiempo, un buen plan nos permitirá escribirla con más soltura y evitará el temido bloqueo del escritor.
 
@@ -188,7 +188,7 @@ Es evidente que planificar una escena lleva tiempo, pero es una herramienta muy 
 
 Bien, aquí concluye el artículo. Espero que os haya resultado interesante.
 
-Imagen destacada: _Straight scale, compasses and map {1}_, de alt-n-anela. [https://www.flickr.com/photos/alt-n-anela/6186308787](https://www.flickr.com/photos/alt-n-anela/6186308787 "Straight scale, compasses and map {1}") // [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/ "Licencia").
+Imagen destacada: *Straight scale, compasses and map {1}*, de alt-n-anela. [https://www.flickr.com/photos/alt-n-anela/6186308787](https://www.flickr.com/photos/alt-n-anela/6186308787 "Straight scale, compasses and map {1}") // [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/ "Licencia").
 
 [^1]: El complemento perfecto de la planificación de nuestras escenas es, sin duda alguna, la escaleta.
 [^2]: Si usas un narrador parcial (equisciente), no está de más pensar en el aspecto que tendrá el lugar donde transcurre la escena desde la perspectiva del personaje que hace de PdV. Siguiendo el ejemplo anterior, Mateo, un matón de hecho a los bajos fondos, armado hasta los dientes, no se sentirá muy amedrentado en esa calle oscura; o no tanto, al menos, como Pedro, un oficinista cincuentón que no sabe muy bien cómo demonios ha acabado allí.

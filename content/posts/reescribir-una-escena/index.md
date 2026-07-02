@@ -26,7 +26,7 @@ Estos tres verbos no tienen un orden casual: los he ordenado de menor a mayor im
 
 **Reescribir**: ‘Volver a escribir lo ya escrito introduciendo cambios’. En este último caso, la definición del DLE causará escalofríos a más de un escritor. «¿Volver a escribir lo ya escrito? Uf».
 
-Calma. Reescribir no siempre conlleva escribir _de nuevo_ toda nuestra escena. Hay niveles de intervención: entre una reescritura ligera, que ataque una serie de problemas específicos, a una reescritura completa, profunda, de la escena ―lo que los anglosajones llaman (muy acertadamente) _redraft_― hay muchos puntos intermedios.
+Calma. Reescribir no siempre conlleva escribir *de nuevo* toda nuestra escena. Hay niveles de intervención: entre una reescritura ligera, que ataque una serie de problemas específicos, a una reescritura completa, profunda, de la escena ―lo que los anglosajones llaman (muy acertadamente) *redraft*― hay muchos puntos intermedios.
 
 De nuevo, calma. Comenzaremos por el principio, si te parece:
 
@@ -86,7 +86,7 @@ Después, revísalo con calma. Busca los puntos claves, en especial los que sirv
 
 Prueba, también, a articularla mediante el clásico esquema narrativo en tres actos, tan viejo como el mismo Aristóteles: planteamiento, nudo y desenlace. No todas las escenas se amoldan a esa estructura, pero puede ser útil emplearlo.
 
-En muchas ocasiones, lo que no te satisface del desarrollo de una escena es su comienzo o su final. Prueba a seguir el adagio de la industria del cine: _start late, get out early_: entra tarde, sal temprano. Dicho de otro modo: ve al grano y termina lo antes posible.
+En muchas ocasiones, lo que no te satisface del desarrollo de una escena es su comienzo o su final. Prueba a seguir el adagio de la industria del cine: *start late, get out early*: entra tarde, sal temprano. Dicho de otro modo: ve al grano y termina lo antes posible.
 
 Muchas veces el comienzo de una escena es el equivalente al carraspeo de alguien que suelta un discurso; y siguiendo el símil, muchos finales equivalen a las despedidas incómodas tras un encuentro molesto con alguien. Usa el escalpelo de la elipsis sin piedad.
 
@@ -102,7 +102,7 @@ A continuación, los abordaremos de forma sucinta:
 
 Entre el exceso y el defecto, el problema más habitual con las descripciones en una escena se inclina hacia lo primero: descripciones demasiado prolijas y abundantes.
 
-Aunque también es posible que a nuestra escena le falten descripciones. Piensa en el clásico _floating head syndrome_ (síndrome de la cabeza flotante) durante un diálogo: no hemos descrito apenas, o nada, el escenario, y durante el diálogo los personajes parecen voces perdidas en la nada.
+Aunque también es posible que a nuestra escena le falten descripciones. Piensa en el clásico *floating head syndrome* (síndrome de la cabeza flotante) durante un diálogo: no hemos descrito apenas, o nada, el escenario, y durante el diálogo los personajes parecen voces perdidas en la nada.
 
 Analiza las descripciones de tu escena. ¿Has dejado claro dónde transcurre? No tienes que describir con detalles todo, por supuesto; es más, describir algo con unas pocas pinceladas suele ser más efectivo que la sobreabundancia de detalles. Recomiendo seguir la llamada «regla del tres»: elegir tres aspectos importantes de algo (un escenario, un personaje) y prescindir del resto.
 
@@ -181,8 +181,8 @@ Reescribir puede ser un proceso arduo y doloroso, puedo dar fe de ello. Pero, si
 
 [^1]: Diccionario de la Lengua Española. El de la RAE de toda la vida, en efecto.
 [^2]: No en todas las escenas tiene que haber un conflicto; este consejo lo oirás a menudo, pero resulta ridículo si lo piensas bien.
-[^3]: Esto incluye, sin duda, a las exposiciones o _infodump_ en los que el autor se explaya, o cuando el autor emplea la obra para establecer su punto de vista sobre algún asunto. No hagas eso si escribes ficción: escribe mejor un ensayo y cuando te hayas desahogado, vuelve a tu cuento, relato o novela.
-[^4]: El personaje-foco es el personaje desde el cual se focaliza la narración de la historia, característico de un narrador equisciente. Podríamos llamarlo también ‘punto de vista’, traducción literal de las siglas POV (_Point of View_).
+[^3]: Esto incluye, sin duda, a las exposiciones o *infodump* en los que el autor se explaya, o cuando el autor emplea la obra para establecer su punto de vista sobre algún asunto. No hagas eso si escribes ficción: escribe mejor un ensayo y cuando te hayas desahogado, vuelve a tu cuento, relato o novela.
+[^4]: El personaje-foco es el personaje desde el cual se focaliza la narración de la historia, característico de un narrador equisciente. Podríamos llamarlo también ‘punto de vista’, traducción literal de las siglas POV (*Point of View*).
 [^5]: Créeme, hace falta ser un escritor realmente bueno para que un lector normal no se aburra con dos o tres páginas sobre las costumbres funerarias de una cultura.
 [^6]: Por si acaso: 250-300 palabras, más o menos.
 [^7]: Si no la tienes aún, me temo que tendrás que recurrir a una opinión externa, o dejar en barbecho la escena hasta que aclares tus ideas.

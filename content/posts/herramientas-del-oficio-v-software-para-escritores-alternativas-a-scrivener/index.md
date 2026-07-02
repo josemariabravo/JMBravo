@@ -8,7 +8,7 @@ categories:
 
 (A todo esto, la beta de [Scrivener para Windows](http://www.literatureandlatte.com/scrivenerforwindows/) va por la versión 0.2.0; se prevé que salga la versión final a principios de abril.)
 
-Aviso: en vez de dedicarme en detallar los pros y contras de cada programa, me limitaré a unos breves comentarios centrados en porqué descarté cada programa en beneficio de Scrivener.
+Aviso: en vez de dedicarme a detallar los pros y contras de cada programa, me limitaré a unos breves comentarios centrados en porqué descarté cada programa en beneficio de Scrivener.
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Quizás algunos no le veáis importancia a esta limitación, pero en mi caso res
 
 ### 3\. [PageFour](http://www.softwareforwriting.com/pagefour.html)
 
-![logo\_pagefour](images/logo_pagefour.gif "logo_pagefour") Hasta que se anunció la versión de Scrivener para Windows se consideró como su principal alternativa. PageFour comparte la filosofía de Scrivener (fragmentar nuestra obra en subdocumentos para poder trabajar individualmente o en conjunto con dichos textos), pero carece de la elegancia y comodidad de su interfaz, además de los modos de Esquema y Panel de Corcho, ya comentados en la [anterior entrega dedicada a este _software_](http://sombrasyceniza.com/2011/03/04/herramientas-del-oficio-iv-software-para-escritores-scrivener/ "Herramientas del oficio, iv: Software para escritores: Scrivener").
+![logo\_pagefour](images/logo_pagefour.gif "logo_pagefour") Hasta que se anunció la versión de Scrivener para Windows se consideró como su principal alternativa. PageFour comparte la filosofía de Scrivener (fragmentar nuestra obra en subdocumentos para poder trabajar individualmente o en conjunto con dichos textos), pero carece de la elegancia y comodidad de su interfaz, además de los modos de Esquema y Panel de Corcho, ya comentados en la [anterior entrega dedicada a este *software*](http://sombrasyceniza.com/2011/03/04/herramientas-del-oficio-iv-software-para-escritores-scrivener/ "Herramientas del oficio, iv: Software para escritores: Scrivener").
 
 Es una alternativa a considerar, en cualquier caso, sobre todo si no necesitamos las funciones anteriores, si bien por una pequeña diferencia en el precio (24,6 € de PageFour frente a los 28,2 € de Scrivener) no es una razón de peso para decantarse por este; y en cualquier caso, recomendaría probar yWriter antes.
 
@@ -48,5 +48,5 @@ Es una alternativa a considerar, en cualquier caso, sobre todo si no necesitamos
 
 **Notas:**
 
-\[1\] Esquema o bosquejo es la traducción que más se aproxima, en mi opinión, al término inglés _outline_, la relación de capítulos y escenas de una historia, equivalente al guión de una película. He leído por ahí que algunos autores se refieren al esquema previo de una historia como “escaleta”, propio del cine y la radio, pero el término no me parece demasiado apropiado. [«](#nota1a "Regresar al texto")
+\[1\] Esquema o bosquejo es la traducción que más se aproxima, en mi opinión, al término inglés *outline*, la relación de capítulos y escenas de una historia, equivalente al guión de una película. He leído por ahí que algunos autores se refieren al esquema previo de una historia como “escaleta”, propio del cine y la radio, pero el término no me parece demasiado apropiado. [«](#nota1a "Regresar al texto")
 

@@ -1,14 +1,14 @@
 ---
-title: "El lenguaje en las historias de fantasía (i)"
-date: "2011-02-09"
-categories: 
-  - "articulos"
+title: El lenguaje en las historias de fantasía (i)
+date: 2011-02-09
+categories:
+  - articulos
 ---
 Siguiente informe Ouróboros (y van ocho). En esta ocasión abordamos el tratamiento del lenguaje en las historias de fantasía, a modo de reflexión sobre su empleo. Por su extensión (más de 13.000 palabras) he decidido publicarlo  en dos entregas. Aquí va la primera; espero que os parezca interesante.
 
 ### 1\. Introducción
 
-_La patria de un escritor es su lengua._ **Francisco Ayala**
+*La patria de un escritor es su lengua.* **Francisco Ayala**
 
 En la literatura, las palabras lo son todo. Emplear el lenguaje más adecuado para una historia es vital para que esta consiga los propósitos que nos hemos marcado como escritores; en el caso que nos ocupa, las narraciones fantásticas, aún más si cabe: estamos tratando de que algo inverosímil aparezca como verosímil, que el lector [suspenda su incredulidad](http://sombrasyceniza.com/2010/11/10/suspension-incredulidad-fantasia/ "Suspensión de la incredulidad") y decida creerse una historia en la que, por lógica, no debería creer.
 
@@ -34,7 +34,7 @@ No obstante, no siempre resulta fácil elegir el vocabulario más adecuado al tr
 
 Un ejemplo de términos o expresiones inadecuadas pueden ser las referencias temporales y de distancias precisas, si nuestra sociedad carece del nivel de desarrollo oportuno para que estas tengan sentido: al emplear en un entorno bajomedieval expresiones como "dentro de quince minutos", "a los pocos segundos", "medía unos quince centímetros", "había recorrido veinte kilómetros" lo único que consigue es destruir la atmósfera que se pretendía crear. Una alternativa excelente consiste en elegir medidas de longitud, peso y volumen adecuadas al contexto de nuestra historia y evitar nuestro actual sistema métrico (como por ejemplo, codo, pie, vara, braza, legua, cuartillo, fanega, etcétera) y, para las expresiones temporales, ser imprecisos con ellas salvo que la cultura en cuestión disponga de la tecnología necesaria para medir el tiempo con precisión (suponiendo, además, que usen el mismo sistema que el actual).
 
-Conviene además tener especial cuidado con las expresiones hechas, que encierran muchos peligros por su marcado origen etimológico y, en general, no emplear vocablos cuya etimología sea demasiado "perceptible", como por ejemplo _sarracina, dantesco, chauvinismo_… O posibles palabras de ambientación como _toledana_, _damasquinado_, etcétera.
+Conviene además tener especial cuidado con las expresiones hechas, que encierran muchos peligros por su marcado origen etimológico y, en general, no emplear vocablos cuya etimología sea demasiado "perceptible", como por ejemplo *sarracina, dantesco, chauvinismo*… O posibles palabras de ambientación como *toledana*, *damasquinado*, etcétera.
 
 #### El narrador parcial
 
@@ -46,7 +46,7 @@ Valga el siguiente ejemplo para ilustrar esto: una historia en la que se emplean
 
 #### El concepto del lenguaje–foco
 
-El concepto del _lenguaje–foco_ puede resultar muy útil para el análisis de los problemas narrativos que conlleva una historia fantástica. En sí, el concepto es simple: tal y como existen, o pueden existir, una serie de personajes–foco desde los cuales narramos una historia, existirá de forma obligatoria un lenguaje con el cual se transmite dicha narración.
+El concepto del *lenguaje–foco* puede resultar muy útil para el análisis de los problemas narrativos que conlleva una historia fantástica. En sí, el concepto es simple: tal y como existen, o pueden existir, una serie de personajes–foco desde los cuales narramos una historia, existirá de forma obligatoria un lenguaje con el cual se transmite dicha narración.
 
 Ese lenguaje de referencia es nuestro lenguaje–foco, el que utiliza el narrador, que no tiene por qué, ni mucho menos, coincidir con el lenguaje en el que estamos leyendo el texto. Este detalle, que parece poco importante, tiene una importancia vital y puede crear paradojas como esta: un personaje de una obra traducida al español con un lenguaje–foco como el inglés, por poner un ejemplo frecuente, que es incapaz de entender lo que dice un español (es habitual, por otra parte, recurrir a las cursivas para señalar los fragmentos de un texto que están en lenguaje de la traducción en la obra original).
 
@@ -58,7 +58,7 @@ Sin embargo, en las narraciones de ficción no hay demasiados problemas, que no 
 
 El problema llega cuando se parte de un lenguaje–foco determinado y abundan las escenas en las que aparecen otros lenguajes–foco. El ejemplo más clásico es el de las narraciones de viajes, casi un género en sí mismas. El francés del ejemplo anterior se va a Alemania. No entiende alemán, por supuesto. Tenemos los siguientes casos:
 
-**(a) _No aprende el lenguaje extranjero_:**
+**(a) *No aprende el lenguaje extranjero*:**
 
 - El narrador, si es omnisciente, podría traducir al lector lo que el personaje protagonista no entiende. Esta es una solución más o menos objetable por los motivos antes aducidos (la presencia del narrador es muy notoria).
 - El narrador es parcial, al menos en cuanto al lenguaje. Luego todo lo que esté en un lenguaje ajeno al lenguaje–foco es incomprensible. Hay un detalle que requiere atención: ¿cómo se representarán los parlamentos (frases de diálogos) y textos en un lenguaje ajeno al lenguaje–foco? ¿Tal cual? ¿Se omitirán?
@@ -85,9 +85,9 @@ Ahora probemos con un narrador mucho más parcial:
 > 
 > **La novia:** Jis fain. Güi jad anáis flait. Ji laics veri mach aur jaus, dadi.
 
-En la segunda versión de la escena hemos adoptado una transcripción fonética del diálogo en inglés; no tendría que ocurrir lo mismo con un texto el mismo personaje lea, o intente leer, siempre que el alfabeto sea similar y el personaje pueda fijarse con calma.
+En la segunda versión de la escena hemos adoptado una transcripción fonética del diálogo en inglés; no tendría que ocurrir lo mismo con un texto que el mismo personaje lea, o intente leer, siempre que el alfabeto sea similar y el personaje pueda fijarse con calma.
 
-**(b) _Aprende a chapurrear el lenguaje extranjero_:**
+**(b) *Aprende a chapurrear el lenguaje extranjero*:**
 
 Tampoco está exento de reflexión este caso. Como el personaje puede entender, siquiera parcialmente, lo que oye o lee, y quizá hasta pueda hablarlo o incluso escribirlo, ¿se seguirá representando la lengua ajena mediante una "traducción fonética" al idioma propio, se asumirá que el personaje realiza una traducción a su lenguaje–foco o se adoptarán ambas soluciones? Acerca de la última opción, consiste en mostrar el parlamento o texto (tal o cual o una traducción fonética) primero y luego la correspondiente traducción del personaje: esta solución permite al lector que conozca la lengua ajena comprobar los más que posibles yerros del personaje al comprender la lengua y sus errores al emplearla.
 
@@ -95,7 +95,7 @@ Como apunte final, es perfectamente posible que en una misma obra coexistan dist
 
 #### Los metatextos: textos en los textos
 
-Usamos el término _metatextos_ en este artículo para referirnos a los textos dentro de una historia: crónicas, fragmentos literarios, diarios, cartas, y un largo etcétera, textos que requieren también la debida atención.
+Usamos el término *metatextos* en este artículo para referirnos a los textos dentro de una historia: crónicas, fragmentos literarios, diarios, cartas, y un largo etcétera, textos que requieren también la debida atención.
 
 En primer lugar no debe olvidarse que estos metatextos tienen que representar perfectamente no solo al autor de los mismos sino además el lenguaje de su época. Si se presenta un texto escrito supuestamente tres siglos atrás, debería haber diferencias en el lenguaje empleado respecto a un texto "actual". No obstante, el principal problema es considerar cuál será dicho lenguaje actual, es decir, el que corresponda a la época de la historia.
 
@@ -111,7 +111,7 @@ Una estrategia excelente es recurrir a un somero análisis sociolingüístico de
 
 La sociolingüística, según el DRAE, es la "disciplina que estudia las relaciones entre la lengua y la sociedad"; una de las acepciones de estrato es "capa o nivel de una sociedad". Por tanto, los estratos sociolingüísticos serían los distintos niveles en los cuales discriminaríamos una sociedad cualquiera desde el punto de vista lingüístico: cómo hablan, en suma.
 
-Por lo general, el individuo medio de un estrato social "hereda" una serie de características lingüísticas que marcarán de forma inevitable su idiolecto o uso particular de la lengua. Un ejemplo sencillo es pensar en un clérigo y en un campesino, ambos europeos y del s. XIII. Aún hablando el mismo idioma, está claro que no se expresarían de la misma forma. Hoy en día, supuestamente, hay menos barreras culturales, pero aún así hay diferencias lingüísticas (más o menos notables) entre los miembros de una misma sociedad (aunque se comparten muchos rasgos comunes, gracias al efecto homogeneizador de los medios de comunicación); si esas diferencias existen ahora no es difícil imaginar cuán importantes serían unos cuantos siglos atrás.
+Por lo general, el individuo medio de un estrato social "hereda" una serie de características lingüísticas que marcarán de forma inevitable su idiolecto o uso particular de la lengua. Un ejemplo sencillo es pensar en un clérigo y en un campesino, ambos europeos y del s. XIII. Aun hablando el mismo idioma, está claro que no se expresarían de la misma forma. Hoy en día, supuestamente, hay menos barreras culturales, pero aún así hay diferencias lingüísticas (más o menos notables) entre los miembros de una misma sociedad (aunque se comparten muchos rasgos comunes, gracias al efecto homogeneizador de los medios de comunicación); si esas diferencias existen ahora no es difícil imaginar cuán importantes serían unos cuantos siglos atrás.
 
 Evidentemente, muchas de esas diferencias son relativas al tono y enunciación, y, por tanto, resultan extremadamente difíciles de trasladar al lenguaje escrito. También está claro que un individuo cualquiera no está condenado a hablar de una forma determinada por pertenecer a un determinado estrato sociolingüístico. Pero son excepciones puntuales.
 
@@ -149,7 +149,7 @@ Diferenciamos seis estratos sociolingüísticos, uno por cada clase social que e
 
 - A los campesinos les hemos otorgado el peor valor, –2. Tienen un acceso nulo a casi cualquier forma de expresión cultural y ninguna oportunidad de recibir formación académica; además suelen habitar pueblos y aldeas a varias jornadas de viaje de cualquier ciudad.
 - Los arrabaleros les siguen cerca. El lenguaje que emplean es mejor porque están más cerca de otros estratos sociales con mayor formación y, también, su acceso a las expresiones culturales es mejor que el de los campesinos.
-- Los militares forman otro estrato sociolingüístico. Sin embargo, les otorgamos un valor cuantitativo igual al de los habitantes de los arrabales. Esto no significa que hablen igual, pero sí que su dominio del lenguaje es equivalente. Pero, por poner un ejemplo sencillo, un soldado conocerá una terminología precisa relativa a su oficio y una jerga propia que un arrabalero no tiene por qué conocer (vocablos muy precisos, como _encamisada, tornillear, fajina, gavión, pavés;_ acepciones militares de otros términos y por poner otro ejemplo, los nombres de las distintas formaciones tácticas). De ahí que tengan estratos sociolingüísticos diferentes.
+- Los militares forman otro estrato sociolingüístico. Sin embargo, les otorgamos un valor cuantitativo igual al de los habitantes de los arrabales. Esto no significa que hablen igual, pero sí que su dominio del lenguaje es equivalente. Pero, por poner un ejemplo sencillo, un soldado conocerá una terminología precisa relativa a su oficio y una jerga propia que un arrabalero no tiene por qué conocer (vocablos muy precisos, como *encamisada, tornillear, fajina, gavión, pavés;* acepciones militares de otros términos y por poner otro ejemplo, los nombres de las distintas formaciones tácticas). De ahí que tengan estratos sociolingüísticos diferentes.
 - Los burgueses son el estrato con un valor cuantitativo neutro, +0. Muchos de sus miembros tienen acceso a una formación académica, siquiera básica, y pueden permitirse el acceso a expresiones culturales que enriquecen su lenguaje. También pueden evitar el uso de determinadas expresiones para diferenciarse de los estratos sociales inferiores, por ejemplo emplear con menos frecuencia dichos soeces o insultos.
 - El clero es el estrato mejor parado cualitativamente. En una sociedad típicamente medieval o equivalente son los poseedores, guardianes y transmisores de la cultura. (Nota: es más que objetable que el clero tenga un valor homogéneo. Un sacerdote de una capilla en un pueblo, allá por donde el diablo dijo buenas noches, puede no tener mucho nivel lingüístico, aunque sí debería tener uno muy superior a sus vecinos.)
 - La nobleza les sigue en valor cuantitativo, con +1. Está claro que tienen un acceso preferente a la cultura de la sociedad y habrán recibido una formación académica básica, o deberían haberlo hecho[i].
@@ -166,23 +166,23 @@ Es obvio que este tipo de estrategias irían orientadas a caracterizar estratos 
 
 En cuanto a los vulgarismos, estrictamente hablando, tenemos que el DRAE[ii] arroja unas 232 entradas. Los términos considerados como vulgares son bastante comunes en el lenguaje cotidiano, aun entre las personas del mejor nivel lingüístico, sobre todo si se dan en conversaciones distendidas. Conviene dejar claro que no se limitan a términos específicamente vulgares, como "acojonar", "putero" o "bujarrón", sino que además los vulgarismos agrupan las acepciones vulgares de palabras que en otros contextos no lo son en absoluto (cabrón, cepillar, correr, etcétera) y abarcan otros ámbitos, como los sintácticos, fonéticos, morfológicos, etcétera. De cada uno de estos se expondrán unos cuantos ejemplos, pero es conveniente antes añadir dos breves notas:
 
-- Resulta curioso comprobar como términos en absoluto vulgares cambian su significado a lo largo del tiempo y acaban siéndolo. Por ejemplo, _correrse_, que antiguamente su significado figurativo era más o menos _confundirse, azorarse, avergonzarse_ ahora tiene una acepción sexual, claramente vulgar. Otro ejemplo curioso es _follar_, que en un principio significaba _soplar con el fuelle_, y que acabó por tener varios significados vulgares, como _soltar una ventosidad sin ruido_ y la más habitual, sinónima del acto de copular. Un ejemplo no menos curioso es _guay_, un equivalente poético de la interjección _¡ay!_ (_¡Guay de ti!_), que ahora tiene una significación completamente distinta.
+- Resulta curioso comprobar como términos en absoluto vulgares cambian su significado a lo largo del tiempo y acaban siéndolo. Por ejemplo, *correrse*, que antiguamente su significado figurativo era más o menos *confundirse, azorarse, avergonzarse* ahora tiene una acepción sexual, claramente vulgar. Otro ejemplo curioso es *follar*, que en un principio significaba *soplar con el fuelle*, y que acabó por tener varios significados vulgares, como *soltar una ventosidad sin ruido* y la más habitual, sinónima del acto de copular. Un ejemplo no menos curioso es *guay*, un equivalente poético de la interjección *¡ay!* (*¡Guay de ti!*), que ahora tiene una significación completamente distinta.
 - Aunque bien podría dedicársele mayor interés a la creación (o derivación) de términos nuevos (neologismos), la posibilidad de crear términos vulgares propios es muy interesante. Si son imaginativos y el lector puede deducir su significado del contexto, nuestro texto ganará en personalidad y coherencia interna.
 
 Y ahora vayamos con algunos ejemplos de vulgarismos:
 
 ##### **Sintácticos:**
 
-- **Dequeísmo:** anteponer de forma innecesaria la preposición de. Ej: _Le dije de que viniera_. _Pienso de que no tienes razón._ También podríamos incluir aquí los errores al emplear de forma correcta las construcciones con _de_, como no discriminar bien entre las expresiones _deber_ \+ _infinitivo_ (que connotan obligación) y _deber de_ \+ _infinitivo_, que connotan una suposición del hablante.
+- **Dequeísmo:** anteponer de forma innecesaria la preposición de. Ej: *Le dije de que viniera*. *Pienso de que no tienes razón.* También podríamos incluir aquí los errores al emplear de forma correcta las construcciones con *de*, como no discriminar bien entre las expresiones *deber* \+ *infinitivo* (que connotan obligación) y *deber de* \+ *infinitivo*, que connotan una suposición del hablante.
 - Los siempre controvertidos **loísmos**, **laísmos** y **leísmos**.
 
 ##### **Fonético–morfológicos:**
 
-- **Yeísmo:** pronunciar la elle como ye. _Gayina_ por gallina, _poyo_ por pollo, etc.
+- **Yeísmo:** pronunciar la elle como ye. *Gayina* por gallina, *poyo* por pollo, etc.
 - **Ceceo:** según el DRAE es "Pronunciar la s con articulación igual o semejante a la de la c ante e, i, o a la de la z. En los siglos XV al XVII, pronunciar las antiguas s y ss como las antiguas z y ç". Ej: cerpiente, por serpiente; cerrín, por serrín, etcétera.
-- **Seseo:** de nuevo nos dice que es "Pronunciar la z, o la c ante e, i, como s, ya sea con articulación predorsoalveolar o predorsodental, como en Andalucía, Canarias y América, ya con articulación apicoalveolar, como en la dicción popular de Cataluña y Valencia". Ejemplo: _sapato_, por zapato.
-- **Supresión de fonemas o alteración de estos:** _mu_ por muy, _na_ por nada, _conceto_ por concepto, _acojonao_ por acojonado, _¿Qué ha sío eso?_ por ¿Qué ha sido eso?, _agüelo_ por abuelo, _abujero_ por bujero, etcétera.
-- **Adición de fonemas:** _aluego_ por luego, _asín_ por así, _enantes_ por antes, etc.
+- **Seseo:** de nuevo nos dice que es "Pronunciar la z, o la c ante e, i, como s, ya sea con articulación predorsoalveolar o predorsodental, como en Andalucía, Canarias y América, ya con articulación apicoalveolar, como en la dicción popular de Cataluña y Valencia". Ejemplo: *sapato*, por zapato.
+- **Supresión de fonemas o alteración de estos:** *mu* por muy, *na* por nada, *conceto* por concepto, *acojonao* por acojonado, *¿Qué ha sío eso?* por ¿Qué ha sido eso?, *agüelo* por abuelo, *abujero* por bujero, etcétera.
+- **Adición de fonemas:** *aluego* por luego, *asín* por así, *enantes* por antes, etc.
 
 ##### **Barbarismos:**
 
@@ -196,14 +196,14 @@ Como se comentó párrafos atrás es una opción muy interesante. Pondremos aqu�
 
 ##### **Vulgarismos por cambio de acepción:**
 
-- **descerrajar:** derivando la acepción "Disparar con arma de fuego", podríamos darle una acepción obscena equivalente a _correrse_.
-- **espingarda:** para complementar la anterior palabra, espingarda podría significar _miembro viril_. Tenemos asimismo la expresión _descerrajar la espingarda_.
+- **descerrajar:** derivando la acepción "Disparar con arma de fuego", podríamos darle una acepción obscena equivalente a *correrse*.
+- **espingarda:** para complementar la anterior palabra, espingarda podría significar *miembro viril*. Tenemos asimismo la expresión *descerrajar la espingarda*.
 - **apuradero:** letrina.
 
 ##### **Neologismos:**
 
-- _afiambrar_: "convertir en fiambre, matar". Muy similar a "atocinar" o "acogotar".
-- _agrillar_: poner grillos.
+- *afiambrar*: "convertir en fiambre, matar". Muy similar a "atocinar" o "acogotar".
+- *agrillar*: poner grillos.
 
 ##### **Expresiones vulgares:**
 
@@ -259,8 +259,8 @@ Podemos considerar, por tanto, que las jergas son más variadas a la hora de cre
 
 La creación de nuevas acepciones se sitúa entre estas dos estrategias:
 
-- **Distorsión absoluta del significado:** cuando se crea un nuevo significado para una palabra que no puede descifrarse (al menos no sin dificultades) conociendo su acepción habitual. En la germanía, la mayor parte de las nuevas acepciones siguen este patrón. Ejemplos: _falso_ y _ganzúa_ (verdugo), _bravo_ (juez), _peste_ (dado), _pluma_ (remo), etcétera.
-- **Distorsión derivada del significado:** la nueva acepción guarda una relación más o menos evidente con la habitual, de tal forma que el oyente puede descifrarla por sí solo. Ejemplo: _columbrón_ (vistazo), _trotona_ (puta), _filosa_ (espada), _blanda_ (cama), etc.
+- **Distorsión absoluta del significado:** cuando se crea un nuevo significado para una palabra que no puede descifrarse (al menos no sin dificultades) conociendo su acepción habitual. En la germanía, la mayor parte de las nuevas acepciones siguen este patrón. Ejemplos: *falso* y *ganzúa* (verdugo), *bravo* (juez), *peste* (dado), *pluma* (remo), etcétera.
+- **Distorsión derivada del significado:** la nueva acepción guarda una relación más o menos evidente con la habitual, de tal forma que el oyente puede descifrarla por sí solo. Ejemplo: *columbrón* (vistazo), *trotona* (puta), *filosa* (espada), *blanda* (cama), etc.
 
 Por supuesto, a veces esta distinción no está tan clara; es posible que para algunos legos en una determinada jerga la nueva acepción sea un misterio y para otros sea algo evidente.
 
@@ -289,19 +289,19 @@ Aunque el uso del lenguaje soez y los insultos parezca estar destinado a priori 
 
 En todas las culturas existen insultos, de una u otra índole. Los hay en menor o mayor número. La cultura japonesa, de costumbres sociales muy rígidas, tiene un número al parecer bastante menor que otras culturas, como las europeas. En cualquier caso, en todas las sociedades se ha insultado, y todas las culturas tienen, también, un ritual para insulto y su satisfacción: abofetear al otro, arrojarle el guante, mesarse las barbas, rasgarse las vestiduras, escupir, y un largo etcétera.
 
-Uno de las características más interesantes del insulto es que aquel que se considere el más grave y dañino para un género retrata a una sociedad, ya que viene a determinar, de facto, su escala de valores por el sencillo proceso de la negación: con ese insulto la sociedad rechaza lo que le parece inaceptable en un hombre o una mujer. García Meseguer, en su _Lenguaje y discriminación sexual_ (1984) viene a decirnos algo similar:
+Una de las características más interesantes del insulto es que aquel que se considere el más grave y dañino para un género retrata a una sociedad, ya que viene a determinar, de facto, su escala de valores por el sencillo proceso de la negación: con ese insulto la sociedad rechaza lo que le parece inaceptable en un hombre o una mujer. García Meseguer, en su *Lenguaje y discriminación sexual* (1984) viene a decirnos algo similar:
 
-"_El análisis de os insultos, en cualquier cultura, es fecundísimo para conocer los valores sociales convenidos. Un insulto es una negación de una cualidad que se supone debe existir. Por consiguiente, la lectura de su definición ofrece […] cuáles son las cualidades, o conductas, que la sociedad espera del individuo._"
+"*El análisis de los insultos, en cualquier cultura, es fecundísimo para conocer los valores sociales convenidos. Un insulto es una negación de una cualidad que se supone debe existir. Por consiguiente, la lectura de su definición ofrece […] cuáles son las cualidades, o conductas, que la sociedad espera del individuo.*"
 
-En la mayoría de las sociedades, sobre todo las europeas, el insulto más grave para una mujer es la condición de prostituta y su legión de sinónimos, y, para el hombre, la de homosexual. Estos vocablos vienen a ser unos insultos "comodín", una suerte de insultos–baúl, capaces de aglutinar lo peor que puede atribuirse a una persona de un sexo u otro. Se le puede llamar _puta_ a una mujer que nos cae mal, o cuyo comportamiento reprobamos, o que nos ha hecho una jugarreta, una _putada_ (algo digno de una puta), sin que realmente tengamos pruebas acerca de su comportamiento sexual; y lo mismo, con matices, claro, para el caso del apelativo masculino denigratorio por excelencia en nuestra cultura, _maricón_.
+En la mayoría de las sociedades, sobre todo las europeas, el insulto más grave para una mujer es la condición de prostituta y su legión de sinónimos, y, para el hombre, la de homosexual. Estos vocablos vienen a ser unos insultos "comodín", una suerte de insultos–baúl, capaces de aglutinar lo peor que puede atribuirse a una persona de un sexo u otro. Se le puede llamar *puta* a una mujer que nos cae mal, o cuyo comportamiento reprobamos, o que nos ha hecho una jugarreta, una *putada* (algo digno de una puta), sin que realmente tengamos pruebas acerca de su comportamiento sexual; y lo mismo, con matices, claro, para el caso del apelativo masculino denigratorio por excelencia en nuestra cultura, *maricón*.
 
-Pero no en todas las culturas tiene por qué ser así, y menos en una fantástica. Por poner un par de ejemplos, no parece muy creíble que en la Grecia antigua apelar de homosexual fuera tan grave como en nuestra sociedad actual, dado que ciertas prácticas homosexuales eran consideradas normales (aunque no todas); en una cultura que consagrase a las prostitutas o que tuviera una especie de prostitución ritual, como el que se ofrendaba a la diosa de origen cananeo Ashtart, no debería tener mucho sentido el insulto de _puta_ como tal en sí.
+Pero no en todas las culturas tiene por qué ser así, y menos en una fantástica. Por poner un par de ejemplos, no parece muy creíble que en la Grecia antigua tildar de homosexual fuera tan grave como en nuestra sociedad actual, dado que ciertas prácticas homosexuales eran consideradas normales (aunque no todas); en una cultura que consagrase a las prostitutas o que tuviera una especie de prostitución ritual, como el que se ofrendaba a la diosa de origen cananeo Ashtart, no debería tener mucho sentido el insulto de *puta* como tal en sí.
 
-En cualquier caso, el insulto puede emplearse –y se emplea– como una herramienta de represión sexual: siguiendo el ejemplo de _puta_, una mujer que tiene comercio carnal con muchos hombres (lo del dinero viene a ser lo de menos en esto de insultar), se trata de reprimir la libertad sexual de la mujer, sin duda; vendría a ser, tal vez, un intento de proteger la paternidad, dado que en una sociedad en la que no existan medios anticonceptivos fiables una mujer que tenga ayuntamiento con varios hombres acabará por tener hijos cuya paternidad será más bien discutible. Está bien claro que en la mayoría de sociedades –y ahí está el lenguaje para dar fe– se reprueba la promiscuidad femenina en la misma medida que se perdona e incluso alienta la masculina.
+En cualquier caso, el insulto puede emplearse –y se emplea– como una herramienta de represión sexual: siguiendo el ejemplo de *puta*, una mujer que tiene comercio carnal con muchos hombres (lo del dinero viene a ser lo de menos en esto de insultar), se trata de reprimir la libertad sexual de la mujer, sin duda; vendría a ser, tal vez, un intento de proteger la paternidad, dado que en una sociedad en la que no existan medios anticonceptivos fiables una mujer que tenga ayuntamiento con varios hombres acabará por tener hijos cuya paternidad será más bien discutible. Está bien claro que en la mayoría de sociedades –y ahí está el lenguaje para dar fe– se reprueba la promiscuidad femenina en la misma medida que se perdona e incluso alienta la masculina.
 
 No obstante, el insulto abarca muchos más registros. Se ocupa de censurar vicios y comportamientos, matizando así sus escalas de valores. Sirve para aliviar malos humores y como preámbulo para la violencia, una especie de atisbo de nuestro yo animal más profundo; por ejemplo, el insulto se emplea como una predisposición progresiva, casi una justificación, de un acto violento. Alguien que ataque a otro sin mediar una justificación razonable, esto es, un insulto en la mayoría de las ocasiones, nos parece un loco, alguien peligroso, imprevisible (y con razón). También sirve como vehículo de la xenofobia, subrayando así, tal vez, la propia identidad cultural de una sociedad al señalar como ajenos, propios de extranjeros, los vicios y comportamientos que deplora.
 
-Pero tiene registros menos agresivos: puede usarse de forma cariñosa, normalmente con diminutivos (_¡ay, qué cabroncete eres!_); como elogio (_¡qué bueno es, el hijo de puta!_); como desafío a lo religioso, en el caso de las blasfemias; y, en suma, viene a ser una válvula de escape para la sociedad: el insulto pone en su sitio tanto al miserable como al poderoso, puede ser abiertamente escatológico y soez, etcétera.
+Pero tiene registros menos agresivos: puede usarse de forma cariñosa, normalmente con diminutivos (*¡ay, qué cabroncete eres!*); como elogio (*¡qué bueno es, el hijo de puta!*); como desafío a lo religioso, en el caso de las blasfemias; y, en suma, viene a ser una válvula de escape para la sociedad: el insulto pone en su sitio tanto al miserable como al poderoso, puede ser abiertamente escatológico y soez, etcétera.
 
 #### Caracterización de estratos sociolingüísticos
 
@@ -317,7 +317,7 @@ Otras culturas pueden considerar la traición, la cobardía o la mentira como la
 
 En el caso de distintas religiones, insultar a los dioses de una sociedad será muy probablemente una ofensa terrible; aunque, curiosamente, los propios feligreses pueden blasfemar como un medio para liberar tensión, sin que sea una ofensa.
 
-_[Siguiente parte](http://sombrasyceniza.com/2011/02/11/el-lenguaje-en-las-historias-de-fantasia-ii-ouroboros/ "El lenguaje en las historias de fantasía (ii)")_.
+*[Siguiente parte](http://sombrasyceniza.com/2011/02/11/el-lenguaje-en-las-historias-de-fantasia-ii-ouroboros/ "El lenguaje en las historias de fantasía (ii)")*.
 
 **Notas:**
 

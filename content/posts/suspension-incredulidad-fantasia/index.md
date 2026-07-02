@@ -36,7 +36,7 @@ Si el escritor pretende exigirse a sí mismo (quiere hacer literatura en serio) 
 
 - Bastante culto. No es un especialista en ningún tema de los que el escritor toca; tampoco es un escritor.
 - Ante todo lee por placer.
-- Conocedor de la narrativa fantástica, pero no necesariamente familiarizada con ella.
+- Conocedor de la narrativa fantástica, pero no necesariamente familiarizado con ella.
 - Pide que las obras le resulten congruentes. Que las cosas no sucedan porque sí y ya está. No obstante, está dispuesto a dar un pequeño margen al escritor.
 
 Con este lector siempre en mente, veamos cuáles son las posibles tácticas del escritor para ayudarle a que suspenda su incredulidad natural hacia una historia irreal e imposible, como toda la que se precie de pertenecer al género de la literatura fantástica.

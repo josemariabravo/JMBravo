@@ -6,7 +6,7 @@ categories:
 ---
 La ventaja de escribir a rebufo es que tienes la oportunidad de hacerlo con perspectiva. Así que debo intentarlo, al menos. ¿De qué va la entrada de hoy? En el fondo, de mi tema maldito preferido: el fandom. Y me explico. Recientemente saltó la polémica en uno de los mentideros más concurridos del fantástico español en la red, Sedice.com, con el hilo iniciado por **ollonois**, titulado de esta guisa: [¿Demasiados/as autores/as españoles/as?](http://www.sedice.com/modules.php?name=Forums&file=viewtopic&t=41560&postdays=0&postorder=asc&start=0).
 
-(No diré nada de la los _os/as/es/as_, que pierdo el hilo.)
+(No diré nada de la los *os/as/es/as*, que pierdo el hilo.)
 
 **Ollonois** se quejaba en dicho hilo de tener un presupuesto para libros demasiado exiguo como para poder seguir el ritmo de publicación de los autores españoles.
 
@@ -50,7 +50,7 @@ Personalmente no considero que sea un problema. O, de serlo, no es un problema r
 
 En cualquier caso, más vale dejar esto bien claro: las editoriales no buscan publicar obras de calidad, su meta es publicar obras que se vendan, mucho, a ser posible —las importantes, al menos, lo intentan con mucho afán—; lo demás, y digo esto con el corazón en la mano, son chorradas y entelequias.
 
-En cualquier caso, con el más que previsible auge del libro electrónico, el asunto de las librerías abarrotadas con las novedades de la semana desaparecerá, pero ¿cómo podremos discernir la obra que nos interesa de la que no entre tanto _ebook_? De nuevo, las editoriales importantes tendrán a su alcance canales de distribución para llamar la atención de sus clientes. Así que no preveo muchos cambios, aunque, eso sí, los autores independientes (_indies_, en el mundo editorial gringo) tendrán al menos la oportunidad de construirse un nicho con muy pocos medios (las estrategias del autor 2.0., sin ir más lejos), algo de suerte y el boca a oreja, el clásico método publicitario que nunca falla.
+En cualquier caso, con el más que previsible auge del libro electrónico, el asunto de las librerías abarrotadas con las novedades de la semana desaparecerá, pero ¿cómo podremos discernir la obra que nos interesa de la que no entre tanto *ebook*? De nuevo, las editoriales importantes tendrán a su alcance canales de distribución para llamar la atención de sus clientes. Así que no preveo muchos cambios, aunque, eso sí, los autores independientes (*indies*, en el mundo editorial gringo) tendrán al menos la oportunidad de construirse un nicho con muy pocos medios (las estrategias del autor 2.0., sin ir más lejos), algo de suerte y el boca a oreja, el clásico método publicitario que nunca falla.
 
 Sea como fuere, como digo siempre, la tozuda realidad acabará por imponerse, y las leyes del mercado acabarán por regular el sector editorial. Podemos opinar (patalear, diría yo) lo que queramos, pero poco más se puede hacer.
 
@@ -64,7 +64,7 @@ En cuanto al segundo tema que surgió, el del exceso de obras de género en espa
 
 ¿Exagero? No creo. Echen si no un vistazo a las listas de más vendidos de [Cyberdark](http://tienda.cyberdark.net/) (la librería más señera, hoy por hoy, dedicada al fantástico). No ha habido desde 2005 apenas títulos con apellidos españoles en esa lista, a excepción de **El Sueño de los dioses** este año, y en años anteriores, **Nicho de Reyes** (2005). En cuanto al asunto de su calidad, solo he leído el segundo; bueno, miento: digamos que hice el intento.[^1]
 
-Así que sí, es probable que un novel pueda publicar su novela. Pero ¿en qué condiciones? Estamos hablando de editoriales pequeñas, con tiradas que oscilan entre 1000 a 1500 ejemplares, de los que rara vez se venden poco más de la mitad, y con suerte.
+Así que sí, es probable que un novel pueda publicar su novela. Pero ¿en qué condiciones? Estamos hablando de editoriales pequeñas, con tiradas que oscilan entre 1000 y 1500 ejemplares, de los que rara vez se venden poco más de la mitad, y con suerte.
 
 Al cabo, es normal: esas editoriales no tienen acceso a los canales de distribución y publicidad de los que sí disponen las grandes. Y veo un problema, más que preocupante, a mi juicio, para la difusión de una obra en papel que no disponga de tales medios para promocionarse: por lo general, la demanda de los lectores no será la suficiente como para que estos editores se animen con una segunda edición. Mal distribuidas, estas obras pueden ser de difícil acceso para el lector interesado en ellas. Hacerse con una obra editada diez años atrás puede ser una tarea ardua, si no imposible.
 
@@ -80,7 +80,7 @@ No tengo mucho más que añadir a esto. Es inevitable y humano que ocurran cosas
 
 Mesura, señores, por favor. Hay que decir las cosas con educación, pero decirlas. Y si una obra no nos parece buena, hay que señalar sus defectos. Ya saben, eso de que lo cortés no quita lo valiente.
 
-Porque el lector no es tonto, y se le puede engañar una vez, pero no dos. Estos conciliábulos de autores, que amparan a los de su cuerda y ningunean al resto (en realidad, tampoco se leen entre ellos, estoy seguro), no hacen sino vender humo, la apariencia engañosa del éxito, con sus reseñas cuajadas de elogios, sus presentaciones al calor de la familia y unos pocos padrinos, y su _hype_ de escaso alcance en los mentideros de turno: humo y poco más.
+Porque el lector no es tonto, y se le puede engañar una vez, pero no dos. Estos conciliábulos de autores, que amparan a los de su cuerda y ningunean al resto (en realidad, tampoco se leen entre ellos, estoy seguro), no hacen sino vender humo, la apariencia engañosa del éxito, con sus reseñas cuajadas de elogios, sus presentaciones al calor de la familia y unos pocos padrinos, y su *hype* de escaso alcance en los mentideros de turno: humo y poco más.
 
 Basta aplicar el sentido común: si estos autores no hacen sino reunirse en tertulias, presentaciones y saraos es porque no tienen muchos lectores. A los autores no les gusta reunirse entre ellos. Les gusta reunirse con sus lectores; gente que le compra sus libros, se los lee, y encima los adula. Tiene sentido, ¿verdad?
 

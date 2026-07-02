@@ -12,9 +12,9 @@ coverImage: "excalibur1-1.jpg"
 
 Debía tener seis o siete años, calculo, la primera vez que la vi, y desde sus primeros fotogramas quedé fascinado. Años después volví a verla; ya no era lo mismo. Había envejecido bastante mal, y los combates a espada entre caballeros enfundados en brillantes (y anacrónicas) armaduras habían perdido mucho de su atractivo.
 
-Hablo de _Excalibur_, la película de John Boorman de 1981. Creo que ese fue el comienzo de mi fascinación por las armas blancas y, cómo no, en especial por la espada. Muchos han sentido la misma fascinación por ella, y no es de extrañar: prácticamente todas las culturas guerreras la han tenido como arma señera en su panoplia, e incluso las que no alcanzaron a dominar la forja del acero (porque no es tarea baladí convertir un lingote de hierro en una espada bien equilibrada, con un filo duro y tenaz a un tiempo), incluso esas culturas, decía, han tenido armas semejantes, como por ejemplo las macanas[^1] (híbrido de espada y maza) en el caso de las culturas precolombinas.
+Hablo de *Excalibur*, la película de John Boorman de 1981. Creo que ese fue el comienzo de mi fascinación por las armas blancas y, cómo no, en especial por la espada. Muchos han sentido la misma fascinación por ella, y no es de extrañar: prácticamente todas las culturas guerreras la han tenido como arma señera en su panoplia, e incluso las que no alcanzaron a dominar la forja del acero (porque no es tarea baladí convertir un lingote de hierro en una espada bien equilibrada, con un filo duro y tenaz a un tiempo), incluso esas culturas, decía, han tenido armas semejantes, como por ejemplo las macanas[^1] (híbrido de espada y maza) en el caso de las culturas precolombinas.
 
-La espada, además de arma, ha sido siempre un símbolo, envuelto en un halo de poder y misticismo innegable. Con ella se distinguieron las castas guerreras a lo largo de la Historia; omnipresente en la mitología y la literatura popular, casi todos conocemos los nombres de espadas míticas como _Durandarte_, la _Tizona_ y la _Colada_, _Gram_, _Tyrfing_ o, sin ir más lejos, quizá la más famosa de todas, _Excalibur_.
+La espada, además de arma, ha sido siempre un símbolo, envuelto en un halo de poder y misticismo innegable. Con ella se distinguieron las castas guerreras a lo largo de la Historia; omnipresente en la mitología y la literatura popular, casi todos conocemos los nombres de espadas míticas como *Durandarte*, la *Tizona* y la *Colada*, *Gram*, *Tyrfing* o, sin ir más lejos, quizá la más famosa de todas, *Excalibur*.
 
 En cualquier caso, toda fascinación lleva, inevitablemente, al mito; y el mito es capaz de mezclar verdad y falsedad de la forma más insidiosa. La industria del cine, que se ha nutrido de tales mitos, es en buena parte responsable de divulgar las falsedades alrededor del uso de la espada, aunque la literatura fantástica ha contribuido no poco también a difundirlas.
 
@@ -44,7 +44,7 @@ No. No. Y no.
 
 Las armas medievales no pesaban tanto como cree la mayoría de la gente, sino que eran sorprendentemente ligeras y manejables. (Y de paso: los vikingos no tenían cuernos en los cascos. ¿Vale?)
 
-Una espada medieval de una mano rara vez pesaba más de 1500 gramos, y lo normal es que tuviera un peso entre 900 y 1200 gramos. Poco más de un kilo. Una _longsword_, o espada de dos manos, podía pesar entre 1200 y 1800 gramos, según longitudes. Y tales armas no podían pesar más por una cuestión de simple geometría. Para que una espada pese 4 o 5 kilos ha de ser un tocho de hierro, tal cual.
+Una espada medieval de una mano rara vez pesaba más de 1500 gramos, y lo normal es que tuviera un peso entre 900 y 1200 gramos. Poco más de un kilo. Una *longsword*, o espada de dos manos, podía pesar entre 1200 y 1800 gramos, según longitudes. Y tales armas no podían pesar más por una cuestión de simple geometría. Para que una espada pese 4 o 5 kilos ha de ser un tocho de hierro, tal cual.
 
 ![Réplica de espada de dos manos del s. XV, por Albion Armorers: 1500 gramos de nada](talhoffer1.jpg)
 
@@ -56,9 +56,9 @@ Las armas «de parada», como comenté más arriba, no eran armas para el combat
 
 ![Hace mucho daño… al mirarlo](wallhanger.jpg)
 
-Sin embargo, herederas directas de estas armas de parada, las espadas catalogadas como «de fantasía» parecen ser la norma y no la excepción. Buscad, si no, en Google Imágenes la palabra _sword,_ o _espada,_ y echad un ojo a los resultados. En los ojos de sus potenciales compradores deben de parecer bellas; a los ojos de alguien mínimamente versado, son el _súmmun_ del horror. Estas armas son pesadas, están mal diseñadas, peor construidas y resultan imposibles de todo punto de manejar. Irónicamente, se hacen para perpetuar muchos de los mitos asociados a las espadas.
+Sin embargo, herederas directas de estas armas de parada, las espadas catalogadas como «de fantasía» parecen ser la norma y no la excepción. Buscad, si no, en Google Imágenes la palabra *sword,* o *espada,* y echad un ojo a los resultados. En los ojos de sus potenciales compradores deben de parecer bellas; a los ojos de alguien mínimamente versado, son el *súmmun* del horror. Estas armas son pesadas, están mal diseñadas, peor construidas y resultan imposibles de todo punto de manejar. Irónicamente, se hacen para perpetuar muchos de los mitos asociados a las espadas.
 
-Por cierto, los aficionados gringos al coleccionismo de armas llaman a estas espadas _wall hanger_, que podríamos traducir como «espadas perchero». Estas espadas, por otra parte, suelen tener espigas cortas o inexistentes (la espiga es la parte de la hoja donde se asegura la guarnición), con lo que el riesgo de que se rompan al recibir un golpe es muy alto. Si tenéis una de estas espadas en casa, ni se os ocurra poneros a blandirla a lo loco: una hoja de espada volando por los aires puede herir de gravedad al que pille.
+Por cierto, los aficionados gringos al coleccionismo de armas llaman a estas espadas *wall hanger*, que podríamos traducir como «espadas perchero». Estas espadas, por otra parte, suelen tener espigas cortas o inexistentes (la espiga es la parte de la hoja donde se asegura la guarnición), con lo que el riesgo de que se rompan al recibir un golpe es muy alto. Si tenéis una de estas espadas en casa, ni se os ocurra poneros a blandirla a lo loco: una hoja de espada volando por los aires puede herir de gravedad al que pille.
 
 ![Sí, es la espada de la película de Conan (la de 1982), de FilmSwords.com: un buen ejemplo de una espada mal diseñada: pesada (más de 3 kg), de hoja corta para ser blandida a dos manos (no llega a los 73 cm) y con una empuñadura muy larga para manejarla con una; los arriaces son cortos y la bigotera (la parte sin filo con la que comienza la hoja) carece de sentido](atlantean1.jpg)
 
@@ -82,7 +82,7 @@ El siguiente mito asociado a las armaduras menoscaba su efectividad y verdadero 
 
 Lo cual nos lleva a una paradoja: todos tenemos en mente luchas de caballeros embutidos en flamantes armaduras en la que esgrimen espadas; pero estas espadas no pueden hacer mucha mella en ellas, así que, ¿qué sentido tenía usarlas en tales combates?
 
-![Lámina del manual de esgrima aleman del s. XV _Gladiatoria_, que ilustra el agarre de media espada](gladiatoria1.jpg)
+![Lámina del manual de esgrima aleman del s. XV *Gladiatoria*, que ilustra el agarre de media espada](gladiatoria1.jpg)
 
 Ninguno. Por lo menos tal y como se esgrimían en un duelo a espada. Para luchar contra armaduras, la esgrima con espada usaba técnicas conocidas como «de media espada», en la que la espada se agarra con la mano derecha de la forma habitual, pero la izquierda se sitúa sobre la mitad de la hoja o el principio de su tercio débil.[^3] De esta forma, la espada se convierte en una curiosa combinación de espada y lanza con la que buscar los huecos de la armadura del adversario para asestarles el mejor ataque posible: una estocada potente con un arma de punta recia. La esgrima de media espada permitía, además, acciones de combate cerrado de las que salen luxaciones, derribos y presas, con la espada como palanca y el peso de tu cuerpo (y el de la armadura) como contrapeso.
 
@@ -108,17 +108,17 @@ Las espadas se llevaban a la cintura. En un tahalí que colgaba del hombro, o al
 
 ¿Por qué no? Porque desenvainar un arma (de cierta longitud) sujeta a la espalda es lento y difícil. Haced la prueba si no me creéis (yo la hice en su día).
 
-![Lansquenete alemán con montante _(Zweihänder)_ a la espalda](doppelsoldner1.jpg)
+![Lansquenete alemán con montante *(Zweihänder)* a la espalda](doppelsoldner1.jpg)
 
-¿Y las armas grandes? ¿Como, por ejemplo, los _claymore_ escoceses? ¿O los _zweihänder_ alemanes? Pues al hombro, sin vaina, por lo incómodo de portar una espada tan larga envainada. He leído menciones sobre soportes con ganchos que usaban los escoceses para llevar sus _claymore_ a la espalda, y es probable que se usaran, pero en cualquier caso es la excepción que confirma la regla y, además, los escoceses llevaban sus espadas de mano al cinto, como Dios manda.
+¿Y las armas grandes? ¿Como, por ejemplo, los *claymore* escoceses? ¿O los *zweihänder* alemanes? Pues al hombro, sin vaina, por lo incómodo de portar una espada tan larga envainada. He leído menciones sobre soportes con ganchos que usaban los escoceses para llevar sus *claymore* a la espalda, y es probable que se usaran, pero en cualquier caso es la excepción que confirma la regla y, además, los escoceses llevaban sus espadas de mano al cinto, como Dios manda.
 
-En realidad, todo esto de las armas a la espalda viene de la imaginería de los ninja, que el cine ha retratado una y otra vez con sus _ninjatos_ a la espalda. Lástima que todo sea falso. Los ninja vestidos de negro como superasesinos pertenecen más a la leyenda que a la realidad histórica; y, sin ir más lejos, los _ninjatos_ (esas katanas de filo recto usadas por los ninjas, supuestamente) son un bulo. Jamás existieron.
+En realidad, todo esto de las armas a la espalda viene de la imaginería de los ninja, que el cine ha retratado una y otra vez con sus *ninjatos* a la espalda. Lástima que todo sea falso. Los ninja vestidos de negro como superasesinos pertenecen más a la leyenda que a la realidad histórica; y, sin ir más lejos, los *ninjatos* (esas katanas de filo recto usadas por los ninjas, supuestamente) son un bulo. Jamás existieron.
 
 Así que, sencillamente, en la enorme mayoría de ocasiones una espada se llevaba (ceñía) al cinto. Ya sea mediante un tahalí colgado del hombro o un talabarte; pero al cinto. Naturalmente, en las películas, cómics, novelas o videojuegos, los protagonistas seguirán llevando las espadas a la espalda, a lo ninja molón: pero los que hayáis leído este artículo sabréis que es una filfa.
 
-_(Sigue en [De espadas y falacias (ii)](/espadas-y-falacias-ii/))_
+*(Sigue en [De espadas y falacias (ii)](/espadas-y-falacias-ii/))*
 
-[^1]: Entre las macanas destacan las usadas por los guerreros mexicas, llamadas _macuahuitl_ en su lengua, las cuales disponían de afilados fragmentos de obsidiana a lo largo de la «hoja».
+[^1]: Entre las macanas destacan las usadas por los guerreros mexicas, llamadas *macuahuitl* en su lengua, las cuales disponían de afilados fragmentos de obsidiana a lo largo de la «hoja».
 [^2]: Por si las moscas: arte marcial es todo lo que esté relacionado con la guerra y las armas, y no exclusivamente las disciplinas venidas de Oriente.
 [^3]: La hoja de una espada se divide en partes. Algunas fuentes consideran solo dos: el fuerte y el débil, o la fortaleza y la flaqueza; pero la división habitual es tres, conocidos como tercios. El primero, llamado tercio débil o flaco —que es, por cierto, con el que se considera que la espada hiere— se sitúa entre la punta de la espada y la tercera parte de su longitud; tras él está el tercio medio y el tercio fuerte o de fuerza, que termina en la guarnición de la espada. ¿A qué se deben estos nombres? Cuando dos espadas se encuentran, o en términos de esgrima, se agregan, lo que tenemos en un sistema de fuerzas regido por la vieja ley de la palanca: cuando la agregación se produce en nuestro tercio débil es cuando menos control podemos ejercer sobre la espada del contrario; y cuando se produce en nuestro tercio fuerte, cuando más.
 [^4]: Con Verdadera Destreza (esta última palabra, por cierto, era sinónimo de esgrima en el español antiguo), me refiero al sistema tradicional de esgrima española ideado en el s. XVI por don Jerónimo Sánchez de Carranza y desarrollado por Luis Pacheco de Narváez. Este sistema, que aúna Matemáticas, Filosofía y Geometría en sus conceptos, elevó la esgrima al carácter de ciencia, e hizo de los esgrimistas españoles unos temibles adversarios.

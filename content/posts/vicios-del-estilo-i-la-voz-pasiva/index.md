@@ -10,7 +10,7 @@ Lo prometido es deuda; tal y como os adelanté [en esta entrada](/2010/10/07/des
 
 ### **1\. ¿Qué es?**
 
-En la _Gramática de la Lengua Española_, de Emilio Alarcos Llorach, encontramos esta entrada re­lativa a la voz pasiva:
+En la *Gramática de la Lengua Española*, de Emilio Alarcos Llorach, encontramos esta entrada re­lativa a la voz pasiva:
 
 > Además de persona y número, (…) se incluyen en el verbo otros morfemas propios que (…) no afectan más que a la significación de la raíz léxica. Son los morfemas o accidentes conocidos con los términos de voz, modo, tiempo y aspecto.
 > 
@@ -88,17 +88,17 @@ Las construcciones en pasivas también indican falta de resolución y timidez ex
 
 ¿Por qué? Veamos este ejemplo sencillo: en inglés son muy frecuentes las construcciones gra­maticales de esta guisa:
 
-_get dressed_
+*get dressed*
 
-_get drunk_
+*get drunk*
 
-_get caught_
+*get caught*
 
-_be warned_
+*be warned*
 
 La traducción literal de estos ejemplos sería: **“quedar vestido”**, **“quedar borracho”**, **“quedar atrapado”** y **“ser advertido”**.
 
-En inglés no es corriente decir, por ejemplo **"Vestí a los niños"**, sino un **"Quedé a los niños vestidos"** (_I got the children dressed_). Tampoco realmente se dice **"John se emborracha"**, sino **"John queda borracho"** (_John gets drunk_)".
+En inglés no es corriente decir, por ejemplo **"Vestí a los niños"**, sino un **"Quedé a los niños vestidos"** (*I got the children dressed*). Tampoco realmente se dice **"John se emborracha"**, sino **"John queda borracho"** (*John gets drunk*)".
 
 Uno de los síntomas más obvios de que en inglés abundan las pasivas es la ineludible presen­cia de consejos para evitarlas a toda costa en cualquier manual de estilo de lengua inglesa.
 

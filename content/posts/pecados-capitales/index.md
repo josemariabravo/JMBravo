@@ -20,15 +20,15 @@ Sea como fuere, vamos a ello:
 
 ### 1\. Falta de fe
 
-De todos, el más grave y dañino. Acumular pensamientos negativos, derrotistas, del palo _a nadie le interesa lo que escribo._ _Qué más da si escribo hoy o no._ _Escribo fatal._ Etcétera. ¿Os suenan? Espero que no. Si lo hacen, procurad desechadlos. De raíz.
+De todos, el más grave y dañino. Acumular pensamientos negativos, derrotistas, del palo *a nadie le interesa lo que escribo.* *Qué más da si escribo hoy o no.* *Escribo fatal.* Etcétera. ¿Os suenan? Espero que no. Si lo hacen, procurad desechadlos. De raíz.
 
 No os creáis, yo no me he desembarazado del todo de estos pequeños cabroncetes. Aún regresan de tanto en tanto, pero al menos ya tengo preparadas las respuestas. Como estas:
 
-_A nadie le interesa lo que escribo_: ¿Y tú qué sabes? Así que calla y sigue escribiendo.
+*A nadie le interesa lo que escribo*: ¿Y tú qué sabes? Así que calla y sigue escribiendo.
 
-_Qué más da si escribo o no_: Debería importarte a ti, sobre todo. Y si no, mal vamos.
+*Qué más da si escribo o no*: Debería importarte a ti, sobre todo. Y si no, mal vamos.
 
-_Escribo fatal_: Escribe más. Ya lo harás mejor, algún día.
+*Escribo fatal*: Escribe más. Ya lo harás mejor, algún día.
 
 ### 2\. Esperar a las musas
 
@@ -48,7 +48,7 @@ Ajá. Pulidos. Sí, claro. Mis cojones.
 
 De modo que ahora, cuando escribo, procuro hacerlo rápido, sin mirar atrás. Ya habrá tiempo para revisar cuando llegue al final.
 
-Porque la palabra _borrador_ significa eso precisamente. Algo provisional. Poco importa que nos haya salido un churro a la primera. Como bien dicen los gringos, _you can't edit a blank page_, que podría traducirse como «No se puede corregir una página en blanco». Por muy malo que sea un primer borrador, puedes corregirlo. Pero a su debido tiempo.
+Porque la palabra *borrador* significa eso precisamente. Algo provisional. Poco importa que nos haya salido un churro a la primera. Como bien dicen los gringos, *you can't edit a blank page*, que podría traducirse como «No se puede corregir una página en blanco». Por muy malo que sea un primer borrador, puedes corregirlo. Pero a su debido tiempo.
 
 ### 4\. Descuidar la lectura.
 
@@ -62,7 +62,7 @@ Y no, no se trata de leer libros como quien trata de batir una marca personal. P
 
 ### 5\. No darle la prioridad adecuada.
 
-Escribir es una cuestión de prioridades. _No tengo tiempo por X, Y o Z_ es una frase habitual de los aspirantes a escritor. Y es mentira. Salvo que realmente no tengas **nada de tiempo libre**, tal que un condenado a galeras, puedes elegir qué hacer con tu tiempo, por poco que sea, si realmente estás dispuesto a ello.
+Escribir es una cuestión de prioridades. *No tengo tiempo por X, Y o Z* es una frase habitual de los aspirantes a escritor. Y es mentira. Salvo que realmente no tengas **nada de tiempo libre**, tal que un condenado a galeras, puedes elegir qué hacer con tu tiempo, por poco que sea, si realmente estás dispuesto a ello.
 
 Así que déjate de excusas y ponte a ello, copón.
 
@@ -80,9 +80,9 @@ Me parece una división demasiado forzada. Entre los dos extremos, el escritor q
 
 El mío está, desde luego, más hacia los que planifican. Y durante años me resistí a ello por consejos ajenos, por desidia, o creyendo que así lastraba mi productividad. De tal forma que no planificaba, o lo hacía a medias, y entre eso y esperar a la musa, para escribir un capítulo de 3000 o 4000 palabras tardaba dos semanas, como mínimo.
 
-Al final, justo cuando me debatía entre abandonar mi primera novela o echar el resto y acabarla, decidí seguir mi instinto. Agarré el toro por los cuernos y preparé un _outline_[^1] de escenas detallado, incluyendo los hitos narrativos de la historia: principio, final, nudos argumentales de mayor relevancia. Y una vez hecho eso me puse a escribir. Rápido. Sin vacilaciones. Y a fe mía que funcionó.
+Al final, justo cuando me debatía entre abandonar mi primera novela o echar el resto y acabarla, decidí seguir mi instinto. Agarré el toro por los cuernos y preparé un *outline*[^1] de escenas detallado, incluyendo los hitos narrativos de la historia: principio, final, nudos argumentales de mayor relevancia. Y una vez hecho eso me puse a escribir. Rápido. Sin vacilaciones. Y a fe mía que funcionó.
 
-Algunos dirán que esto mata la espontaneidad al escribir. No estoy de acuerdo, claro. Por muy detallado que sea un _outline_, siempre acaban surgiendo imprevistos, hallazgos más o menos afortunados. Es inevitable. Y no es algo malo _per se_.
+Algunos dirán que esto mata la espontaneidad al escribir. No estoy de acuerdo, claro. Por muy detallado que sea un *outline*, siempre acaban surgiendo imprevistos, hallazgos más o menos afortunados. Es inevitable. Y no es algo malo *per se*.
 
 Cuando dirigía partidas de rol acuñé un adagio personal que resume (valga la inmodestia) muy bien lo que pienso al respecto de la espontaneidad: «Improvisar solo merece la pena si no es necesario». Esto es: cuando realmente le saco jugo a la espontaneidad mientras escribo es cuando no la necesito, porque tengo bien claro por dónde voy. Usando la clásica analogía del viaje, si tienes bien clara la ruta puedes hacer una parada extra que no estaba prevista, siguiendo una corazonada. Porque sabes dónde estás y hacia dónde te diriges. Y te apetece, qué coño.
 

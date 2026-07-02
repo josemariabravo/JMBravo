@@ -9,25 +9,25 @@ tags:
 ---
 ![cosecha\_samhein](images/cosecha_samhein.jpg "cosecha_samhein")
 
-No soy, precisamente, un asiduo a la literatura juvenil, aunque haya tenido a _La Historia Interminable_ como libro de cabecera durante mis inicios como lector. En los últimos años habré leído el primero de **Harry Potter** (que no me hizo tilín, la verdad), el primero de _Memorias de Idhún_ (le concedo oficio a Laura Gallego, pero sus adolescentes en plan “lo quiero/ya no lo quiero” no me llaman mucho, la verdad) y poco más, que yo recuerde.
+No soy, precisamente, un asiduo a la literatura juvenil, aunque haya tenido a *La Historia Interminable* como libro de cabecera durante mis inicios como lector. En los últimos años habré leído el primero de **Harry Potter** (que no me hizo tilín, la verdad), el primero de *Memorias de Idhún* (le concedo oficio a Laura Gallego, pero sus adolescentes en plan “lo quiero/ya no lo quiero” no me llaman mucho, la verdad) y poco más, que yo recuerde.
 
-Y sin embargo, el libro que reseño ahora entra dentro de la categoría juvenil. Lo compré de rondón, cuando curioseaba en una gran superficie, y vi el nombre del autor, José Cotrina, al que conocía de la antología de relatos _Artifex_, de cuya segunda época fui suscriptor. Recuerdo gratamente su relato _Tres noches y un crepúsculo_, publicado en el volumen 4, y eso fue lo que me impulsó a comprarme _La cosecha de Samheim_, de José Antonio Cotrina (Alfaguara, 2009), pese a ser literatura juvenil, y encima, una trilogía.
+Y sin embargo, el libro que reseño ahora entra dentro de la categoría juvenil. Lo compré de rondón, cuando curioseaba en una gran superficie, y vi el nombre del autor, José Cotrina, al que conocía de la antología de relatos *Artifex*, de cuya segunda época fui suscriptor. Recuerdo gratamente su relato *Tres noches y un crepúsculo*, publicado en el volumen 4, y eso fue lo que me impulsó a comprarme *La cosecha de Samhein*, de José Antonio Cotrina (Alfaguara, 2009), pese a ser literatura juvenil, y encima, una trilogía.
 
 <!--more-->
 
 ### Sinopsis:
 
-La historia comienza así: una noche tormentosa de _Halloween_, un enano que fuma algo raro en una pipa aparece en el cuarto de Héctor, un chaval de quince años. El enano le propone visitar un mundo mágico de fantasía, llamado Rocavarancolia, cuyos habitantes necesitan la ayuda de Héctor porque, según parece, “es especial”.
+La historia comienza así: una noche tormentosa de *Halloween*, un enano que fuma algo raro en una pipa aparece en el cuarto de Héctor, un chaval de quince años. El enano le propone visitar un mundo mágico de fantasía, llamado Rocavarancolia, cuyos habitantes necesitan la ayuda de Héctor porque, según parece, “es especial”.
 
-Con este lisérgico comienzo arranca la historia de _La cosecha de Samhein_. Naturalmente, Héctor acepta, y con él, once niños más de este mundo. (Aunque en su descargo puede decirse que el enano los drogó con el humo de su pipa, puede que los niños sean especiales, pero no son muy listos que digamos.)
+Con este lisérgico comienzo arranca la historia de *La cosecha de Samhein*. Naturalmente, Héctor acepta, y con él, once niños más de este mundo. (Aunque en su descargo puede decirse que el enano los drogó con el humo de su pipa, puede que los niños sean especiales, pero no son muy listos que digamos.)
 
-Estos doce niños son la cosecha de Samhein (la festividad celta origen de la actual celebración de _Halloween_, por cierto), traídos a Rocavarancolia para librarla de la ruina en la que está sumida… si sobreviven. Porque el enano, si bien no les ha mentido, no les ha dicho toda la verdad. La omisión más relevante es que la ciudad está plagada de peligros que pueden acabar con su vida, y van a tener que apañárselas solitos.
+Estos doce niños son la cosecha de Samhein (la festividad celta origen de la actual celebración de *Halloween*, por cierto), traídos a Rocavarancolia para librarla de la ruina en la que está sumida… si sobreviven. Porque el enano, si bien no les ha mentido, no les ha dicho toda la verdad. La omisión más relevante es que la ciudad está plagada de peligros que pueden acabar con su vida, y van a tener que apañárselas solitos.
 
 ### Análisis:
 
-José Antonio Cotrina parte de los clichés más manidos del género juvenil y fantástico (como la inevitable _profecía_ o el _elegido_) para tejer una historia apasionante, cuya poderosa imaginería visual deslumbra por momentos (a destacar las creaciones del demiurgo).
+José Antonio Cotrina parte de los clichés más manidos del género juvenil y fantástico (como la inevitable *profecía* o el *elegido*) para tejer una historia apasionante, cuya poderosa imaginería visual deslumbra por momentos (a destacar las creaciones del demiurgo).
 
-El lenguaje que emplea el autor en la novela es sencillo y directo, de lectura fluida, con el que demuestra su innegable talento para las descripciones. No faltan, por cierto, las referencias literarias, algunas bastante irónicas, como las que aluden a _El Señor de las Moscas_.
+El lenguaje que emplea el autor en la novela es sencillo y directo, de lectura fluida, con el que demuestra su innegable talento para las descripciones. No faltan, por cierto, las referencias literarias, algunas bastante irónicas, como las que aluden a *El Señor de las Moscas*.
 
 En cuanto a la trama, la historia tiene dos hilos argumentales entrelazados: el primero, que narra las peripecias de los doce niños, y el segundo, protagonizado por los siniestros habitantes de Rocavarancolia.
 

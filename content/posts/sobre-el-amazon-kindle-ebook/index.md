@@ -4,7 +4,7 @@ date: "2010-12-08"
 categories: 
   - "articulos"
 ---
-Desde el arranque de esta bitácora [he mostrado entusiasmo](http://sombrasyceniza.com/2010/09/07/libros-electrnicos-el-futuro/ "Libros electrónicos: ¿el futuro?") por los lectores de libros electrónicos (_ebooks_). Finalmente, hace tres semanas, decidí adquirir uno, en concreto, un [Amazon Kindle](http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B002Y27P3M/ref=sa_menu_kdp3w3).
+Desde el arranque de esta bitácora [he mostrado entusiasmo](http://sombrasyceniza.com/2010/09/07/libros-electrnicos-el-futuro/ "Libros electrónicos: ¿el futuro?") por los lectores de libros electrónicos (*ebooks*). Finalmente, hace tres semanas, decidí adquirir uno, en concreto, un [Amazon Kindle](http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B002Y27P3M/ref=sa_menu_kdp3w3).
 
 \[caption id="" align="aligncenter" width="602" caption="El Kindle en su funda de cuero, en modo de espera."\]![kindle\_sombrasyceniza.com\_02](images/kindle_sombrasyceniza-com_021.jpg "kindle_sombrasyceniza.com_02")\[/caption\]
 
@@ -36,7 +36,7 @@ Para los que le hayáis echado un ojo al Amazon Kindle, estas son mis experienci
 
 **Formatos de contenido permitidos:** Kindle (AZW), TXT, PDF, Audible (Audible Enhanced (AA, AAX), MP3, MOBI (no protegido), PRC (nativo);  mediante el servicio de conversión de Amazon, HTML, DOC, RTF, JPEG, GIF, PNG y BMP.
 
-**Pega importante:** no convierte EPUBs. No obstante, mediante el _software_ [Calibre](http://calibre-ebook.com/) es fácil convertirlos a MOBI. No he tenido problemas hasta la fecha.
+**Pega importante:** no convierte EPUBs. No obstante, mediante el *software* [Calibre](http://calibre-ebook.com/) es fácil convertirlos a MOBI. No he tenido problemas hasta la fecha.
 
 **Garantía:** 1 año.
 
@@ -56,7 +56,7 @@ El quid de la cuestión: ¿qué tal es el cacharro para leer? En una sola palabr
 
 La lectura de PDFs es incómoda, salvo que el pdf esté maquetado para tamaños de página pequeños (digamos, A5 y formatos tipo libro); en otro caso tendremos que estar “navegando” por la página, lo cual es muy engorroso.
 
-Para convertir nuestros ficheros podemos usar un software de gestión de ebooks, como el ya mencionado [Calibre](http://calibre-ebook.com/) (obligado si queremos convertir EPUBs), o usar el servicio que provee Amazon.com a través del correo electrónico. Funciona de forma eficiente y cómoda, y es la opción que uso siempre (de nuevo, salvo en los EPUBs): basta con enviar como adjunto el archivo a convertir a la dirección asignada por Amazon (que es _usuario@free.kindle.com_), especificando “convert” en el asunto. (Si no especificamos ese asunto, no habrá conversión.) En un plazo de minutos el servicio de Amazon enviará una copia del archivo ya convertido al formato nativo de Kindle tanto al correo personal como al dispositivo, si hay una red wi-fi disponible.
+Para convertir nuestros ficheros podemos usar un software de gestión de ebooks, como el ya mencionado [Calibre](http://calibre-ebook.com/) (obligado si queremos convertir EPUBs), o usar el servicio que provee Amazon.com a través del correo electrónico. Funciona de forma eficiente y cómoda, y es la opción que uso siempre (de nuevo, salvo en los EPUBs): basta con enviar como adjunto el archivo a convertir a la dirección asignada por Amazon (que es *usuario@free.kindle.com*), especificando “convert” en el asunto. (Si no especificamos ese asunto, no habrá conversión.) En un plazo de minutos el servicio de Amazon enviará una copia del archivo ya convertido al formato nativo de Kindle tanto al correo personal como al dispositivo, si hay una red wi-fi disponible.
 
 (Si tenemos la versión wi-fi+3G es posible enviar los archivos mediante la conexión 3G, pero tiene un coste.)
 
@@ -86,7 +86,7 @@ Este es un resumen de los pros y contras de este aparato:
 
 Consideradas por Amazon como “experimentales”, son tres: un explorador de internet, un reproductor de archivos mp3 y un lector-sintetizador de voz.
 
-**Explorador de internet:** sencillo, útil, en especial su _Article mode_. Eso sí, sirve para lo que sirve: leer artículos y textos largos con comodidad. No soporta scripts de java o flash, así que su funcionalidad es limitada. No obstante, para leer artículos en blogs o wikipedia, por ejemplo, es idóneo. Yo lo uso en combinación con [Instapaper](http://www.instapaper.com/).
+**Explorador de internet:** sencillo, útil, en especial su *Article mode*. Eso sí, sirve para lo que sirve: leer artículos y textos largos con comodidad. No soporta scripts de java o flash, así que su funcionalidad es limitada. No obstante, para leer artículos en blogs o wikipedia, por ejemplo, es idóneo. Yo lo uso en combinación con [Instapaper](http://www.instapaper.com/).
 
 **Reproductor de MP3:** sencillo, sin adornos… espartano, diría yo. Tanto que no tiene interfaz, y solo un comando: reproducir/parar. La pega es que al usar este reproductor, como es lógico, la batería se consume a un ritmo muy superior. Personalmente lo uso como “amortiguador de ruidos”; he cargado unos 500 Mb en música instrumental y la escucho cuando quiero aislarme (leo a espaldas de la televisión, sin ir más lejos).
 
@@ -102,6 +102,6 @@ Otro uso muy interesante para escritores, tanto de textos y artículos, es el de
 
 Para los que son lectores, a secas (vuestro será el reino de los cielos, amén), tiene la ventaja de poder leer cómodamente los anticipos editoriales, sin necesidad de leer en una pantalla TFT o imprimirlos. Me bajo con mucha frecuencia estos anticipos, y me gustaría finalizar este artículo con un llamamiento a las editoriales y a los autores de género:
 
-1. Los anticipos editoriales son una idea espléndida, pero diez páginas es una miseria. Un 25-30% de la novela es lo suyo. ¿Qué hay que temer? ¿Que alguien se lo lea _de veras_? Y ya puestos: un pdf en plan prueba de imprenta no es el formato más adecuado para un anticipo editorial.
-2. Reduzcan el precio de los elibros: más de un 40% del precio del libro impreso es un _robo manifiesto_. Así es normal que el mercado del elibro no despegue en España. Nos ha jodido, con esos precios, y la que está cayendo.
+1. Los anticipos editoriales son una idea espléndida, pero diez páginas es una miseria. Un 25-30% de la novela es lo suyo. ¿Qué hay que temer? ¿Que alguien se lo lea *de veras*? Y ya puestos: un pdf en plan prueba de imprenta no es el formato más adecuado para un anticipo editorial.
+2. Reduzcan el precio de los elibros: más de un 40% del precio del libro impreso es un *robo manifiesto*. Así es normal que el mercado del elibro no despegue en España. Nos ha jodido, con esos precios, y la que está cayendo.
 3. Autores, reservaos los derechos de publicación en formato electrónico. Sea como fuere, no os quedéis solo en el papel. El tiempo me dará la razón.

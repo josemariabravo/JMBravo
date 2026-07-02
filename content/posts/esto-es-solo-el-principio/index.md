@@ -26,11 +26,11 @@ Este era el primer borrador «definitivo» de la novela; obviamente, me equivoca
 En fin. La historia sería larga y farragosa de contar; en alguna entrada resumiré lo que ―creo, espero― haber aprendido de los errores cometidos durante la escritura de esta novela.
 
 **L: ¿Y cómo se llama?**  
-Ah, perdón: _Sombras y ceniza_. No sé si será el título definitivo o solo provisional, pero dejémoslo así de momento, si no les importa. Es una novela de género fantástico, de unas 240 000 palabras (unas 685 páginas) de extensión, autoconclusiva (menos mal).  
-La acción transcurre en la ciudad de Mur’ubi, en el mundo de Últer, un mundo que podríamos considerar como _low fantasy_. Esto es: es ficticio, pero muy similar a nuestro mundo. No esperéis dragones, elfos, ni magia. (O quizá un poco de lo último. Tiempo al tiempo).
+Ah, perdón: *Sombras y ceniza*. No sé si será el título definitivo o solo provisional, pero dejémoslo así de momento, si no les importa. Es una novela de género fantástico, de unas 240 000 palabras (unas 685 páginas) de extensión, autoconclusiva (menos mal).  
+La acción transcurre en la ciudad de Mur’ubi, en el mundo de Últer, un mundo que podríamos considerar como *low fantasy*. Esto es: es ficticio, pero muy similar a nuestro mundo. No esperéis dragones, elfos, ni magia. (O quizá un poco de lo último. Tiempo al tiempo).
 
 **L: Ah, bien. ¿Y de qué va?**  
-Buena pregunta. Aún no he preparado una sinopsis ni un _[elevator pitch](http://www.gabriellaliteraria.com/tag/elevator-pitch/)_ de esos, porque si hay algo difícil para un escritor es hablar ―resumidamente― de su obra. Pero algo sí que tengo, veamos:
+Buena pregunta. Aún no he preparado una sinopsis ni un *[elevator pitch](http://www.gabriellaliteraria.com/tag/elevator-pitch/)* de esos, porque si hay algo difícil para un escritor es hablar ―resumidamente― de su obra. Pero algo sí que tengo, veamos:
 
 > Año 294 después del Azote: en la próspera Mur’ubi, enclave estratégico para el dominio marítimo del mundo conocido, un brutal asesinato desencadena una lid de sangre entre las dos facciones rivales que controlan la ciudad, los Mur Teryed y los Mur Asyb, mientras que una conspiración fraguada en las sombras amenaza con cambiar el orden establecido.  
 > Cuatro hombres se verán envueltos en los acontecimientos que moldearán el futuro de Mur’ubi y el amanecer de una nueva era, marcada por la supremacía de las armas de trueno, los buques de guerra y la pugna entre las naciones occidentales y el Imperio taibnio:
@@ -79,7 +79,7 @@ Ambos planes son excluyentes, en principio, pero pueden simultanearse. Esto es: 
 Realmente, la probabilidad ―no cabe engañarse― es mínima, sobre todo teniendo en cuenta que se trata de la primera novela de un autor desconocido; la extensión tampoco ayuda (creo que lo idóneo para una novela de fantasía es un máximo de unas 400 páginas).
 
 **L: Entonces, ¿por qué no la autopublicas, y ya está?**  
-Bien podría. Pero como me decía mi madre, que en paz descanse, el no ya lo tengo. Y que conste, sí, yo llevo abogando por la autopublicación desde hace tiempo; los remito a estas entradas: [«Autoedición digital o el nuevo parnaso»](/autoedicin-digital-o-el-nuevo-parnaso/) y [«Sobre la autopublicación y otras hogueras de las vanidades»](/sobre-la-autopublicacion-y-otras-hogueras-de-las-vanidades/).  
+Bien podría. Pero como me decía mi madre, que en paz descanse, el no ya lo tengo. Y que conste, sí, yo llevo abogando por la autopublicación desde hace tiempo; los remito a estas entradas: [«Autoedición digital o el nuevo parnaso»](/autoedicion-digital/) y [«Sobre la autopublicación y otras hogueras de las vanidades»](/autopublicacion/).  
 Pero seamos francos, la publicación tradicional, hoy por hoy, aún tiene mucho atractivo. Demasiado como para no intentarlo, al menos. Ojo, ambas opciones no son incompatibles: de hecho, cada vez hay más autores híbridos, que autopublican ciertas obras y venden a las editoriales otras. Buena cosa, por cierto.
 
 Bien. Creo que para comenzar es más que suficiente. Como ya dije, prometo tenerles al tanto de mis progresos.

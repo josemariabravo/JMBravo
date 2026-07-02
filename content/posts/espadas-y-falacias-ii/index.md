@@ -8,19 +8,19 @@ tags:
   - "esgrima"
 coverImage: "meyer_falacias.jpg"
 ---
-_(Viene de la [primera parte](/espadas-y-falacias-i/) de este artículo.)_
+*(Viene de la [primera parte](/espadas-y-falacias-i/) de este artículo.)*
 
 ### Mito n.º 6: Las espadas a dos manos
 
-Antes de seguir conviene hacer una aclaración breve sobre a qué me refiero con el término _espada a dos manos_. En el imaginario popular, estas espadas son enormes, pesadas e imponentes, y las manejan guerreros no menos enormes e imponentes para dar brutales tajos y reveses (entre gruñidos, para conferir aún más fiereza a la imagen).
+Antes de seguir conviene hacer una aclaración breve sobre a qué me refiero con el término *espada a dos manos*. En el imaginario popular, estas espadas son enormes, pesadas e imponentes, y las manejan guerreros no menos enormes e imponentes para dar brutales tajos y reveses (entre gruñidos, para conferir aún más fiereza a la imagen).
 
-!["Imagen](berserk.jpg)
+![Imagen](berserk.jpg)
 
-No era para tanto. O, al menos, no siempre. Con el término _espada a dos manos_ nos podríamos referir a las llamadas _espadas bastardas_ o _de mano y media_; a las _espadas de guerra_, ya propiamente de dos manos; o a los mucho más posteriores montantes, que sí podían llegar a ser enormes, pero sin llegar a las exageraciones que en muchos casos retratan las obras de corte fantástico.
+No era para tanto. O, al menos, no siempre. Con el término *espada a dos manos* nos podríamos referir a las llamadas *espadas bastardas* o *de mano y media*; a las *espadas de guerra*, ya propiamente de dos manos; o a los mucho más posteriores montantes, que sí podían llegar a ser enormes, pero sin llegar a las exageraciones que en muchos casos retratan las obras de corte fantástico.
 
 Veamos, a modo de apunte somero, qué características tenían estas espadas:
 
-Las _espadas bastardas_ o _de mano y media_ eran armas cuya empuñadura permitía asirla tanto con ambas manos superpuestas (de ahí lo de _mano y media_) o con una sola mano. Por otro lado, las espadas de guerra —_longsword_,[^1] en inglés, o _langeschwert_, en alemán— ya tienen una empuñadura que permite, de forma cómoda, el uso de las dos manos. Su hoja es más larga, en consecuencia.[^2]
+Las *espadas bastardas* o *de mano y media* eran armas cuya empuñadura permitía asirla tanto con ambas manos superpuestas (de ahí lo de *mano y media*) o con una sola mano. Por otro lado, las espadas de guerra —*longsword*,[^1] en inglés, o *langeschwert*, en alemán— ya tienen una empuñadura que permite, de forma cómoda, el uso de las dos manos. Su hoja es más larga, en consecuencia.[^2]
 
 Sobre el uso de ambas espadas, variaba mucho según la época y la morfología del arma, pero todas o prácticamente todas se usaban tanto para acuchillar con el filo como para estocar con la punta, aunque, como es lógico, había espadas diseñadas para ser usadas más de punta y otras más de filo: todo dependía del uso para el que estaban concebidas y a qué panoplia defensiva habían de enfrentarse. Para ilustrar su manejo, os dejo aquí este vídeo de la escuela de esgrima histórica alemana [The Real Gladiatores](http://gladiatores.de/), de estupenda realización:[^3]
 
@@ -30,9 +30,9 @@ La tendencia fue hacia el uso de la punta para enfrentarse a los arneses, lo que
 
 Por último, los montantes[^4] eran espadas de dos manos cuyo mejores exponentes aparecieron en el s. XVI. Dotadas de grandes arriaces y amplias empuñaduras, estas espadas podían tener  hojas de longitudes entre 120 y 150 cm; muchas de ellas disponían además de una segunda cruz en su tercio fuerte, o falsaguarda; el objeto de este aditamento era proporcionar defensa a la mano para cuando esta asía la espada por la hoja en determinadas acciones.
 
-![_Zweihänders_; la primera y tercera, comenzando por arriba, tienen falsaguarda.](Zweihaender.jpg)
+![*Zweihänders*; la primera y tercera, comenzando por arriba, tienen falsaguarda.](Zweihaender.jpg)
 
-Estas espadas se usaban principalmente para acuchillar, en movimientos amplios, muy dinámicos y poderosos debido a la inercia que acumulaban. He visto demostraciones de su uso en las que un solo esgrimista pudo rechazar a varios atacantes mediante tales molinetes: y es que acercarse a alguien que sabía manejar este arma debía de amedrentar bastante. De entre los diferentes tipos de montantes sobresalen los conocidos  _Zweihänder_ (dos manos) alemanes, usados por los _Doppelsöldner_ alemanes, llamados así por cobrar doble soldada… y por tener los huevos cuadrados, hablando mal y pronto: su cometido en combate era acometer las formaciones de piqueros a tajo limpio para abrir hueco en ellas.
+Estas espadas se usaban principalmente para acuchillar, en movimientos amplios, muy dinámicos y poderosos debido a la inercia que acumulaban. He visto demostraciones de su uso en las que un solo esgrimista pudo rechazar a varios atacantes mediante tales molinetes: y es que acercarse a alguien que sabía manejar este arma debía de amedrentar bastante. De entre los diferentes tipos de montantes sobresalen los conocidos  *Zweihänder* (dos manos) alemanes, usados por los *Doppelsöldner* alemanes, llamados así por cobrar doble soldada… y por tener los huevos cuadrados, hablando mal y pronto: su cometido en combate era acometer las formaciones de piqueros a tajo limpio para abrir hueco en ellas.
 
 En este vídeo (lamentablemente, no de muy buena calidad) podemos ver al Maestro de Armas de la AEEA [Alberto Bomprezzi](http://www.esgrimaantigua.com/AEEAAlbertoB.php) durante una demostración del manejo del montante:
 
@@ -40,7 +40,7 @@ http://www.youtube.com/watch?v=aRKQ2dV3pKI
 
 En cualquier caso, no eran armas muy prácticas para su uso, por así decirlo, cotidiano. De ahí que no tenga mucho sentido mostrar a personajes llevándolas así, como si tal cosa, en medio de una ciudad, como estoy cansado de leer en muchas novelas fantásticas (cómo no, invariablemente las llevan a la espalda).
 
-Aclarado (espero) el concepto de _espada a dos manos_, ataquemos pues el mito: estas espadas no eran ni tan abundantes ni tan prácticas como se presupone. En el cine y la TV se nota una tendencia a favorecer tales espadas, probablemente porque los productores las vean como más estéticas, aunque tengo el pálpito de que se hace para remedar la figura del samurai japonés, que tanta fascinación ha despertado en la cultura occidental.
+Aclarado (espero) el concepto de *espada a dos manos*, ataquemos pues el mito: estas espadas no eran ni tan abundantes ni tan prácticas como se presupone. En el cine y la TV se nota una tendencia a favorecer tales espadas, probablemente porque los productores las vean como más estéticas, aunque tengo el pálpito de que se hace para remedar la figura del samurai japonés, que tanta fascinación ha despertado en la cultura occidental.
 
 En muchos casos, la presencia de estas espadas, además de anacrónico en numerosas ocasiones (muchas de esas producciones están ambientadas en épocas medievales, y las espadas de dos manos son, por lo general, más tardías), roza el absurdo.
 
@@ -66,13 +66,13 @@ http://www.youtube.com/watch?v=5YQP6lthpLA
 
 ### Mito n.º 8: Las conversaciones durante el duelo
 
-Directamente relacionado con el anterior mito, hablar durante un duelo, intercambiando ingeniosas pullas parece, según las películas, algo habitual. Si tuviera que elegir una película para ilustrar este mito me quedaría sin dudarlo con la adaptación de la novela _La princesa prometida_, de William Goldman. Y sí, admito que estamos hablando de una película con una clara intención satírica que admite este mito.
+Directamente relacionado con el anterior mito, hablar durante un duelo, intercambiando ingeniosas pullas parece, según las películas, algo habitual. Si tuviera que elegir una película para ilustrar este mito me quedaría sin dudarlo con la adaptación de la novela *La princesa prometida*, de William Goldman. Y sí, admito que estamos hablando de una película con una clara intención satírica que admite este mito.
 
 Ahora bien, no lo veo tan disculpable en muchas películas épicas supuestamente muy serias y dramáticas. Dejémoslo claro: durante un combate o pones toda tu concentración en él o este acabará pronto y muy mal (para ti); no hay tiempo para conversar, salvo quizá para alguna imprecación entre jadeos. Y no, no es buen momento para que el malo exponga su plan maestro. Antes o después, tal vez. Durante, no es tan buena idea.
 
 ### Mito n.º 9: Las espadas de hoja irrompible
 
-![Cartel de la pelicula _The Last Samurai_; japofilia en su máxima expresión.](the_last_samurai.jpg)
+![Cartel de la película *The Last Samurai*; japofilia en su máxima expresión.](the_last_samurai.jpg)
 
 No es raro ver en películas una espada cortando en trozos casi cualquier cosa. Chocando con paredes. Atravesando armaduras como si nada. Incluso cortando otras espadas.
 
@@ -82,7 +82,7 @@ Lo que sí cortaban y pinchaban muy bien las espadas era la ropa, piel, carne y 
 
 Pero tened clara una cosa: aunque no eran irrompibles ni invencibles, las hojas de las espadas mataban, y muy bien. Por mucho mito y fascinación que despertara, y por mucho simbolismo que tuviera asociado, un arma ineficaz no se hubiera empleado tan profusamente a lo largo de la Historia.
 
-En la siguiente página de [Albion Armorers](http://www.albion-swords.com/cutting-knight.htm) podéis descargaros varios vídeos en formato .wmv en los que se prueba la eficacia de corte de uno de sus réplicas, una espada de una mano bautizada como _The Knight_. Echadles un ojo. No tienen desperdicio.
+En la siguiente página de [Albion Armorers](http://www.albion-swords.com/cutting-knight.htm) podéis descargaros varios vídeos en formato .wmv en los que se prueba la eficacia de corte de una de sus réplicas, una espada de una mano bautizada como *The Knight*. Echadles un ojo. No tienen desperdicio.
 
 ### Mito n.º 10: Mecánicas de combate absurdas
 
@@ -106,9 +106,9 @@ En segundo lugar, esas acciones amplias, cargadas de fuerza, nos dejan vendidos.
 
 Pero durante la lucha se tendía a cerrar la distancia hasta que las espadas se encontraban (se agregaban). De hecho, la mayoría de tratados comienzan en este momento del combate, dejando los preámbulos fuera de su materia. Una vez en esta distancia la cosa es diferente; la percepción del peligro aumenta. Tenemos al adversario encima. Si hacemos algo mal, nos herirá, y es muy probable que la herida nos incapacite, o mate. Eso cambia, desde luego, la perspectiva del asunto.
 
-Durante esta agregación es cuando se abre una «ventana de comunicación» con tu oponente, conocido por muchos maestros como _sentimiento del hierro_ (_Liechetenauer_, maestro alemán del s. XV, la llamó _Sprechfenster_, _ventana que habla_). El _sentimiento del hierro_, algo que parece muy de mística de baratillo, es algo sencillo en apariencia pero complejo de interpretar en la práctica. A través del contacto entre las hojas de las espadas, de la agregación, los oponentes reciben y ofrecen información, respectivamente, sobre sus intenciones: cuánta presión ejerce en tu hoja y dónde son dos de los aspectos básicos del _sentimiento del hierro_.
+Durante esta agregación es cuando se abre una «ventana de comunicación» con tu oponente, conocido por muchos maestros como *sentimiento del hierro* (*Liechetenauer*, maestro alemán del s. XV, la llamó *Sprechfenster*, *ventana que habla*). El *sentimiento del hierro*, algo que parece muy de mística de baratillo, es algo sencillo en apariencia pero complejo de interpretar en la práctica. A través del contacto entre las hojas de las espadas, de la agregación, los oponentes reciben y ofrecen información, respectivamente, sobre sus intenciones: cuánta presión ejerce en tu hoja y dónde son dos de los aspectos básicos del *sentimiento del hierro*.
 
-Así, un duelo con espadas se desarrollaría, _grosso modo_, de la siguiente forma: en primer lugar, los oponentes se acercarían a la distancia adecuada para ejecutar sus acciones. Sin prisas. Calculando cada paso. Aquilatando al oponente. Ya en distancia tenderían a agregar sus hojas, y solo perderían esa agregación para ejecutar acciones, siempre basadas en la información que disponen de su adversario, tanto si toman la iniciativa como si reaccionan ante las acciones de su oponente.
+Así, un duelo con espadas se desarrollaría, *grosso modo*, de la siguiente forma: en primer lugar, los oponentes se acercarían a la distancia adecuada para ejecutar sus acciones. Sin prisas. Calculando cada paso. Aquilatando al oponente. Ya en distancia tenderían a agregar sus hojas, y solo perderían esa agregación para ejecutar acciones, siempre basadas en la información que disponen de su adversario, tanto si toman la iniciativa como si reaccionan ante las acciones de su oponente.
 
 Por último: es necesario aclarar que una batalla campal era una situación muy distinta,  y no cabían técnicas tan depuradas y meditadas como en los duelos (al menos en sus primeras fases; cuando la cosa se calentaba, es lógico pensar que las acciones serían más precipitadas). En lo más hondo de una liza caben acciones más instintivas y arriesgadas, dada la naturaleza caótica y demencial de una batalla multitudinaria. De ahí que un buen escudo y una buena armadura fueran tan importantes para mantenernos con vida.
 
@@ -122,10 +122,10 @@ Y para más información sobre estos y otros mitos, recomiendo al lector que lea
 
 [http://laespadaes.blogspot.com/2010/08/la-desconocida-espada-2-parte.html](http://laespadaes.blogspot.com/2010/08/la-desconocida-espada-2-parte.html)
 
-[^1]: Con frecuencia, este término se ha traducido mocosuena como _espada larga_, sobre todo en manuales de rol, como en la archiconocida segunda edición del AD&D
+[^1]: Con frecuencia, este término se ha traducido mocosuena como *espada larga*, sobre todo en manuales de rol, como en la archiconocida segunda edición del AD&D
 [^2]: Esta división, que en la teoría parece clara, no lo es tanto en la práctica; pero abundar en esta cuestión con propiedad requeriría un artículo aparte.
 [^3]: Si os fijáis, las espadas empleadas en este vídeo son muy flexibles y se doblan (flexan) al chocar contra el cuerpo del oponente; esto es así por la naturaleza de las espadas de práctica, diseñadas para minimizar el impacto en las estocadas durante los asaltos. Las contrapartidas históricas eran mucho más rígidas en comparación.
 [^4]: No menciono términos como mandoble, bastante ambiguo ya que puede referirse a cualquier espada manejada a dos manos, o el de espadón, aún más ambiguo si cabe, al denominar cualquier espada grande, concepto bastante subjetivo.
-[^5]: Sí, incluso las _katanas_, armas que merecerían un artículo extra sobre su mito.
+[^5]: Sí, incluso las *katanas*, armas que merecerían un artículo extra sobre su mito.
 [^6]: Naturalmente, no todas las espadas mostraban las mismas aptitudes para el corte y la estocada; todo dependía del diseño del arma y sus características.
 [^7]: La Verdadera Destreza española denomina esta distancia como «medio de proporción».

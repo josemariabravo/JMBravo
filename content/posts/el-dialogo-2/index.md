@@ -35,7 +35,7 @@ Dicho esto, el primer consejo a tener en cuenta respecto a los parlamentos de un
 
 Por eso mismo, un buen diálogo tiene mucho de artificio: debe parecer real, veraz, pero no tiene por qué serlo, e incluso quizá no es conveniente que lo sea.
 
-Así, los parlamentos deberían eliminar lo superfluo en la comunicación oral, las repeticiones, las muletillas, los errores, las expresiones fáticas innecesarias _(¿me entiendes?)_ y otros lastres, salvo que, como veremos más adelante, cumplan una función.
+Así, los parlamentos deberían eliminar lo superfluo en la comunicación oral, las repeticiones, las muletillas, los errores, las expresiones fáticas innecesarias *(¿me entiendes?)* y otros lastres, salvo que, como veremos más adelante, cumplan una función.
 
 Por lo tanto, debemos intentar que los parlamentos de los personajes sean claros y concisos.
 
@@ -59,9 +59,9 @@ Ahora bien: el diálogo puede y debe transmitir información, pero esto implica 
 
 —El personaje recapitula, sin venir a cuento, lo ocurrido. Es el clásico «Como todos sabemos», seguido de una larga y absurda exposición (porque, si todos lo sabemos, ¿para qué demonios hace falta que lo digas? ).[^1]
 
-—El personaje divaga en un monólogo inesperado y suelta una larga exposición de siete páginas, o así, sobre un tema. Esto es perfecto para que el lector coja nuestro libro y lo tire por la ventana más próxima (salvo que sea un _ebook,_ claro), pero, hasta cierto punto, puede ser inevitable e incluso necesario. El truco está en hacer que esas siete páginas seguidas no sean tales, repartiendo la exposición a lo largo de la historia. Recuerda, también, que se trata de un diálogo: los otros interlocutores querrán interrumpir al personaje, así que deja que lo hagan, al menos de tanto en tanto.
+—El personaje divaga en un monólogo inesperado y suelta una larga exposición de siete páginas, o así, sobre un tema. Esto es perfecto para que el lector coja nuestro libro y lo tire por la ventana más próxima (salvo que sea un *ebook,* claro), pero, hasta cierto punto, puede ser inevitable e incluso necesario. El truco está en hacer que esas siete páginas seguidas no sean tales, repartiendo la exposición a lo largo de la historia. Recuerda, también, que se trata de un diálogo: los otros interlocutores querrán interrumpir al personaje, así que deja que lo hagan, al menos de tanto en tanto.
 
-—El personaje monologa (otra vez) sobre el motivo de sus acciones. «He hecho esto porque…». Este es el clásico monólogo del tipo «el malo explica sus planes», propio de los peores ejemplos de historias _pulp._ No lo hagas, por favor; y si no tienes más remedio, usa el sentido común y sé breve.
+—El personaje monologa (otra vez) sobre el motivo de sus acciones. «He hecho esto porque…». Este es el clásico monólogo del tipo «el malo explica sus planes», propio de los peores ejemplos de historias *pulp.* No lo hagas, por favor; y si no tienes más remedio, usa el sentido común y sé breve.
 
 Podríamos seguir, pero en el fondo este consejo se resume así: los personajes han de transmitir información en un diálogo, pero debe tener un propósito y ser pertinente.
 
@@ -77,7 +77,7 @@ Este consejo viene a ser un corolario del anterior: si un buen diálogo proporci
 
 Existe un viejo adagio en la escritura: lo que no suma, resta. Si una parte del diálogo no aporta nada de interés sobre el argumento, el trasfondo de la historia, el mundo o sus personajes, sobra.
 
-Y para esto, nada como seguir otro consejo, en este caso sobre la escritura de guiones: _get in late, leave early,_ que podría traducirse como «entra tarde, sal temprano».
+Y para esto, nada como seguir otro consejo, en este caso sobre la escritura de guiones: *get in late, leave early,* que podría traducirse como «entra tarde, sal temprano».
 
 ¿Qué quiere decir? Veámoslo con un ejemplo. Dos amigas se citan en un café para contarse una noticia importante. Así comienza el diálogo:
 
@@ -153,7 +153,7 @@ En cuanto al qué, es la parte más evidente del parlamento de un personaje. Ten
 
 ―Registro: el registro de una conversación es la forma de hablar que elige un hablante en función de las circunstancias. Un personaje no hablará de la misma forma en un bar, rodeado de amigos, que ante un juez, por citar dos ejemplos extremos. El registro, como es natural, necesita de contexto: qué se habla, dónde, y con quién, además de conocer el estado emocional de los interlocutores.
 
-―Vulgarismos y expresiones malsonantes: dicho en claro, expresiones poco recomendables en el lenguaje culto o incorrectas, _per se,_ además de insultos, juramentos y palabrotas. En cuanto a los primeros, un personaje culto no debería usar muchos, o ninguno, salvo que el registro de la conversación lo justifique; y en cuanto a los segundos, la frecuencia y el tipo de los tacos que suelte son una de las mejores muestras de carácter de un personaje.
+―Vulgarismos y expresiones malsonantes: dicho en claro, expresiones poco recomendables en el lenguaje culto o incorrectas, *per se,* además de insultos, juramentos y palabrotas. En cuanto a los primeros, un personaje culto no debería usar muchos, o ninguno, salvo que el registro de la conversación lo justifique; y en cuanto a los segundos, la frecuencia y el tipo de los tacos que suelte son una de las mejores muestras de carácter de un personaje.
 
 ―Muletillas y redundancias:[^4] como es normal, conviene evitar las muletillas y redundancias, salvo que se empleen en su justa medida y de forma consciente para caracterizar la voz de un personaje. Que un personaje concreto suelte un «vaya, vaya» cada tres parlamentos no supone ningún problema; el que lo haga cada dos frases puede llegar a ser un engorro.
 
@@ -207,7 +207,7 @@ Hasta aquí la segunda entrega. En la próxima, nos ocuparemos de los incisos de
 
 [^1]: Empero, podría emplearse una recapitulación para ilustrar el hablar puntilloso y prolijo de un personaje:
 
-_—Como todos sabemos, el uranio es un elemento químico de número atómico noventa y dos, y cuyo símbolo… ―comenzó a decir Pedro con un dedo en alto._
+*—Como todos sabemos, el uranio es un elemento químico de número atómico noventa y dos, y cuyo símbolo… ―comenzó a decir Pedro con un dedo en alto.*
 
 ―Oh, por favor, ve al grano ―le cortó Juan―. ¿Pueden o no construir la bomba?
 

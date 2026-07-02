@@ -5,7 +5,7 @@ categories:
   - "novedades"
 coverImage: "Cubierta_Sombras-y-ceniza_recorte.png"
 ---
-Sí. Finalmente, ya tocaba, he decidido autopublicar mi novela _Sombras y ceniza_. Si queda algún lector viejo de este blog (¿hola?), recordará que (ejem), hace un tiempo (ejem, ejem, ya casi tres años), puse una entrada sobre la novela. [Aquí](/esto-es-solo-el-principio/).
+Sí. Finalmente, ya tocaba, he decidido autopublicar mi novela *Sombras y ceniza*. Si queda algún lector viejo de este blog (¿hola?), recordará que (ejem), hace un tiempo (ejem, ejem, ya casi tres años), puse una entrada sobre la novela. [Aquí](/esto-es-solo-el-principio/).
 
 Ya me vale, ¿verdad? Tres años… Eso sí que es dejar dormir la historia en un cajón, y lo demás son tonterías.  
 Quizá tengan algunas preguntas que hacerme. Al menos, yo tengo ganas de justificarme, así que vaya una ronda corta de preguntas y respuestas, valiéndome de mi querido lector hipotético™. Vamos allá:
@@ -29,9 +29,9 @@ Veamos. Algo así, más o menos:
 
 Bueno. He estado ocupado (ejem). Aunque el verdadero motivo es que hasta hace poco no he tenido ánimos para autoeditarla, simple y llanamente. Y, al menos el primer año, intenté publicarla por medios tradicionales.  
 Y fracasé miserablemente, claro.  
-Ahora podría pontificar sobre las ventajas de la autopublicación, justificando mi decisión con [esta](/sobre-la-autopublicacion-y-otras-hogueras-de-las-vanidades/;) o [esta](<http:// /autoedicin-digital-o-el-nuevo-parnaso/>) entrada, pero lo cierto es que sería jugar a la zorra y las uvas de Esopo. No cabe engañarse, la verdad: por mucho que racionalmente, sobre todo ahora que conozco un poco el paño editorial, siga considerando que publicar con una editorial pequeña no tiene demasiadas ventajas y que autopublicarse tiene muchas, lo cierto es que mi intento fracasado de colocar el manuscrito de mi novela me escoció en su día.
+Ahora podría pontificar sobre las ventajas de la autopublicación, justificando mi decisión con [esta](/sobre-la-autopublicacion-y-otras-hogueras-de-las-vanidades/) o [esta](<http:// /autoedicin-digital-o-el-nuevo-parnaso/>) entrada, pero lo cierto es que sería jugar a la zorra y las uvas de Esopo. No cabe engañarse, la verdad: por mucho que racionalmente, sobre todo ahora que conozco un poco el paño editorial, siga considerando que publicar con una editorial pequeña no tiene demasiadas ventajas y que autopublicarse tiene muchas, lo cierto es que mi intento fracasado de colocar el manuscrito de mi novela me escoció en su día.
 
-Repito: no cabe engañarse. Ninguna de las editoriales a las que envié el manuscrito de la novela se interesó por él, así que ante la disyuntiva de arrumbar _Sombras y ceniza_ en un cajón, junto a otras obras inacabadas, y autopublicarme, he optado por lo segundo. Y me gustaría que alguien se alegrase por ello.
+Repito: no cabe engañarse. Ninguna de las editoriales a las que envié el manuscrito de la novela se interesó por él, así que ante la disyuntiva de arrumbar *Sombras y ceniza* en un cajón, junto a otras obras inacabadas, y autopublicarme, he optado por lo segundo. Y me gustaría que alguien se alegrase por ello.
 
 **LH: Bueno. ¿Y cuándo podré leerla?**
 

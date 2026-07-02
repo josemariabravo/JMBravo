@@ -20,7 +20,7 @@ Estas cuatro categorías son las siguientes (entre paréntesis, las abreviaturas
 
 **1.) Trasfondo (TRF):**
 
-La información de trasfondo abarca todas las notas sobre el marco de nuestra historia. Esto es vital en una historia que transcurre en un entorno fantástico, desde una novela de _space-opera_ a una de fantasía épica. Por ejemplo: qué lenguajes se hablan en el mundo, cómo se mide el tiempo, qué grupos culturales existen, el nivel tecnológico de las culturas, etcétera.
+La información de trasfondo abarca todas las notas sobre el marco de nuestra historia. Esto es vital en una historia que transcurre en un entorno fantástico, desde una novela de *space-opera* a una de fantasía épica. Por ejemplo: qué lenguajes se hablan en el mundo, cómo se mide el tiempo, qué grupos culturales existen, el nivel tecnológico de las culturas, etcétera.
 
 Insisto: esta información es especialmente importante en el caso de historias fantásticas o con marcos narrativos que no nos sean familiares. Una historia de fantasía épica o de ciencia ficción, o una trama histórica, tienen necesidad de mayor número de registros que una historia que transcurra en un entorno actual y, por tanto, familiar para la mayoría de nosotros.
 
@@ -50,7 +50,7 @@ Con respecto a la información del **argumento**, estos son los documentos más 
 
 **El dramatis personae (la relación de personajes):**
 
-Un _dramatis personae_ recoge el elenco de los personajes, y puede ser algo tan sencillo como una tabla de dos columnas con una entrada y una salida (Personaje, Datos). Ejemplo:
+Un *dramatis personae* recoge el elenco de los personajes, y puede ser algo tan sencillo como una tabla de dos columnas con una entrada y una salida (Personaje, Datos). Ejemplo:
 
 | Personaje | Datos |
 | --- | --- |
@@ -59,11 +59,11 @@ Un _dramatis personae_ recoge el elenco de los personajes, y puede ser algo tan 
 | Pepa | La mujer de Pepe. Guapa y dicharachera. |
 | Laura | La hija de Juan. Casquivana y alocada. Está en último curso de bachillerato. |
 
-Por supuesto, se pueden hacer tablas mucho complejas según sea necesario; por ejemplo, notas descriptivas o fechas de nacimiento. Puede que elaborar un _dramatis personae_ no parezca importante en un cuento de 3.000 palabras; y lo más probable es que no lo sea. Pero en una novela de 300.000, sí. Salvo que tengáis una memoria prodigiosa, claro.
+Por supuesto, se pueden hacer tablas mucho más complejas según sea necesario; por ejemplo, notas descriptivas o fechas de nacimiento. Puede que elaborar un *dramatis personae* no parezca importante en un cuento de 3.000 palabras; y lo más probable es que no lo sea. Pero en una novela de 300.000, sí. Salvo que tengáis una memoria prodigiosa, claro.
 
 **Fichas de personaje: **\[Opcional\]****
 
-Además del _dramatis personae_ recomiendo usar fichas de personaje, aunque solo para los personajes más relevantes de una trama. Utilizo una ficha muy sencilla de cuatro apartados, tal como esta: [Ficha de personaje (Google Doc)](https://docs.google.com/document/edit?id=1-iJwG23-SzYIHwe1AoPJ0c4HarimM2KNUUtmkV0rMdk&hl=en).
+Además del *dramatis personae* recomiendo usar fichas de personaje, aunque solo para los personajes más relevantes de una trama. Utilizo una ficha muy sencilla de cuatro apartados, tal como esta: [Ficha de personaje (Google Doc)](https://docs.google.com/document/edit?id=1-iJwG23-SzYIHwe1AoPJ0c4HarimM2KNUUtmkV0rMdk&hl=en).
 
 He usado fichas más elaboradas, en las que venían tabuladas las características principales de cada personaje, de forma parecida que en un juego de rol, pero lo veo innecesariamente complicado.
 
@@ -127,6 +127,6 @@ Personalmente encuentro muy útil una clasificación mediante etiquetas para est
 
 Este método de organización no es sólo para la planificación inicial. Sirve también para controlar el desarrollo de una novela y facilitar las revisiones posteriores. Si a medida que vamos escribiendo la historia registramos qué personajes intervienen, los hechos principales de la trama, los detalles de trasfondo, etcétera, más adelante no nos costará demasiado revisar que todo concuerde.
 
-Imaginad una historia con más de cien personajes, salpicada de detalles descriptivos y peculiaridades idiolécticas de cada uno. Si hemos apuntado todo eso en un _dramatis personae_ (_Fulano, el amigo de Mengano, es feo, pelirrojo y suelta muchos tacos_), será fácil detectar que en el penúltimo capítulo lo hemos descrito como resultón y moreno… o quizás caer en la cuenta de que hemos olvidado al hijo que mencionó con mucho afecto en un capítulo intermedio.
+Imaginad una historia con más de cien personajes, salpicada de detalles descriptivos y peculiaridades idiolécticas de cada uno. Si hemos apuntado todo eso en un *dramatis personae* (*Fulano, el amigo de Mengano, es feo, pelirrojo y suelta muchos tacos*), será fácil detectar que en el penúltimo capítulo lo hemos descrito como resultón y moreno… o quizás caer en la cuenta de que hemos olvidado al hijo que mencionó con mucho afecto en un capítulo intermedio.
 
 \[1\] Si bien es posible que el argumento de una trama sea parte del trasfondo de otra.
