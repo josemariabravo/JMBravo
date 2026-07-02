@@ -1,0 +1,27 @@
+# Ideas para artículos
+## Artículos generales
+- Artículo sobre el uso de la IA como reflexión sobre la injerencia externa y la falsificación del autor.
+- Fantasía histórica como género.
+- Carta de amor de un escritor a markdown.
+- Carta de amor a Obsidian.
+- Escribir a mano, una apología.
+- Guía esencial de Obsidian
+	- Qué es
+	- Qué no es
+	- Usos razonables
+	- [Guía Markdown de Obsidian - Tutorial Markdown](https://tutorialmarkdown.com/aplicaciones/obsidian)
+	- [Curso de Obsidian - Emowe Aprendizaje Visual](https://emowe.com/cerebro-digital/curso-tutorial-de-obsidian/)
+- Guía de Obsidian para mundografía/worldbuilding (fusila Obsidian Tavern, chacho).
+- Escribir una novela en Obsidian
+	- Ventajas y desventajas
+	- Lo básico de Obsidian
+	- Plugins recomendables (Longform)
+	- Respaldos y versiones
+	- Estructura del proyecto
+	- Exportación
+- Por qué escribir.
+- Genette. Conceptos básicos narrativos.
+- Explicatio non petita de cada libro.
+- Apéndice de *Sombras y ceniza*
+- Apéndice de *Runas de sangre*
+- Apéndice de *Dead wrong*
