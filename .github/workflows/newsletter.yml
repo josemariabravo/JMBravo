@@ -1,0 +1,32 @@
+name: crear borrador de boletín
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "content/posts/**/index.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: configurar node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: instalar dependencias
+        run: npm install --no-save gray-matter
+
+      - name: crear borradores pendientes en buttondown
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+          SITE_BASE_URL: https://jmbravo.com
+        run: node .github/scripts/newsletter.mjs

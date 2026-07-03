@@ -47,6 +47,17 @@ Texto descriptivo de la descarga.
 
 publicación manual vía GitHub Desktop (commit + push) — se descartó el plugin Git de Obsidian por preferencia explícita del usuario (quiere revisar el diff antes de confirmar). github actions (`.github/workflows/hugo.yml`) construye y despliega solo.
 
+## boletín (buttondown)
+
+buttondown movió el RSS-to-email nativo a un plan de pago (abril 2026); la API sigue disponible en el plan gratuito, así que el boletín se genera vía github actions en vez de la automatización nativa.
+
+- entradas de `content/posts/` con `newsletter: true` en el frontmatter generan un borrador en buttondown; las que no lleven ese campo (la mayoría, incluidas todas las migradas de wordpress) no generan nada.
+- workflow: `.github/workflows/newsletter.yml`, dispara en cada push a `main` que toque `content/posts/**/index.md`. script: `.github/scripts/newsletter.mjs`.
+- el script no envía nada — crea el email con `status: "draft"`. el envío final es manual, desde el panel de buttondown, a propósito (revisión antes de mandar).
+- idempotencia: usa el campo `canonical_url` del email (la url de la propia entrada) para no duplicar el borrador si editas el post y vuelves a hacer push. no hace falta marcar nada a mano ni el script escribe de vuelta en el repo.
+- cuerpo del correo: `description` del frontmatter si existe, si no un resumen automático del texto, más un enlace «leer el artículo completo» — no el artículo íntegro (evita el problema de rutas de imagen relativas dentro del email).
+- pendiente de un paso manual del usuario, no automatizable desde aquí: crear un api key en buttondown y guardarlo como secreto del repo `BUTTONDOWN_API_KEY` (*settings → secrets and variables → actions*).
+
 ## pendientes conocidos
 
 - revisión a fondo de la plantilla visual: algo más vistosa que la actual (inspiración zen habits, con algún detalle gráfico, sin pasarse de sobria).

@@ -325,12 +325,12 @@
   .hero-bg {
     position: absolute;
     inset: 0;
-    left: 15%;
+    left: 0%;
     background-size: cover;
     background-position: center;
     -webkit-mask-image: linear-gradient(to right, transparent 10%, black 80%);
     mask-image: linear-gradient(to right, transparent 10%, black 80%);
-    opacity: .55;
+    opacity: .65;
   }
 
   .hero-inner {
@@ -344,6 +344,7 @@
     color: var(--muted);
     margin: 0;
     padding: 0;
+    text-shadow: 2px 0 var(--surface), -2px 0 var(--surface), 0 2px var(--surface), 0 -2px var(--surface), 1px 1px var(--surface), -1px -1px var(--surface), 1px -1px var(--surface), -1px 1px var(--surface);
   }
 
   .hero-inner blockquote {
