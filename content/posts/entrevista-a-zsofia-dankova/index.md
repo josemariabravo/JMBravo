@@ -3,7 +3,11 @@ title: "Entrevista a Zsofia Dankova"
 date: "2019-07-07"
 categories: 
   - "articulos"
-coverImage: "zsofia_02.jpg"
+resources:
+  - src: "images/zsofia_02.jpg"
+    params:
+      no_galeria: true
+
 ---
 «No juzgues un libro por la cubierta», dicen.
 
@@ -25,9 +29,9 @@ Nació en Praga, aunque creció en Eslovaquia. La familia de Zsofia es húngara,
 
 En breve se irá a vivir a los Países Bajos, donde comenzará estudios de Bellas Artes. Sin embargo, hasta ahora Zsofia no ha recibido formación artística reglada, por lo que ha sido principalmente autodidacta, aunque recibe clases privadas de un pintor académico.
 
-## Entrevista:
+## Entrevista
 
-**¿Cuáles son tus influencias artísticas? ¿Y tus artistas favoritos?**
+**¿Cuáles son tus influencias artísticas? ¿Y tus artistas favoritos?
 
 Me fascina especialmente el Barroco, los viejos maestros académicos y el Romanticismo en general. Hay muchos grandes pintores a los que admiro.
 
@@ -43,7 +47,7 @@ Aunque la mayor parte de mis lecturas están relacionadas con los mitos y leyend
 
 No veo demasiado cine y tampoco sabría decirte por qué. Puede sonar extraño, pero me gustan las películas mudas de los primeros tiempos del cine. Mis películas favoritas son *Häxan*, *L’Inferno*, *Nosferatu*, *Drácula* y *Frankenstein*.
 
-Y en cuanto a videojuegos, *Skyrim* y, especialmente, *The Witcher*,[\[1\]](#_ftn1) sin duda alguna.
+Y en cuanto a videojuegos, *Skyrim* y, especialmente, *The Witcher*,[^1] sin duda alguna.
 
 **¿Cuál es tu género de música favorito?**
 
@@ -53,7 +57,7 @@ Metal, obviamente. No obstante, también me gusta la música clásica, folk y am
 
 La primera vez que asistí a un concierto de Powerwolf fue en 2015 y me quedé fascinada por su música y actuación en directo. Su estilo y estética me produjeron un hondo impacto y un tiempo después, en enero de 2016, decidí pintar algo inspirada por ellos.
 
-https://www.youtube.com/watch?v=uttlRqHpvNs
+[Powerwolf - Incense & Iron](https://www.youtube.com/watch?v=uttlRqHpvNs)
 
 La banda vio la ilustración y decidieron ponerse en contacto conmigo. Me pidieron que trabajara para ellos; así comencé. Desde entonces he tenido la oportunidad de ilustrar sus discos, lo cual ha sido todo un privilegio.
 
@@ -73,40 +77,9 @@ La primera palabra que viene a la cabeza es «oscuro». Me siento muy influencia
 
 Ahora mismo, me gustaría expandir mis horizontes y aprender nuevas técnicas, como escultura, grabados, artesanía de piel, madera, cuero, etc., y luego incluir esos nuevos conocimientos en mi trabajo digital.
 
-## Galería de ilustraciones:
+## Galería de ilustraciones
 
-- ![](images/zsofia-dankova-forgehammer-1030x1030.jpg)
-    
-- ![](images/zsofia-dankova-untitled-1.jpg)
-    
-- <figure>
-    
-    ![](images/zsofia-dankova-sarcophagus-1030x1030.jpg)
-    
-    <figcaption>
-    
-    Sarcophagus
-    
-    </figcaption>
-    
-    </figure>
-    
-- ![](images/zsofia-dankova-as-798x1030.jpg)
-    
-- ![](images/zsofia-dankova-1-1030x1030.jpg)
-    
-- ![](images/zsofia-dankova-checkmate-1030x1030.jpg)
-    
-- ![](images/zsofia-dankova-dcnfbqt-49f61989-5743-42e7-a388-1cb91a81f5ef-1030x562.jpg)
-    
-- ![](images/zsofia-dankova-untitled-1-1-1030x1030.jpg)
-    
-- ![](images/zsofia-dankova-farewell-1030x808.jpg)
-    
-- ![](images/zsofia-dankova-powerwolf.jpg)
-    
-- ![](images/zsofia-dankova-3-1030x644.jpg)
-    
+{{< galeria >}}
 
 Para más información sobre el arte de Zsofia:
 
@@ -114,6 +87,6 @@ Para más información sobre el arte de Zsofia:
 
 [https://www.artstation.com/whiluna](https://www.artstation.com/whiluna)
 
-* * *
 
-[\[1\]](#_ftnref1) N. del T.: *The Witcher* es una trilogía de videojuegos desarrollados por la compañía polaca CD Projekt, basados en las novelas de Andrzej Sapkowski, conocido autor polaco de fantasía.
+
+[^1]: N. del T.: *The Witcher* es una trilogía de videojuegos desarrollados por la compañía polaca CD Projekt, basados en las novelas de Andrzej Sapkowski, conocido autor polaco de fantasía.

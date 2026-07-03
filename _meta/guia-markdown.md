@@ -249,6 +249,29 @@ date: "2026-01-15"
 
 El shortcode recoge automáticamente todas las imágenes de la carpeta y las muestra en un grid. Al pinchar en una imagen se abre a pantalla completa; se cierra pinchando fuera o en el botón ×.
 
+**También funciona dentro de una entrada:** el shortcode `{{</* galeria */>}}` no está limitado a `content/galerias/` — se puede usar en cualquier página con imágenes en su propia carpeta, incluida `content/posts/mi-articulo/`. Basta con copiar las imágenes junto al `index.md` del artículo y poner `{{</* galeria */>}}` donde deba aparecer el grid.
+
+> **Aviso:** por defecto el shortcode muestra *todas* las imágenes de la carpeta, sin distinguir si ya se han usado como imagen inline en el texto (`![...](imagen.jpg)`). Si una imagen inline y la galería conviven en la misma entrada, esa imagen saldrá repetida (una vez inline, otra en el grid) — salvo que la excluyas explícitamente (ver abajo).
+
+**Excluir una imagen concreta de la galería:**
+
+Para que una imagen de la carpeta no aparezca en el grid (por ejemplo, porque ya la usas inline en el texto, o porque es la portada del artículo), márcala con `no_galeria: true` en el frontmatter, dentro de una lista `resources`:
+
+```yaml
+---
+title: "Nombre de la entrada"
+date: "2026-01-15"
+resources:
+  - src: "imagen-inline.jpg"
+    params:
+      no_galeria: true
+---
+```
+
+La imagen sigue disponible para usarla inline (`![...](imagen-inline.jpg)`) o como portada; simplemente no se incluye en el grid de `{{</* galeria */>}}`. Se puede repetir la entrada `- src: ...` en la lista `resources` por cada imagen que se quiera excluir.
+
+> **Importante:** el `src` debe ser la ruta del archivo *relativa a la carpeta del artículo*, subcarpetas incluidas. Si la imagen vive en una subcarpeta (por ejemplo `content/posts/mi-articulo/images/foto.jpg`), hay que escribir `src: "images/foto.jpg"` y no solo `src: "foto.jpg"` — si no coincide exactamente, Hugo no encuentra el recurso y `no_galeria` no tiene ningún efecto (sin avisar del error).
+
 ---
 ## Proyectos en curso
 

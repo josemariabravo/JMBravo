@@ -1,4 +1,4 @@
-{{ $images := .Page.Resources.ByType "image" }}
+{{ $images := where (.Page.Resources.ByType "image") "Params.no_galeria" "ne" true }}
 {{ if $images }}
 <div class="galeria">
   {{ range $images }}
