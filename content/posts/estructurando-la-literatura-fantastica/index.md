@@ -4,7 +4,7 @@ date: "2010-11-05"
 categories: 
   - "articulos"
 ---
-Cuarta entrega de los *informes* [*Ouróboros*](/tag/ouroboros/). He elegido este artículo porque viene al pelo de mi última reflexión, [De géneros y anteojeras](/de-generos-y-anteojeras/), el cual tenía su semilla en esta entrada de [Prospectiva](http://www.literaturaprospectiva.com/), firmada por Antonio Santos ([Memento mori, fantasía](http://www.literaturaprospectiva.com/?p=5888)); y ya puestos a citar artículos ajenos, no dejaré atrás a [De géneros, generalidades y etiquetas en general](http://sirmia.wordpress.com/2010/10/05/de-generos-generalidades-y-etiquetas-en-general/), de mi amigo Israel.
+Cuarta entrega de los *informes* [*Ouróboros*](/tag/ouroboros/). He elegido este artículo porque viene al pelo de mi última reflexión, [De géneros y anteojeras](/posts/generos-y-anteojeras/), el cual tenía su semilla en esta entrada de [Prospectiva](http://www.literaturaprospectiva.com/), firmada por Antonio Santos ([Memento mori, fantasía](http://www.literaturaprospectiva.com/?p=5888)); y ya puestos a citar artículos ajenos, no dejaré atrás a [De géneros, generalidades y etiquetas en general](http://sirmia.wordpress.com/2010/10/05/de-generos-generalidades-y-etiquetas-en-general/), de mi amigo Israel.
 
 El artículo se escribió en su día como una reflexión sobre el género, cómo se estructura, y ante el descontento que sentíamos ante dicha estructuración, una propuesta de la misma y unas pocas normas para elaborar etiquetas con más sentido. En cualquier caso, aquí lo tenéis:
 

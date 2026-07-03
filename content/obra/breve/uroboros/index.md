@@ -6,7 +6,7 @@ categories:
 no_pager: true
 ---
 {{< nota >}}
-Este cuento forma parte del libro de cuentos *[Homini lupus](content/libros/homini-lupus/index.md)*.
+Este cuento forma parte del libro de cuentos *[Homini lupus](/libros/homini-lupus/)*.
 {{< /nota >}}
 
 Tras atender a sus clientes, Lucio Flaminio Rufo paseó dubitativo por el atrio de su *domus* del Quirinal. En las máscaras mortuorias de los antepasados de su noble *gens*, el patricio creyó leer un silencioso pero unánime reproche.

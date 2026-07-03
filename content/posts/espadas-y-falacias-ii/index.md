@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/espadas-y-falacias-ii/"]
 title: "De espadas y falacias (ii)"
 date: "2011-06-16"

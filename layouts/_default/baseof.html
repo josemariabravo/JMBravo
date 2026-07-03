@@ -5,15 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ $homeTitle := .Site.Params.home_title | default .Site.Title }}
   <title>{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.resumen }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
-  {{ with .Params.robots }}<meta name="robots" content="{{ . }}">{{ end }}
+  {{ $pageDescription := .Site.Params.description }}
+  {{ if not .IsHome }}
+    {{ if .Description }}
+      {{ $pageDescription = .Description }}
+    {{ else if .Params.resumen }}
+      {{ $pageDescription = .Params.resumen }}
+    {{ else if .Summary }}
+      {{ $pageDescription = .Summary | plainify | strings.TrimSpace | truncate 160 }}
+    {{ end }}
+  {{ end }}
+  <meta name="description" content="{{ $pageDescription }}">
+  {{ if .Params.robots }}
+  <meta name="robots" content="{{ .Params.robots }}">
+  {{ else if or (eq .Kind "term") (eq .Kind "taxonomy") }}
+  <meta name="robots" content="noindex, follow">
+  {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
   {{ with .Site.Params.google_site_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
   <!-- Open Graph -->
   <meta property="og:site_name" content="{{ .Site.Title }}">
   <meta property="og:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
-  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.resumen }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+  <meta property="og:description" content="{{ $pageDescription }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:locale" content="es_ES">
@@ -26,7 +40,7 @@
   <meta name="twitter:card" content="summary">
   {{ end }}
   <meta name="twitter:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }}{{ end }}">
-  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.resumen }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+  <meta name="twitter:description" content="{{ $pageDescription }}">
   <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   {{ range .AlternativeOutputFormats }}

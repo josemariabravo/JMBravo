@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Narradores (i de ii)"
 date: "2010-10-20"
 categories: 

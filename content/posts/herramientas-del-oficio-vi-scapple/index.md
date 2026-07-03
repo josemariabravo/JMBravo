@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Herramientas del oficio, vi: Scapple"
 date: "2014-02-17"
 categories: 

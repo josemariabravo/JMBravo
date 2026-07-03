@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Esto es solo el principio"
 date: "2016-04-05"
 categories: 

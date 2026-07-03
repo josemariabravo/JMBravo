@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/dibujar-mapas-ciudades/"]
 title: "Cómo dibujar mapas de ciudades (Cartografía, ii)"
 date: "2010-10-13"

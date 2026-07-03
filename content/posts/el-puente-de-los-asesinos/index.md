@@ -1,4 +1,4 @@
-﻿---
+---
 title: "El puente de los asesinos"
 date: "2011-12-10"
 categories: 

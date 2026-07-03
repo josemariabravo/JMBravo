@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/cartografia-fantasia/"]
 title: "De mapas y otras hierbas (Cartografía, i)"
 date: "2010-10-12"

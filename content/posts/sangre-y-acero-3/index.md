@@ -27,4 +27,4 @@ Sea como fuere, en este número 3 incluimos el siguiente contenido:
 
 En cuanto a la portada y contraportada, en este número apostamos por un clásico: nada más y nada menos que el **Death Dealer** de Frazetta. Las [ilustraciones de este personaje](http://frankfrazetta.org/deathdealer0001.php), que conforman por sí solas una saga, son de lo mejor de este maestro de la ilustración, fallecido recientemente (el pasado 10 de mayo de este año).
 
-Podéis descargaros este número tres de Sangre y acero desde este enlace: [Sangre y acero n.º 3](/archivos/pdf/sya_03.pdf).
+Podéis descargaros este número tres de Sangre y acero desde este enlace: [Sangre y acero n.º 3](/descargas/sangre-y-acero/sangre-y-acero-3/).

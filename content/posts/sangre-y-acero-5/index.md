@@ -32,4 +32,4 @@ De acuerdo, me lo he tomado con calma. He tardado prácticamente lo mismo en tra
 
 Para este número usamos una ilustración de Jim Steranko para la portada, y una de Frazetta (*The Death Dealer*, un clásico) para la contraportada.
 
-Podéis descargaros el pdf de este número desde este [enlace](/archivos/pdf/sya_05.pdf). Espero que os guste :).
+Podéis descargaros el pdf de este número desde este [enlace](/descargas/sangre-y-acero/sangre-y-acero-5/). Espero que os guste :).

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/instalar-wiki/"]
 title: "Cómo instalar una wiki para uso personal"
 date: "2011-10-27"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Más de mapas… (breve)"
 date: "2010-10-14"
 categories: 
@@ -25,7 +25,7 @@ Como yo también soy perezoso, os pondré unos cuantos mapas de lo más granado:
 
  
 
-**Tercer mapa:** ciudad de Sheinar, hecho en Photoshop; me ha dado muchas ideas sobre cómo embellecer los mapas de ciudades una vez trazadas sus islas según el [método](/2010/10/13/como-dibujar-mapas-ciudades/) que comenté hace poco. Fue publicado originalmente en este [hilo](http://www.cartographersguild.com/showthread.php?11839-Sheinar-by-a2area).
+**Tercer mapa:** ciudad de Sheinar, hecho en Photoshop; me ha dado muchas ideas sobre cómo embellecer los mapas de ciudades una vez trazadas sus islas según el [método](/posts/dibujar-mapas-ciudades/) que comenté hace poco. Fue publicado originalmente en este [hilo](http://www.cartographersguild.com/showthread.php?11839-Sheinar-by-a2area).
 
 ![sheinar\_framed\_plain](images/sheinar_framed_plain1-1024x870.jpg)
 

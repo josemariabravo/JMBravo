@@ -1,5 +1,5 @@
 ---
-title: Dead wrong
+title: "Dead wrong ya disponible"
 date: 2024-11-23
 categories:
   - novedades

@@ -1,11 +1,14 @@
 baseURL = "https://jmbravo.com/"
 languageCode = "es-es"
 defaultContentLanguage = "es"
-title = "Sitio web de José María Bravo Lineros"
+title = "José María Bravo Lineros"
 
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   description = "José María Bravo Lineros, escritor español de fantasía histórica, terror y otras hierbas. Descubre sus libros, relatos y artículos sobre el oficio de escribir."
@@ -34,14 +37,9 @@ title = "Sitio web de José María Bravo Lineros"
   weight = 4
 
 [[menu.main]]
-  name = "Novedades"
-  url = "/novedades/"
-  weight = 5
-
-[[menu.main]]
   name = "Descargas"
   url = "/descargas/"
-  weight = 6
+  weight = 5
 
 [[menu.footer]]
   name = "Sobre mí"

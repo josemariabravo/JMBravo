@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Herramientas del oficio, iii: Software para escritores: Zenware"
 date: "2011-02-05"
 categories: 

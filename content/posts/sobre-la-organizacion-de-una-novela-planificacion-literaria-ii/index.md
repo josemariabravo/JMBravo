@@ -4,7 +4,7 @@ date: "2010-10-19"
 categories: 
   - "articulos"
 ---
-En [Mapa o brújula (Planificación literaria, i)](/mapa-o-brujula-planificacion-literaria-i/) inicié lo que pretendo sea un esbozo de cómo planificar y organizar un proyecto literario de cierta entidad, una novela, si se quiere.
+En [Mapa o brújula (Planificación literaria, i)](/posts/mapa-o-brujula/) inicié lo que pretendo sea un esbozo de cómo planificar y organizar un proyecto literario de cierta entidad, una novela, si se quiere.
 
 El propósito es doble: uno, ayudar a los que, como yo, le dan la debida importancia a la planificación de una historia y tienen curiosidad de ver cómo otros la llevan a cabo; y dos, reflexionar acerca de cómo afronto dicho proceso mediante la descripción del mismo.
 
@@ -105,7 +105,7 @@ Ejemplo:
 | Año 712 | Bezala aprovecha el caos político de Irtyr para invadir sus provincias exteriores. |
 | Año 713 | Un bastardo del rey de Irtyr se alza como candidato al trono. |
 
-**Mapas y planos:** No todas las historias los necesitan. Pero en cualquier caso, si la tuya lo necesita, bastará con conservar los mapas y planos de los lugares en los que se desarrolla tu historia, aunque sean simples bocetos a lápiz. Podéis encontrar artículos sobre cartografía en esta misma bitácora **[aquí](/category/cartografiando-la-fantasia/).**
+**Mapas y planos:** No todas las historias los necesitan. Pero en cualquier caso, si la tuya lo necesita, bastará con conservar los mapas y planos de los lugares en los que se desarrolla tu historia, aunque sean simples bocetos a lápiz. Podéis encontrar artículos sobre cartografía en esta misma bitácora **[aquí](/tags/cartografia/).**
 
 **Glosarios:** en historias complejas, los recomiendo encarecidamente. Como en anteriores ocasiones, una tabla a dos columnas bastará. Podemos recoger glosarios de nuestra creación (neologismos), topónimos, gentilicios… lo que necesitemos.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/generos-y-anteojeras/"]
 title: "De géneros y anteojeras"
 date: "2010-10-30"

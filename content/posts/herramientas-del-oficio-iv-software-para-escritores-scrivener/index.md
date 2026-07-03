@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Herramientas del oficio, iv: Software para escritores: Scrivener"
 date: "2011-03-04"
 categories: 

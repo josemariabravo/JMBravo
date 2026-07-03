@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/consejos-wiki/"]
 title: "Consejos para utilizar tu propia wiki"
 date: "2013-07-22"

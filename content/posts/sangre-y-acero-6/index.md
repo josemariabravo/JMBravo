@@ -30,4 +30,4 @@ En este número usamos una ilustración del fallecido Angus McBride para la port
 
 Para esta ocasión, y gracias a Andrés Díaz Sánchez, que me facilitó los archivos originales de la maquetación, he podido componer el PDF a partir de dichos archivos, en vez de los anteriores escaneos del fanzine en papel.
 
-Podéis bajaros este número desde este [enlace](/archivos/pdf/sya_06.pdf).
+Podéis bajaros este número desde este [enlace](/descargas/sangre-y-acero/sangre-y-acero-6/).

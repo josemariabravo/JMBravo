@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ if in (slice "posts" "novedades") .Type }}
+{{ if eq .Type "posts" }}
 {{ $img := partial "seo-image.html" . }}
 <script type="application/ld+json">
 {

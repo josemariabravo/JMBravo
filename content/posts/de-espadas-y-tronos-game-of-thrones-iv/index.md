@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/de-espadas-y-tronos-game-of-thrones-iv/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (iv)"
 date: "2011-07-30"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lo mínimo necesario"
 date: "2018-10-10"
 categories: 

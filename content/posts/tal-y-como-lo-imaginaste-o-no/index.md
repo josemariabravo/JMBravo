@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tal y como lo imaginaste (o no)"
 date: "2011-04-23"
 categories: 

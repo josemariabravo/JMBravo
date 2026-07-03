@@ -1,4 +1,4 @@
-﻿---
+---
 title: "La escalera de Jacob (Jacob’s ladder)"
 date: "2010-10-04"
 categories: 

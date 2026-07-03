@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Estilo rico, estilo pobre, Luis Magrinyà"
 date: "2016-02-26"
 categories: 

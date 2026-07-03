@@ -26,6 +26,6 @@ En cuanto al contenido, en este número dos encontramos lo siguiente:
 
 En este número para la portada y contraportada elegimos una misma ilustración partida en dos, obra del genial [Angus McBride](http://es.wikipedia.org/wiki/Angus_McBride) (que en paz descanse), publicada en la serie de [Osprey](http://www.ospreypublishing.com/) **Elite**, en concreto el dedicado a los [vikingos](http://www.ospreypublishing.com/store/The-Vikings_9780850455656). En España los editó Ediciones del Prado; creo que los han reeditado recientemente. (La ilustración de McBride, por cierto, recreaba una batalla naval narrada en la saga del rey Olaf Tryggvasson.)
 
-Podéis descargaros este número 2 a través del siguiente enlace: [Sangre y acero n.º 2](/archivos/pdf/sya_02.pdf).
+Podéis descargaros este número 2 a través del siguiente enlace: [Sangre y acero n.º 2](/descargas/sangre-y-acero/sangre-y-acero-2/).
 
 Tal y como ya comenté en la entrada del número uno, he tenido que partir de una digitalización de las fotocopias para confeccionar el pdf, así que la calidad no es muy buena. No obstante, espero que eso no os impida su disfrute.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "La guerra del turco, Fernando Martínez Laínez"
 date: "2010-11-29"
 categories: 

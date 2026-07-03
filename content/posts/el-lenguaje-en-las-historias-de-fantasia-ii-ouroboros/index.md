@@ -1,4 +1,4 @@
-﻿---
+---
 title: "El lenguaje en las historias de fantasía (ii)"
 date: "2011-02-11"
 categories: 

@@ -21,6 +21,6 @@ En esta ocasión las ilustraciones usadas en portada y contraportada son de auto
 
 Como curiosidad, en la página de créditos de este número aparece por primera vez la lista de correo en Yahoogroups de Espada y Brujería, e incluso teníamos un canal de IRC y todo :).
 
-Podéis descargaros este número en pdf a través del siguiente enlace: [Sangre y acero n.º 4](/archivos/pdf/sya_04.pdf).
+Podéis descargaros este número en pdf a través del siguiente enlace: [Sangre y acero n.º 4](/descargas/sangre-y-acero/sangre-y-acero-4/).
 
 Espero que os guste.

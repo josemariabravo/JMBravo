@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/planificar-una-escena/"]
 title: "Cómo planificar una escena"
 date: "2017-07-22"

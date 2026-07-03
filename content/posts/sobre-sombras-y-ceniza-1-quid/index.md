@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sobre Sombras y ceniza, 1: Quid"
 date: "2019-07-19"
 categories: 
@@ -9,7 +9,7 @@ Es curioso, pero encuentro harto difícil hablar de mi obra (fíjense que vacil�
 
 Quién sabe. El caso es que he decidido poner por escrito algunas ideas y reflexiones sobre la novela, a modo de complemento de las «Notas sobre el trasfondo» que incluí poco antes de ultimar la autopublicación. Las cuales, por cierto, les brindo más abajo:
 
-[Sombras y ceniza – Notas sobre el trasfondo](/download/sombras-y-ceniza-notas-sobre-el-trasfondo/)
+[Sombras y ceniza – Notas sobre el trasfondo](/descargas/sombras-y-ceniza/sombras-y-ceniza-apendice/)
 
 Fue mi amigo Pablo Vila el que me convenció de incluir este apéndice. Y tuvo que hacerlo porque me resistía a escribirlo. He de admitir que buena parte de mi reluctancia no eran sino prisas, impaciencia y, ¿para qué negarlo?, pereza. Y eso que —valga el alarde— tenía material de sobra para unos apéndices al menos el doble de extensos. Sea como fuere, opino que, pese a la premura, el resultado ha merecido la pena.
 
@@ -27,7 +27,7 @@ Así que *Sangre y acero*, un fanzine editado en fotocopiadora, del que salían 
 
 No fue una buena idea, quizá. Resulta obvio que no estaba preparado para acometer un proyecto de tal magnitud. Muchas cosas a la vez tironeaban de mi atención, y tras un comienzo prometedor, en el que añadí varios personajes protagonistas, cambié el principal y fui madurando la trama, el proyecto quedó estancado muchos años.
 
-Pero eso ya lo conté (lloré) [aquí](/esto-es-solo-el-principio/). Y [aquí](/mis-pecados-capitales-en-esto-de-escribir/).
+Pero eso ya lo conté (lloré) [aquí](/posts/esto-es-solo-el-principio/). Y [aquí](/posts/pecados-capitales/).
 
 ## Sobre la estructura
 

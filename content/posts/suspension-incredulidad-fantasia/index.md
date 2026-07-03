@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Suspensión de la incredulidad"
 date: "2010-11-10"
 categories: 

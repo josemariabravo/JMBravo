@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: ["/edicion-digital-ii/"]
 title: "Más sobre la edición digital"
 date: "2010-09-23"

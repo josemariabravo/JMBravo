@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tratamiento del elemento preternatural en la literatura fantástica"
 date: "2010-11-19"
 categories: 
