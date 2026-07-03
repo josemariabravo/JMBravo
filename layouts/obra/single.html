@@ -2,11 +2,13 @@
 <div class="container">
   <article class="post obra-single">
     <h1>{{ .Title }}</h1>
+    {{ if not .Params.no_pager }}
     <div class="obra-meta">
       {{ if not .Date.IsZero }}<span>{{ partial "fecha.html" .Date }}</span>{{ end }}
       {{ with .Params.palabras }}{{ if not $.Date.IsZero }} | {{ end }}<span>{{ . }} palabras</span>{{ end }}
       {{ if .ReadingTime }} | <span>{{ .ReadingTime }} min de lectura</span>{{ end }}
     </div>
+    {{ end }}
     {{ with .Params.sinopsis }}
     <blockquote class="obra-sinopsis-destacada">{{ . }}</blockquote>
     {{ end }}
@@ -19,6 +21,7 @@
       <p>{{ . }}</p>
     </aside>
     {{ end }}
+    {{ if not .Params.no_pager }}{{ partial "page-close.html" . }}{{ end }}
   </article>
 </div>
 {{ end }}

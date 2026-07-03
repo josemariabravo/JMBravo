@@ -14,7 +14,7 @@
           <h3>{{ .Title }}</h3>
           {{ if .Content }}<div class="tipo-intro">{{ .Content }}</div>{{ end }}
           {{ with .Params.descripcion }}<p>{{ . }}</p>{{ end }}
-          <a class="btn-tipo" href="{{ .Permalink }}">Ver {{ .Title | lower }} →</a>
+          <a class="btn-tipo btn-hero" href="{{ .Permalink }}">Ver {{ .Title | lower }} →</a>
         </div>
         {{ end }}
       </div>

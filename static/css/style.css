@@ -326,10 +326,11 @@
     position: absolute;
     inset: 0;
     left: 0%;
+    background-color: var(--muted);
     background-size: cover;
     background-position: center;
-    -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 0%, black 95%);
-    mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 0%, black 95%);
+    -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 10%, black 100%);
+    mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 10%, black 100%);
     opacity: .65;
   }
 
@@ -344,7 +345,7 @@
     color: var(--muted);
     margin: 0;
     padding: 0;
-    text-shadow: 2px 0 var(--surface), -2px 0 var(--surface), 0 2px var(--surface), 0 -2px var(--surface), 1px 1px var(--surface), -1px -1px var(--surface), 1px -1px var(--surface), -1px 1px var(--surface);
+    text-shadow: 1px 0 rgb(255 255 255 / .6), -1px 0 rgb(255 255 255 / .6), 0 1px rgb(255 255 255 / .6), 0 -1px rgb(255 255 255 / .6), 1px 1px rgb(255 255 255 / .6), -1px -1px rgb(255 255 255 / .6), 1px -1px rgb(255 255 255 / .6), -1px 1px rgb(255 255 255 / .6);
   }
 
   .hero-inner blockquote {
@@ -901,17 +902,9 @@
   }
 
   .btn-tipo {
-    display: inline-block;
+    align-self: flex-start;
     margin-top: auto;
-    padding-top: var(--sp-2);
-    font-family: var(--font-ui);
-    font-size: var(--fs-sm);
-    color: var(--accent);
-    border-bottom: 1px solid transparent;
-    transition: border-color var(--ease);
   }
-
-  .btn-tipo:hover { border-color: var(--accent); }
 
   /* ·· obra: lista de piezas ·· */
 
