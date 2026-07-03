@@ -15,7 +15,7 @@ Este año no he publicado nada, aunque la paradoja es que es uno de los años en
 
 ¿Qué demonios he escrito, entonces? En una sola palabra, mundografía[^1] de Últer, el mundo alternativo en el que ambiento mis obras de fantasía histórica (de momento, solo [*Sombras y ceniza*](/libros/sombras-y-ceniza/), pero tengo varios guisos a fuego lento en la cocina).
 
-De Últer tocará hablar algún día con más detalle y tiempo (si tienen curiosidad, pueden echarle un ojo al apéndice de *Sombras y ceniza*, disponible [aquí](), donde se presenta lo esencial), pero bastará por ahora con decir que es el resultado de muchos años de esfuerzos dispersos. Surgió de las cenizas de Darlum, una ambientación de fantasía tan antigua como mis primeras partidas a D&D a mis tiernos trece años.
+De Últer tocará hablar algún día con más detalle y tiempo (si tienen curiosidad, pueden echarle un ojo al apéndice de *Sombras y ceniza*, disponible [aquí](/descargas/sombras-y-ceniza/sombras-y-ceniza-apendice/), donde se presenta lo esencial), pero bastará por ahora con decir que es el resultado de muchos años de esfuerzos dispersos. Surgió de las cenizas de Darlum, una ambientación de fantasía tan antigua como mis primeras partidas a D&D a mis tiernos trece años.
 
 El caso es que nunca seguí un sistema para documentarme o escribir la información de trasfondo de las historias ambientadas en Últer. Tenía mucho y a la vez nada; nada que pudiera consultar. Y lo había intentado, créanme: ya en 2013, en este mismo blog, hablé de montar una wiki en DokuWiki (su único propósito era ese, organizar la documentación de Últer). Antes de eso, tenía ensayos y notas en documentos de Word dispersos; también había probado Evernote. Y, cómo no, acumulaba un rimero de notas manuscritas. Muchas notas. En papeles sueltos, en libretas, cuadernos y qué-sé-yo.
 
@@ -68,4 +68,4 @@ Mi resumen de lo anterior: viva Robert Eggers y la madre que lo parió.
 Y creo yo que ya basta, ¿no? Feliz 2026, a todo esto. Nos vemos.
 
 
-[^1]: ‘Mundografía’ es un palabro poco usado frente al barbarismo [*worldbuilding*]([Construcción de mundos - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Construcci%C3%B3n_de_mundos)), pero me obcecaré en su uso por principios personales. En esencia, se trata de crear elementos descriptivos de mundos ficticios.
+[^1]: ‘Mundografía’ es un palabro poco usado frente al barbarismo [*worldbuilding*](https://es.wikipedia.org/wiki/Construcci%C3%B3n_de_mundos), pero me obcecaré en su uso por principios personales. En esencia, se trata de crear elementos descriptivos de mundos ficticios.

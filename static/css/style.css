@@ -328,8 +328,8 @@
     left: 0%;
     background-size: cover;
     background-position: center;
-    -webkit-mask-image: linear-gradient(to right, transparent 10%, black 80%);
-    mask-image: linear-gradient(to right, transparent 10%, black 80%);
+    -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 0%, black 95%);
+    mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 0%, black 95%);
     opacity: .65;
   }
 
