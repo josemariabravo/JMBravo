@@ -26,7 +26,7 @@ jobs:
       - name: instalar hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"
+          hugo-version: "0.163.3"
           extended: true
       - name: configurar pages
         id: pages
@@ -34,7 +34,7 @@ jobs:
       - name: construir con hugo
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: indexar con pagefind
-        run: npx pagefind --site public
+        run: npx pagefind@1.5.2 --site public
       - name: subir artefacto
         uses: actions/upload-pages-artifact@v3
         with:

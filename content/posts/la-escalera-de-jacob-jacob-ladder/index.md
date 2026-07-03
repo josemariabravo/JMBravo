@@ -7,7 +7,9 @@ tags:
   - "peliculas"
   - "resenas"
 ---
-![](images/jacobs_ladder_1.jpg "jacobs_ladder_1.jpg")Por alguna extraña asociación de ideas este fin de semana me entró el ramalazo de ver de nuevo **La escalera de Jacob** (**Jacob’s ladder,** en el original), aunque, ya puestos, aproveché para verla en V.O., como hago con toda película que me parezca interesante (ya he dicho antes que soy un esnob).
+![Jacob's ladder](images/jacobs_ladder_1.jpg "izquierda 250")
+
+Por alguna extraña asociación de ideas este fin de semana me entró el ramalazo de ver de nuevo **La escalera de Jacob** (**Jacob’s ladder,** en el original), aunque, ya puestos, aproveché para verla en V.O., como hago con toda película que me parezca interesante (ya he dicho antes que soy un esnob).
 
 **La escalera de Jacob** es de 1990, con **Tim Robbins** como protagonista, y si bien podríamos decir que entra en el género de terror, la historia de esta película se sale de los parámetros habituales del género y entra más en el terreno del “thriller psicológico”. Pero bueno, son etiquetas, al cabo, y las etiquetas realmente solo interesan a los críticos y a los editores.
 

@@ -60,10 +60,14 @@
     --sp-5: 6rem;
 
     /* layout */
-    --container: 1080px;
-    --reading:   65ch;
-    --radius:    2px;
-    --ease:      .25s ease;
+    --container:    1080px;
+    --reading:      65ch;
+    --radius:       2px;
+    --ease:         .25s ease;
+    --header-h:     130px;
+    --header-h-sm:  64px;
+    --shadow-card:  0 6px 20px rgb(0 0 0 / .16);
+    --text-outline: 1px 0 rgb(255 255 255 / .6), -1px 0 rgb(255 255 255 / .6), 0 1px rgb(255 255 255 / .6), 0 -1px rgb(255 255 255 / .6), 1px 1px rgb(255 255 255 / .6), -1px -1px rgb(255 255 255 / .6), 1px -1px rgb(255 255 255 / .6), -1px 1px rgb(255 255 255 / .6);
   }
 
   html { background: var(--paper); }
@@ -126,8 +130,6 @@
     margin-inline: auto;
   }
 
-  .flow > * + * { margin-top: 1.5rem; }
-
 }
 
 
@@ -149,7 +151,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 130px;
+    height: var(--header-h);
   }
 
   .site-logo {
@@ -212,7 +214,7 @@
 
   .site-search-bar {
     position: sticky;
-    top: 130px;
+    top: var(--header-h);
     border-bottom: 1px solid var(--accent);
     padding: .5rem 0;
     background: rgb(255 255 255 / .96);
@@ -331,7 +333,7 @@
     background-position: center;
     -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 10%, black 100%);
     mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 10%, black 100%);
-    opacity: .65;
+    opacity: .55;
   }
 
   .hero-inner {
@@ -345,13 +347,13 @@
     color: var(--text);
     margin: 0;
     padding: 0;
-    text-shadow: 1px 0 rgb(255 255 255 / .6), -1px 0 rgb(255 255 255 / .6), 0 1px rgb(255 255 255 / .6), 0 -1px rgb(255 255 255 / .6), 1px 1px rgb(255 255 255 / .6), -1px -1px rgb(255 255 255 / .6), 1px -1px rgb(255 255 255 / .6), -1px 1px rgb(255 255 255 / .6);
+    text-shadow: var(--text-outline);
     font-weight: 450;
   }
 
   .hero-inner h1 {
     margin-bottom: var(--sp-1);
-    text-shadow: 1px 0 rgb(255 255 255 / .6), -1px 0 rgb(255 255 255 / .6), 0 1px rgb(255 255 255 / .6), 0 -1px rgb(255 255 255 / .6), 1px 1px rgb(255 255 255 / .6), -1px -1px rgb(255 255 255 / .6), 1px -1px rgb(255 255 255 / .6), -1px 1px rgb(255 255 255 / .6);
+    text-shadow: var(--text-outline);
   }
 
   .hero-inner blockquote {
@@ -378,7 +380,8 @@
     border-bottom: 1px solid var(--accent);
   }
 
-  .home-books h2 {
+  .home-books h2,
+  .home-latest > h2 {
     margin-bottom: var(--sp-3);
     font-size: var(--fs-md);
     letter-spacing: .18em;
@@ -416,12 +419,6 @@
 
   .home-latest {
     padding-block: var(--sp-3);
-  }
-
-  .home-latest > h2 {
-    margin-bottom: var(--sp-3);
-    font-size: var(--fs-md);
-    letter-spacing: .18em;
   }
 
   .home-latest-more {
@@ -595,7 +592,7 @@
     aspect-ratio: 2 / 3;
     object-fit: cover;
     border-radius: var(--radius);
-    box-shadow: 0 6px 20px rgb(0 0 0 / .16);
+    box-shadow: var(--shadow-card);
     transition: transform var(--ease);
   }
 
@@ -740,7 +737,7 @@
     width: 140px;
     flex-shrink: 0;
     border-radius: var(--radius);
-    box-shadow: 0 6px 20px rgb(0 0 0 / .16);
+    box-shadow: var(--shadow-card);
   }
 
   .proyecto-ficha-info h1 { margin-bottom: var(--sp-1); }
@@ -1161,7 +1158,7 @@
 
   .sidebar {
     position: sticky;
-    top: calc(130px + 2.5rem + var(--sp-3));
+    top: calc(var(--header-h) + 2.5rem + var(--sp-3));
     font-size: var(--fs-sm);
   }
 
@@ -1408,7 +1405,7 @@
     /* header */
 
     .site-header-inner {
-      height: 64px;
+      height: var(--header-h-sm);
       gap: 1rem;
     }
 
@@ -1453,7 +1450,7 @@
 
     .site-nav {
       position: absolute;
-      top: 64px;
+      top: var(--header-h-sm);
       left: 0;
       right: 0;
       max-height: 0;
@@ -1495,7 +1492,7 @@
     /* barra búsqueda — reajustar top al nuevo alto del header */
 
     .site-search-bar {
-      top: 64px;
+      top: var(--header-h-sm);
     }
 
     /* hero — ocultar fondo en pantallas muy estrechas */
@@ -1516,7 +1513,7 @@
     /* sidebar — ya manejado en 860px, pero ajustar posición sticky */
 
     .sidebar {
-      top: calc(64px + 2.5rem + var(--sp-2));
+      top: calc(var(--header-h-sm) + 2.5rem + var(--sp-2));
     }
 
     /* footer — apilar en columna */

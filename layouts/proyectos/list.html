@@ -6,7 +6,7 @@
     {{/* /proyectos/ — hub con todos los proyectos y sus novedades agregadas */}}
     <div class="list-page">
       <h1>{{ .Title }}</h1>
-      {{ if .Content }}<div class="post-content">{{ .Content }}</div>{{ end }}
+      {{ if .Content }}<div class="section-intro">{{ .Content }}</div>{{ end }}
 
       {{ if .Sections }}
       <div class="proyectos-grid">
@@ -24,10 +24,7 @@
       <h2>Todas las novedades</h2>
       <ul class="post-list">
         {{ range $novedades.ByDate.Reverse }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
-        </li>
+        {{ partial "post-list-item.html" . }}
         {{ end }}
       </ul>
       {{ end }}
@@ -85,6 +82,7 @@
               <span class="actualizacion-titulo">{{ .Title }}</span>
               {{ with .Params.etiqueta }}<span class="actualizacion-etiqueta">{{ . }}</span>{{ end }}
             </a>
+            {{ with .Params.extracto }}<p class="actualizacion-extracto">{{ . }}</p>{{ end }}
           </li>
           {{ end }}
         </ul>

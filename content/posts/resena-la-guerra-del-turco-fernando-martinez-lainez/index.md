@@ -5,9 +5,11 @@ categories:
   - "recomendaciones"
 tags: 
   - "libros"
-  - "recomendaciones"
+  - "resenas"
 ---
-[](http://sombrasyceniza.files.wordpress.com/2010/11/la_guerra_del_turco_fernando_martinez_lainez.jpg)![](images/la_guerra_del_turco_fernando_martinez_lainez.jpg "La_guerra_del_turco_fernando_martinez_lainez.jpg")Habitualmente, el paradigma histórico instalado en el subconsciente del lector medio de fantasía épica suele ser el medioevo, el cual siempre consideré mucho menos interesante que otras épocas, anteriores y posteriores, como la Edad Moderna, ya puestos, y en particular, la revolución cultural del Renacimiento.
+![](images/la_guerra_del_turco_fernando_martinez_lainez.jpg "La_guerra_del_turco_fernando_martinez_lainez.jpg")
+
+Habitualmente, el paradigma histórico instalado en el subconsciente del lector medio de fantasía épica suele ser el medioevo, el cual siempre consideré mucho menos interesante que otras épocas, anteriores y posteriores, como la Edad Moderna, ya puestos, y en particular, la revolución cultural del Renacimiento.
 
 Si hay algo que marcó el comienzo de la Edad Moderna en Europa fue el conflicto político y bélico que se conoce, popularmente, como “la guerra del turco”, el cual es, precisamente, el título del libro que protagoniza esta reseña. Esa “guerra del turco” que tuvo en vilo a Europa durante los siglos XVI y XVII fue, también, donde sus dos principales protagonistas, el Imperio Español y el Otomano, brillaron con más fuerza y esplendor. Pero dejaré al autor de este libro, Fernando Martínez Laínez, que lo exprese mucho mejor:<!--more-->
 

@@ -1,7 +1,8 @@
 baseURL = "https://jmbravo.com/"
-languageCode = "es-es"
+locale = "es-ES"
 defaultContentLanguage = "es"
 title = "José María Bravo Lineros"
+enableGitInfo = true
 
 [sitemap]
   changefreq = "weekly"

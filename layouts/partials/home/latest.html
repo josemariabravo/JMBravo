@@ -2,10 +2,7 @@
   <h2>Lo último</h2>
   <ul class="post-list">
     {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
-    </li>
+    {{ partial "post-list-item.html" . }}
     {{ end }}
   </ul>
   <div class="home-latest-more">

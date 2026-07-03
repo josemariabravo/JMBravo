@@ -8,7 +8,7 @@ tags:
   - "resenas"
 coverImage: "laprimeraley.webp"
 ---
-![laprimeraley](laprimeraley.webp "derecha 250")
+![laprimeraley](laprimeraley.webp "izquierda 250")
 Hace unos dos meses que leí la última parte de esta serie y quedé gratamente sorprendido. La primera parte, *La voz de las espadas* sentó las bases de una historia que prometía, pese a caer en los estereotipos del género. La segunda, *Antes de que los cuelguen*, bajó un poco el nivel, pero en la tercera parte, *El último argumento de los reyes*, la saga superó, y con creces, todas mis expectativas anteriores.
 
 Os puedo adelantar algo a los que hayáis leído la primera y segunda parte: la historia no es lo que parece. Pese a las apariencias, no es la enésima saga de fantasía épica basada en una lucha contra el Mal (sí, con mayúscula, que se note) protagonizada por esforzados héroes que han de sacrificarlo todo por un bien mayor mientras buscan hacerse con el control de una reliquia antigua y de terrible poder, etcétera. No, no lo es, aunque lo parece. Pero eso lo sabréis a su debido tiempo, aunque algo os adelanto: uno de los personajes es un hideputa cabrón y manipulador, de los que hacen época (y sientan escuela). Y al final, por cierto, se lleva el pato al agua impunemente. Hasta el punto de que la saga termina de forma atípica: no impera la justicia ni los personajes redimen sus pecados. Todo cambia, pero sigue igual.

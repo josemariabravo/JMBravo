@@ -5,7 +5,7 @@ categories:
   - "recomendaciones"
 tags: 
   - "libros"
-  - "resena"
+  - "resenas"
 ---
 Sonará infantil, pero me encantan los libros con ilustraciones, y más a la hora de documentarme; al cabo, es bien cierto eso de que una imagen vale más que mil palabras. Un libro como el que os presento hoy es a todas luces insuficiente como fuente para una investigación seria, pero es un excelente comienzo para conocer lo básico de un tema.
 

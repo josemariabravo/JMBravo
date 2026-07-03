@@ -10,7 +10,7 @@ coverImage: "tejedorescabellos_gr-1-e1686290447757.jpg"
 ---
 Hace poco encontré la bitácora de Luis G. Prado (confieso que siempre me he preguntado si la G. es apellido o segundo nombre; curioso que es uno), editor del fantástico inveterado, de raza, incluso; en su currículum tiene las publicaciones de Artifex y las editoriales Bibliópolis y Alamut, responsables de no pocos hallazgos para el lector de género.
 
-![](images/tejedorescabellos_gr-1.jpg)
+![Los tejedores de cabellos](images/tejedorescabellos.jpg "izquierda 250")
 
 Durante la habitual lectura rápida y al sesgo que uno suele hacer la primera vez que visita una bitácora, me topé con esta reseña de [*Los tejedores de cabellos*](http://artifexplus.blogspot.com/2010/09/resena-de-los-tejedores-de-cabellos-de.html), de Andreas Eschbach, y recordé la lectura de ese libro con mucho cariño.
 

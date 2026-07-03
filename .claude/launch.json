@@ -4,8 +4,8 @@
     {
       "name": "hugo-server",
       "runtimeExecutable": "hugo",
-      "runtimeArgs": ["server", "-D", "--port", "1316"],
-      "port": 1316
+      "runtimeArgs": ["server", "-D", "--port", "1317"],
+      "port": 1317
     }
   ]
 }

@@ -45,10 +45,7 @@
       <h3>También te puede interesar</h3>
       <ul class="post-list">
         {{ range . }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
-        </li>
+        {{ partial "post-list-item.html" . }}
         {{ end }}
       </ul>
     </aside>
