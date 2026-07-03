@@ -1,0 +1,1 @@
+Este PDF, extraído directamente de la maqueta de la edición física de la novela *Sombras y ceniza*, es un apéndice al texto principal. Aborda el trasfondo de la historia, de forma breve, e incluye un glosario de términos.

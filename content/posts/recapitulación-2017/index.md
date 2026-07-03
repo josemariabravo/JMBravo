@@ -1,9 +1,9 @@
 ---
-title: "Recapitulemos"
-date: "2018-02-12"
-categories: 
-  - "novedades"
-coverImage: "4295008968_5493b05770_o.jpg"
+title: Recapitulación de 2017
+date: 2018-02-12
+categories:
+  - novedades
+coverImage: 4295008968_5493b05770_o.jpg
 ---
 Nunca, me parece, había escrito algo como lo que sigue, pero este año me apetecía probar, qué demonios. Así que vamos a ello: 2017 ha sido un año bastante diferente a los últimos, con muchos cambios. El principal ha sido el traslado de mi residencia de Málaga a Madrid, aparejado con otro, muy importante, de índole profesional: ahora mi oficio principal vuelve a ser la de técnico en prevención de riesgos laborales, y la de corrector/maquetador editorial ha pasado a ser el secundario. Reconozco que el cambio me ha traído cierta indiscutible paz de espíritu, algo de desencanto e, inevitablemente, de frustración. Pasado el tráfago y el quebranto de la mudanza (a ojo, van unas 6 o 7 en los últimos cinco años), lo cierto es que me he adaptado pronto y bien a vivir en Madrid. Quizá lo único que echo de menos es el mar, que no la playa; y el único aspecto negativo son los desplazamientos al trabajo y el puñetero tráfico (el horror, ah, el horror). Por suerte, he encontrado una solución aceptable en el uso mixto de transporte personal y el público. A pesar de algunas malas pasadas (rachas de retrasos, sobre todo por las fiestas navideñas), el uso del tren de cercanías ha sido todo un placentero descubrimiento. Y me ha permitido solucionar dos problemas: encontrar tiempo para leer más (casi una hora al día, de media) y aumentar la actividad física (media hora diaria no es mucho, de acuerdo, pero sí es mucho más que nada).
 

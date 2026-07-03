@@ -14,7 +14,7 @@ En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad d
 
 ## Objeto y uso del sitio
 
-Este sitio web es de carácter personal y sin ánimo de lucro. Su finalidad es divulgar la obra literaria del titular y publicar artículos de su autoría sobre escritura, fantasía y otros temas de su interés.
+Este sitio web es de carácter personal y sin ánimo de lucro. Persigue divulgar la obra literaria del titular y la publicación de artículos de su autoría sobre escritura, fantasía y otros temas que susciten el interés del autor.
 
 ## Propiedad intelectual
 

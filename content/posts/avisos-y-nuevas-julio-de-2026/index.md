@@ -8,9 +8,11 @@ tags:
   - blog
 revisado: true
 ---
-A finales de 2025, tuve una pequeña crisis (una más) respecto a esta página que usted ahora lee. Si bien tengo claro que quiero seguir escribiendo (porque si te preguntas tanto el porqué, realmente tienes un qué y el tiempo ya te dará el cómo), no sabía qué demonios hacer con esta página. Solo echando un vistazo a la escasa actividad resultaba patente que no había muchos motivos para continuar; y si la página era un mero «escaparate» de mi obra, tampoco estaba cumpliendo bien sus funciones, a fuer de sinceros.
+A finales de 2025, tuve una pequeña crisis (una más) respecto a esta página que usted ahora lee. Si bien tengo claro que quiero seguir escribiendo ficción (porque si te preguntas tanto el porqué, realmente tienes un qué y el tiempo ya te dará el cómo), no sabía qué demonios hacer con esta página, que siempre, en el fondo, fue un medio y no un fin.
 
-Así que me planteé seriamente chapar. Dejar de pagar el hospedaje y el dominio, y sencillamente olvidarme de la página. Relegarla al oscuro olvido, si me permiten ponerme cursi. Escocía un poco, para qué mentir, dejar que todo ese contenido se perdiera sin más. Bastantes artículos todavía andan por ahí, algunos plagiados directamente o sin atribución de autor. Y qué demonios, algunos de esos artículos aún tienen su aquel (perdón por el modismo). Y la cosa se remonta a 2010. No sé si aplica aquí la falacia del coste hundido, pero qué demonios… quizá merecía la pena buscar alguna solución de compromiso.
+Solo echando un vistazo a la escasa actividad resultaba patente que no había muchos motivos para continuar —repito: un medio, no un fin—; y, si la página no era sino un mero «escaparate» de mi genio y figura (ja), tampoco estaba cumpliendo bien sus funciones.
+
+Así que me planteé seriamente chapar. Del todo. Dejar de pagar el hospedaje y el dominio y olvidarme de la página. Relegarla al oscuro olvido, si me permiten ponerme cursi. Escocía un poco, para qué mentir, dejar que todo ese contenido se perdiera sin más. Bastantes artículos todavía andan por ahí, algunos plagiados directamente o sin atribución de autor. Y qué demonios, algunos de esos artículos aún tienen su aquel (perdón por el modismo). Y la cosa se remonta a 2010. No sé si aplica aquí la falacia del coste hundido, pero qué demonios… quizá merecía la pena buscar alguna solución de compromiso.
 
 Estaba bastante claro que necesitaba un cambio de mentalidad. Un simple lavado de cara de la web no bastaba. Necesitaba, insisto, un enfoque distinto.
 

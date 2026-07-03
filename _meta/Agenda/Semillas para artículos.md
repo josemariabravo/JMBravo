@@ -4,7 +4,8 @@
 - Fantasía histórica como género.
 - Carta de amor de un escritor a markdown.
 - Carta de amor a Obsidian.
-- Escribir a mano, una apología.
+- Escribir a mano, una apología. Sucinto, justificado pero personal: en esta era intervenida por la tecnología, regresar a lo básico y mínimo ayuda a reconectar con lo íntimo.
+- Organización personal con Johnny Decimal.
 - Guía esencial de Obsidian
 	- Qué es
 	- Qué no es
