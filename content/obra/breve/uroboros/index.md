@@ -3,10 +3,10 @@ title: Uróboros
 date: 2026-06-26
 categories:
   - cuentos
-coverImage:
+no_pager: true
 ---
 {{< nota >}}
-Este cuento forma parte de *[Homini lupus](content/libros/homini-lupus/index.md)*.
+Este cuento forma parte del libro de cuentos *[Homini lupus](content/libros/homini-lupus/index.md)*.
 {{< /nota >}}
 
 Tras atender a sus clientes, Lucio Flaminio Rufo paseó dubitativo por el atrio de su *domus* del Quirinal. En las máscaras mortuorias de los antepasados de su noble *gens*, el patricio creyó leer un silencioso pero unánime reproche.

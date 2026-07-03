@@ -1,0 +1,17 @@
+{{- $img := "" -}}
+{{- with .Resources.GetMatch (.Params.cover | default "") -}}
+  {{- $img = . -}}
+{{- end -}}
+{{- if not $img -}}
+  {{- with .Params.coverImage -}}
+    {{- $found := $.Resources.GetMatch . -}}
+    {{- if not $found -}}{{- $found = $.Resources.GetMatch (printf "images/%s" .) -}}{{- end -}}
+    {{- with $found -}}{{- $img = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $img -}}
+  {{- with .Resources.ByType "image" -}}
+    {{- $img = index . 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- return $img -}}

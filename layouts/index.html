@@ -1,4 +1,19 @@
 {{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "José María Bravo Lineros",
+  "url": "https://jmbravo.com/",
+  "description": "{{ .Site.Params.description }}",
+  "publisher": { "@type": "Person", "name": "José María Bravo Lineros", "url": "https://jmbravo.com/sobre-mi/" },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://jmbravo.com/buscar/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 
   {{ partial "home/hero.html" . }}
 

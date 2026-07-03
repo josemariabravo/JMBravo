@@ -3,24 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  {{ $homeTitle := .Site.Params.home_title | default .Site.Title }}
+  <title>{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.resumen }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+  {{ with .Params.robots }}<meta name="robots" content="{{ . }}">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
+  {{ with .Site.Params.google_site_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
   <!-- Open Graph -->
   <meta property="og:site_name" content="{{ .Site.Title }}">
-  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.resumen }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:locale" content="es_ES">
-  {{ with .Resources.GetMatch (.Params.cover | default "") }}
+  {{ $ogImage := partial "seo-image.html" . }}
+  {{ with $ogImage }}
   <meta property="og:image" content="{{ .Permalink }}">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ .Permalink }}">
   {{ else }}
   <meta name="twitter:card" content="summary">
   {{ end }}
-  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.resumen }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
   <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">

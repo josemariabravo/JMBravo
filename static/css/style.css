@@ -348,6 +348,11 @@
     text-shadow: 1px 0 rgb(255 255 255 / .6), -1px 0 rgb(255 255 255 / .6), 0 1px rgb(255 255 255 / .6), 0 -1px rgb(255 255 255 / .6), 1px 1px rgb(255 255 255 / .6), -1px -1px rgb(255 255 255 / .6), 1px -1px rgb(255 255 255 / .6), -1px 1px rgb(255 255 255 / .6);
   }
 
+  .hero-inner h1 {
+    margin-bottom: var(--sp-1);
+    text-shadow: 1px 0 rgb(255 255 255 / .6), -1px 0 rgb(255 255 255 / .6), 0 1px rgb(255 255 255 / .6), 0 -1px rgb(255 255 255 / .6), 1px 1px rgb(255 255 255 / .6), -1px -1px rgb(255 255 255 / .6), 1px -1px rgb(255 255 255 / .6), -1px 1px rgb(255 255 255 / .6);
+  }
+
   .hero-inner blockquote {
     font-size: var(--fs-md);
     margin-top: var(--sp-1);
