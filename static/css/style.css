@@ -67,7 +67,7 @@
     --header-h:     130px;
     --header-h-sm:  64px;
     --shadow-card:  0 6px 20px rgb(0 0 0 / .16);
-    --text-outline: 1px 0 rgb(255 255 255 / .6), -1px 0 rgb(255 255 255 / .6), 0 1px rgb(255 255 255 / .6), 0 -1px rgb(255 255 255 / .6), 1px 1px rgb(255 255 255 / .6), -1px -1px rgb(255 255 255 / .6), 1px -1px rgb(255 255 255 / .6), -1px 1px rgb(255 255 255 / .6);
+    --text-outline: 1px 0 rgb(255 255 255 / .25), -1px 0 rgb(255 255 255 / .25), 0 1px rgb(255 255 255 / .25), 0 -1px rgb(255 255 255 / .25), 1px 1px rgb(255 255 255 / .25), -1px -1px rgb(255 255 255 / .25), 1px -1px rgb(255 255 255 / .25), -1px 1px rgb(255 255 255 / .25);
   }
 
   html { background: var(--paper); }
@@ -331,15 +331,18 @@
     background-color: var(--muted);
     background-size: cover;
     background-position: center;
-    -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 10%, black 100%);
-    mask-image: linear-gradient(to right, rgb(0 0 0 / .10) 10%, black 100%);
-    opacity: .55;
+    -webkit-mask-image: linear-gradient(to right, rgb(0 0 0 / .35) 0%, black 100%);
+    mask-image: linear-gradient(to right, rgb(0 0 0 / .35) 0%, black 100%);
+    opacity: 0.9;
   }
 
   .hero-inner {
     max-width: var(--reading);
     position: relative;
-    z-index: 1;    
+    z-index: 1;
+    background-color: rgb(255 255 255 / .50);
+    padding: var(--sp-3);
+    border-radius: var(--radius);
   }
 
   .hero-inner p {
@@ -348,7 +351,7 @@
     margin: 0;
     padding: 0;
     text-shadow: var(--text-outline);
-    font-weight: 450;
+    font-weight: 450;    
   }
 
   .hero-inner h1 {
@@ -1358,6 +1361,13 @@
   }
 
   .galeria-dialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    transform: translate(-50%, -50%);
+    margin: 0;
     border: none;
     border-radius: var(--radius);
     background: transparent;
@@ -1394,6 +1404,26 @@
   }
 
   .galeria-dialog-close:hover { background: var(--accent); }
+
+  .galeria-dialog-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgb(0 0 0 / .5);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 2.25rem;
+    height: 2.25rem;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .galeria-dialog-nav:hover { background: var(--accent); }
+
+  .galeria-dialog-prev { left: .75rem; }
+  .galeria-dialog-next { right: .75rem; }
 
   /* ·· responsive: móvil ·· */
 

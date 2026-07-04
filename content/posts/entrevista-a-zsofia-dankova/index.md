@@ -23,7 +23,7 @@ Pronto di con él. Pero no era él, sino ella.
 
 Déjenme que les presente a **Zsofia Dankova**:
 
-![](images/zsofia_02.jpg)
+![Zsofia Dankova](images/zsofia_02.jpg "izquierda 250")
 
 Nació en Praga, aunque creció en Eslovaquia. La familia de Zsofia es húngara, por lo que su lengua materna es el húngaro, si bien habla además eslovaco, checo y polaco (e inglés, claro, el idioma en el que mantuvimos esta entrevista).
 
@@ -83,9 +83,9 @@ Ahora mismo, me gustaría expandir mis horizontes y aprender nuevas técnicas, c
 
 Para más información sobre el arte de Zsofia:
 
-[https://www.instagram.com/zsofia\_dankova/?hl=es](https://www.instagram.com/zsofia_dankova/?hl=es)
+- [Zsófi (@art.zsofia) en Instagram](https://www.instagram.com/art.zsofia/?hl=es)
 
-[https://www.artstation.com/whiluna](https://www.artstation.com/whiluna)
+- [ArtStation - Zsofia Dankova](https://www.artstation.com/artzsofia)
 
 
 

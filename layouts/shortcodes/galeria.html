@@ -12,6 +12,10 @@
 
 <dialog class="galeria-dialog" id="galeriaDialog">
   <button class="galeria-dialog-close" aria-label="Cerrar">&times;</button>
+  {{ if gt (len $images) 1 }}
+  <button class="galeria-dialog-nav galeria-dialog-prev" aria-label="Imagen anterior">&#10094;</button>
+  <button class="galeria-dialog-nav galeria-dialog-next" aria-label="Imagen siguiente">&#10095;</button>
+  {{ end }}
   <img src="" alt="" class="galeria-dialog-img">
 </dialog>
 
@@ -20,13 +24,31 @@
   const dialog = document.getElementById('galeriaDialog');
   const dialogImg = dialog.querySelector('.galeria-dialog-img');
   const closeBtn = dialog.querySelector('.galeria-dialog-close');
+  const prevBtn = dialog.querySelector('.galeria-dialog-prev');
+  const nextBtn = dialog.querySelector('.galeria-dialog-next');
+  const btns = Array.from(document.querySelectorAll('.galeria-btn'));
+  let current = 0;
 
-  document.querySelectorAll('.galeria-btn').forEach(btn => {
+  function show(index) {
+    current = (index + btns.length) % btns.length;
+    const btn = btns[current];
+    dialogImg.src = btn.dataset.src;
+    dialogImg.alt = btn.dataset.alt;
+  }
+
+  btns.forEach((btn, index) => {
     btn.addEventListener('click', () => {
-      dialogImg.src = btn.dataset.src;
-      dialogImg.alt = btn.dataset.alt;
+      show(index);
       dialog.showModal();
     });
+  });
+
+  if (prevBtn) prevBtn.addEventListener('click', () => show(current - 1));
+  if (nextBtn) nextBtn.addEventListener('click', () => show(current + 1));
+
+  dialog.addEventListener('keydown', e => {
+    if (e.key === 'ArrowLeft' && prevBtn) show(current - 1);
+    if (e.key === 'ArrowRight' && nextBtn) show(current + 1);
   });
 
   closeBtn.addEventListener('click', () => dialog.close());
