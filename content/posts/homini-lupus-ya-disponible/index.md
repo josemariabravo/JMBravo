@@ -1,12 +1,17 @@
 ---
-title: "Homini lupus ya disponible"
-date: "2024-10-12"
-categories: 
-  - "novedades"
-tags: 
-  - "libros"
-coverImage: "Homini-lupus_cubierta.jpg"
+title: Homini lupus ya disponible
+date: 2024-10-12
+categories:
+  - novedades
+tags:
+  - libros
+  - cuentos-escabrosos
+  - cuentos
+coverImage: Homini-lupus_cubierta.jpg
+revisado: true
 ---
+![Homini lupus](Homini-lupus_cubierta.jpg "izquierda 250")
+
 *Homini lupus*, el segundo volumen de los *Cuentos escabrosos*, ya está disponible en digital (próximamente, en rústica y cartoné). Esta es la sinopsis:
 
 *En el largo herir del tiempo, no hay inocentes.*
@@ -17,4 +22,4 @@ En *Homini lupus*, segundo volumen de los *Cuentos escabrosos*, se recopilan die
 
 Disponible en la tienda Amazon: [Homini lupus: Cuentos escabrosos, 2 eBook : Bravo Lineros, José María: Amazon.es: Libros](https://www.amazon.es/dp/B0DGBMCGP7/)
 
-https://leer.amazon.es/kp/card?asin=B0DGBMCGP7&preview=inline&linkCode=kpe&ref\_=cm\_sw\_r\_kb\_dp\_K2vaDbC93T65Q
+Aquí pueden leer un [adelanto](https://leer.amazon.es/kp/card?asin=B0DGBMCGP7&preview=inline&linkCode=kpe&ref\_=cm\_sw\_r\_kb\_dp\_K2vaDbC93T65Q).

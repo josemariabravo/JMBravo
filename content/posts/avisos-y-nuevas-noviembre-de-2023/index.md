@@ -1,11 +1,12 @@
 ---
-title: "Avisos y nuevas (noviembre de 2023)"
-date: "2023-11-10"
-categories: 
-  - "novedades"
-tags: 
-  - "avisos-y-nuevas"
-coverImage: "homini_lupus_aviso.jpg"
+title: Avisos y nuevas (noviembre de 2023)
+date: 2023-11-10
+categories:
+  - novedades
+tags:
+  - avisos-y-nuevas
+coverImage: homini_lupus_aviso.jpg
+revisado: true
 ---
 No sin cierta desazón veo que se acaba el año y no he cumplido mi promesa de actualizar el blog con algo más de frecuencia. En fin, tampoco le tenía mucha fe a esa promesa.  
 Sea como fuere, ya estamos en noviembre, mi mes favorito[^1], qué menos que dar fe de vida con una entrada de novedades y futuribles:

@@ -1,17 +1,17 @@
 ---
 title: "Próximamente: Ratas en el callejón. Cuentos escabrosos, 1"
-date: "2023-05-08"
-categories: 
-  - "novedades"
-coverImage: "Ratas-en-el-callejon_cubierta-v1-1.png"
+date: 2023-05-08
+categories:
+  - novedades
+coverImage: Ratas-en-el-callejon_cubierta-v1-1.png
+revisado: true
 ---
-![cubierta\_ratas](images/Ratas-en-el-callejon_cubierta-v1-1-644x1030.png)
+![Ratas en el callejón](Ratas-en-el-callejon_cubierta-v1-1-644x1030.png "izquierda 250")
 
 Me alegra presentaros el inminente lanzamiento de mi nuevo libro, *Ratas en el callejón. Cuentos escabrosos, 1*, una recopilación de cuentos breves que, si nada se tuerce, estará disponible el próximo 18 de mayo en Amazon KDP en formato digital (y una o dos semanas después, prometido queda, en físico).
 
 Este es el texto de contraportada:
 
-\*\*\*
 
 *En el largo herir del tiempo, no hay inocentes.*
 

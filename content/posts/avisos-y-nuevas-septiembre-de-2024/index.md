@@ -1,13 +1,17 @@
 ---
-title: "Avisos y nuevas (septiembre de 2024)"
-date: "2024-09-06"
-categories: 
-  - "novedades"
-tags: 
-  - "avisos-y-nuevas"
-coverImage: "Homini-lupus_cubierta.jpg"
+title: Avisos y nuevas (septiembre de 2024)
+date: 2024-09-06
+categories:
+  - novedades
+tags:
+  - avisos-y-nuevas
+  - cuentos-escabrosos
+  - cuentos
+  - libros
+coverImage: Homini-lupus_cubierta.jpg
+revisado: true
 ---
-![](images/Homini-lupus_cubierta-644x1030.jpg)
+![Homini lupus](Homini-lupus.jpg "izquierda 250")
 
 Decía allá por noviembre del año pasado que el segundo volumen de los *Cuentos escabrosos* se retrasaba y que estaba en el proceso de escribir unas cuantas piezas más. Bien… dicho y hecho, escribí esas piezas (tres, finalmente), lo dejé dormir durante el tórrido agosto y aquí está, casi casi a punto. Con la cubierta lista, tan solo me quedan las últimas revisiones y la maquetación; así que, si nada se tuerce, la fecha prevista para la edición digital en KDP Amazon es el próximo 12 de octubre.
 

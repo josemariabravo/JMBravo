@@ -249,7 +249,7 @@ date: "2026-01-15"
 
 El shortcode recoge automáticamente todas las imágenes de la carpeta y las muestra en un grid. Al pinchar en una imagen se abre a pantalla completa; se cierra pinchando fuera o en el botón ×.
 
-**También funciona dentro de una entrada:** el shortcode `{{</* galeria */>}}` no está limitado a `content/galerias/` — se puede usar en cualquier página con imágenes en su propia carpeta, incluida `content/posts/mi-articulo/`. Basta con copiar las imágenes junto al `index.md` del artículo y poner `{{</* galeria */>}}` donde deba aparecer el grid.
+**También funciona dentro de una entrada:** el shortcode `{{< galeria *}}` no está limitado a `content/galerias/` — se puede usar en cualquier página con imágenes en su propia carpeta, incluida `content/posts/mi-articulo/`. Basta con copiar las imágenes junto al `index.md` del artículo y poner `{{</* galeria */>}}` donde deba aparecer el grid.
 
 > **Aviso:** por defecto el shortcode muestra *todas* las imágenes de la carpeta, sin distinguir si ya se han usado como imagen inline en el texto (`![...](imagen.jpg)`). Si una imagen inline y la galería conviven en la misma entrada, esa imagen saldrá repetida (una vez inline, otra en el grid) — salvo que la excluyas explícitamente (ver abajo).
 

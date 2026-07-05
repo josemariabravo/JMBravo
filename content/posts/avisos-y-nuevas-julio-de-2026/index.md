@@ -16,9 +16,9 @@ Así que me planteé seriamente chapar. Del todo. Dejar de pagar el hospedaje y 
 
 Estaba bastante claro que necesitaba un cambio de mentalidad. Un simple lavado de cara de la web no bastaba. Necesitaba, insisto, un enfoque distinto.
 
-En su momento, pensé en probar Substack. Pero me echaba para atrás el escaso control que tendría del contenido, por no hablar de que las redes sociales o cualquier plataforma que se parezca a una no es ni será lo mío. Necesitaba otra solución.
+En su momento, pensé en probar Substack. Pero me echaba para atrás el escaso control que tendría del contenido y de su presentación, por no hablar de que las redes sociales o cualquier plataforma que se parezca a una no es ni será lo mío. Necesitaba otra solución.
 
-Creo que he dado con ella. Y tiene que ver con una aplicación que ha cambiado muchas de mis costumbres. Me refiero a [Obsidian](https://obsidian.md/), por supuesto: una aplicación que parece una respuesta directa a mis plegarias.[^1] Ahora mismo, lo uso como breviario personal (sustituyendo a OneNote), como [wiki]({{< relref "/posts/instalar-wiki" >}}) para la mundografía de Últer (como reemplazo de DokuWiki, OneNote, Scrivener… y muchos más) e incluso como aplicación de escritura de mis obras (adiós, Scrivener, adiós), sin olvidar un nuevo uso: gestionar el contenido de esta página.
+Creo que he dado con ella. Y está relacionada directamente con una aplicación que ha cambiado muchas de mis costumbres. Me refiero a [Obsidian](https://obsidian.md/), por supuesto: un programa que parece una respuesta directa a mis plegarias.[^1] Ahora mismo, lo uso como breviario personal (sustituyendo a OneNote), como [wiki]({{< relref "/posts/instalar-wiki" >}}) para la mundografía de Últer (como reemplazo de DokuWiki, OneNote, Scrivener… y muchos más) e incluso como aplicación de escritura de mis obras (adiós, Scrivener, adiós), sin olvidar un nuevo uso: gestionar el contenido de esta página.
 
 Pero ¿qué ha cambiado respecto a la página anterior? Bien, antes usaba una instalación de WordPress alojada en un proveedor de hospedaje web (nada revolucionario, vaya); ahora empleo un sitio estático, generado con Hugo a partir del contenido de una bóveda de Obsidian.
 

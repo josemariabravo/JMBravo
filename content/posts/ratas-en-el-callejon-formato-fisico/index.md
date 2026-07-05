@@ -1,17 +1,18 @@
 ---
-title: "Ratas en el callejón, ya disponible en formato físico"
-date: "2023-06-10"
-categories: 
-  - "novedades"
-tags: 
-  - "libros"
-coverImage: "ratas_en_el_callejon_fisico-scaled.jpg"
+title: Ratas en el callejón, ya disponible en formato físico
+date: 2023-06-10
+categories:
+  - novedades
+tags:
+  - libros
+  - "cuentos-escabrosos"
+  - "cuentos"
+coverImage: ratas_en_el_callejon_fisico-scaled.jpg
+revisado: true
 ---
 Al fin. Tengo en mis manos las dos ediciones físicas de mi último libro (rústica y cartoné). Aquí, las fotos de rigor para dar fe:
 
-![](images/ratas_en_el_callejon_fisico-scaled-e1686401356589-1030x699.jpg)
-
-![](images/ratas_en_el_callejon_fisico_bis-scaled-1-1030x773.jpg)
+![Ratas en el callejón](ratas_en_el_callejon_fisico.jpg)
 
 Suspiro largo y profundo. A veces pienso si me gusta escribir o haber escrito; si realmente merece la pena tanto esfuerzo. Por ahora, sí. Mañana… mañana ya veremos.
 

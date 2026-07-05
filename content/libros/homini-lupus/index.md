@@ -16,4 +16,4 @@ En _Homini lupus_, segundo volumen de los _Cuentos escabrosos_, se recopilan die
 
 _Homini lupus_ está disponible en [Amazon](https://www.amazon.es/dp/B0DGBMCGP7/), en formato digital.
 
-[Descarga un adelanto en Amazon](https://leer.amazon.es/sample/B0DGBMCGP7?clientId=share)
+<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B0DGBMCGP7"></iframe>

@@ -1,10 +1,13 @@
 ---
-title: "Ratas en el callejón ya disponible"
-date: "2023-05-18"
-categories: 
-  - "novedades"
-coverImage: "Ratas-en-el-callejon_cubierta-v1-1.png"
+title: Ratas en el callejón ya disponible
+date: 2023-05-18
+categories:
+  - novedades
+coverImage: Ratas-en-el-callejon_cubierta-v1-1.png
+revisado: true
 ---
+![ratas-en-el-callejon_cubierta](ratas-en-el-callejon_cubierta.png "izquierda 250")
+
 Ya está disponible mi nuevo libro, *Ratas en el callejón. Cuentos escabrosos, 1*:
 
 *En el largo herir del tiempo, no hay inocentes.*  
@@ -15,4 +18,4 @@ En *Ratas en el callejón*, primer volumen de los *Cuentos escabrosos*, se recop
 
 Disponible en [formato digital en Amazon](https://www.amazon.es/dp/B0C5L88XQM).
 
-<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B0C5L88XQM&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_K2vaDbC93T65Q"></iframe>
+<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B0C5L88XQM"></iframe>

@@ -14,6 +14,6 @@ En _Ratas en el callejón_, primer volumen de los _Cuentos escabrosos_, se recop
 
 _Ratas en el callejón_ está disponible en [Amazon](https://www.amazon.es/dp/B0C5L88XQM), en formato físico y Kindle.
 
-[Aquí puedes leer una muestra](https://leer.amazon.es/sample/B0C5L88XQM?clientId=share).
+<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B0C5L88XQM"></iframe>
 
 
