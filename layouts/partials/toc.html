@@ -1,0 +1,7 @@
+{{ $toc := .TableOfContents }}
+{{ if ge (strings.Count "<li" $toc) 2 }}
+<details class="toc" open>
+  <summary>Índice de la entrada</summary>
+  {{ $toc }}
+</details>
+{{ end }}

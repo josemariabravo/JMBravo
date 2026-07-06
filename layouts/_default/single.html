@@ -29,6 +29,7 @@
       {{ if .ReadingTime }}{{ .ReadingTime }} min de lectura{{ end }}
     </p>
     {{ end }}
+    {{ if eq .Type "posts" }}<div class="toc-mobile">{{ partial "toc.html" . }}</div>{{ end }}
     <div class="post-content">
       {{ .Content }}
     </div>
@@ -39,6 +40,7 @@
       {{ end }}
     </ul>
     {{ end }}
+    {{ if eq .Type "posts" }}{{ partial "share.html" . }}{{ end }}
     {{ $related := first 3 (.Site.RegularPages.Related .) }}
     {{ with $related }}
     <aside class="related-posts">

@@ -12,6 +12,7 @@
     {{ with .Params.sinopsis }}
     <blockquote class="obra-sinopsis-destacada">{{ . }}</blockquote>
     {{ end }}
+    {{ partial "toc.html" . }}
     <div class="post-content">
       {{ .Content }}
     </div>

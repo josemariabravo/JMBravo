@@ -9,6 +9,7 @@ draft: false
 revisado: true
 ---
 Ha llovido lo suyo desde el último reporte de novedades: un año largo, lleno de cambios y quebrantos de los que aquí no hablaré. Escribir en el blog es una costumbre ya casi perdida; pero va, venga, hagamos un poder, como dicen por mi tierra, y escribamos una recapitulación por temas de este 2025 que ya acaba:
+
 ## Escritura
 
 Este año no he publicado nada, aunque la paradoja es que es uno de los años en los que más he escrito, aunque nada de ello con idea de publicarlo (lo entenderán si me tienen paciencia). Lo último que publiqué, *Dead wrong*, fue en noviembre de 2024. Cabe decir que tuvo escasa repercusión, pero qué más da: estoy satisfecho con la obra.

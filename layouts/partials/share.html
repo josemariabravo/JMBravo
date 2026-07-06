@@ -1,0 +1,38 @@
+{{ $url := .Permalink }}
+{{ $title := .Title }}
+<div class="share-buttons">
+  <span class="share-label">Compartir:</span>
+  <a class="share-btn" href="https://wa.me/?text={{ (printf "%s %s" $title $url) | urlquery }}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+  <a class="share-btn" href="https://twitter.com/intent/tweet?url={{ $url | urlquery }}&text={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">X</a>
+  <button type="button" class="share-btn share-copy" data-url="{{ $url }}">Copiar enlace</button>
+</div>
+<script>
+(function () {
+  var btn = document.currentScript.previousElementSibling.querySelector('.share-copy');
+  if (!btn) return;
+  function showCopied() {
+    var original = btn.textContent;
+    btn.textContent = '¡Copiado!';
+    setTimeout(function () { btn.textContent = original; }, 2000);
+  }
+  function fallbackCopy(text) {
+    var input = document.createElement('input');
+    input.value = text;
+    input.style.position = 'fixed';
+    input.style.opacity = '0';
+    document.body.appendChild(input);
+    input.select();
+    try { document.execCommand('copy'); showCopied(); } catch (e) {}
+    document.body.removeChild(input);
+  }
+  btn.addEventListener('click', function () {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(btn.dataset.url).then(showCopied, function () {
+        fallbackCopy(btn.dataset.url);
+      });
+    } else {
+      fallbackCopy(btn.dataset.url);
+    }
+  });
+})();
+</script>

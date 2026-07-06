@@ -1,5 +1,15 @@
 <aside class="sidebar">
 
+  {{ if eq .Type "posts" }}
+  {{ $toc := partial "toc.html" . | strings.TrimSpace }}
+  {{ if $toc }}
+  <div class="sidebar-block sidebar-toc">
+    {{ $toc | safeHTML }}
+  </div>
+  <hr class="sidebar-rule sidebar-toc-rule">
+  {{ end }}
+  {{ end }}
+
   <div class="sidebar-block">
     <h2>Últimas entradas</h2>
     <ul class="sidebar-list">
