@@ -1,5 +1,6 @@
 {{ $toc := .TableOfContents }}
 {{ if ge (strings.Count "<li" $toc) 2 }}
+{{ $toc = replace $toc `<nav id="TableOfContents">` "<nav>" | safeHTML }}
 <details class="toc" open>
   <summary>Índice de la entrada</summary>
   {{ $toc }}

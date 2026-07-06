@@ -483,7 +483,6 @@
     color: var(--text);
     margin-top: var(--sp-4);
     margin-bottom: var(--sp-1);
-    scroll-margin-top: calc(var(--header-h) + 2.5rem + var(--sp-3));
   }
 
   .post-content h3 {
@@ -491,28 +490,37 @@
     font-weight: 500;
     margin-top: var(--sp-3);
     margin-bottom: var(--sp-1);
+  }
+
+  /* anclas de encabezado: el render hook actúa en todo el sitio (no solo
+     .post-content), así que su estilo y el desplazamiento van sin ese
+     ámbito — .heading-anchor.heading-anchor sube la especificidad para
+     ganar siempre a los ".post-content a, .hero-inner a, .section-intro a"
+     de más abajo, sin depender de qué contenedor envuelva al encabezado */
+
+  :is(h1, h2, h3, h4, h5, h6) {
     scroll-margin-top: calc(var(--header-h) + 2.5rem + var(--sp-3));
   }
 
-  .post-content h2 .heading-anchor,
-  .post-content h3 .heading-anchor {
+  .heading-anchor {
     margin-left: .4em;
     font-size: .75em;
-    color: var(--muted);
     opacity: 0;
-    border-bottom: none;
     text-decoration: none;
     transition: opacity var(--ease), color var(--ease);
   }
 
-  .post-content h2:hover .heading-anchor,
-  .post-content h3:hover .heading-anchor,
+  .heading-anchor.heading-anchor {
+    color: var(--muted);
+    border-bottom: none;
+  }
+
+  :is(h1, h2, h3, h4, h5, h6):hover .heading-anchor,
   .heading-anchor:focus-visible {
     opacity: 1;
   }
 
-  .post-content h2 .heading-anchor:hover,
-  .post-content h3 .heading-anchor:hover {
+  .heading-anchor.heading-anchor:hover {
     color: var(--accent);
   }
 
@@ -1649,8 +1657,7 @@
 
     /* anclas de encabezado — recalcular con la cabecera reducida */
 
-    .post-content h2,
-    .post-content h3 {
+    :is(h1, h2, h3, h4, h5, h6) {
       scroll-margin-top: calc(var(--header-h-sm) + 2.5rem + var(--sp-2));
     }
 
@@ -1668,6 +1675,15 @@
       gap: var(--sp-2);
     }
 
+  }
+
+  /* anclas de encabezado — en ≤860px la barra de búsqueda pasa a dos líneas
+     (miga de pan + buscador ya no caben en una), así que hace falta más margen
+     que el calculado para el header reducido a secas */
+  @media (max-width: 860px) {
+    :is(h1, h2, h3, h4, h5, h6) {
+      scroll-margin-top: calc(var(--header-h-sm) + var(--sp-5) + var(--sp-2));
+    }
   }
 
 }
