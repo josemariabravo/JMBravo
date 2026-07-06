@@ -7,7 +7,13 @@
       {{ range $libros }}
       {{ $book := . }}
       <a class="book-card" href="{{ $book.Permalink }}">
-        {{ with $book.Resources.GetMatch ($book.Params.cover | default "") }}
+        {{ $cover := $book.Resources.GetMatch ($book.Params.cover | default "") }}
+        {{ if not $cover }}
+          {{ with $book.Resources.ByType "image" }}
+            {{ $cover = index . 0 }}
+          {{ end }}
+        {{ end }}
+        {{ with $cover }}
           {{ $webp := .Process "webp" }}
           <img src="{{ $webp.RelPermalink }}" alt="{{ $book.Title }}">
         {{ end }}

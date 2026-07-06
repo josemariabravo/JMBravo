@@ -2,7 +2,7 @@
 title: Ratas en el callejón
 subtitle: Cuentos escabrosos, 1
 date: 2023-06-01
-cover: images/Ratas-en-el-callejon_cubierta-v1-1-644x1030.png
+cover: images/ratas-en-el-callejon-cubierta.jpg
 resumen: Dieciséis relatos de suspense y terror, primer volumen de los Cuentos escabrosos.
 amazon_url: https://www.amazon.es/dp/B0C5L88XQM
 ---

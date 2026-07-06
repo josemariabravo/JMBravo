@@ -404,8 +404,10 @@
   .book-card img {
     width: 100%;
     border-radius: var(--radius);
-    box-shadow: 0 4px 16px rgb(0 0 0 / .14);
+    box-shadow: 0 4px 16px rgb(0 0 0 / .15);
     transition: transform var(--ease);
+    border: 1px solid rgb(10 10 10 / .15);
+
   }
 
   .book-card:hover img { transform: translateY(-4px); }

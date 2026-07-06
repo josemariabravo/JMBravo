@@ -2,7 +2,7 @@
 title: Runas de sangre
 subtitle: Relatos de Daramad Mur Asyb
 date: 2020-05-01
-cover: images/Runas-de-Sangre_cubierta-666x1030.jpg
+cover: images/runas-de-sangre-cubierta.jpg
 resumen: Espada y brujería en el mundo de Darlum, narrados por el mercenario Daramad Mur Asyb.
 amazon_url: https://www.amazon.es/dp/B086821JM7
 ---
