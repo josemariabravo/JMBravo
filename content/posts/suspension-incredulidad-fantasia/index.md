@@ -8,7 +8,7 @@ categories:
 
 Quinto informe [Ouróboros](/tag/ouroboros/). Este artículo aborda un punto crucial en las historias de género fantástico: cómo cuidar la verosimilitud de nuestras historias, jugando con una contradicción evidente: las historias fantásticas son inverosímiles por definición; sin embargo, hay historias más creíbles que otras, o que el lector concibe como “posibles dentro de su imposibilidad”. ¿Cómo puede ser esto? Os invito a seguir leyendo si queréis ahondar en el tema:
 
-<!--more-->
+
 
 ### 1\. ¿Qué es la suspensión de la incredulidad?
 

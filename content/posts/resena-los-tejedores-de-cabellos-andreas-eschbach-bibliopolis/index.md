@@ -1,12 +1,11 @@
 ---
 title: "Los tejedores de cabellos, Andreas Eschbach"
-date: "2010-09-21"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "libros"
-  - "resenas"
-coverImage: "tejedorescabellos_gr-1-e1686290447757.jpg"
+date: 2010-09-21
+categories:
+  - recomendaciones
+tags:
+  - libros
+revisado: true
 ---
 Hace poco encontré la bitácora de Luis G. Prado (confieso que siempre me he preguntado si la G. es apellido o segundo nombre; curioso que es uno), editor del fantástico inveterado, de raza, incluso; en su currículum tiene las publicaciones de Artifex y las editoriales Bibliópolis y Alamut, responsables de no pocos hallazgos para el lector de género.
 

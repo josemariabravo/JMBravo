@@ -10,7 +10,7 @@ Quedaba pendiente, pues, agarrar por los cuernos al toro y abordar cómo se llev
 
 El nombre del método en inglés es *Snowflake Method*, traducible como "método del copo de nieve" (me adelanto al gracioso de turno; es del copo, no del copón)*.* Podéis leer la versión original del artículo [aquí](http://www.advancedfictionwriting.com/art/snowflake.php)*.* He decidido traducirlo y compartirlo con vosotros porque creo que puede resultaros interesante. Quizá no queráis seguirlo a rajatabla; pero seguramente, como a mí, os hará reflexionar sobre la planificación de una novela. Merece, por lo menos, una lectura.
 
-<!--more-->Por otra parte, es perfectamente compatible con el método de organización que [propuse en esta entrada](/sobre-la-organizacion-de-una-novela-planificacion-literaria-ii/ "Sobre la organización de una novela (Planificación literaria, ii)"). (Los documentos de planificación que resulta de este método entrarían en la categoría **ARG**.)
+Por otra parte, es perfectamente compatible con el método de organización que [propuse en esta entrada](/sobre-la-organizacion-de-una-novela-planificacion-literaria-ii/ "Sobre la organización de una novela (Planificación literaria, ii)"). (Los documentos de planificación que resulta de este método entrarían en la categoría **ARG**.)
 
 **Notas sobre esta traducción:**
 

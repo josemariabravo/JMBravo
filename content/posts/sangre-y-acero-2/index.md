@@ -13,7 +13,7 @@ En cuanto al contenido, en este número dos encontramos lo siguiente:
 
 - **¡Muero matando!**, de **Israel Sánchez**.
 
-<!--more-->
+
 
 - **El Hacha**, artículo a dos manos, la de este servidor y **Jorge García Picazo**. Lo he vuelto a releer de forma rápida y bueno, modestia aparte, el artículo tendrá muchas imprecisiones, pero es ameno y ofrece una visión general de un arma a lo largo de las épocas y culturas bastante completa.
 - **La Conjura**, relato de un servidor, el cual iniciaba la saga de Daramad Mur Asyb, personaje que, a todo esto, he canibalizado para el proyecto en el que ando liado. A este relato, sin ser uno de mis favoritos, le tengo bastante cariño, aún a pesar de sus (muchos) defectos. El personaje cambió bastante en los siguientes relatos, o eso me parece.

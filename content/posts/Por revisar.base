@@ -1,0 +1,16 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.ext == "md"
+        - file.name == "index"
+        - file.path.startsWith("content/posts/")
+        - revisado != true
+    order:
+      - title

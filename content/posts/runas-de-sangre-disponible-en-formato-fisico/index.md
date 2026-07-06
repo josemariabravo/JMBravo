@@ -1,24 +1,17 @@
 ---
-title: "Runas de sangre disponible en formato físico"
-date: "2020-05-14"
-categories: 
-  - "novedades"
-coverImage: "cover.jpg"
+title: Runas de sangre disponible en formato físico
+date: 2020-05-14
+categories:
+  - novedades
+revisado: true
+tags:
+  - runas-de-sangre
+  - libros
 ---
 Quizá sea un poco absurdo, en especial habida cuenta de los tiempos que corren, pero hasta que no veo en mis manos el libro en el que trabajo no lo considero terminado.  
 Así que puedo decir que he terminado *Runas de sangre*. Aquí tienen algunas fotos de prueba y muestra:
 
-<figure>
-
-![](images/Runas-de-sangre_físico-1030x300.jpg)
-
-<figcaption>
-
-*Runas de sangre*
-
-</figcaption>
-
-</figure>
+{{< galeria >}}
 
 Podéis obtener *Runas de sangre* en formato físico o digital [a través de este enlace](https://mybook.to/Runas_de_sangre). Bajo estas líneas, la vista previa:  
 

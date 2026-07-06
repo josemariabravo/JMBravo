@@ -11,7 +11,7 @@ tags:
 
 Desde entonces he dibujado muchos mapas, con mayor o menor arte. Cuando era director de juego de rol tuve que dibujar muchos, y quizá sea por eso que no concibo escribir una historia de fantasía sin dibujar mapas y planos, aunque sean unos bosquejos mal garrapateados.
 
-<!--more-->
+
 
 Precisamente ayer mismo participaba (con el nick Sleerash) en un [hilo del foro de Sedice.com](http://www.sedice.com/modules.php?name=Forums&file=viewtopic&p=1251462) en el que se hablaba de la importancia de los mapas en las historias de fantasía. Un forero comentó, con no poca razón, que los mapas se han convertido en otro de los tópicos de las historias de fantasía.
 

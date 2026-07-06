@@ -14,7 +14,7 @@ Podéis leer la anterior entrega [aquí](http://sombrasyceniza.com/2011/02/09/el
 
 Para completar este apartado puede ser interesante examinar algunas de las “familias” más características de los insultos, dado que nos servirá para conocer mejor los mecanismos lingüísticos que crean y amplían los registros ofensivos del lenguaje.
 
-<!--more-->
+
 
 #### Rameras, furcias y otras mujeres de mal vivir
 

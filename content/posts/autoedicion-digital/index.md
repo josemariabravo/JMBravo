@@ -5,6 +5,10 @@ title: Autoedición digital, o el nuevo Parnaso
 date: 2010-09-16
 categories:
   - articulos
+tags:
+  - industria-editorial
+  - ebook
+revisado: true
 ---
 No me resisto a enlazar directamente dos entradas de la bitácora de Fran Ontanaya (debe de haber un término gringo para este descaro, pero lo ignoro), que espero os resulten tan interesantes como a mí: [¿Cuánto gana un escritor?](http://www.franontanaya.com/2010/09/01/quien-necesita-editores/) y [¿Quién necesita editores?](http://www.franontanaya.com/2010/09/01/quien-necesita-editores/).
 

@@ -6,7 +6,7 @@ categories:
   - recomendaciones
 tags:
   - sangre-y-acero
-coverImage: sangre-y-acero-1
+revisado: true
 ---
 ![sya_portada-1](images/sangre-y-acero-1.jpg "izquierda 250")
 La historia del fanzine *Sangre y acero* (a partir de ahora, SyA) comenzó hace unos 15 años, o así, cuando conocí a [Andrés Díaz Sánchez](https://andresdiazsanchez.com/) gracias al correo del lector del cómic *La Espada Salvaje de Conan*, allá por 1995.

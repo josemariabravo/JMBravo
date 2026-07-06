@@ -10,7 +10,7 @@ El empleo del gerundio —su abuso, más bien— es un tema delicado, seguido de
 
 Citando a **Azorín**, «Con gerundios se escribe a lo manga por hombro». Sin embargo, no se tra­ta de desaconsejar el uso del gerundio, ni de arrinconarlo. Como el mismo Azorín reconocía: «Tal vez yo exagero y haya gerundios mansos, tratables». El gerundio tiene usos indispensables en el español, pero también no pocos usos discutibles e incorrectos. Así que este artículo trata de recomendar, sobre todo, cautela en el uso de los gerundios.
 
-<!--more-->**2\. Definición y características:**
+**2\. Definición y características:**
 
 El gerundio, tanto en su forma simple (ej.: *andando*) como en la compuesta (ej. *habiendo andado*), es una forma del verbo no personal o auxiliar, y como tal, carece de variación morfológica de persona. El gerundio comparte aspectos, además, con los adjetivos y adverbios. Uno de sus aspectos adverbiales es que podemos colocarnos donde nos plazca en una oración. Valga este ejemplo:
 

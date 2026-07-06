@@ -1,12 +1,11 @@
 ---
-title: "La Primera Ley, de Joe Abercrombie"
-date: "2010-09-17"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "libros"
-  - "resenas"
-coverImage: "laprimeraley.webp"
+title: La Primera Ley, de Joe Abercrombie
+date: 2010-09-17
+categories:
+  - recomendaciones
+tags:
+  - libros
+revisado: true
 ---
 ![laprimeraley](laprimeraley.webp "izquierda 250")
 Hace unos dos meses que leí la última parte de esta serie y quedé gratamente sorprendido. La primera parte, *La voz de las espadas* sentó las bases de una historia que prometía, pese a caer en los estereotipos del género. La segunda, *Antes de que los cuelguen*, bajó un poco el nivel, pero en la tercera parte, *El último argumento de los reyes*, la saga superó, y con creces, todas mis expectativas anteriores.

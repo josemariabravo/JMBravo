@@ -14,7 +14,7 @@ Hasta ahora solo hemos hablado de historias en la que aparece un único narrador
 
 El principal problema que tenemos que considerar a la hora de introducir diferentes narradores es la credibilidad. Hay combinaciones muy difíciles sin una justificación clara; por ejemplo, ¿por qué meter un tercero en presente y un tercero pasado a la vez? ¿Es posible combinar un tercero histórico/cronista omnisciente con un tercero parcial? ¿Y con un narrador protagonista en primera persona? ¿Tanto si están al mismo nivel o uno dentro de otro? Es imposible ofrecer respuestas absolutas. El escritor debe tomar decisiones en base a muchos factores. Los narradores han de quedar lo mejor situados posibles, que resulten creíbles por separado y también en conjunto.
 
-<!--more-->**8\. Multiperspectivismo.**
+**8\. Multiperspectivismo.**
 
 El multiperspectivismo es casi una consecuencia directa del uso de múltiples narradores que un autor puede emplear o no. Siempre que hay más de un narrador se puede hacer que cuenten los mismos hechos, pero cada uno desde una perspectiva diferente, con las diferencias que ello pueda conllevar.
 

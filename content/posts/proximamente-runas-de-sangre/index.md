@@ -1,13 +1,16 @@
 ---
 title: "Próximamente: Runas de sangre"
-date: "2020-03-22"
-categories: 
-  - "novedades"
-coverImage: "cover.jpg"
+date: 2020-03-22
+categories:
+  - novedades
+tags:
+  - runas-de-sangre
+  - libros
+revisado: true
 ---
 Ya en preventa, *Runas de sangre: relatos de Daramad Mur Asyb*:
 
-![](images/Runas-de-Sangre_cubierta-666x1030.jpg)
+![Runas de sangre](images/Runas-de-Sangre_cubierta-666x1030.jpg)
 
 *Tres vidas, capitán. Una para el señor de las profundidades, la Sierpe que duerme en el abismo; otra para sus hijas, de luengos cabellos, que suspiran por la sangre caliente de los hombres; y otra más para los espíritus de la tempestad, siempre henchidos de rabia.*
 

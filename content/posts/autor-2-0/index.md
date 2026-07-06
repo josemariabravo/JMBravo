@@ -13,7 +13,7 @@ El otro día leí en [librodenotas.com](http://librodenotas.com) un [breve artí
 
 Siempre he sido de la opinión que obra y autor han de estar perfectamente separados. Realmente no importa que una obra que nos ha gustado la haya escrito Fulano, albañil en su día a día, o Zutano, catedrático de la universidad de Salamanca (es un poner).
 
-<!--more-->
+
 
 Tampoco importa si el autor es feo o guapo, alto o gordo; o que cargue más bien a derechas o izquierdas, políticamente hablando; o qué sé yo, que hable con acento maño, andaluz o vasco. No nos importa, o más bien, no nos *debería importar*.
 

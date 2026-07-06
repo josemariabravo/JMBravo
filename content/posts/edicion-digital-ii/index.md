@@ -1,10 +1,14 @@
 ---
-aliases: ["/edicion-digital-ii/"]
-title: "Más sobre la edición digital"
-date: "2010-09-23"
-categories: 
-  - "articulos"
-coverImage: "imprenta-1.jpg"
+aliases:
+  - /edicion-digital-ii/
+title: Más sobre la edición digital
+date: 2010-09-23
+categories:
+  - articulos
+tags:
+  - industria-editorial
+  - libros
+revisado: true
 ---
 Leí ayer en la bitácora de Enrique Dans este interesante artículo, "[El futuro del papel](http://www.enriquedans.com/2010/09/el-futuro-del-papel.html)", que recomiendo leer, por su interés y concisión. Me gustó especialmente su segundo párrafo, un certero análisis de la renuencia ante abandonar el papel como medio de transmitir información que invita a no pocas reflexiones. Dice Enrique:
 

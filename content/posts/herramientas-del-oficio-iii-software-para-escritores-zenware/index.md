@@ -19,7 +19,7 @@ Estos programas no sustituyen a los procesadores de texto al uso, dado sus limit
 
 De entre los muchos programas que existen y he probado, mi favorito es **WriteMonkey**.
 
-<!--more-->**[WriteMonkey](http://www.writemonkey.com/)** (que, por cierto, es el que estoy usando ahora para escribir este artículo) es un programa con muchas ventajas. Es ligero (ocupa 1508 KB), no requiere instalación (de forma que puedes llevarlo en una unidad de memoria USB y usarlo en cualquier ordenador), es muy configurable y dispone de numerosas funcionalidades, accesibles todas mediante atajos de teclado (que uso profusamente siempre que puedo).
+**[WriteMonkey](http://www.writemonkey.com/)** (que, por cierto, es el que estoy usando ahora para escribir este artículo) es un programa con muchas ventajas. Es ligero (ocupa 1508 KB), no requiere instalación (de forma que puedes llevarlo en una unidad de memoria USB y usarlo en cualquier ordenador), es muy configurable y dispone de numerosas funcionalidades, accesibles todas mediante atajos de teclado (que uso profusamente siempre que puedo).
 
 #### ![pantallazo\_writemonkey](images/pantallazo_writemonkey_thumb.png "pantallazo_writemonkey")
 

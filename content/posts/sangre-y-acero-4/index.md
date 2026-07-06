@@ -9,7 +9,7 @@ tags:
 ---
 ![Sangre-y-Acero\_4\_01](images/sangreyacero_4_01.jpg "Sangre-y-Acero_4_01") No, no me había olvidado de Sangre y acero. Aquí os traigo el cuarto número, publicado originalmente en marzo de 2001, ocho meses después del número anterior. Este es el contenido:
 
-- **El corazón de la oscuridad**, relato de Luis G. del Corral. Por cierto, este relato tiene un desenlace prácticamente idéntico al del videojuego “Príncipe de Persia” (la primera y mítica versión, que jugué en mi viejo [Amstrad CPC 6128](http://es.wikipedia.org/wiki/Amstrad_CPC_6128)); lástima, me quedé con ganas de comentarlo con su autor y hemos perdido el contacto. Este relato viene acompañado de portadilla del ilustrador José Blaya.<!--more-->
+- **El corazón de la oscuridad**, relato de Luis G. del Corral. Por cierto, este relato tiene un desenlace prácticamente idéntico al del videojuego “Príncipe de Persia” (la primera y mítica versión, que jugué en mi viejo [Amstrad CPC 6128](http://es.wikipedia.org/wiki/Amstrad_CPC_6128)); lástima, me quedé con ganas de comentarlo con su autor y hemos perdido el contacto. Este relato viene acompañado de portadilla del ilustrador José Blaya.
 - **El ser de la charca**, relato de Eugenio Fraile La Ossa, segundo relato de los protagonizados por El Cid.
 - **El señor del país verde**, relato de Andrés Díaz y segundo en la saga de Skarrion Gunthar, que como ya sabéis publicaría años más tarde la editorial Timun Mas.
 - **Los que no olvidan**, relato, por este servidor, tercer relato de la saga de Daramad Mur Asyb. La portadilla y la ilustración interior son de José Blaya. Me encanta la representación que hizo este autor del personaje Daramad. Lamentablemente, tampoco he vuelto a saber nada de José Blaya.

@@ -1,10 +1,10 @@
 ---
-aliases: ["/paradigmas-historicos/"]
-title: "Paradigmas históricos y otros desbarres"
-date: "2010-10-05"
-categories: 
-  - "articulos"
-coverImage: "IMPACT-History.jpg"
+title: Paradigmas históricos y otros desbarres
+date: 2010-10-05
+categories:
+  - articulos
+tags:
+revisado:
 ---
 He leído esta mañana en [Carpe Noctem](http://sirmia.wordpress.com/), la bitácora recién estrenada de Israel Sánchez, esta interesante reflexión sobre el género que tanto amamos: [De géneros, generalidades y etiquetas en general](http://sirmia.wordpress.com/2010/10/05/de-generos-generalidades-y-etiquetas-en-general/).
 
@@ -22,11 +22,11 @@ Y para hacer eso bien, el autor ha de acudir a la documentación histórica. Dec
 
 No obstante, sí que hay una forma para escribir (mal, eso sí) sobre todas estas cuestiones sin documentarse siquiera un poco. Seguro que la mayoría saben cual…
 
-Tirar, simple y llanamente, de tópicos. Para narrar un duelo a espada, bastará con hacer un refrito de lo que se ha visto en el cine y se ha leído en la literatura «de espadazos». ¿Que queremos escribir sobre una batalla campal? Nada, nos vemos **Braveheart**, por ejemplo, o la segunda o tercera parte de **El Señor de los Anillos**, la que mejor nos caiga. Y ya está. Qué coño. Para qué liarse más la picha. Al cabo, como he oído más de una vez, a mi pesar, «es solo fantasía».
+Tirar, simple y llanamente, de tópicos. Para narrar un duelo a espada, bastará con hacer un refrito de lo que se ha visto en el cine y se ha leído en la literatura «de espadazos». ¿Que queremos escribir sobre una batalla campal? Nada, nos vemos *Braveheart*, por ejemplo, o la segunda o tercera parte de *El Señor de los Anillos*, la que mejor nos caiga. Y ya está. Qué coño. Para qué liarse más la picha. Al cabo, como he oído más de una vez, a mi pesar, «es solo fantasía».
 
 Ah, qué frase tan triste y demoledora. «Es solo fantasía». Vamos, que no importa si lo que leemos es absurdo o ilógico, porque es fantasía. Podemos cometer toda clase de anacronismos e inexactitudes, pues como escribimos fantasía, todo nos está permitido, ¿verdad?
 
-Y un carajo, señores. Ese no es el camino. Para escribir con propiedad una historia fantástica en la que las batallas, los duelos a espada, las sociedades basadas en el medioevo o renacimiento (siquiera ligeramente) son elementos clave, tenemos por fuerza que acudir a las fuentes originales. Al mencionado paradigma. Esto es, preocuparnos en rascar el oropel del tópico para llegar al hueso. Al quid del asunto. Luego, con más o menos intención y acierto, distorsionaremos ese paradigma  histórico a nuestro antojo para que se acomode a los parámetros de nuestra historia. Lo haremos por nuestra cuenta y riesgo, eso sí; pero si no lo hacemos sabiendo de qué partimos, estaremos condenados a repetir una y otra vez los tópicos de la fantasía. (Sin quererlo he traído a colación la célebre cita de **Jorge Santayana**, ya saben, esa que mola tanto poner en una bitácora: «aquellos que no recuerdan el pasado, están condenados a repetirlo».)
+Y un carajo, señores. Ese no es el camino. Para escribir con propiedad una historia fantástica en la que las batallas, los duelos a espada, las sociedades basadas en el medioevo o renacimiento (siquiera ligeramente) son elementos clave, tenemos por fuerza que acudir a las fuentes originales. Al mencionado paradigma. Esto es, preocuparnos en rascar el oropel del tópico para llegar al hueso. Al quid del asunto. Luego, con más o menos intención y acierto, distorsionaremos ese paradigma  histórico a nuestro antojo para que se acomode a los parámetros de nuestra historia. Lo haremos por nuestra cuenta y riesgo, eso sí; pero si no lo hacemos sabiendo de qué partimos, estaremos condenados a repetir una y otra vez los tópicos de la fantasía. (Sin quererlo he traído a colación la célebre cita de Jorge Santayana, ya saben, esa que mola tanto poner en una bitácora: «aquellos que no recuerdan el pasado, están condenados a repetirlo»).
 
 Os voy a contar mi experiencia personal al respecto: siempre he sido un apasionado de las armas anteriores a la pólvora, y en especial, las blancas; y dentro de las blancas, cómo no, las espadas.
 
@@ -34,8 +34,8 @@ Durante un tiempo traté de recopilar toda la información posible sobre el tema
 
 Para escribir mis escenas de combate trataba de aplicar lo que creía saber. No era mucho, pero cada fragmento de documentación que recogía lo aprovechaba; iba, poco a poco, derribando los mitos que hay alrededor de las espadas que, voto a tal, algún día tendré que tratar aquí (en el ínterin, hagan el favor de visitar esta bitácora: [laespadaes.blogspot.com](http://laespadaes.blogspot.com/); don Rufino Acosta les ilustrará mejor que yo).
 
-Pero bueno, a lo que iba: por un azar del destino, justo cuando empezaba a perder mi interés por el tema, a finales de los noventa despertó la afición por las artes marciales occidentales, con la espada medieval y renacentista como protagonistas casi absolutos. Todo comenzó en Estados Unidos (sí, aunque joda), gracias a un tal **John Clements**, fundador de [ARMA](http://www.google.com/url?sa=t&source=web&cd=8&ved=0CD0QFjAH&url=http%3A%2F%2Fwww.thehaca.com%2F&rct=j&q=arma&ei=sUGrTI6uOpCTjAfvwKy7Bw&usg=AFQjCNHPXi6IvDh95pw5r4lx33yb8wlbyw&sig2=C5K90RQPL_ZIHg0UaGgXvg&cad=rja) (**Association for Renaissance Martial Arts**); y gracias a él, sus vídeos y artículos, renové mi interés sobre la espada y el arte de manejarla. (Luego fue que este señor resultó ser un poco botarate, pero esa es otra historia.)  
-De ahí a animarme a practicar la esgrima no hubo mucho trecho (en realidad, sí que lo hubo, pero lo dejaré para otro artículo). Gracias a la [AEEA](http://www.esgrimaantigua.com/), la **Asociación Española de Esgrima Antigua**, y a su Maestro de Armas, **Alberto Bomprezzi**, pude comprobar, de primera mano, una aproximación de lo que sería un duelo a espada “de los de verdad”. Con muchos matices, por supuesto. Pero sin duda, lo más cercano a la realidad sin arriesgar el pellejo, el propio y el de enfrente.
+Pero bueno, a lo que iba: por un azar del destino, justo cuando empezaba a perder mi interés por el tema, a finales de los noventa despertó la afición por las artes marciales occidentales, con la espada medieval y renacentista como protagonistas casi absolutos. Todo comenzó en Estados Unidos (sí, aunque joda), gracias a un tal John Clements, fundador de ARMA, la Association for Renaissance Martial Arts; y gracias a él, sus vídeos y artículos, renové mi interés sobre la espada y el arte de manejarla. (Luego fue que este señor resultó ser un poco botarate, pero esa es otra historia).  
+De ahí a animarme a practicar la esgrima no hubo mucho trecho (en realidad, sí que lo hubo, pero lo dejaré para otro artículo). Gracias a la [AEEA](http://www.esgrimaantigua.com/), la Asociación Española de Esgrima Antigua, y a su Maestro de Armas, Alberto Bomprezzi, pude comprobar, de primera mano, una aproximación de lo que sería un duelo a espada «de los de verdad». Con muchos matices, por supuesto. Pero sin duda, lo más cercano a la realidad sin arriesgar el pellejo, el propio y el de enfrente.
 
 Cuando menos, tuve la oportunidad de blandir réplicas de espadas, blancas (con filos vivos) y negras (sin filos vivos), oportunidad que no muchos han tenido (no, eso del *softcombat* no me vale, lo siento). Y mi perspectiva cambió de forma completa, y los tópicos terminaron por caer, uno tras otro.  (También bajaron mis fondos cuando me puse a coleccionar réplicas de armas blancas, de las que cortan y pinchan de veras, pero esa es, también, otra historia, y no quiero que ustedes se alarmen más de lo preciso.) 
 

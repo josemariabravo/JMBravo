@@ -13,7 +13,7 @@ No soy, precisamente, un asiduo a la literatura juvenil, aunque haya tenido a *L
 
 Y sin embargo, el libro que reseño ahora entra dentro de la categoría juvenil. Lo compré de rondón, cuando curioseaba en una gran superficie, y vi el nombre del autor, José Cotrina, al que conocía de la antología de relatos *Artifex*, de cuya segunda época fui suscriptor. Recuerdo gratamente su relato *Tres noches y un crepúsculo*, publicado en el volumen 4, y eso fue lo que me impulsó a comprarme *La cosecha de Samhein*, de José Antonio Cotrina (Alfaguara, 2009), pese a ser literatura juvenil, y encima, una trilogía.
 
-<!--more-->
+
 
 ### Sinopsis:
 

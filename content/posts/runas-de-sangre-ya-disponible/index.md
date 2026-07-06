@@ -1,11 +1,11 @@
 ---
-title: "Runas de sangre ya disponible"
-date: "2020-04-07"
-categories: 
-  - "novedades"
-coverImage: "cover.jpg"
+title: Runas de sangre ya disponible
+date: 2020-04-07
+categories:
+  - novedades
+etiquetas: runas-de-sangre
 ---
-![](images/cover-644x1030.jpg)
+![Runas de sangre](runas-de-sangre-cubierta.jpg)
 
 *—Tres vidas, capitán. Una para el señor de las profundidades, la Sierpe que duerme en el abismo; otra para sus hijas, de luengos cabellos, que suspiran por la sangre caliente de los hombres; y otra más para los espíritus de la tempestad, siempre henchidos de rabia. Tres vidas. Ese es el precio del viento…*
 

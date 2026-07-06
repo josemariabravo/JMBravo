@@ -4,8 +4,8 @@ Pendientes de JMBravo.com, organizados según su alcance.
 
 ## General
 
-- [ ] Revisión de metadatos del sitio.
-- [ ] Revisión de SEO.
+- [x] Revisión de metadatos del sitio.
+- [x] Revisión de SEO.
 
 ## Diseño
 

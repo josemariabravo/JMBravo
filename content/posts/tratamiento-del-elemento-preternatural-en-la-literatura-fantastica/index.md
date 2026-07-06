@@ -16,9 +16,7 @@ b) Dotar de la terminología base adecuada para un entendimiento preciso y comú
 
 c) Proporcionar un análisis completo para ayudar al escritor en su proceso creativo.
 
-<!--more-->
-
-### 2\. Definiciones
+### 2. Definiciones
 
 En el artículo [Estructurando la literatura fantástica](http://www.sombrasyceniza.com/2010/11/05/estructurando-la-literatura-fantastica/) se hablaba de los **elementos preternaturales** que hacen (en conjunto con los elementos naturales) al género literario fantástico, y de las justificaciones que se puedan buscar. Sobre esta base, el presente texto es un primer acercamiento al elemento preternatural en la literatura fantástica.
 

@@ -10,7 +10,7 @@ Desde el arranque de esta bitácora [he mostrado entusiasmo](http://sombrasyceni
 
 No paran de repetir que el lector de libros electrónicos será el regalo de estas navidades, aunque en realidad las ventas no parecen ser tan prometedoras como las pintan.
 
-<!--more-->
+
 
 **Nota:** admito que es sospechosamente oportuno que escriba esto justo a las puertas de la campaña navideña. Os aseguro que no me paga Amazon.com (ojalá) ni Libranda (no tienen ni para pagarse una [imagen libre de royalties para la portada](http://www.franontanaya.com/2010/11/09/libranda-usando-imagenes-con-marcas-de-agua/), así que imaginad).
 

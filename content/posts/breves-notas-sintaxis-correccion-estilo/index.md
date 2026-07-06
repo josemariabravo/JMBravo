@@ -12,7 +12,7 @@ No obstante, es muy recomendable estudiar sintaxis en mayor profundidad, por las
 
 Vamos con el informe:
 
-<!--more-->
+
 
 ### 1\. Verbos transitivos e intransitivos.
 

@@ -11,7 +11,7 @@ tags:
 
 Llevo usando Microsoft Word 2003 desde su lanzamiento, hace más de siete años, y he probado todas las versiones anteriores. No he tenido la oportunidad de probar las versiones incluidas en Office 2007 y 2010, y la verdad es que no tengo intención de hacerlo.
 
-<!--more-->
+
 
 La razón es que tras muchas cavilaciones decidí pasarme definitivamente a OpenOffice (a partir de ahora, Oo). (Irónicamente, no puedo prescindir de Office 2003, porque he de usarlo en el trabajo de sí o sí.) En cualquier caso, recomiendo a mis lectores que se pasen a Oo.
 

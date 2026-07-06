@@ -10,7 +10,7 @@ categories:
 
 Aviso: en vez de dedicarme a detallar los pros y contras de cada programa, me limitaré a unos breves comentarios centrados en porqué descarté cada programa en beneficio de Scrivener.
 
-<!--more-->
+
 
 Comencemos:
 

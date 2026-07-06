@@ -1,11 +1,10 @@
 # Ideas para artículos
 ## Artículos generales
-- Artículo sobre el uso de la IA como reflexión sobre la injerencia externa y la falsificación del autor.
 - Fantasía histórica como género.
-- Carta de amor de un escritor a markdown.
-- Carta de amor a Obsidian.
+- Artículo sobre el uso de la IA como reflexión sobre la injerencia externa y la falsificación del autor.
 - Escribir a mano, una apología. Sucinto, justificado pero personal: en esta era intervenida por la tecnología, regresar a lo básico y mínimo ayuda a reconectar con lo íntimo.
-- Organización personal con Johnny Decimal.
+- Carta de amor a Obsidian.
+- Carta de amor de un escritor a markdown.
 - Guía esencial de Obsidian
 	- Qué es
 	- Qué no es
@@ -22,7 +21,3 @@
 	- Exportación
 - Por qué escribir.
 - Genette. Conceptos básicos narrativos.
-- Explicatio non petita de cada libro.
-- Apéndice de *Sombras y ceniza*
-- Apéndice de *Runas de sangre*
-- Apéndice de *Dead wrong*

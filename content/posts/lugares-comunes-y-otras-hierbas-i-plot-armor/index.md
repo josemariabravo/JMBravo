@@ -8,7 +8,7 @@ categories:
 
 Pero ¿qué es un *trope*? La traducción mocosuena sería “tropo”, pero no es lo mismo en inglés que en español. En español, un “tropo” es esencialmente una figura retórica que comporta la sustitución de una palabra o expresión por otra de sentido figurado. Veamos un par de diccionarios:
 
-<!--more-->Según el Diccionario de la Real Academia:
+Según el Diccionario de la Real Academia:
 
 > Del lat. tropus, y este del gr. trópos.
 > 

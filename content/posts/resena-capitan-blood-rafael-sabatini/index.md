@@ -11,7 +11,7 @@ tags:
 
 Para los que no conozcan a Rafael Sabatini (1875-1950) haré una breve semblanza: italiano, nacido de madre inglesa y padre también italiano, fue un aclamado escritor de novelas de aventuras (*folletines* me cuadra mejor, aunque suene despectivo*)* que alcanzó el éxito tras 25 años de carrera literaria (tomen nota, aspirantes a literatos: otra prueba de que la constancia rinde frutos y de que el talento está sobrevalorado).
 
-<!--more-->Hasta su muerte en 1950, Sabatini escribió más de 30 novelas. Quizá la más conocida (y la responsable de catapultarlo al éxito), *Scaramouche*, fue adaptada al cine en 1923 y [1952](http://www.imdb.com/title/tt0045125/); esta última versión es, para muchos, una de las mejores películas —si no la mejor— del cine de capa y espada.
+Hasta su muerte en 1950, Sabatini escribió más de 30 novelas. Quizá la más conocida (y la responsable de catapultarlo al éxito), *Scaramouche*, fue adaptada al cine en 1923 y [1952](http://www.imdb.com/title/tt0045125/); esta última versión es, para muchos, una de las mejores películas —si no la mejor— del cine de capa y espada.
 
 La reseña que sigue a continuación tiene más de cinco años. He decidido rescatarla para esta bitácora, así que aquí la tenéis:
 
