@@ -4,7 +4,11 @@ date: 2010-10-05
 categories:
   - articulos
 tags:
-revisado:
+  - reflexiones
+  - género-fantástico
+  - narrativa
+  - fantasía-histórica
+revisado: true
 ---
 He leído esta mañana en [Carpe Noctem](http://sirmia.wordpress.com/), la bitácora recién estrenada de Israel Sánchez, esta interesante reflexión sobre el género que tanto amamos: [De géneros, generalidades y etiquetas en general](http://sirmia.wordpress.com/2010/10/05/de-generos-generalidades-y-etiquetas-en-general/).
 

@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_eval",
+      "mcp__Claude_Preview__preview_screenshot",
+      "mcp__Claude_Preview__preview_resize",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__Claude_Preview__preview_inspect",
+      "mcp__Claude_Preview__preview_logs",
+      "mcp__Claude_Preview__preview_stop",
+      "mcp__Claude_Preview__preview_console_logs",
+      "mcp__Claude_Preview__preview_click",
+      "mcp__Claude_Preview__preview_network",
+      "mcp__Claude_Preview__preview_list",
+      "mcp__Claude_Preview__preview_snapshot",
+      "mcp__ccd_session__mark_chapter",
+      "Bash(curl -s https://api.github.com/repos/josemariabravo/JMBravo/*)",
+      "Bash(curl -sL https://api.github.com/repos/josemariabravo/JMBravo/*)",
+      "Bash(curl -s -L https://api.github.com/repos/josemariabravo/JMBravo/*)",
+      "Bash(curl -s http://localhost:*)",
+      "Bash(curl -s https://www.githubstatus.com/*)",
+      "Bash(hugo version)",
+      "Bash(hugo version *)",
+      "Bash(grep *)",
+      "Bash(find *)",
+      "Bash(sed -n *)",
+      "Bash(sort *)",
+      "Bash(wc *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(cat *)",
+      "Bash(ls *)",
+      "Bash(git diff *)",
+      "Bash(git show *)",
+      "Bash(git log *)",
+      "Bash(git status *)",
+      "Bash(awk *)"
+    ]
+  }
+}

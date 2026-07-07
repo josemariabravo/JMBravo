@@ -3,12 +3,22 @@
   <div class="list-page">
     <h1>{{ .Title }}</h1>
     {{ if .Content }}<div class="section-intro">{{ .Content }}</div>{{ end }}
-    {{ if .Pages }}
+    {{ $descargas := where .Pages "Kind" "page" }}
+    {{ $colecciones := where .Pages "Kind" "section" }}
+    {{ if or $descargas $colecciones }}
     <ul class="descargas-list">
-      {{ range .Pages.ByDate }}
+      {{ $ordenadas := $descargas.ByDate }}
+      {{ if .Parent.IsHome }}{{ $ordenadas = $descargas.ByDate.Reverse }}{{ end }}
+      {{ range $ordenadas }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ with .Params.tipo }}<span class="descarga-tipo">{{ . }}</span>{{ end }}
+      </li>
+      {{ end }}
+      {{ range $colecciones.ByTitle }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <span class="descarga-tipo">Colección</span>
       </li>
       {{ end }}
     </ul>

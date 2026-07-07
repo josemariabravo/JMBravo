@@ -492,6 +492,13 @@
     margin-bottom: var(--sp-1);
   }
 
+  /* espacio que ocultan la cabecera + la barra de búsqueda, ambas sticky —
+     un único valor reutilizado por el desplazamiento a anclas y por el
+     top del sidebar, en vez de repetir el mismo calc() en varios sitios */
+  :root {
+    --sticky-clearance: calc(var(--header-h) + 2.5rem + var(--sp-3));
+  }
+
   /* anclas de encabezado: el render hook actúa en todo el sitio (no solo
      .post-content), así que su estilo y el desplazamiento van sin ese
      ámbito — .heading-anchor.heading-anchor sube la especificidad para
@@ -499,7 +506,7 @@
      de más abajo, sin depender de qué contenedor envuelva al encabezado */
 
   :is(h1, h2, h3, h4, h5, h6) {
-    scroll-margin-top: calc(var(--header-h) + 2.5rem + var(--sp-3));
+    scroll-margin-top: var(--sticky-clearance);
   }
 
   .heading-anchor {
@@ -687,11 +694,6 @@
     flex-shrink: 0;
   }
 
-  .book-grid-item--featured h3 {
-    font-size: var(--fs-xl);
-    margin-top: 0;
-  }
-
   @media (max-width: 540px) {
     .book-grid-item--featured { grid-column: span 1; flex-direction: column; }
     .book-grid-item--featured img { width: 100%; }
@@ -702,6 +704,12 @@
     font-size: var(--fs-md);
     font-weight: 500;
     margin-top: .8rem;
+  }
+
+  /* misma especificidad que la regla de arriba: va después para ganarle */
+  .book-grid-item--featured h3 {
+    font-size: var(--fs-xl);
+    margin-top: 0;
   }
 
   .book-subtitle {
@@ -1077,7 +1085,8 @@
     margin-top: var(--sp-3);
   }
 
-  .post-tags li a {
+  .post-tags li a,
+  .share-btn {
     display: inline-block;
     padding: .3rem .8rem;
     border: 1px solid var(--line);
@@ -1088,7 +1097,14 @@
     transition: border-color var(--ease), color var(--ease);
   }
 
-  .post-tags li a:hover {
+  /* el botón de copiar enlace es un <button>, no un <a>: necesita anular el
+     fondo por defecto del navegador que .post-tags li a no tiene que pisar */
+  .share-btn {
+    background: transparent;
+  }
+
+  .post-tags li a:hover,
+  .share-btn:hover {
     border-color: var(--accent);
     color: var(--accent);
   }
@@ -1107,23 +1123,6 @@
     font-family: var(--font-ui);
     font-size: var(--fs-xs);
     color: var(--muted);
-  }
-
-  .share-btn {
-    display: inline-block;
-    padding: .3rem .8rem;
-    border: 1px solid var(--line);
-    border-radius: var(--radius);
-    background: transparent;
-    font-family: var(--font-ui);
-    font-size: var(--fs-xs);
-    color: var(--muted);
-    transition: border-color var(--ease), color var(--ease);
-  }
-
-  .share-btn:hover {
-    border-color: var(--accent);
-    color: var(--accent);
   }
 
   /* ·· artículos relacionados ·· */
@@ -1260,7 +1259,7 @@
 
   .sidebar {
     position: sticky;
-    top: calc(var(--header-h) + 2.5rem + var(--sp-3));
+    top: var(--sticky-clearance);
     font-size: var(--fs-sm);
   }
 
@@ -1649,16 +1648,11 @@
       max-width: 100%;
     }
 
-    /* sidebar — ya manejado en 860px, pero ajustar posición sticky */
+    /* cabecera reducida: recalcular el hueco que ocupan cabecera + buscador
+       (usado por .sidebar arriba y por scroll-margin-top más abajo) */
 
-    .sidebar {
-      top: calc(var(--header-h-sm) + 2.5rem + var(--sp-2));
-    }
-
-    /* anclas de encabezado — recalcular con la cabecera reducida */
-
-    :is(h1, h2, h3, h4, h5, h6) {
-      scroll-margin-top: calc(var(--header-h-sm) + 2.5rem + var(--sp-2));
+    :root {
+      --sticky-clearance: calc(var(--header-h-sm) + 2.5rem + var(--sp-2));
     }
 
     /* footer — apilar en columna */
@@ -1677,12 +1671,12 @@
 
   }
 
-  /* anclas de encabezado — en ≤860px la barra de búsqueda pasa a dos líneas
-     (miga de pan + buscador ya no caben en una), así que hace falta más margen
-     que el calculado para el header reducido a secas */
+  /* ≤860px la barra de búsqueda pasa a dos líneas (miga de pan + buscador
+     ya no caben en una), así que hace falta más margen que el calculado
+     para el header reducido a secas */
   @media (max-width: 860px) {
-    :is(h1, h2, h3, h4, h5, h6) {
-      scroll-margin-top: calc(var(--header-h-sm) + var(--sp-5) + var(--sp-2));
+    :root {
+      --sticky-clearance: calc(var(--header-h-sm) + var(--sp-5) + var(--sp-2));
     }
   }
 

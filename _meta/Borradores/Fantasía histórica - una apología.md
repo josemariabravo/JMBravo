@@ -9,3 +9,12 @@ Lo esencial ser reduce a:
 -
 Prompt:
 Voy a escribir un artículo sobre la fantasía histórica. Me gustaría que la definieras. Mi hipótesis es que la fantasía histórica es el género principal y la novela histórica el subsidiario de esta, pues cualquier obra supuestamente histórica solo lo es según nuestro conocimiento de la época y la interpretación que haga el autor de una época concreta. Esta, en fin, puede (y es muchas veces) errónea, sesgada y artificial, por lo que es, en el fondo, fantástica (no real).
+
+
+# Fantasía histórica
+
+1. Alusión al artículo anterior. Ya no soy tan vehemente. Pero, por mi parte, la fantasía que quiero escribir es una muy cercana a la nuestro mundo, con «un cuarto de vuelta».
+2. Explicar analogía, convergencia evolutiva, trasunto, etc.
+3. Postura ante los géneros, subgéneros, etiquetas, etc. Postura ante el género fantástico. Defensa de la tradición de mundos inventados en la ficción española, desde Macondo a Yarfoz o Bennet.
+4. Ahora sí, qué es la fantasía histórica en sentido amplio, la confusión posible o percepción de que en español se restringe a la ucronía (mención a obras en español), cuando no es así. Principales exponentes del subgénero.
+5. Por qué. Libertad absoluta. Lienzo de amarre. Permite reflexionar, revisar, retorcer y tener un suelo. Y centrarse en la historia. Lo que me importa son los personajes. El lienzo es un escenario. 

@@ -1,5 +1,5 @@
 <section class="hero">
-  {{ $images := resources.Match "hero/*.jpg" }}
+  {{ $images := resources.Match "hero/*" }}
   {{ with $images | shuffle | first 1 }}
   {{ $img := index . 0 }}
   <div class="hero-bg" style="background-image: url('{{ $img.RelPermalink }}')"></div>
