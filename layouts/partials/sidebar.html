@@ -11,7 +11,7 @@
   <div class="sidebar-block">
     <h2>Últimas entradas</h2>
     <ul class="sidebar-list">
-      {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+      {{ range partial "latest-posts.html" . }}
       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>

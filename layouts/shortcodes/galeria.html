@@ -1,6 +1,7 @@
 {{ $images := where (.Page.Resources.ByType "image") "Params.no_galeria" "ne" true }}
 {{ if $images }}
-<div class="galeria">
+{{ $id := printf "galeria-%d" .Ordinal }}
+<div class="galeria" id="{{ $id }}">
   {{ range $images }}
   <figure class="galeria-item">
     <button class="galeria-btn" data-src="{{ .RelPermalink }}" data-alt="{{ .Title }}" aria-label="Ampliar imagen">
@@ -10,7 +11,7 @@
   {{ end }}
 </div>
 
-<dialog class="galeria-dialog" id="galeriaDialog">
+<dialog class="galeria-dialog" id="{{ $id }}-dialog">
   <button class="galeria-dialog-close" aria-label="Cerrar">&times;</button>
   {{ if gt (len $images) 1 }}
   <button class="galeria-dialog-nav galeria-dialog-prev" aria-label="Imagen anterior">&#10094;</button>
@@ -21,12 +22,12 @@
 
 <script>
 (function () {
-  const dialog = document.getElementById('galeriaDialog');
+  const dialog = document.getElementById('{{ $id }}-dialog');
   const dialogImg = dialog.querySelector('.galeria-dialog-img');
   const closeBtn = dialog.querySelector('.galeria-dialog-close');
   const prevBtn = dialog.querySelector('.galeria-dialog-prev');
   const nextBtn = dialog.querySelector('.galeria-dialog-next');
-  const btns = Array.from(document.querySelectorAll('.galeria-btn'));
+  const btns = Array.from(document.querySelectorAll('#{{ $id }} .galeria-btn'));
   let current = 0;
 
   function show(index) {

@@ -1,16 +1,17 @@
 ---
-title: "Estilo rico, estilo pobre, Luis Magrinyà"
-date: "2016-02-26"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "libros"
-  - "resenas"
-coverImage: "estilo_rico_estilo_pobre.jpg"
+title: Estilo rico, estilo pobre, Luis Magrinyà
+date: 2016-02-26
+categories:
+  - recomendaciones
+tags:
+  - libros
+  - escritura
+revisado: true
 ---
 Vaya por delante que recomiendo vivamente *Estilo rico, estilo pobre* (Luis Magrinyà, Debate, 2015) a todos aquellos interesados —sea por oficio o vocación— en el lenguaje y la corrección lingüística.
 
-\[caption id="attachment\_4081" align="alignleft" width="400"\]![Estilo rico, estilo pobre Luis Magrinyà Debate, 2015 ISBN: 9788499925417](images/estilo_rico_estilo_pobre.jpg) *Estilo rico, estilo pobre*  
+![Estilo rico, estilo pobre Luis Magrinyà Debate, 2015 ISBN: 9788499925417](estilo_rico_estilo_pobre.jpg "izquierda 250")
+*Estilo rico, estilo pobre*  
 Luis Magrinyà  
 Debate, 2015  
 ISBN: 9788499925417\[/caption\]

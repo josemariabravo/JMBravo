@@ -1,9 +1,12 @@
 ---
-title: "Esto es solo el principio"
-date: "2016-04-05"
-categories: 
-  - "novedades"
-coverImage: "primer_borrador-1.jpg"
+title: Esto es solo el principio
+date: 2016-04-05
+categories:
+  - novedades
+tags:
+  - sombras-y-ceniza
+  - libros
+revisado: true
 ---
 Bueno, pues ya está. Terminé la novela.  
 **Lector hipotético: ¿Ah, pero estabas escribiendo una novela?**  
@@ -11,17 +14,9 @@ Sí. Hace muchos años, tantos que me da vergüenza contarlos. En varias entrada
 Lo irónico del asunto es que cuando escribí esas entradas creía que la reescritura sería trabajo de unos cuantos meses. Poca cosa, me dije, animado, cuando vi el rimero de folios frente a mí.  
 Luego, ay, esos meses empezaron a contarse en múltiplos de doce.
 
-<figure>
-
-![Este era el primer borrador «definitivo»; definitivamente, no lo era](images/primer_borrador.jpg)
-
-<figcaption>
+![Este era el primer borrador «definitivo»; definitivamente, no lo era](primer_borrador.jpg)
 
 Este era el primer borrador «definitivo» de la novela; obviamente, me equivocaba
-
-</figcaption>
-
-</figure>
 
 En fin. La historia sería larga y farragosa de contar; en alguna entrada resumiré lo que ―creo, espero― haber aprendido de los errores cometidos durante la escritura de esta novela.
 

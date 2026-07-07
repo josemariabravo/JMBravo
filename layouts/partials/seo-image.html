@@ -1,5 +1,5 @@
 {{- $img := "" -}}
-{{- with .Resources.GetMatch (.Params.cover | default "") -}}
+{{- with .Resources.GetMatch (or .Params.cover .Params.portada | default "") -}}
   {{- $img = . -}}
 {{- end -}}
 {{- if not $img -}}

@@ -313,6 +313,13 @@
 
 @layer pages {
 
+  /* breakpoints usados en este layer: 540, 600, 640, 860 y 1060px.
+     Fijos y repetidos a propósito en vez de en una variable: las custom
+     properties de CSS no funcionan dentro de una condición @media, así
+     que la única forma de mantenerlos consistentes es esta lista y un
+     único bloque @media por valor (salvo el segundo @media 860px, que
+     va después del de 1060px a propósito: ver su comentario). */
+
   /* ·· home: hero ·· */
 
   /* ·· hero ·· */
@@ -624,13 +631,25 @@
     margin-bottom: var(--sp-3);
   }
 
+  /* ·· pastilla — patrón compartido por archive-filter, proyecto-tag,
+     actualizacion-etiqueta, rss-link, post-tags/share-btn: mismo tamaño,
+     color y borde de base; cada uno añade su propio padding, radio y
+     estado hover ·· */
+  .archive-filter,
+  .proyecto-tag,
+  .actualizacion-etiqueta,
+  .rss-link,
+  .post-tags li a,
+  .share-btn {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+    border: 1px solid var(--line);
+  }
+
   .archive-filter {
     font-family: var(--font-ui);
-    font-size: var(--fs-xs);
     padding: .3rem .9rem;
-    border: 1px solid var(--line);
     background: transparent;
-    color: var(--muted);
     border-radius: var(--radius);
     transition: background var(--ease), color var(--ease), border-color var(--ease);
   }
@@ -776,11 +795,6 @@
 
   .book-detail-content { border-top: 2px solid var(--accent); padding-top: var(--sp-4); }
 
-  @media (max-width: 600px) {
-    .book-detail-header { grid-template-columns: 1fr; }
-    .book-detail-cover { max-width: 180px; }
-  }
-
   /* ·· proyectos ·· */
 
   .proyectos-grid {
@@ -840,9 +854,6 @@
   }
 
   .proyecto-tag {
-    font-size: var(--fs-xs);
-    color: var(--muted);
-    border: 1px solid var(--line);
     border-radius: var(--radius);
     padding: .2rem .6rem;
     text-transform: uppercase;
@@ -855,6 +866,8 @@
   }
 
   @media (max-width: 600px) {
+    .book-detail-header { grid-template-columns: 1fr; }
+    .book-detail-cover { max-width: 180px; }
     .proyecto-ficha { flex-direction: column; }
     .proyecto-portada { width: 120px; }
   }
@@ -922,9 +935,6 @@
   .actualizacion-titulo { font-size: var(--fs-md); }
 
   .actualizacion-etiqueta {
-    font-size: var(--fs-xs);
-    color: var(--muted);
-    border: 1px solid var(--line);
     padding: .1rem .5rem;
     text-transform: uppercase;
     letter-spacing: .04em;
@@ -1089,11 +1099,8 @@
   .share-btn {
     display: inline-block;
     padding: .3rem .8rem;
-    border: 1px solid var(--line);
     border-radius: var(--radius);
     font-family: var(--font-ui);
-    font-size: var(--fs-xs);
-    color: var(--muted);
     transition: border-color var(--ease), color var(--ease);
   }
 
@@ -1200,10 +1207,7 @@
 
   .rss-link {
     font-family: var(--font-ui);
-    font-size: var(--fs-xs);
     letter-spacing: .08em;
-    color: var(--muted);
-    border: 1px solid var(--line);
     padding: .2rem .55rem;
     border-radius: var(--radius);
     transition: border-color var(--ease), color var(--ease);
@@ -1261,16 +1265,6 @@
     position: sticky;
     top: var(--sticky-clearance);
     font-size: var(--fs-sm);
-  }
-
-  @media (max-width: 860px) {
-    .article-layout {
-      grid-template-columns: 1fr;
-    }
-    .sidebar { position: static; }
-    .toc-mobile { display: block; }
-    .sidebar-toc,
-    .sidebar-toc-rule { display: none; }
   }
 
   .sidebar-block {
@@ -1671,10 +1665,18 @@
 
   }
 
-  /* ≤860px la barra de búsqueda pasa a dos líneas (miga de pan + buscador
-     ya no caben en una), así que hace falta más margen que el calculado
-     para el header reducido a secas */
   @media (max-width: 860px) {
+    .article-layout {
+      grid-template-columns: 1fr;
+    }
+    .sidebar { position: static; }
+    .toc-mobile { display: block; }
+    .sidebar-toc,
+    .sidebar-toc-rule { display: none; }
+
+    /* la barra de búsqueda pasa a dos líneas (miga de pan + buscador
+       ya no caben en una), así que hace falta más margen que el calculado
+       para el header reducido a secas */
     :root {
       --sticky-clearance: calc(var(--header-h-sm) + var(--sp-5) + var(--sp-2));
     }

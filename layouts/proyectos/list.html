@@ -36,7 +36,8 @@
     <article class="proyecto-hub">
 
       <div class="proyecto-ficha">
-        {{ with .Resources.GetMatch (.Params.portada | default "") }}
+        {{ $cover := partial "seo-image.html" . }}
+        {{ with $cover }}
         {{ $img := .Process "webp" }}
         <img class="proyecto-portada" src="{{ $img.RelPermalink }}" alt="{{ $.Title }}">
         {{ end }}

@@ -1,7 +1,7 @@
 <section class="home-latest container">
   <h2>Lo último</h2>
   <ul class="post-list">
-    {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+    {{ range partial "latest-posts.html" . }}
     {{ partial "post-list-item.html" . }}
     {{ end }}
   </ul>
