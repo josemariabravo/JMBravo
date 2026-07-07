@@ -32,7 +32,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: construir con hugo
-        run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --gc --minify
       - name: indexar con pagefind
         run: npx pagefind@1.5.2 --site public
       - name: subir artefacto

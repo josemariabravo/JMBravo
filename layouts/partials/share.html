@@ -2,18 +2,38 @@
 {{ $title := .Title }}
 <div class="share-buttons">
   <span class="share-label">Compartir:</span>
-  <a class="share-btn" href="https://wa.me/?text={{ (printf "%s %s" $title $url) | urlquery }}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-  <a class="share-btn" href="https://twitter.com/intent/tweet?url={{ $url | urlquery }}&text={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">X</a>
-  <button type="button" class="share-btn share-copy" data-url="{{ $url }}">Copiar enlace</button>
+  <a class="share-btn" href="https://wa.me/?text={{ (printf "%s %s" $title $url) | urlquery }}" target="_blank" rel="noopener noreferrer">
+    <svg class="share-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <path d="M3 21l1.65-3.8a9 9 0 1 1 3.4 2.9L3 21"/>
+      <path d="M9 10a.5.5 0 0 0 1 0v-1a.5.5 0 0 0-1 0v1a5 5 0 0 0 5 5h1a.5.5 0 0 0 0-1h-1a.5.5 0 0 0 0 1"/>
+    </svg>
+    WhatsApp
+  </a>
+  <a class="share-btn" href="https://twitter.com/intent/tweet?url={{ $url | urlquery }}&text={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">
+    <svg class="share-icon" viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true" focusable="false">
+      <g transform="translate(2,2) scale(0.833)">
+        <path d="M18.9 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/>
+      </g>
+    </svg>
+    X.com (Twitter)
+  </a>
+  <button type="button" class="share-btn share-copy" data-url="{{ $url }}">
+    <svg class="share-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
+      <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+    </svg>
+    <span class="share-copy-label">Copiar enlace</span>
+  </button>
 </div>
 <script>
 (function () {
   var btn = document.currentScript.previousElementSibling.querySelector('.share-copy');
   if (!btn) return;
+  var label = btn.querySelector('.share-copy-label');
   function showCopied() {
-    var original = btn.textContent;
-    btn.textContent = '¡Copiado!';
-    setTimeout(function () { btn.textContent = original; }, 2000);
+    var original = label.textContent;
+    label.textContent = '¡Copiado!';
+    setTimeout(function () { label.textContent = original; }, 2000);
   }
   function fallbackCopy(text) {
     var input = document.createElement('input');

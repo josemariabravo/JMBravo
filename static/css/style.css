@@ -1235,7 +1235,16 @@
   /* el botón de copiar enlace es un <button>, no un <a>: necesita anular el
      fondo por defecto del navegador que .post-tags li a no tiene que pisar */
   .share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: .4rem;
     background: transparent;
+  }
+
+  .share-icon {
+    width: 15px;
+    height: 15px;
+    flex-shrink: 0;
   }
 
   .post-tags li a:hover,

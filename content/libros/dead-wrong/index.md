@@ -17,4 +17,4 @@ muestra:
 
 *Dead wrong* está disponible en [Amazon](https://www.amazon.es/Dead-wrong-Mar%C3%ADa-Bravo-Lineros-ebook/dp/B0DNSL2XCQ/), en formato digital y físico (tapa dura).
 
-<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B0DNSL2XCQ"></iframe>
+<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" title="Fragmento de muestra en Kindle" src="https://leer.amazon.es/kp/card?asin=B0DNSL2XCQ"></iframe>

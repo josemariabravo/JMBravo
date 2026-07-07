@@ -16,4 +16,4 @@ En «El señor de las profundidades», «Los que no olvidan», «Runas de sangre
 
 *Runas de sangre* está disponible en [Amazon](https://www.amazon.es/dp/B086821JM7), en formato digital y físico.
 
-<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.es/kp/card?asin=B086821JM7"></iframe>
+<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" title="Fragmento de muestra en Kindle" src="https://leer.amazon.es/kp/card?asin=B086821JM7"></iframe>
