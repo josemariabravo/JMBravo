@@ -5,11 +5,10 @@ categories:
   - "articulos"
 tags: 
   - "lenguaje"
-coverImage: "1158260369_3ba07950e5_z-1.jpg"
 ---
 Continuamos nuestra serie con tres figuras retóricas de la letra a: la analepsis, la anástrofe y la antanaclasis.
 
-### Analepsis
+## Analepsis
 
 Muy probablemente, de haber denominado esta figura retórica con el extranjerismo *flashback* (que yo, particularmente, traduciría como *retrospección*) muchos de los que la desconocían hubieran sabido a qué me refería, al menos vagamente.
 
@@ -29,7 +28,7 @@ Ejemplos de obras literarias que emplean la analepsis hay en abundancia; citarem
 
 Por último, conviene señalar que lo contrario de la analepsis es la prolepsis, también conocida como *flashforward* (de nuevo, me atrevería a traducir este término como *prospección*), la cual abordaremos a su debido tiempo.
 
-### Anástrofe
+## Anástrofe
 
 La anástrofe consiste en invertir el orden sintáctico habitual de elementos sucesivos de una oración. En ocasiones, la anástrofe se confunde con el hipérbaton; este, a diferencia de la anástrofe, implica la transposición de uno o más elementos de la oración.
 
@@ -47,7 +46,7 @@ Algunos ejemplos:
 
 «Del salón en el ángulo oscuro, / de su dueño tal vez olvidada, / silenciosa y cubierta de polvo, / veíase el arpa» (Gustavo A. Bécquer).
 
-### Antanaclasis
+## Antanaclasis
 
 La antanaclasis es una figura retórica de repetición, la cual juega con la polisemia de las palabras para causar su efecto. En esencia, la antanaclasis repite una misma palabra, pero con significados distintos.
 
