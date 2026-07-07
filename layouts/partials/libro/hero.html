@@ -1,0 +1,27 @@
+{{ $page := . }}
+{{ $cover := partial "seo-image.html" $page }}
+<div class="book-detail-header">
+  {{ with $cover }}
+  {{ $webp := .Process "webp" }}
+  <img class="book-detail-cover" src="{{ $webp.RelPermalink }}" alt="{{ $page.Title }}">
+  {{ end }}
+  <div class="book-detail-info">
+    <h1>{{ $page.Title }}</h1>
+    {{ with $page.Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
+    {{ with $page.Params.resumen }}<p class="book-resumen">{{ . }}</p>{{ end }}
+    {{ with $page.Params.genero }}<p class="book-meta-row"><span class="book-meta-label">Género</span> {{ . }}</p>{{ end }}
+    {{ with $page.Params.paginas }}<p class="book-meta-row"><span class="book-meta-label">Páginas</span> {{ . }}</p>{{ end }}
+    {{ with $page.Params.editorial }}<p class="book-meta-row"><span class="book-meta-label">Editorial</span> {{ . }}</p>{{ end }}
+    {{ if $page.Params.compra }}
+    <div class="book-detail-compra">
+      {{ range $page.Params.compra }}
+      <a class="btn-compra" href="{{ .url }}" target="_blank" rel="noopener noreferrer">Comprar en {{ .tienda }} →</a>
+      {{ end }}
+    </div>
+    {{ else }}
+      {{ with $page.Params.amazon_url }}
+      <a class="btn-compra" href="{{ . }}" target="_blank" rel="noopener noreferrer">Comprar en Amazon →</a>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>

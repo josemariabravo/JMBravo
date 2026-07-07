@@ -5,6 +5,7 @@ date: 2023-06-01
 cover: images/ratas-en-el-callejon-cubierta.jpg
 resumen: Dieciséis relatos de suspense y terror, primer volumen de los Cuentos escabrosos.
 amazon_url: https://www.amazon.es/dp/B0C5L88XQM
+serie: Cuentos escabrosos
 ---
 _En el largo herir del tiempo, no hay inocentes._
 

@@ -1,141 +1,144 @@
-# Plantilla de libro enriquecida — ficha para Claude Code
+# Plantilla de libro enriquecida — estado real (implementado)
 
-> Nota: he intentado revisar `layouts/` y las variables CSS reales de Codex antes de escribir esto, pero ahora mismo no tengo acceso al conector de archivos (probablemente porque Claude Code está abierto). Lo de abajo está basado en lo que ya sabemos del sitio (sección `libros/`, page bundles, tipografía Cinzel, negro humo `#1F1F1F`, rojo-naranja `#D62A1C`) pero **antes de tocar nada, pide a Claude Code que confirme los nombres reales de archivos, partials y variables CSS** y ajuste lo que no case.
+> Actualizado tras la implementación con Claude Code. La versión anterior de este documento era una propuesta previa a revisar el código; algunas cosas se ajustaron al confirmar los nombres reales. Ver `_meta/plantillas/libro.md` para un ejemplo completo listo para copiar.
 
 ---
 
-## 1. Lo general: arquitectura
+## 1. Arquitectura real
 
-**Principio:** una sola plantilla de libro, parametrizada por libro mediante front matter. Nada de HTML/CSS distinto por título — lo que cambia entre libros son datos, no código.
+**Principio:** una sola plantilla de libro, parametrizada por libro mediante front matter. Nada de HTML/CSS distinto por título — lo que cambia entre libros son datos, no código. Esto se mantiene tal cual se planteó.
 
-### 1.1. Archivos a tocar/crear
+### 1.1. Archivos reales
 
 ```
 layouts/
   libros/
-    single.html              ← plantilla única de ficha de libro (ya existe; se reescribe)
+    single.html              ← plantilla única de ficha de libro
   partials/
     libro/
-      hero.html               ← portada + título + subtítulo + compra
-      sinopsis.html           ← cuerpo + cita destacada de apertura
-      muestra.html            ← CTA de descarga/lectura de fragmento
-      galeria.html            ← grid de imágenes con lightbox simple
-      elogios.html            ← reseñas citadas (Amazon, Goodreads, blogs)
-      navegacion-serie.html   ← anterior/siguiente dentro de una serie o el catálogo
-assets/
+      hero.html               ← portada + título + subtítulo + resumen + meta + compra
+      muestra.html            ← CTA de fragmento/muestra
+      navegacion-serie.html   ← anterior/siguiente dentro de una serie
+  shortcodes/
+    elogio.html               ← una reseña citada (usado en el cuerpo, no en un partial)
+static/
   css/
-    libro.css                 ← reglas específicas de la ficha (se añade al CSS de Codex, no lo sustituye)
+    style.css                 ← todo el CSS del sitio vive aquí, en @layer pages
+                                 (no existe assets/css/ ni un archivo separado por sección)
 ```
 
-### 1.2. Esquema de front matter
+Diferencias respecto a la propuesta original:
+- **No hay `assets/css/libro.css`**: el sitio no usa Hugo Pipes para CSS; todo vive en `static/css/style.css`, organizado en `@layer reset, base, layout, components, pages`. Las reglas nuevas se añadieron dentro de `@layer pages`, junto al bloque «libro individual» ya existente.
+- **No hay `partials/libro/galeria.html`**: ya existía un shortcode `{{< galeria >}}` (con lightbox) usado en otra sección del sitio (`content/galerias/`). Se reutiliza tal cual dentro del cuerpo Markdown del libro — crear un partial nuevo habría duplicado esa lógica.
+- **No hay `partials/libro/sinopsis.html`**: el cuerpo (`.Content`) ya se renderizaba directamente y no aportaba nada envolverlo en un partial propio.
+- **`elogios` es un shortcode, no un bloque de front matter** (ver §1.4): más cómodo de escribir y de escalar cuando hay muchas reseñas, y coherente con cómo el sitio ya citaba reseñas en prosa (`sombras-y-ceniza`).
+
+### 1.2. Esquema de front matter real
 
 ```yaml
 ---
 title: "Dead wrong"
-subtitulo: "Novela ultracorta a caballo entre el género negro, la fantasía oscura y el horror."
-fecha: "2024-11-15"
-portada: "cubierta.jpg"
+subtitle: "Novela ultracorta a caballo entre el género negro, la fantasía oscura y el horror."
+date: "2024-11-23"
+cover: "images/cubierta.jpg"
+resumen: "..."
+genero: ""       # opcional, poco usado hasta ahora
+paginas: ""      # opcional, poco usado hasta ahora
+editorial: ""    # opcional, poco usado hasta ahora
 
-# "atmósfera" del libro: esto es lo que da variedad sin duplicar plantillas
-mood:
-  acento: "#7A1F2B"        # color de acento; sobrescribe la variable CSS solo en esta página
-  textura: "concreto"       # una de un set cerrado: ninguna | concreto | ceniza | pergamino | óxido
-
-compra:
-  - tienda: "Amazon"
-    url: "https://www.amazon.es/dp/B0DNSL2XCQ/"
-
-muestra:
-  url: "https://leer.amazon.es/sample/B0DNSL2XCQ"
-  etiqueta: "Lee un fragmento"
-
-galeria:
-  - imagen: "boceto-cubierta.jpg"
-    pie: "Primer boceto de cubierta"
-  - imagen: "cubierta-fisica.jpg"
-    pie: "Edición en tapa dura"
-
-elogios:
-  - cita: "Una nouvelle breve, intensa, que no suelta hasta el final."
-    fuente: "Reseña en Amazon"
-    url: "https://www.amazon.es/..."
-  - cita: "..."
-    fuente: "Goodreads"
-    url: "..."
-
-serie: ""   # ej. "Cuentos escabrosos" o "Daramad Mur Asyb", para enlazar entre libros de la misma serie
----
-```
-
-Todos los bloques son opcionales salvo `title` y `portada`: un libro sin reseñas todavía simplemente no renderiza `elogios.html`. Eso permite ir completando fichas poco a poco sin dejar huecos visibles.
-
-### 1.3. Mecanismo del «mood» (esto es la clave de todo)
-
-En vez de una hoja de estilos por libro, el wrapper de la página aplica el acento como variable CSS inline:
-
-```html
-<article class="libro libro--{{ .Params.mood.textura | default "ninguna" }}"
-         style="--acento-libro: {{ .Params.mood.acento | default "var(--color-acento)" }};">
-```
-
-Y en `libro.css`, todo lo que hoy usa el rojo-naranja de Codex en esta página pasa a usar `var(--acento-libro)`. Así cada libro «se siente» distinto (color, textura de fondo) sin que exista una sola línea de CSS exclusiva para él. Las texturas (`concreto`, `ceniza`, `pergamino`, `óxido`) son 3-4 fondos reutilizables que se preparan una vez y se asignan por libro, no se generan por libro.
-
-### 1.4. Sobre los «comentarios»
-
-Como aclaraste, son reseñas ya recibidas (Amazon, Goodreads, blogs), no un sistema de comentarios en vivo —bien, porque GitHub Pages es estático y montar eso sería una pieza aparte. Lo único a vigilar: cuando cites una reseña, una frase corta y el enlace a la fuente es lo correcto; reproducir la reseña entera no lo es. El bloque `elogios` de arriba ya está pensado así: cita breve + fuente + enlace, nunca el texto completo.
-
----
-
-## 2. Lo particular: aplicado a *Dead wrong*
-
-Lo uso de ejemplo porque ya lo tenemos delante y, de paso, corrige el enlace roto que vimos:
-
-```yaml
----
-title: "Dead wrong"
-subtitulo: "Novela ultracorta a caballo entre el género negro, la fantasía oscura y el horror."
-portada: "Dead-wrong_cubierta_v1.jpg"
-
-mood:
-  acento: ""        # pendiente: tú decides el tono — ¿rojo más apagado/sucio que el de Codex?
-  textura: ""        # pendiente: ¿concreto/urbano, dado el registro negro de la novela?
-
-compra:
-  - tienda: "Amazon"
-    url: "https://www.amazon.es/dp/B0DNSL2XCQ/"
+amazon_url: "https://www.amazon.es/dp/XXXXXXXXXX/"
+# o, si se vende en más de una tienda (tiene prioridad sobre amazon_url):
+# compra:
+#   - tienda: "Amazon"
+#     url: "..."
+#   - tienda: "Casa del libro"
+#     url: "..."
 
 muestra:
-  url: "https://leer.amazon.es/sample/B0DNSL2XCQ?clientId=share"
+  url: "https://leer.amazon.es/sample/XXXXXXXXXX?clientId=share"
   etiqueta: "Lee una muestra"
 
-galeria: []   # pendiente: ¿tienes bocetos de cubierta o fotos de la edición física de este título?
+mood:
+  acento: "#7A1F2B"        # color de acento; sobrescribe el rojo-naranja estándar solo en esta página
+  textura: "concreto"       # ninguna | concreto | ceniza | pergamino | oxido
 
-elogios: []   # pendiente: aquí van las citas de Amazon/Goodreads que ya tengas recopiladas
-
-serie: ""
+serie: "Cuentos escabrosos" # solo si el libro pertenece a una colección
 ---
 ```
 
-**El bug que arreglamos de paso:** el enlace actual de la página es
+Notas sobre los nombres: es `subtitle` (no `subtitulo`, el campo ya existía en inglés antes de esta sesión) y `amazon_url` sigue siendo válido como forma corta para una sola tienda; `compra` es la alternativa para varias.
 
+Todos los bloques son opcionales salvo `title` y `cover`. Un libro sin `mood` usa el rojo-naranja estándar del sitio (`--accent`); sin `muestra` no aparece el botón de fragmento; sin `serie` no aparece nav anterior/siguiente.
+
+### 1.3. Mecanismo del «mood» (como se planteó, confirmado funcionando)
+
+El wrapper de la página aplica el acento como variable CSS inline, y añade una clase de textura:
+
+```html
+<article class="book-detail{{ with .Params.mood.textura }} libro--{{ . }}{{ end }}"
+         {{ with .Params.mood.acento }}style="--acento-libro: {{ . }};"{{ end }}>
 ```
-[Aquí puedes leer una muestra del libro](https://josemariabravo.github.io/JMBravo/libros/dead-wrong/[https:/www.amazon.es/dp/B0DNSL2XCQ/](https:/leer.amazon.es/sample/B086821JM7?clientId=share))
+
+`--acento-libro` cae en `var(--accent)` por defecto, así que un libro sin `mood` no cambia nada visualmente. Las 4 texturas (`concreto`, `ceniza`, `pergamino`, `oxido`) son **patrones CSS puros** (gradientes, sin imágenes de fondo que mantener) — decisión tomada durante la implementación porque no había assets de textura reales; si en algún momento se prefieren texturas con imagen real, habría que sustituir esas reglas `::before` por `background-image: url(...)`.
+
+### 1.4. Sobre las reseñas — shortcode, no front matter
+
+Las reseñas ya recibidas (Amazon, Goodreads, blogs) se citan con el shortcode `{{% elogio %}}`, directamente en el cuerpo del Markdown, bajo un `## Reseñas` que escribe el propio autor (igual que ya hacía `sombras-y-ceniza` antes de esta sesión):
+
+```markdown
+## Reseñas
+
+{{% elogio fuente="Amazon" url="https://www.amazon.es/..." %}}
+Una nouvelle breve, intensa, que no suelta hasta el final.
+{{% /elogio %}}
+
+{{% elogio fuente="Goodreads" %}}
+Otra cita, esta sin enlace.
+{{% /elogio %}}
 ```
 
-— un enlace markdown pegado dentro de otro por error, y además apunta a la muestra de *Runas de sangre* (`B086821JM7`), no a la de *Dead wrong* (`B0DNSL2XCQ`). Con el campo `muestra.url` del front matter esto desaparece del cuerpo del texto y se resuelve solo una vez, en la plantilla.
+`url` es opcional. El interior admite markdown real (negrita, cursiva, enlaces). Se descartó la idea original de una lista `elogios` en el front matter: con YAML, cada cita nueva implica cuidar indentación y escapar comillas/dos puntos, y no hay ninguna necesidad real de que las reseñas sean datos consultables fuera de la propia página — son contenido, no metadatos. Regla de siempre: cita breve + fuente + enlace, nunca la reseña entera.
 
-**Lo que falta para terminar esta ficha en concreto** (cosas que solo tú puedes decidir/aportar):
-1. Color de acento y textura para *Dead wrong*.
-2. Si hay material gráfico de proceso (bocetos, fotos de la edición física) para la galería.
-3. Las reseñas que quieras destacar, con su fuente.
+### 1.5. Galería — ya existía, se reutiliza
+
+No hace falta ningún partial ni campo de front matter nuevo. Si el libro tiene material gráfico (bocetos, fotos de la edición física), basta con:
+
+1. Poner las imágenes dentro de la carpeta del libro (page bundle).
+2. Si la portada no debe salir duplicada en la galería, excluirla marcándola en el front matter:
+   ```yaml
+   resources:
+     - src: "images/cubierta.jpg"
+       params:
+         no_galeria: true
+   ```
+3. Añadir `{{< galeria >}}` en el cuerpo, donde se quiera que aparezca la rejilla con lightbox.
 
 ---
 
-## 3. Cómo seguir con Claude Code
+## 2. Aplicado a *Dead wrong* — estado real
 
-Sugerencia de orden de trabajo, para no liarlo en una sola sesión larga:
+Ya aplicado en `content/libros/dead-wrong/index.md`:
 
-1. Pide a Claude Code que lea `layouts/libros/single.html` y `assets/css/*.css` actuales, y que te confirme los nombres reales de variables/clases antes de escribir nada (lo de arriba es la intención, no el código final).
-2. Que implemente primero el mecanismo del `mood` (acento + textura) sobre la plantilla actual, sin tocar nada más — así ves el efecto con un solo cambio antes de añadir bloques nuevos.
-3. Después, los partials nuevos uno a uno: `muestra.html` (el más urgente, por el bug), luego `galeria.html`, luego `elogios.html`.
-4. Por último, rellena el front matter de *Dead wrong* con lo pendiente del punto 2 y úsalo como caso de prueba antes de extenderlo al resto del catálogo.
+```yaml
+muestra:
+  url: https://leer.amazon.es/sample/B0DNSL2XCQ?clientId=share
+  etiqueta: Lee una muestra
+```
+
+**El "bug del enlace roto" que mencionaba la versión anterior de este documento ya no existía** en esta ficha — no tenía ese enlace mal pegado; existía (y ya estaba corregido) en `content/posts/dead-wrong/index.md`, una página distinta. El campo `muestra` de arriba usa el enlace correcto (`B0DNSL2XCQ`), confirmado contra esa página ya corregida.
+
+**Pendiente, sin inventar nada** (solo José puede decidirlo):
+1. Color de acento y textura (`mood`) para *Dead wrong*. Sugerencia hablada en su momento: rojo apagado/sucio + textura `concreto`, dado el registro negro-urbano de la novela — probado visualmente durante la implementación y funciona bien, pero queda como sugerencia, no aplicado.
+2. Material gráfico de proceso (bocetos, fotos de edición física) para la galería, si existe.
+3. Reseñas reales que se quieran destacar, con su fuente.
+
+## 3. Descubrimiento durante la implementación: una serie ya real
+
+*Ratas en el callejón* y *Homini lupus* ya eran, de facto, la serie "Cuentos escabrosos" (1 y 2) — solo que expresado de forma informal en `subtitle`. Se les añadió `serie: "Cuentos escabrosos"` a ambos, así que la navegación anterior/siguiente entre ellos **ya está en producción**, no es solo un mecanismo teórico.
+
+---
+
+## 4. Cómo seguir
+
+- **`_meta/plantillas/libro.md`** contiene ahora un ejemplo completo ("Libro de ejemplo", texto lorem ipsum) con todos los campos y los dos shortcodes en uso — cópialo y sustituye valores para una ficha nueva.
+- Para libros existentes que aún no usan nada de esto (`sombras-y-ceniza`, `runas-de-sangre`), no hace falta tocarlos: todo es opcional y retrocompatible. Se pueden ir enriqueciendo uno a uno cuando haya contenido real (mood, galería, reseñas) para cada uno.

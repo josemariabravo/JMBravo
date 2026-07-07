@@ -1,0 +1,3 @@
+{{ with .Params.muestra }}
+<a class="btn-descarga" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .etiqueta | default "Lee un fragmento" }} →</a>
+{{ end }}

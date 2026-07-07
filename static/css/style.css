@@ -31,7 +31,9 @@
   :root {
     /* colores */
     --paper:        #ffffff;
+    --paper-rgb:    255 255 255;
     --surface:      #f8f8f8;
+    --surface-rgb:  245 245 245;
     --text:         #141313;
     --muted:        #504e4b;
     --dimmed:       #bdb4aa;
@@ -67,7 +69,22 @@
     --header-h:     130px;
     --header-h-sm:  64px;
     --shadow-card:  0 6px 20px rgb(0 0 0 / .16);
-    --text-outline: 1px 0 rgb(255 255 255 / .25), -1px 0 rgb(255 255 255 / .25), 0 1px rgb(255 255 255 / .25), 0 -1px rgb(255 255 255 / .25), 1px 1px rgb(255 255 255 / .25), -1px -1px rgb(255 255 255 / .25), 1px -1px rgb(255 255 255 / .25), -1px 1px rgb(255 255 255 / .25);
+    --text-outline: 1px 0 rgb(var(--paper-rgb) / .25), -1px 0 rgb(var(--paper-rgb) / .25), 0 1px rgb(var(--paper-rgb) / .25), 0 -1px rgb(var(--paper-rgb) / .25), 1px 1px rgb(var(--paper-rgb) / .25), -1px -1px rgb(var(--paper-rgb) / .25), 1px -1px rgb(var(--paper-rgb) / .25), -1px 1px rgb(var(--paper-rgb) / .25);
+  }
+
+  /* modo oscuro: solo se invierten los neutros; --accent se mantiene igual
+     en ambos temas (colores de marca, no dependientes del fondo) */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper:        #17130f;
+      --paper-rgb:    23 19 15;
+      --surface:      #221d18;
+      --surface-rgb:  34 29 24;
+      --text:         #ece6de;
+      --muted:        #b3aa9f;
+      --dimmed:       #5c5348;
+      --line:         #4a4238;
+    }
   }
 
   html { background: var(--paper); }
@@ -142,7 +159,7 @@
   .site-header {
     position: sticky;
     top: 0;
-    background: rgb(255 255 255 / .94);
+    background: rgb(var(--paper-rgb) / .94);
     backdrop-filter: blur(8px);
     z-index: 100;
   }
@@ -217,7 +234,7 @@
     top: var(--header-h);
     border-bottom: 1px solid var(--accent);
     padding: .5rem 0;
-    background: rgb(255 255 255 / .96);
+    background: rgb(var(--paper-rgb) / .96);
     backdrop-filter: blur(6px);
     z-index: 90;
   }
@@ -347,7 +364,7 @@
     max-width: var(--reading);
     position: relative;
     z-index: 1;
-    background-color: rgb(245 245 245 / .65);
+    background-color: rgb(var(--surface-rgb) / .65);
     padding: var(--sp-3);
     border-radius: var(--radius);
   }
@@ -793,7 +810,117 @@
     margin-right: .4rem;
   }
 
-  .book-detail-content { border-top: 2px solid var(--accent); padding-top: var(--sp-4); }
+  .book-detail-content { border-top: 2px solid var(--acento-libro); padding-top: var(--sp-4); }
+
+  /* ·· libro: mood (acento + textura) — ver front matter `mood.acento`/`mood.textura`.
+     --acento-libro cae en --accent si el libro no define acento propio, así que
+     esto no cambia nada visualmente hasta que una ficha concreta lo sobrescribe
+     vía style inline en layouts/libros/single.html ·· */
+
+  .book-detail {
+    --acento-libro: var(--accent);
+    position: relative;
+  }
+
+  .book-detail .btn-compra { background: var(--acento-libro); }
+
+  .book-detail .btn-descarga,
+  .book-detail .btn-hero {
+    border-color: var(--acento-libro);
+    color: var(--acento-libro);
+  }
+
+  .book-detail .btn-descarga:hover,
+  .book-detail .btn-hero:hover {
+    background: var(--acento-libro);
+  }
+
+  .book-detail blockquote { border-left-color: var(--acento-libro); }
+
+  .book-detail-compra {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+  }
+
+  /* texturas: patrones CSS puros (sin imágenes), pensados como fondo
+     discreto detrás de toda la ficha — un set cerrado de 4, no uno por libro */
+
+  .book-detail.libro--concreto,
+  .book-detail.libro--ceniza,
+  .book-detail.libro--pergamino,
+  .book-detail.libro--oxido {
+    isolation: isolate;
+  }
+
+  .book-detail.libro--concreto::before,
+  .book-detail.libro--ceniza::before,
+  .book-detail.libro--pergamino::before,
+  .book-detail.libro--oxido::before {
+    content: '';
+    position: absolute;
+    inset: 0 calc(-1 * var(--sp-3));
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  .book-detail.libro--concreto::before {
+    background-image:
+      radial-gradient(circle at 20% 20%, rgb(0 0 0 / .05), transparent 40%),
+      radial-gradient(circle at 80% 65%, rgb(0 0 0 / .05), transparent 45%),
+      repeating-linear-gradient(135deg, rgb(0 0 0 / .035) 0 2px, transparent 2px 6px);
+  }
+
+  .book-detail.libro--ceniza::before {
+    background-image:
+      radial-gradient(circle at 50% 0%, rgb(80 78 75 / .09), transparent 60%),
+      repeating-radial-gradient(circle at 30% 55%, rgb(80 78 75 / .05) 0 1px, transparent 1px 5px);
+  }
+
+  .book-detail.libro--pergamino::before {
+    background-image:
+      radial-gradient(ellipse at 50% 45%, transparent 35%, rgb(189 180 170 / .22) 100%),
+      repeating-linear-gradient(0deg, rgb(80 78 75 / .03) 0 1px, transparent 1px 3px);
+  }
+
+  .book-detail.libro--oxido::before {
+    background-image:
+      radial-gradient(circle at 15% 25%, var(--acento-libro) 0 1%, transparent 3%),
+      radial-gradient(circle at 85% 40%, var(--acento-libro) 0 1%, transparent 3%),
+      radial-gradient(circle at 60% 80%, var(--acento-libro) 0 1%, transparent 3%),
+      linear-gradient(180deg, rgb(0 0 0 / .025), transparent);
+    opacity: .3;
+  }
+
+  /* ·· libro: muestra/fragmento ·· */
+
+  .book-detail .btn-descarga { display: inline-block; }
+
+  /* ·· libro: elogios (reseñas citadas) — shortcode {{% elogio %}}, de uso
+     libre en el cuerpo (normalmente bajo un ## Reseñas escrito a mano) ·· */
+
+  .libro-elogio + .libro-elogio { margin-top: var(--sp-2); }
+
+  .libro-elogio blockquote {
+    margin: 0 0 .3rem;
+    font-size: var(--fs-md);
+  }
+
+  .libro-elogio-fuente {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+  }
+
+  .libro-elogio-fuente a { color: var(--acento-libro, var(--accent)); }
+
+  /* ·· libro: navegación dentro de una serie ·· */
+
+  .libro-serie-nav {
+    grid-template-columns: 1fr 1fr;
+    margin-top: var(--sp-4);
+    padding-top: var(--sp-3);
+    border-top: 1px solid var(--line);
+  }
 
   /* ·· proyectos ·· */
 
@@ -1055,7 +1182,7 @@
   /* ·· callout / nota destacada ·· */
 
   .nota {
-    background: #f5f2ee;
+    background: var(--surface);
     border: 1px solid var(--accent);
     padding: 1rem;
     border-radius: var(--radius);

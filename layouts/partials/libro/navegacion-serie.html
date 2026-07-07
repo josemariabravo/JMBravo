@@ -1,0 +1,26 @@
+{{ $page := . }}
+{{ with $page.Params.serie }}
+{{ $serie := . }}
+{{ $siblings := (where $page.Site.RegularPages "Section" "libros") }}
+{{ $siblings = (where $siblings "Params.serie" $serie).ByDate }}
+{{ $index := -1 }}
+{{ range $i, $p := $siblings }}
+  {{ if eq $p.Permalink $page.Permalink }}{{ $index = $i }}{{ end }}
+{{ end }}
+{{ if ge $index 0 }}
+{{ $prev := "" }}
+{{ $next := "" }}
+{{ if gt $index 0 }}{{ $prev = index $siblings (sub $index 1) }}{{ end }}
+{{ if lt $index (sub (len $siblings) 1) }}{{ $next = index $siblings (add $index 1) }}{{ end }}
+{{ if or $prev $next }}
+<nav class="post-nav libro-serie-nav">
+  <div class="post-nav-prev">
+    {{ with $prev }}<span class="post-nav-label">← Anterior en {{ $serie }}</span><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+  </div>
+  <div class="post-nav-next">
+    {{ with $next }}<span class="post-nav-label">Siguiente en {{ $serie }} →</span><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+  </div>
+</nav>
+{{ end }}
+{{ end }}
+{{ end }}

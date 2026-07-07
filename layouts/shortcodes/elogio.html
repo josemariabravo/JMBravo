@@ -1,0 +1,4 @@
+<div class="libro-elogio">
+  <blockquote>{{ .Inner | markdownify }}</blockquote>
+  <p class="libro-elogio-fuente">{{ with .Get "url" }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $.Get "fuente" }}</a>{{ else }}{{ $.Get "fuente" }}{{ end }}</p>
+</div>

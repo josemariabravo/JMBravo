@@ -5,6 +5,7 @@ date: "2024-10-12"
 cover: "images/homini-lupus-cubierta.jpg"
 amazon_url: "https://www.amazon.es/dp/B0DGBMCGP7/"
 resumen: "Diez relatos de horror y truculencia, segundo volumen de los Cuentos escabrosos."
+serie: "Cuentos escabrosos"
 ---
 _En el largo herir del tiempo, no hay inocentes._
 

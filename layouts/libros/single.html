@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ $primaryUrl := "" }}
+{{ if .Params.compra }}{{ $primaryUrl = (index .Params.compra 0).url }}{{ else }}{{ $primaryUrl = .Params.amazon_url }}{{ end }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -6,33 +8,18 @@
   "name": "{{ .Title }}",
   "author": { "@type": "Person", "name": "José María Bravo", "url": "https://jmbravo.com/sobre-mi/" },
   "description": "{{ with .Params.resumen }}{{ . }}{{ end }}",
-  "url": "{{ .Permalink }}"{{ with .Params.amazon_url }},
+  "url": "{{ .Permalink }}"{{ with $primaryUrl }},
   "offers": { "@type": "Offer", "url": "{{ . }}", "seller": { "@type": "Organization", "name": "Amazon" } }{{ end }}
 }
 </script>
 <div class="container">
-  <article class="book-detail">
-    <div class="book-detail-header">
-      {{ $cover := partial "seo-image.html" . }}
-      {{ with $cover }}
-      {{ $webp := .Process "webp" }}
-      <img class="book-detail-cover" src="{{ $webp.RelPermalink }}" alt="{{ $.Title }}">
-      {{ end }}
-      <div class="book-detail-info">
-        <h1>{{ $.Title }}</h1>
-        {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
-        {{ with .Params.resumen }}<p class="book-resumen">{{ . }}</p>{{ end }}
-        {{ with .Params.genero }}<p class="book-meta-row"><span class="book-meta-label">Género</span> {{ . }}</p>{{ end }}
-        {{ with .Params.paginas }}<p class="book-meta-row"><span class="book-meta-label">Páginas</span> {{ . }}</p>{{ end }}
-        {{ with .Params.editorial }}<p class="book-meta-row"><span class="book-meta-label">Editorial</span> {{ . }}</p>{{ end }}
-        {{ with .Params.amazon_url }}
-        <a class="btn-compra" href="{{ . }}" target="_blank" rel="noopener noreferrer">Comprar en Amazon →</a>
-        {{ end }}
-      </div>
-    </div>
+  <article class="book-detail{{ with .Params.mood.textura }} libro--{{ . }}{{ end }}"{{ with .Params.mood.acento }} style="--acento-libro: {{ . }};"{{ end }}>
+    {{ partial "libro/hero.html" . }}
     <div class="post-content book-detail-content">
       {{ .Content }}
     </div>
+    {{ partial "libro/muestra.html" . }}
+    {{ partial "libro/navegacion-serie.html" . }}
     {{ if not .Params.no_pager }}{{ partial "page-close.html" . }}{{ end }}
   </article>
 </div>
