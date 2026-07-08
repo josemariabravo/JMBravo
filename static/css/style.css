@@ -47,8 +47,8 @@
     --font-prose:   'Source Serif 4', Georgia, serif;
 
     /* escala tipográfica */
-    --fs-2xs: 0.50rem;
-    --fs-xs:  0.60rem;
+    --fs-2xs: 0.60rem;
+    --fs-xs:  0.70rem;
     --fs-sm:  0.85rem;
     --fs-md:  1.05rem;
     --fs-lg:  1.40rem;
@@ -608,7 +608,7 @@
 
   .post-content blockquote {
     margin-block: var(--sp-3);
-    font-size: var(--fs-lg);
+    font-size: var(--fs-md);
   }
 
   .post-content img {
