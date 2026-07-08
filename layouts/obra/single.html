@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="container">
+<div class="container article-layout">
   <article class="post obra-single">
     <h1>{{ .Title }}</h1>
     {{ if not .Params.no_pager }}
@@ -12,7 +12,7 @@
     {{ with .Params.sinopsis }}
     <blockquote class="obra-sinopsis-destacada">{{ . }}</blockquote>
     {{ end }}
-    {{ partial "toc.html" . }}
+    <div class="toc-mobile">{{ partial "toc.html" . }}</div>
     <div class="post-content">
       {{ .Content }}
     </div>
@@ -24,5 +24,6 @@
     {{ end }}
     {{ if not .Params.no_pager }}{{ partial "page-close.html" . }}{{ end }}
   </article>
+  {{ partial "sidebar.html" . }}
 </div>
 {{ end }}

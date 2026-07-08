@@ -1,7 +1,6 @@
 ---
 title: El salto
 date: 2026-07-08
-no_pager: false
 categories:
   - cuentos
 ---

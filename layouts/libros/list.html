@@ -13,8 +13,11 @@
           <img src="{{ $webp.RelPermalink }}" alt="{{ $book.Title }}">
         {{ end }}
         <h3>{{ $book.Title }}</h3>
-        {{ with $book.Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
-        {{ with $book.Params.resumen }}<p class="book-resumen">{{ . }}</p>{{ end }}
+        <p class="book-subtitle">{{ with $book.Params.subtitle }}{{ . }}{{ end }}</p>
+        {{ with $book.Params.resumen }}
+        <span class="book-separador" aria-hidden="true">Θ</span>
+        <p class="book-resumen">{{ . }}</p>
+        {{ end }}
       </a>
       {{ end }}
     </div>
