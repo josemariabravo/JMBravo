@@ -1,0 +1,1 @@
+{{< figure src="imagen.jpg" alt="Descripción" caption="Pie de foto" >}}

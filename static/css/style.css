@@ -1,5 +1,5 @@
 /* ==============================================
-   CODEX FEROX — sistema visual de jmbravo.com
+   CODEX FEROX — plantilla para páginas estáticas para el sitio web jmbravo.com
    ============================================== */
 
 @layer reset, base, layout, components, pages;
@@ -47,12 +47,13 @@
     --font-prose:   'Source Serif 4', Georgia, serif;
 
     /* escala tipográfica */
-    --fs-xs:  .8rem;
-    --fs-sm:  0.9rem;
-    --fs-md:  1.1rem;
-    --fs-lg:  1.2rem;
+    --fs-2xs: 0.50rem;
+    --fs-xs:  0.75rem;
+    --fs-sm:  1.00rem;
+    --fs-md:  1.25rem;
+    --fs-lg:  1.50rem;
     --fs-xl:  2.00rem;
-    --fs-2xl: clamp(2.6rem, 5vw, 4.2rem);
+    --fs-2xl: clamp(2.5rem, 5vw, 4rem);
 
     /* espaciado */
     --sp-1: .5rem;
@@ -738,7 +739,7 @@
 
   .book-grid-item h3 {
     font-family: var(--font-title);
-    font-size: var(--fs-md);
+    font-size: var(--fs-lg);
     font-weight: 500;
     margin-top: .8rem;
   }

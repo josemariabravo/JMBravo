@@ -1,21 +1,22 @@
 ---
 title: "El camino de las sombras, de Brent Weeks"
-date: "2011-01-10"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "libros"
-  - "resenas"
+date: 2011-01-10
+categories:
+  - recomendaciones
+tags:
+  - libros
+revisado: true
 ---
+![Al filo de las sombras](al_filo_de_las_sombras.jpg "izquierda 250")
 Siento una especial debilidad por las historias de asesinos. *El Camino de las sombras* (Plaza y Janés, 2010) va precisamente de eso, como puede deducirse al ver la ilustración de cubierta. Es la primera novela de la trilogía *El Ángel de la noche* y *opus primum* del norteamericano Brent Weeks, al que esta trilogía ha convertido en uno de los autores revelación de la literatura fantástica anglosajona.
 
-### Sinopsis:
+## Sinopsis
 
 No hay ejecutor más temido en toda Cenaria que Durzo Blint. Los ejecutores, los maestros del *oficio amargo* (como se conoce al arte del asesinato), no son simples asesinos. De hecho, la comparación les ofende. Porque los ejecutores tienen a su disposición el Talento, como se conoce a la magia en el mundo de la novela, el cual les permite realizar proezas sobrehumanas, habilidades telequinéticas o  la proyección de ilusiones (como sombras que los oculten o disfrazar su apariencia, algo de suma utilidad para su oficio).
 
 En la ciudad de Cenaria hay dos fuerzas en liza: una, oficial, la del rey, y otra, oficiosa, la del Sa'kagé, una organización criminal que controla todas las actividades criminales de la ciudad. En esos mismos bajos fondos controlados por el Sa'kage malvive Azoth, un niño de la calle, como otro «rata» más de los que componen las bandas callejeras de huérfanos. Cuando Azoth se ve amenazado por otro chaval de mayor edad decide que quiere ser como Durzo Blint, para no tener nunca más miedo. Y a partir de ahí, hará todo lo posible porque el ejecutor lo acepte como aprendiz del *oficio amargo*.
 
-### Reseña:
+## Reseña
 
 Si aplicáramos a esta novela la clásica división en tres actos, el primero —el mejor con diferencia, a mi juicio— narra las peripecias del protagonista en los bajos fondos de Cenaria; el segundo, los años de aprendizaje con el maestro Durzo y los acontecimientos que forjarán la relación entre ambos; y el tercero, en el cual se desarrollan por fin los acontecimientos de la trama que llevarán al desenlace.
 
