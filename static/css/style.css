@@ -48,9 +48,9 @@
 
     /* escala tipográfica */
     --fs-2xs: 0.50rem;
-    --fs-xs:  0.65rem;
+    --fs-xs:  0.60rem;
     --fs-sm:  0.85rem;
-    --fs-md:  1.10rem;
+    --fs-md:  1.05rem;
     --fs-lg:  1.40rem;
     --fs-xl:  1.75rem;
     --fs-2xl: clamp(2.5rem, 5vw, 4rem);
