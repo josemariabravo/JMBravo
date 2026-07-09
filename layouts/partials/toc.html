@@ -1,8 +1,7 @@
-{{ $toc := .TableOfContents }}
-{{ if ge (strings.Count "<li" $toc) 2 }}
-{{ $toc = replace $toc `<nav id="TableOfContents">` "<nav>" | safeHTML }}
+{{ $items := partial "toc-items.html" .Fragments.Headings }}
+{{ if ge (strings.Count "<li" $items) 2 }}
 <details class="toc" open>
   <summary>Índice de esta página</summary>
-  {{ $toc }}
+  <nav><ul>{{ $items | safeHTML }}</ul></nav>
 </details>
 {{ end }}

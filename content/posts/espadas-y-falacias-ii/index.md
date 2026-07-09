@@ -23,7 +23,7 @@ Las *espadas bastardas* o *de mano y media* eran armas cuya empuñadura permití
 
 Sobre el uso de ambas espadas, variaba mucho según la época y la morfología del arma, pero todas o prácticamente todas se usaban tanto para acuchillar con el filo como para estocar con la punta, aunque, como es lógico, había espadas diseñadas para ser usadas más de punta y otras más de filo: todo dependía del uso para el que estaban concebidas y a qué panoplia defensiva habían de enfrentarse. Para ilustrar su manejo, os dejo aquí este vídeo de la escuela de esgrima histórica alemana [The Real Gladiatores](http://gladiatores.de/), de estupenda realización:[^3]
 
-https://www.youtube.com/watch?v=ohmLaZHStmI
+{{< youtube ohmLaZHStmI >}}
 
 La tendencia fue hacia el uso de la punta para enfrentarse a los arneses, lo que ya hemos visto en el mito n.º 3; de hecho, acabó por producir un tipo de espada muy específico, el estoque, con hoja de perfil de hoja romboidal o hexagonal, dotado de una punta recia pensada para colarse entre los huecos de estas armaduras.
 
@@ -35,7 +35,7 @@ Estas espadas se usaban principalmente para acuchillar, en movimientos amplios, 
 
 En este vídeo (lamentablemente, no de muy buena calidad) podemos ver al Maestro de Armas de la AEEA [Alberto Bomprezzi](http://www.esgrimaantigua.com/AEEAAlbertoB.php) durante una demostración del manejo del montante:
 
-http://www.youtube.com/watch?v=aRKQ2dV3pKI
+{{< youtube aRKQ2dV3pKI >}}
 
 En cualquier caso, no eran armas muy prácticas para su uso, por así decirlo, cotidiano. De ahí que no tenga mucho sentido mostrar a personajes llevándolas así, como si tal cosa, en medio de una ciudad, como estoy cansado de leer en muchas novelas fantásticas (cómo no, invariablemente las llevan a la espalda).
 
@@ -61,7 +61,7 @@ Todas ellas tienen algo en común: son fulgurantemente rápidas. Lo de «forceje
 
 Por último os remito a este vídeo, realizado por Carlos Negredo, de la [Sala de Armas El Batallador](http://www.esgrimazaragoza.com/); los primeros 30 segundos son acciones de cuerpo a cuerpo que ilustran la rapidez con la que podían llegar a resolverse estas situaciones:
 
-http://www.youtube.com/watch?v=5YQP6lthpLA
+{{< youtube 5YQP6lthpLA >}}
 
 ## Mito n.º 8: Las conversaciones durante el duelo
 

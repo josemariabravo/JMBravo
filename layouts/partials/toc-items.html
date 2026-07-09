@@ -1,0 +1,11 @@
+{{- range . -}}
+  {{- if .Title -}}
+    {{- $sub := "" -}}
+    {{- with .Headings -}}
+      {{- $sub = printf "<ul>%s</ul>" (partial "toc-items.html" .) -}}
+    {{- end -}}
+    {{- printf "<li><a href=\"#%s\">%s</a>%s</li>" .ID .Title $sub | safeHTML -}}
+  {{- else -}}
+    {{- partial "toc-items.html" .Headings -}}
+  {{- end -}}
+{{- end -}}

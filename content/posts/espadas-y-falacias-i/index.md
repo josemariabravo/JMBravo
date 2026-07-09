@@ -92,9 +92,9 @@ Resumiendo: un guerrero armado con un arnés blanco era algo de temer. Pero, ay,
 
 Y para darle la puntilla a este mito con imágenes, van dos excelentes vídeos que demuestran la movilidad con armaduras:
 
-http://www.youtube.com/watch?v=5hlIUrd7d1Q
+{{< youtube 5hlIUrd7d1Q >}}
 
-http://www.youtube.com/watch?v=WMuNXWFPewg
+{{< youtube WMuNXWFPewg >}}
 
 ## **Mito n.º 4: Los giros de 360º**
 

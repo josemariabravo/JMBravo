@@ -64,7 +64,7 @@ Bueno, sí, pero con matices. Indiana Jones y muchas otras películas no se cono
 
 *(\*\* Nótese que se juega con el imaginario del espectador. Precisamente desde las películas de Supermán, todos sabemos que el plomo protege de la radiación, ¿no es cierto?)*
 
-\[youtube=http://www.youtube.com/watch?v=E\_E2ottUWGQ\]
+{{< youtube E_E2ottUWGQ >}}
 
 Por no hablar de que los refrigeradores revestidos de plomo no fueron nunca algo muy común. Es mucha casualidad que precisamente hubiera uno en aquel pueblo… uno que era poco más que un decorado.
 

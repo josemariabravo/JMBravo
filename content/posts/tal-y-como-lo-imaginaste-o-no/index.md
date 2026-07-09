@@ -45,4 +45,4 @@ Afortunadamente.
 
 PD: El título de esta entrada hace referencia al tema de Nine Inch Nails *Just like you imagined*, como más de uno habrá adivinado. Disfruten:
 
-\[youtube=http://www.youtube.com/watch?v=Erm19Kdplz4\]
+{{< youtube Erm19Kdplz4 >}}

@@ -94,4 +94,4 @@ Para terminar: tal vez Scapple no sea útil para todo el mundo, pero desde luego
 
 Y ya por último, les dejo con un vídeo de introducción de este programa (en inglés).
 
-http://www.youtube.com/watch?v=zvP6c7AFx\_c
+{{< youtube zvP6c7AFx_c >}}

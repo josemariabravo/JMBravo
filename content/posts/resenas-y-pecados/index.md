@@ -1,9 +1,11 @@
 ---
-aliases: ["/resenas-y-pecados/"]
-title: "De reseñas y otros pecados capitales"
-date: "2011-03-26"
-categories: 
-  - "articulos"
+aliases:
+  - /resenas-y-pecados/
+title: De reseñas y otros pecados capitales
+date: 2011-03-26
+categories:
+  - articulos
+revisado: true
 ---
 De los siete pecados capitales proclamados por la moral cristiana (pesada cadena donde las haya) incurro en mayor o menor medida en todos, si bien sobresalgo en cuatro: Gula, Ira, Soberbia y, ay, Pereza. Es precisamente por pereza que no he reseñado mis últimas lecturas y visionados, porque la verdad, escribir reseñas siempre me ha dado mucha pereza. Aún así he escrito bastantes, tanto en fanzines como en webs y de un tiempo a esta parte, en este blog. Y siempre me ha remordido la conciencia por no escribir más y mejores reseñas.
 
@@ -23,11 +25,9 @@ El caso es que acepté, y tras leerlos, me vi en la tesitura de tener que escrib
 
 Ni que decir tiene que la editorial no me envió el tercer libro de la serie. (Irónicamente, y para más inri, las reseñas de este blog ocupan las primeras posiciones en Google para búsquedas con el título de esas obras. Eso debe de joder.)
 
-Así que, extrapolando mi caso al resto, me pregunto cuántos reseñadores “profesionales” endulzan sus reseñas para que las editoriales les sigan enviando libros, en un pacto tácito cuya mención es tan insultante como obvia. Para un lector o bibliófilo empedernido\* lo cierto es que es un chollo… aunque acaba siendo una servidumbre, a mi modo de ver.
+Así que, extrapolando mi caso al resto, me pregunto cuántos reseñadores «profesionales» endulzan sus reseñas para que las editoriales les sigan enviando libros, en un pacto tácito cuya mención es tan insultante como obvia. Para un lector o bibliófilo empedernido (ver foto) lo cierto es que es un chollo… aunque acaba siendo una servidumbre, a mi modo de ver.
 
-(\* Aunque suelen ser vicios simultáneos, no siempre se dan en la misma proporción; echen un ojo a la foto bajo este párrafo, como ejemplo: es mi pila de libros pendientes.)
-
-![](la_pila_2011-1.jpg)
+{{< figure src="images/la_pila_2011.jpg" alt="Pila" caption="Aunque suelen ser vicios simultáneos, no siempre se dan en la misma proporción; echen un ojo a la foto bajo este párrafo, como ejemplo: es mi pila de libros pendientes." >}}
 
 Me lo pregunto, pero claro, quizá es que soy un malpensado con mucho tiempo libre y exceso de bilis. O un inoportuno, hablando de cosas que todo el mundo sabe o barrunta pero nadie dice. Al final, en esto de las reseñas, como en la vida, habrá de todo: y allá cada uno con su conciencia.
 
