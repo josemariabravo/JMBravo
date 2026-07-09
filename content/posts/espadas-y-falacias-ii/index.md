@@ -6,11 +6,10 @@ categories:
   - "articulos"
 tags: 
   - "esgrima"
-coverImage: "meyer_falacias.jpg"
 ---
 *(Viene de la [primera parte](/espadas-y-falacias-i/) de este artículo.)*
 
-### Mito n.º 6: Las espadas a dos manos
+## Mito n.º 6: Las espadas a dos manos
 
 Antes de seguir conviene hacer una aclaración breve sobre a qué me refiero con el término *espada a dos manos*. En el imaginario popular, estas espadas son enormes, pesadas e imponentes, y las manejan guerreros no menos enormes e imponentes para dar brutales tajos y reveses (entre gruñidos, para conferir aún más fiereza a la imagen).
 
@@ -50,7 +49,7 @@ Así que el usuario de una espada a dos manos, sin poder hacer uso de un escudo,
 
 Estar forrado de acero de pies a cabeza. Entonces sí que tiene sentido prescindir de un escudo para esgrimir una arma a dos manos: desde armas enastadas como hachas, mazas, manguales y picos de guerra pasando, claro está, por las espadas a dos manos. Pero si no nos podemos permitir una armadura que nos permita prescindir de él, nuestro mejor aliado en una batalla era el escudo.
 
-### Mito n.º 7: Trabar las armas y mirarse con cara de cagar duro
+## Mito n.º 7: Trabar las armas y mirarse con cara de cagar duro
 
 Otro clásico que no muere. En los duelos a espada  entre el protagonista y el antagonista de turno hay un momento inevitable en el que ambos traban sus espadas durante unos segundos, que aprovechan para forcejear con cara de mucho esfuerzo y, en ocasiones, intercambiar algunas palabras, del tipo «¿Qué tal tu madre?» y otras lindezas.
 
@@ -64,13 +63,13 @@ Por último os remito a este vídeo, realizado por Carlos Negredo, de la [Sala d
 
 http://www.youtube.com/watch?v=5YQP6lthpLA
 
-### Mito n.º 8: Las conversaciones durante el duelo
+## Mito n.º 8: Las conversaciones durante el duelo
 
 Directamente relacionado con el anterior mito, hablar durante un duelo, intercambiando ingeniosas pullas parece, según las películas, algo habitual. Si tuviera que elegir una película para ilustrar este mito me quedaría sin dudarlo con la adaptación de la novela *La princesa prometida*, de William Goldman. Y sí, admito que estamos hablando de una película con una clara intención satírica que admite este mito.
 
 Ahora bien, no lo veo tan disculpable en muchas películas épicas supuestamente muy serias y dramáticas. Dejémoslo claro: durante un combate o pones toda tu concentración en él o este acabará pronto y muy mal (para ti); no hay tiempo para conversar, salvo quizá para alguna imprecación entre jadeos. Y no, no es buen momento para que el malo exponga su plan maestro. Antes o después, tal vez. Durante, no es tan buena idea.
 
-### Mito n.º 9: Las espadas de hoja irrompible
+## Mito n.º 9: Las espadas de hoja irrompible
 
 ![Cartel de la película *The Last Samurai*; japofilia en su máxima expresión.](the_last_samurai.jpg)
 
@@ -84,7 +83,7 @@ Pero tened clara una cosa: aunque no eran irrompibles ni invencibles, las hojas 
 
 En la siguiente página de [Albion Armorers](http://www.albion-swords.com/cutting-knight.htm) podéis descargaros varios vídeos en formato .wmv en los que se prueba la eficacia de corte de una de sus réplicas, una espada de una mano bautizada como *The Knight*. Echadles un ojo. No tienen desperdicio.
 
-### Mito n.º 10: Mecánicas de combate absurdas
+## Mito n.º 10: Mecánicas de combate absurdas
 
 Comprender, ligeramente, cómo se desarrolla un combate no es tan difícil, pero hay que sacudirse muchos conceptos previos. Juegos de rol, videojuegos, novelas, películas… todo esto ha colaborado a crear una imagen muy distorsionada y absurda de cómo se desarrolla un combate con armas.
 
@@ -112,7 +111,7 @@ Así, un duelo con espadas se desarrollaría, *grosso modo*, de la siguiente for
 
 Por último: es necesario aclarar que una batalla campal era una situación muy distinta,  y no cabían técnicas tan depuradas y meditadas como en los duelos (al menos en sus primeras fases; cuando la cosa se calentaba, es lógico pensar que las acciones serían más precipitadas). En lo más hondo de una liza caben acciones más instintivas y arriesgadas, dada la naturaleza caótica y demencial de una batalla multitudinaria. De ahí que un buen escudo y una buena armadura fueran tan importantes para mantenernos con vida.
 
-### A modo de conclusión:
+## A modo de conclusión
 
 Y hasta aquí ha llegado el artículo. Si ha servido para despertar el interés del lector por la esgrima antigua, os animo a descubrirla en persona, bien a través de su práctica o —de una forma menos apasionante pero muy amena— a través de los eventos en los que las distintas [salas de la AEEA](http://www.esgrimaantigua.com/Salas.php) realizan demostraciones.
 

@@ -34,7 +34,7 @@ A la hora de elegir de qué mitos hablar me encontré que había muchos. Demasia
 
 Comenzamos:
 
-### **Mito n.º 1: El peso de las espadas**
+## **Mito n.º 1: El peso de las espadas**
 
 ![Yelmo vikingo. Sin cuernos](vikingo1.jpg)
 
@@ -50,7 +50,7 @@ Una espada medieval de una mano rara vez pesaba más de 1500 gramos, y lo normal
 
 Ojo: las llamadas «espadas de parada» son harina de otro costal. Con «de parada» me refiero a armas, armaduras y pertrechos empleados para exhibiciones: desfiles y otros alardes militares. En esos casos, los pesos subían considerablemente, llegando a los tres y cuatro kilos… pero nadie llevaba esas espadas a la guerra. Lo cual enlaza directamente con el siguiente mito…
 
-### **Mito n.º 2: Las espadas de fantasía**
+## **Mito n.º 2: Las espadas de fantasía**
 
 Las armas «de parada», como comenté más arriba, no eran armas para el combate, sino de exhibición. Tenían nielados, incrustaciones de oro, plata y gemas preciosas y toda clase de adornos. En muchos casos se ofrecían como regalos a nobles y reyes, y naturalmente, no se usaban para combatir. Por otra parte, ¿creéis que un guerrero, cuyas herramientas eran sus armas (defensivas y ofensivas), tendría armas ornamentadas con hilos de oro y demás filigranas? Rotundamente no. El equivalente sería ver a un albañil con un cincel engastado de piedras Swarovski: un sinsentido.
 
@@ -64,7 +64,7 @@ Por cierto, los aficionados gringos al coleccionismo de armas llaman a estas esp
 
 Cómics, videojuegos y cubiertas de libros de fantasía aportan su grano de arena a extender esta visión de las espadas como normal. Comparad una de estas espadas de fantasía con una réplica de una espada histórica, y rápidamente llegaréis a la conclusión de que las primeras son una deformación absurda de la realidad.
 
-### **Mito n.º 3: Las armaduras**
+## **Mito n.º 3: Las armaduras**
 
 ![Armadura gótica temprana](arnes1.jpg)
 
@@ -96,13 +96,13 @@ http://www.youtube.com/watch?v=5hlIUrd7d1Q
 
 http://www.youtube.com/watch?v=WMuNXWFPewg
 
-### **Mito n.º 4: Los giros de 360º**
+## **Mito n.º 4: Los giros de 360º**
 
 Este es muy frecuente en las películas de acción en las que salen combates con armas blancas. ¿Sabéis a qué me refiero? ¿No? A ver: me refiero a cuando el actor, antes de asestar un espadazo, gira sobre sí mismo para imprimir un gracioso giro de 360º, alehop, al movimiento. En el proceso (lento, predecible, arriesgado) le ofrece, durante un tiempo nada desdeñable, la espalda al enemigo.
 
 Suficiente para que te atraviesen de parte a parte, creedme. Bajo ningún concepto un combatiente daría la espalda a un enemigo. Lo primero que aprende cualquiera con un mínimo de experiencia en combate es a que el oponente no le  «gane grados al perfil», en terminología de la Verdadera Destreza[^4]: en cristiano, los oponentes procurarán que los ejes longitudinales de sus cuerpos estén siempre enfrentados. Cualquier ángulo distinto de cero a favor de uno de los contendientes ofrece una ventaja tal que nadie, en su sano juicio, se arriesgaría a hacer una maniobra similar; por no hablar que dejar de ver a tu oponente, aunque sea durante una fracción de segundo, es un riesgo absurdo que nadie querría correr. En su sano juicio, al menos.
 
-### **Mito n.º 5: Las armas a la espalda**
+## **Mito n.º 5: Las armas a la espalda**
 
 Las espadas se llevaban a la cintura. En un tahalí que colgaba del hombro, o al cinto, mediante un talabarte. Pero a la cintura; no a la espalda.
 
