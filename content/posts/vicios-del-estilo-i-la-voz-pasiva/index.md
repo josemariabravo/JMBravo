@@ -10,9 +10,9 @@ tags:
 ---
 Lo prometido es deuda; tal y como adelanté en su día, aquí tenéis el primero de los informes de Ouróboros, que he dividido en dos partes, una dedicada a la pasiva y la otra al gerundio. Espero que os resulte interesante.
 
-### La voz pasiva
+## La voz pasiva
 
-### 1. ¿Qué es?
+## 1. ¿Qué es?
 
 En la *Gramática de la Lengua Española*, de Emilio Alarcos Llorach, encontramos esta entrada re­lativa a la voz pasiva:
 
@@ -36,7 +36,7 @@ Veamos este tercer ejemplo:
 
 Este ejemplo pertenece a la llamada en ocasiones “voz media” o “diátesis media” de los ver­bos reflexivos3. El sujeto, Juan, es el objeto de la acción del verbo y a la vez es el sujeto agente.
 
-### 2. Problemática
+## 2. Problemática
 
 
 Bien, ¿qué problema hay, realmente, con las construcciones en pasiva?
@@ -83,7 +83,7 @@ Estas frases dan una impresión de «ingravidez», por así decirlo; el sujeto e
 
 Las construcciones en pasivas también indican falta de resolución y timidez expresiva, al igual que por ejemplo la renuencia al usar el tiempo futuro («El domingo queremos ir a la playa» por «El domingo iremos a la playa»). Un «La reunión ha sido convocada por la Junta» es bastante menos enér­gico que un «La Junta ha convocado una reunión».
 
-### 3. Causas de la proliferación de las pasivas
+## 3. Causas de la proliferación de las pasivas
 
 ¿Por qué proliferan tanto últimamente las construcciones en pasiva? Sin duda, una de las prin­cipales causas es la abundancia de las mismas en el idioma inglés. Sin embargo, que quede claro que el uso de la voz pasiva ya existía en el latín; no son un “invento” del inglés, por tanto, aunque sin duda buena parte del abuso de esta voz se debe al inglés.
 
@@ -109,7 +109,7 @@ Sabiendo esto, la ilación es obvia: la causa de la abundancia de pasivas es la 
 
 En el género fantástico es aún peor, dado que las traducciones anglosajonas son la norma. Los lectores de fantasía se encuentran con obras en las que las pasivas abundan; si tenemos en cuenta que entre esos lectores están (o es lógico que estén) los escritores de género fantástico, el problema es espe­cialmente insidioso y nada baladí: sin una corrección adecuada de estilo, estos autores incurrirán en construcciones en pasiva sin ser conscientes de ello.
 
-### 4. Conclusiones
+## 4. Conclusiones
 
 Ya hemos visto los dos problemas principales de las pasivas:
 

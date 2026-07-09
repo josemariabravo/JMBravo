@@ -22,7 +22,7 @@ Sería ideal usar algo así, pensé. Una wiki de uso privado, en la que anotar, 
 
 Qué demonios, me dije, no tiene que ser tan difícil. Y me puse manos a la obra.
 
-### Pero ¿qué es una wiki?
+## Pero ¿qué es una wiki?
 
 Antes de seguir conviene aclarar a qué nos referimos con el término wiki. Para muchos es sinónimo de Wikipedia. No es tal, aunque la popularidad de esta enciclopedia online (que ha superado ya, ampliamente, a enciclopedias “serias” como la Británica) justifica de sobra la sinécdoque. Precisamente en la Wikipedia podemos encontrar una buena [definición del término wiki](<http://es.wikipedia.org/wiki/Wiki>):
 
@@ -62,17 +62,17 @@ Existen muchas alternativas, pero en esencia se resumen en tres:
 
 Veamos, de forma somera y atendiendo a esta lista de características deseadas, cada una de las opciones anteriores:
 
-### Wikis en red
+## Wikis en red
 
 Existen varios servicios en red para montarnos una wiki de uso personal. De entre ellos tenemos [Wikispaces](<http://www.wikispaces.com/>), [Springnote](http://www.springnote.com/) o [Wikidot.com](http://www.wikidot.com/), por citar los más señeros.
 
 Es obvio que no cumplen las características deseadas. Aunque el coste es cero en muchos casos (no siempre, ojo), nos atamos a un servicio que algún día puede fallar o incluso desaparecer. Por no hablar de que no siempre es conveniente trabajar en la nube, por motivos de disponibilidad de la red y seguridad.
 
-### Programas
+## Programas
 
 De entre estos he probado [Zulupad](http://www.gersic.com/zulupad/) y [Wikipad](http://wikidpad.sourceforge.net/). Ninguna de estas dos aplicaciones cumplía el requisito de portabilidad, y el uso no era todo lo simple que hubiera deseado, así que las descarté pronto.
 
-### Wiki instalada en servidor
+## Wiki instalada en servidor
 
 Esta es la opción que, a mi juicio, cumple todas las características deseadas. Al principio probé la opción, por así decirlo, canónica: una instalación de [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki/es) hospedada en el dominio de este mismo blog.
 
@@ -100,7 +100,7 @@ Pero la característica clave que me hizo emplear Dokuwiki es su sistema de fich
 
 Pero basta ya de cháchara. Veamos cómo podemos instalarla en nuestro equipo.
 
-### Instalación de AppServ
+## Instalación de AppServ
 
 Lo primero que tenemos que hacer es instalar AppServ mediante los siguientes pasos:
 
@@ -114,7 +114,7 @@ Lo primero que tenemos que hacer es instalar AppServ mediante los siguientes pas
 
 Ahora tenemos instalado y preparado para la acción nuestro servidor local, que incluye PHP, MySQL y Apache. De sobra para nuestros propósitos.
 
-### Instalación de Dokuwiki
+## Instalación de Dokuwiki
 
 La instalación de Dokuwiki es aún más sencilla:
 
@@ -160,7 +160,7 @@ Para acceder a vuestra wiki personal haced clic en el enlace de esa página. Tam
 
 No es muy impresionante, es cierto. Aún tenemos que hacer unos cuantos arreglos. Veamos cuáles son:
 
-## Primeros pasos:
+## Primeros pasos
 
 Lo primero que deberíamos hacer es identificarnos como superusuario o administrador de la wiki. En la barra inferior veremos un botón llamado *Conectarse*. Si lo pulsamos nos llevará a la página de login. Allí pondremos el nombre de usuario y la contraseña elegida durante la configuración.
 
@@ -236,7 +236,7 @@ No parece mucha información, desde luego, y podríamos pensar que no merece la 
 
 Ni mucho menos: al incluir estos datos en páginas interrelacionadas, daremos los primeros pasos para que nuestro mundo crezca de forma exponencial. Si creamos una página dedicada a Elías Zamar, por ejemplo, podremos incluir de forma sucesiva nuevas “capas” de información. Una hija díscola. La historia de su pasado. Su actual esposa. Etcétera. Un largo etcétera, si queremos.
 
-### Organizar la información
+## Organizar la información
 
 Para organizar la información conviene establecer un sistema propio antes de comenzar. No tiene por qué ser perfecto; bastará con que sea coherente. Ya habrá tiempo luego de mejorarlo, además.
 

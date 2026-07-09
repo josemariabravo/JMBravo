@@ -18,7 +18,7 @@ Quizá le sirva a alguien. Quizá no. Espero que sí, en todo caso. Al poner por
 
 Sea como fuere, vamos a ello:
 
-### 1\. Falta de fe
+## 1\. Falta de fe
 
 De todos, el más grave y dañino. Acumular pensamientos negativos, derrotistas, del palo *a nadie le interesa lo que escribo.* *Qué más da si escribo hoy o no.* *Escribo fatal.* Etcétera. ¿Os suenan? Espero que no. Si lo hacen, procurad desechadlos. De raíz.
 
@@ -30,7 +30,7 @@ No os creáis, yo no me he desembarazado del todo de estos pequeños cabroncetes
 
 *Escribo fatal*: Escribe más. Ya lo harás mejor, algún día.
 
-### 2\. Esperar a las musas
+## 2\. Esperar a las musas
 
 Segundo pecado en la lista y uno de los culpables de lastrar mi productividad durante años.
 
@@ -40,7 +40,7 @@ Escribe según una agenda adaptada a tu tiempo, que no ganas, y procura respetar
 
 … que le den mucho por el culo. Ella se lo pierde.
 
-### 3\. Pulir demasiado.
+## 3\. Pulir demasiado.
 
 Me refiero al vicio de revisar continuamente lo que vamos escribiendo. Algo absurdo, que no sirve de nada. Sin ir más lejos, ahora estoy reescribiendo los capítulos de una novela. Se supone que estaban «pulidos».
 
@@ -50,7 +50,7 @@ De modo que ahora, cuando escribo, procuro hacerlo rápido, sin mirar atrás. Ya
 
 Porque la palabra *borrador* significa eso precisamente. Algo provisional. Poco importa que nos haya salido un churro a la primera. Como bien dicen los gringos, *you can't edit a blank page*, que podría traducirse como «No se puede corregir una página en blanco». Por muy malo que sea un primer borrador, puedes corregirlo. Pero a su debido tiempo.
 
-### 4\. Descuidar la lectura.
+## 4\. Descuidar la lectura.
 
 Durante mi adolescencia fui un lector voraz, que no bajaba de cien libros al año. Esta cifra se fue reduciendo más y más, hasta llegar, incluso, a menos de diez.
 
@@ -60,19 +60,19 @@ Porque si quieres escribir, o al menos hacerlo bien, has de leer. Mucho. Y no so
 
 Y no, no se trata de leer libros como quien trata de batir una marca personal. Pero hay que leer, maldita sea. Todo lo que se pueda.
 
-### 5\. No darle la prioridad adecuada.
+## 5\. No darle la prioridad adecuada.
 
 Escribir es una cuestión de prioridades. *No tengo tiempo por X, Y o Z* es una frase habitual de los aspirantes a escritor. Y es mentira. Salvo que realmente no tengas **nada de tiempo libre**, tal que un condenado a galeras, puedes elegir qué hacer con tu tiempo, por poco que sea, si realmente estás dispuesto a ello.
 
 Así que déjate de excusas y ponte a ello, copón.
 
-### 6\. Ansiar la perfección.
+## 6\. Ansiar la perfección.
 
 El demonio está en los detalles, dicen. Y yo tiendo a complacer demasiado a mis demonios. Lo cual está muy bien, lo de cuidar mucho los detalles, pero cuando has terminado de escribir, no mientras.
 
 Salvo que el detalle sea crucial para la trama que estoy desarrollando, lo anoto en una libreta y lo dejo aparcado para más adelante. Al menos, lo intento.
 
-### 7\. No planificar.
+## 7\. No planificar.
 
 Dicen que hay dos tipos de escritores. De los de brújula y de los de mapa. Los que no planifican y los que sí.
 
@@ -86,7 +86,7 @@ Algunos dirán que esto mata la espontaneidad al escribir. No estoy de acuerdo, 
 
 Cuando dirigía partidas de rol acuñé un adagio personal que resume (valga la inmodestia) muy bien lo que pienso al respecto de la espontaneidad: «Improvisar solo merece la pena si no es necesario». Esto es: cuando realmente le saco jugo a la espontaneidad mientras escribo es cuando no la necesito, porque tengo bien claro por dónde voy. Usando la clásica analogía del viaje, si tienes bien clara la ruta puedes hacer una parada extra que no estaba prevista, siguiendo una corazonada. Porque sabes dónde estás y hacia dónde te diriges. Y te apetece, qué coño.
 
-### Y por último…
+## Y por último…
 
 Por supuesto, todos los consejos anteriores son solo eso, consejos. Que sirvan o no, es cosa enteramente del que los lea. Porque ya saben. Nadie escarmienta en cabeza ajena…
 

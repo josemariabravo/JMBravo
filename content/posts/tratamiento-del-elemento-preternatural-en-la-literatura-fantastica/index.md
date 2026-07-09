@@ -6,7 +6,7 @@ categories:
 ---
 ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif") Sexto informe [Ouróboros](http://www.sombrasyceniza.com/tag/ouroboros/); en este artículo se discute el elemento más importante, por antonomasia, de la literatura fantástica: cómo se aborda el elemento preternatural, o fantástico, en una historia. Espero que os resulte interesante.
 
-### 1\. Resumen
+## 1\. Resumen
 
 El presente texto, pensado sobre todo para ayudar en la creatividad de los escritores de fantasía, tiene los siguientes objetivos:
 
@@ -16,7 +16,7 @@ b) Dotar de la terminología base adecuada para un entendimiento preciso y comú
 
 c) Proporcionar un análisis completo para ayudar al escritor en su proceso creativo.
 
-### 2. Definiciones
+## 2. Definiciones
 
 En el artículo [Estructurando la literatura fantástica](http://www.sombrasyceniza.com/2010/11/05/estructurando-la-literatura-fantastica/) se hablaba de los **elementos preternaturales** que hacen (en conjunto con los elementos naturales) al género literario fantástico, y de las justificaciones que se puedan buscar. Sobre esta base, el presente texto es un primer acercamiento al elemento preternatural en la literatura fantástica.
 
@@ -40,13 +40,13 @@ Antes de proseguir, se presentan a continuación una serie de definiciones que s
 > 
 > · **El Señor de los Anillos \[ESDLA\]:** Gandalf rompe el puente de Khazad-dûm con su bastón. Gandalf es agente y la fuente; el bastón es el foco.
 
-### 3\. El escritor y el elemento preternatural
+## 3\. El escritor y el elemento preternatural
 
 La inserción de elementos preternaturales es un proceso que debe abordarse con mucha seriedad y cuidado: la coherencia entre estos elementos preternaturales debe ser siempre la mayor posible, para que resulte coherente y creíble de cara al lector (respecto a la credibilidad de una obra fantástica y sus elementos, véase el artículo [Suspensión de la Incredulidad](http://www.sombrasyceniza.com/2010/11/10/suspension-incredulidad-fantasia/)). Esto no quiere decir que deba explicarlo de manera exhaustiva al lector; al revés, un exceso en este sentido podría constituir un grave error que afecte a la calidad literaria del producto final.
 
 Con frecuencia se produce una tipificación de los elementos preternaturales, tomando como referencia los que se han popularizado por medio de determinadas obras famosas del género fantástico. El autor debe evitar caer en el tópico y por tanto ha de llevar a cabo una descripción y tratamiento detallados de sus propios elementos preternaturales, aun cuando estén basados en los ya creados con anterioridad.
 
-#### 4\. Análisis de lo preternatural
+### 4\. Análisis de lo preternatural
 
 A continuación se establece un método de análisis, pensado como una herramienta para orientar al escritor en el proceso de creación de un sistema coherente de elementos preternaturales. El análisis debe iniciarse sobre unas sencillas preguntas, que son:
 

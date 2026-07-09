@@ -16,7 +16,7 @@ No paran de repetir que el lector de libros electrónicos será el regalo de est
 
 Para los que le hayáis echado un ojo al Amazon Kindle, estas son mis experiencias tras casi un mes de uso:
 
-### Características técnicas (según Amazon.com):
+## Características técnicas (según Amazon.com):
 
 **Pantalla:** 6’’, resolución de 600 x 800 pixel a 167 puntos por pulgada, 16 niveles de gris.
 
@@ -40,19 +40,19 @@ Para los que le hayáis echado un ojo al Amazon Kindle, estas son mis experienci
 
 **Garantía:** 1 año.
 
-### Impresiones:
+## Impresiones:
 
-#### Aspecto:
+### Aspecto:
 
 Elegante, sobrio, ligero. Recomiendo adquirir la funda de cuero opcional; idónea para proteger el dispositivo y transportarlo de forma cómoda y segura.
 
-#### Sobre el uso:
+### Sobre el uso:
 
 El quid de la cuestión: ¿qué tal es el cacharro para leer? En una sola palabra: cojonudo. La lectura es cómoda y agradable y me costó muy poco habituarme a leer en este formato. Si acaso las transiciones de página pueden ser molestas si se mira fijamente la pantalla cuando se “hojea” el libro, por lo demás no cansa la vista más de lo que cansaría un libro en papel. Quizá menos, porque puedes regular aspectos de la tipografía a tu antojo, como el tamaño o el interlineado, por no hablar que es más cómodo sostener este dispositivo que mantener abierto un libro impreso, sobre todo si es grueso.
 
 \[caption id="" align="aligncenter" width="602" caption="A la izquierda, el explorador web; a la derecha, un texto propio convertido desde un .doc."\]![kindle\_sombrasyceniza.com\_07](images/kindle_sombrasyceniza-com_07.jpg "kindle_sombrasyceniza.com_07")\[/caption\]
 
-#### Sobre los formatos:
+### Sobre los formatos:
 
 La lectura de PDFs es incómoda, salvo que el pdf esté maquetado para tamaños de página pequeños (digamos, A5 y formatos tipo libro); en otro caso tendremos que estar “navegando” por la página, lo cual es muy engorroso.
 
@@ -62,11 +62,11 @@ Para convertir nuestros ficheros podemos usar un software de gestión de ebooks,
 
 He probado la conversión de todos los formatos, y es muy buena. Si acaso, los pdf con imágenes incrustadas dan algunos problemas.
 
-### Ventajas y desventajas:
+## Ventajas y desventajas:
 
 Este es un resumen de los pros y contras de este aparato:
 
-#### Ventajas:
+### Ventajas:
 
 - Conectividad Wifi.
 - Integración con la tienda Amazon.
@@ -75,14 +75,14 @@ Este es un resumen de los pros y contras de este aparato:
 - Pantalla nítida.
 - Compacto y ligero.
 
-#### Desventajas:
+### Desventajas:
 
 - Solo lee de forma “fluida” el formato propietario de Amazon; el resto hay que convertirlo.
 - No tiene bahía para tarjeta SD, con lo cual está limitado a la memoria interna, 3,3 gigabytes de uso propio.
 - Interfaz en inglés.
 - El adaptador para cargar el dispositivo a la red eléctrica es americano. No creo que hubiera subido tanto los costes incluir uno europeo. En cualquier caso, no es mucho engorro cargar el aparato mediante el cable USB, ya que la batería tiene una larga duración.
 
-### Sobre las funciones adicionales:
+## Sobre las funciones adicionales:
 
 Consideradas por Amazon como “experimentales”, son tres: un explorador de internet, un reproductor de archivos mp3 y un lector-sintetizador de voz.
 
@@ -92,7 +92,7 @@ Consideradas por Amazon como “experimentales”, son tres: un explorador de in
 
 **Lector de voz:** solo es en inglés, así que su utilidad para los lectores en español es anecdótico.
 
-### Conclusiones:
+## Conclusiones:
 
 A todos aquellos que airean su irreductible amor al papel y a los efluvios de la tinta, los animo a probar un lector de libros electrónicos. El Amazon Kindle es una buena opción, a mi juicio, si no se tiene el inconveniente del inglés; basta con un nivel rudimentario para manejar la interfaz, eso sí.
 
