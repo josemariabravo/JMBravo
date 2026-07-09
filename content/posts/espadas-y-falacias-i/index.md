@@ -1,14 +1,18 @@
 ---
-aliases: ["/espadas-y-falacias-i/"]
-title: "De espadas y falacias (i)"
-date: "2011-06-12"
-categories: 
-  - "articulos"
-tags: 
-  - "esgrima"
-coverImage: "excalibur1-1.jpg"
+aliases:
+  - /espadas-y-falacias-i/
+title: ""
+date: 2026-07-09
+categories:
+  - articulos
+tags:
+  - esgrima
+coverImage: excalibur1-1.jpg
+proyecto: ""
+etiqueta: ""
+extracto: ""
 ---
-![excalibur](excalibur1.jpg)
+![excalibur](excalibur1.jpg "izquierda 250")
 
 Debía tener seis o siete años, calculo, la primera vez que la vi, y desde sus primeros fotogramas quedé fascinado. Años después volví a verla; ya no era lo mismo. Había envejecido bastante mal, y los combates a espada entre caballeros enfundados en brillantes (y anacrónicas) armaduras habían perdido mucho de su atractivo.
 
@@ -34,7 +38,7 @@ A la hora de elegir de qué mitos hablar me encontré que había muchos. Demasia
 
 Comenzamos:
 
-## **Mito n.º 1: El peso de las espadas**
+## Mito n.º 1: El peso de las espadas
 
 ![Yelmo vikingo. Sin cuernos](vikingo1.jpg)
 
@@ -50,21 +54,22 @@ Una espada medieval de una mano rara vez pesaba más de 1500 gramos, y lo normal
 
 Ojo: las llamadas «espadas de parada» son harina de otro costal. Con «de parada» me refiero a armas, armaduras y pertrechos empleados para exhibiciones: desfiles y otros alardes militares. En esos casos, los pesos subían considerablemente, llegando a los tres y cuatro kilos… pero nadie llevaba esas espadas a la guerra. Lo cual enlaza directamente con el siguiente mito…
 
-## **Mito n.º 2: Las espadas de fantasía**
+## Mito n.º 2: Las espadas de fantasía
 
 Las armas «de parada», como comenté más arriba, no eran armas para el combate, sino de exhibición. Tenían nielados, incrustaciones de oro, plata y gemas preciosas y toda clase de adornos. En muchos casos se ofrecían como regalos a nobles y reyes, y naturalmente, no se usaban para combatir. Por otra parte, ¿creéis que un guerrero, cuyas herramientas eran sus armas (defensivas y ofensivas), tendría armas ornamentadas con hilos de oro y demás filigranas? Rotundamente no. El equivalente sería ver a un albañil con un cincel engastado de piedras Swarovski: un sinsentido.
 
-![Hace mucho daño… al mirarlo](wallhanger.jpg)
+![Hace mucho daño… al mirarlo](wallhanger.jpg "izquierda 250")
 
 Sin embargo, herederas directas de estas armas de parada, las espadas catalogadas como «de fantasía» parecen ser la norma y no la excepción. Buscad, si no, en Google Imágenes la palabra *sword,* o *espada,* y echad un ojo a los resultados. En los ojos de sus potenciales compradores deben de parecer bellas; a los ojos de alguien mínimamente versado, son el *súmmun* del horror. Estas armas son pesadas, están mal diseñadas, peor construidas y resultan imposibles de todo punto de manejar. Irónicamente, se hacen para perpetuar muchos de los mitos asociados a las espadas.
 
 Por cierto, los aficionados gringos al coleccionismo de armas llaman a estas espadas *wall hanger*, que podríamos traducir como «espadas perchero». Estas espadas, por otra parte, suelen tener espigas cortas o inexistentes (la espiga es la parte de la hoja donde se asegura la guarnición), con lo que el riesgo de que se rompan al recibir un golpe es muy alto. Si tenéis una de estas espadas en casa, ni se os ocurra poneros a blandirla a lo loco: una hoja de espada volando por los aires puede herir de gravedad al que pille.
 
-![Sí, es la espada de la película de Conan (la de 1982), de FilmSwords.com: un buen ejemplo de una espada mal diseñada: pesada (más de 3 kg), de hoja corta para ser blandida a dos manos (no llega a los 73 cm) y con una empuñadura muy larga para manejarla con una; los arriaces son cortos y la bigotera (la parte sin filo con la que comienza la hoja) carece de sentido](atlantean1.jpg)
+
+{{< figure src="/images/atlantean1.jpg" alt="Atlatean sword" caption="Sí, es la espada de la película de Conan (la de 1982), de FilmSwords.com: un buen ejemplo de una espada mal diseñada: pesada (más de 3 kg), de hoja corta para ser blandida a dos manos (no llega a los 73 cm) y con una empuñadura muy larga para manejarla con una; los arriaces son cortos y la bigotera (la parte sin filo con la que comienza la hoja) carece de sentido" >}}
 
 Cómics, videojuegos y cubiertas de libros de fantasía aportan su grano de arena a extender esta visión de las espadas como normal. Comparad una de estas espadas de fantasía con una réplica de una espada histórica, y rápidamente llegaréis a la conclusión de que las primeras son una deformación absurda de la realidad.
 
-## **Mito n.º 3: Las armaduras**
+## Mito n.º 3: Las armaduras
 
 ![Armadura gótica temprana](arnes1.jpg)
 
@@ -96,13 +101,13 @@ Y para darle la puntilla a este mito con imágenes, van dos excelentes vídeos q
 
 {{< youtube WMuNXWFPewg >}}
 
-## **Mito n.º 4: Los giros de 360º**
+## Mito n.º 4: Los giros de 360º
 
 Este es muy frecuente en las películas de acción en las que salen combates con armas blancas. ¿Sabéis a qué me refiero? ¿No? A ver: me refiero a cuando el actor, antes de asestar un espadazo, gira sobre sí mismo para imprimir un gracioso giro de 360º, alehop, al movimiento. En el proceso (lento, predecible, arriesgado) le ofrece, durante un tiempo nada desdeñable, la espalda al enemigo.
 
 Suficiente para que te atraviesen de parte a parte, creedme. Bajo ningún concepto un combatiente daría la espalda a un enemigo. Lo primero que aprende cualquiera con un mínimo de experiencia en combate es a que el oponente no le  «gane grados al perfil», en terminología de la Verdadera Destreza[^4]: en cristiano, los oponentes procurarán que los ejes longitudinales de sus cuerpos estén siempre enfrentados. Cualquier ángulo distinto de cero a favor de uno de los contendientes ofrece una ventaja tal que nadie, en su sano juicio, se arriesgaría a hacer una maniobra similar; por no hablar que dejar de ver a tu oponente, aunque sea durante una fracción de segundo, es un riesgo absurdo que nadie querría correr. En su sano juicio, al menos.
 
-## **Mito n.º 5: Las armas a la espalda**
+## Mito n.º 5: Las armas a la espalda
 
 Las espadas se llevaban a la cintura. En un tahalí que colgaba del hombro, o al cinto, mediante un talabarte. Pero a la cintura; no a la espalda.
 

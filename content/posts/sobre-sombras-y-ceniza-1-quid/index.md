@@ -1,9 +1,12 @@
 ---
 title: "Sobre Sombras y ceniza, 1: Quid"
-date: "2019-07-19"
-categories: 
-  - "articulos"
-coverImage: "Assassinat_louis_orleans.jpg"
+date: 2019-07-19
+categories:
+  - articulos
+tags:
+  - sombras-y-ceniza
+  - libros
+revisado: true
 ---
 Es curioso, pero encuentro harto difícil hablar de mi obra (fíjense que vacilé, incluso, al escribir *mi obra*, por considerarlo ampuloso). No sé muy bien por qué. ¿Pudor? ¿Modestia? ¿Inseguridad? ¿Todo aunado, quizá?
 
@@ -17,7 +20,7 @@ Así que veamos… ¿por dónde comenzar? Ah. Sí. Por el principio. No es mala 
 
 ## ¿Cómo concebí la novela?
 
-Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine *[Sangre y acero](/category/sangre-y-acero/)*, el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga aquí).
+Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine [*Sangre y acero*](/tags/sangre-y-acero/), el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga aquí).
 
 De los relatos de Daramad Mur Asyb ya hablaré a su debido momento. Que espero no se demore mucho; mi intención es reunirlos en un libro de relatos (*Runas de sangre* es el título provisional) unidos por un hilo conductor (un *fix-up*, lo llaman los gringos) y autopublicarlos en edición digital y física.
 
@@ -83,7 +86,7 @@ Sea como fuere, en el caso de *Sombras y ceniza*, creo que los temas principales
 
 Al escribir *Sombras y ceniza*, curiosamente, una de las primeras decisiones que tomé fue la de imponerme una serie de reglas narrativas:
 
-### 1) Narradores limitados:
+### 1) Narradores limitados
 
 En cuanto a los narradores, como ya dije antes, dado mi hartazgo por el narrador omnisciente, estos debían ser mucho más limitados, centrados en el punto de vista de cada personaje, con el menor número posible de injerencias por parte de un narrador extradiegético.
 
@@ -107,17 +110,8 @@ El principal, el desarrollo de las revueltas campesinas posteriores a la peste n
 
 … y esa fue la una combinación de dos ideas: las crisis europeas del siglo XIV y el conflicto entre el Imperio turco y Occidente, junto a la importancia del bronce como material estratégico en la Edad Moderna.
 
-<figure>
 
-![](images/Assassinat_louis_orleans.jpg)
-
-<figcaption>
-
-Asesinato de Luis I, duque de Orleans, según una miniatura de autor desconocido (c. 1470)
-
-</figcaption>
-
-</figure>
+{{< figure src="images/assassinat_louis_orleans.jpg" alt="Asesinato de Luis I, duque de Orleans" caption="Asesinato de Luis I, duque de Orleans, según una miniatura de autor desconocido (c. 1470)" >}}
 
 El lector avisado se habrá dado cuenta de que he jugado con las fechas. En efecto, me he permitido cierto juego para que los acontecimientos casen; si bien los acontecimientos que me han servido de base para la trama transcurrieron en el siglo XIV, el trasfondo de la novela remeda el final del s. XV, e incluso algunos detalles (como el mentado de los cañones de bronce o la aparición de las primeras pistolas de rueda) remiten más a la primera mitad del s. XVI.
 
@@ -135,15 +129,10 @@ En cuanto al estilo, las novelas de Baroja y la obra de Sánchez Ferlosio. Al pr
 
 También sería absurdo negar la influencia de las novelas del capitán Alatriste, de Arturo Pérez-Reverte, autor que, sin embargo, sus novelas de interés general dejaron de interesarme hace mucho. Pero ese gusto por el léxico y mi primera aproximación a la germanía del Siglo de Oro, a la que después seguirían lecturas de Quevedo, Mateo Alemán, Francisco Delicado y el excelente *Tesoro de villanos*, de María Inés Chamorro, se las debo a las novelas del capitán Alatriste.
 
-* * *
+***
 
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%; border: 0" src="https://leer.amazon.es/kp/card?asin=B07RT6THJ9&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_j455CbBB91Q3V"></iframe>
 
-### Descarga un adelanto de la novela:
-
-[Adelanto de *Sombras y ceniza*](/download/adelanto-de-sombras-y-ceniza-novela/)
-
-* * *
 
 [^1]: Que, como se infiere de la primera regla, no suponen una ruptura cronológica, por lo que siempre son recuerdos del personaje.
 [^2]: Recomiendo al lector interesado el ensayo *Uñas azules, Jacques y Ciompi*, de Michel Mollat y Philippe Wolf.

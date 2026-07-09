@@ -4,6 +4,10 @@ date: 2020-04-07
 categories:
   - novedades
 etiquetas: runas-de-sangre
+revisado: true
+tags:
+  - runas-de-sangre
+  - libros
 ---
 ![Runas de sangre](runas-de-sangre-cubierta.jpg)
 
