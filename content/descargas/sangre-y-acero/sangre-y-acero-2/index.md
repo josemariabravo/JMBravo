@@ -9,5 +9,5 @@ tags:
 ---
 El segundo número del fanzine *Sangre y acero*, disponible de forma gratuita en PDF.
 
-Acerca de los detalles de esta publicación, puede leer este artículo: [Sangre y acero n.º 2]({{< ref "posts/sangre-y-acero-2" >}}).
+Acerca de los detalles de esta publicación, puede leer este artículo: [Sangre y acero n.º 2]({{< ref "blog/sangre-y-acero-2" >}}).
 

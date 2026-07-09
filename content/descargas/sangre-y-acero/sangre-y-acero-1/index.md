@@ -9,4 +9,4 @@ tags:
 ---
 El primer número del fanzine *Sangre y acero*, disponible de forma gratuita en PDF.
 
-Sobre los detalles de esta publicación, puede leer este artículo: [Sangre y acero n.º 1]({{< ref "posts/sangre-y-acero-1" >}}).
+Sobre los detalles de esta publicación, puede leer este artículo: [Sangre y acero n.º 1]({{< ref "blog/sangre-y-acero-1" >}}).

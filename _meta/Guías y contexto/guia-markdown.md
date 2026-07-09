@@ -26,7 +26,7 @@ Parámetros opcionales disponibles:
 ---
 ## Estructura de un artículo
 
-Los artículos viven en `content/posts/nombre-del-articulo/index.md`.  
+Los artículos viven en `content/blog/nombre-del-articulo/index.md`.  
 El nombre de la carpeta define la URL — no cambiar una vez publicado.
 
 ---
@@ -64,9 +64,9 @@ Para un salto de línea dentro del mismo párrafo: dos espacios al final de la l
 
 [enlace con título](https://ejemplo.com "Texto del título al pasar el ratón")
 
-[enlace interno a otro artículo](/posts/nombre-del-articulo/)
+[enlace interno a otro artículo](/blog/nombre-del-articulo/)
 
-[enlace interno con validación de Hugo]({{< relref "/posts/nombre-del-articulo" >}})
+[enlace interno con validación de Hugo]({{< relref "/blog/nombre-del-articulo" >}})
 ```
 
 La segunda forma (`relref`) es más robusta: Hugo avisa si el destino no existe, y tolera cambios en la URL base del sitio.
@@ -77,7 +77,7 @@ La segunda forma (`relref`) es más robusta: Hugo avisa si el destino no existe,
 Las imágenes van dentro de la carpeta del artículo (page bundle):
 
 ```
-content/posts/mi-articulo/
+content/blog/mi-articulo/
   index.md
   imagen.jpg
 ```
@@ -104,7 +104,7 @@ Para controlar alineación y tamaño, se usa el atributo título con palabras cl
 
 > **Nota Obsidian:** Obsidian muestra la imagen correctamente pero ignora el título — la alineación solo se ve en el sitio publicado.
 
-Recuerda que la imagen debe estar físicamente en la misma carpeta que el `index.md` de la página o artículo (`content/sobre-mi/`, `content/posts/mi-articulo/`, etc.) para que Hugo la encuentre.
+Recuerda que la imagen debe estar físicamente en la misma carpeta que el `index.md` de la página o artículo (`content/sobre-mi/`, `content/blog/mi-articulo/`, etc.) para que Hugo la encuentre.
 
 ---
 ## Listas
@@ -249,7 +249,7 @@ date: "2026-01-15"
 
 El shortcode recoge automáticamente todas las imágenes de la carpeta y las muestra en un grid. Al pinchar en una imagen se abre a pantalla completa; se cierra pinchando fuera o en el botón ×.
 
-**También funciona dentro de una entrada:** el shortcode `{{< galeria *}}` no está limitado a `content/galerias/` — se puede usar en cualquier página con imágenes en su propia carpeta, incluida `content/posts/mi-articulo/`. Basta con copiar las imágenes junto al `index.md` del artículo y poner `{{</* galeria */>}}` donde deba aparecer el grid.
+**También funciona dentro de una entrada:** el shortcode `{{< galeria *}}` no está limitado a `content/galerias/` — se puede usar en cualquier página con imágenes en su propia carpeta, incluida `content/blog/mi-articulo/`. Basta con copiar las imágenes junto al `index.md` del artículo y poner `{{</* galeria */>}}` donde deba aparecer el grid.
 
 > **Aviso:** por defecto el shortcode muestra *todas* las imágenes de la carpeta, sin distinguir si ya se han usado como imagen inline en el texto (`![...](imagen.jpg)`). Si una imagen inline y la galería conviven en la misma entrada, esa imagen saldrá repetida (una vez inline, otra en el grid) — salvo que la excluyas explícitamente (ver abajo).
 
@@ -270,7 +270,7 @@ resources:
 
 La imagen sigue disponible para usarla inline (`![...](imagen-inline.jpg)`) o como portada; simplemente no se incluye en el grid de `{{</* galeria */>}}`. Se puede repetir la entrada `- src: ...` en la lista `resources` por cada imagen que se quiera excluir.
 
-> **Importante:** el `src` debe ser la ruta del archivo *relativa a la carpeta del artículo*, subcarpetas incluidas. Si la imagen vive en una subcarpeta (por ejemplo `content/posts/mi-articulo/images/foto.jpg`), hay que escribir `src: "images/foto.jpg"` y no solo `src: "foto.jpg"` — si no coincide exactamente, Hugo no encuentra el recurso y `no_galeria` no tiene ningún efecto (sin avisar del error).
+> **Importante:** el `src` debe ser la ruta del archivo *relativa a la carpeta del artículo*, subcarpetas incluidas. Si la imagen vive en una subcarpeta (por ejemplo `content/blog/mi-articulo/images/foto.jpg`), hay que escribir `src: "images/foto.jpg"` y no solo `src: "foto.jpg"` — si no coincide exactamente, Hugo no encuentra el recurso y `no_galeria` no tiene ningún efecto (sin avisar del error).
 
 ---
 ## Proyectos en curso

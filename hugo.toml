@@ -34,7 +34,7 @@ enableGitInfo = true
 
 [[menu.main]]
   name = "Blog"
-  url = "/posts/"
+  url = "/blog/"
   weight = 4
 
 [[menu.main]]

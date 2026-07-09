@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ if eq .Type "posts" }}
+{{ if eq .Type "blog" }}
 {{ $img := partial "seo-image.html" . }}
 <script type="application/ld+json">
 {
@@ -40,7 +40,7 @@
       {{ end }}
     </ul>
     {{ end }}
-    {{ if and (eq .Type "posts") (not .Params.no_pager) }}{{ partial "share.html" . }}{{ end }}
+    {{ if and (eq .Type "blog") (not .Params.no_pager) }}{{ partial "share.html" . }}{{ end }}
     {{ $related := first 3 (.Site.RegularPages.Related .) }}
     {{ with $related }}
     <aside class="related-posts">

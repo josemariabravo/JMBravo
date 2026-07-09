@@ -4,7 +4,7 @@ sitio estático de José María Bravo (autor de fantasía/terror), migrado de wo
 
 ## estructura
 
-- `content/posts/` — artículos (sección técnica `posts`, título visible «Artículos» vía `content/posts/_index.md`). nombre de carpeta en minúsculas, sin tildes — define la url, no cambiar sin razón de peso.
+- `content/blog/` — artículos (sección técnica `blog`, título visible «Blog» vía `content/blog/_index.md`). nombre de carpeta en minúsculas, sin tildes — define la url, no cambiar sin razón de peso. renombrada desde `content/posts/` (2026-07-09): cada entrada conserva su alias antiguo `/posts/<slug>/` en el frontmatter (redirect vía Hugo), y `content/blog/_index.md` tiene `aliases: ["/posts/"]` para que la sección en sí también redirija. si se vuelve a mover la sección, seguir el mismo patrón.
 - `content/novedades/` — notas breves de actualización del sitio.
 - `content/libros/` — sección con una subpágina por libro (`sombras-y-ceniza`, `runas-de-sangre`, `ratas-en-el-callejon`, `homini-lupus`, `dead-wrong`), cada una con frontmatter `cover: "images/archivo.jpg"` apuntando a una imagen dentro de su propia carpeta (page bundle).
 - `content/sobre-mi/`, `content/contacto/` — páginas fijas.
@@ -51,8 +51,9 @@ publicación manual vía GitHub Desktop (commit + push) — se descartó el plug
 
 buttondown movió el RSS-to-email nativo a un plan de pago (abril 2026); la API sigue disponible en el plan gratuito, así que el boletín se genera vía github actions en vez de la automatización nativa.
 
-- entradas de `content/posts/` con `newsletter: true` en el frontmatter generan un borrador en buttondown; las que no lleven ese campo (la mayoría, incluidas todas las migradas de wordpress) no generan nada.
-- workflow: `.github/workflows/newsletter.yml`, dispara en cada push a `main` que toque `content/posts/**/index.md`. script: `.github/scripts/newsletter.mjs`.
+- entradas de `content/blog/` con `newsletter: true` en el frontmatter generan un borrador en buttondown; las que no lleven ese campo (la mayoría, incluidas todas las migradas de wordpress) no generan nada.
+- workflow: `.github/workflows/newsletter.yml`, dispara en cada push a `main` que toque `content/blog/**/index.md`. script: `.github/scripts/newsletter.mjs`.
+- el `canonical_url` que genera el script sigue usando `/posts/<slug>/` a propósito, aunque la sección ahora es `/blog/` — cambiarlo duplicaría el borrador de cada entrada ya enviada, porque la idempotencia se comprueba por url exacta. `/posts/<slug>/` sigue funcionando (redirige a `/blog/<slug>/` vía alias).
 - el script no envía nada — crea el email con `status: "draft"`. el envío final es manual, desde el panel de buttondown, a propósito (revisión antes de mandar).
 - idempotencia: usa el campo `canonical_url` del email (la url de la propia entrada) para no duplicar el borrador si editas el post y vuelves a hacer push. no hace falta marcar nada a mano ni el script escribe de vuelta en el repo.
 - cuerpo del correo: `description` del frontmatter si existe, si no un resumen automático del texto, más un enlace «leer el artículo completo» — no el artículo íntegro (evita el problema de rutas de imagen relativas dentro del email).

@@ -7,7 +7,7 @@ import matter from "gray-matter";
 
 const API_KEY = process.env.BUTTONDOWN_API_KEY;
 const BASE_URL = process.env.SITE_BASE_URL;
-const POSTS_DIR = "content/posts";
+const POSTS_DIR = "content/blog";
 
 if (!API_KEY) {
   console.error("Falta BUTTONDOWN_API_KEY");
@@ -29,6 +29,10 @@ function findNewsletterPosts() {
       title: data.title,
       description: data.description,
       content,
+      // se mantiene /posts/ (no /blog/) a propósito: la sección se movió a
+      // /blog/ pero /posts/<slug>/ sigue existiendo como alias-redirect, y
+      // cambiar esta URL duplicaría el borrador de cada entrada ya enviada
+      // (el filtro de idempotencia compara por canonical_url exacto).
       canonicalUrl: `${BASE_URL}/posts/${entry.name}/`,
     });
   }
