@@ -1,14 +1,17 @@
 ---
-aliases: ["/posts/entrevista-a-zsofia-dankova/"]
-title: "Entrevista a Zsofia Dankova"
-date: "2019-07-07"
-categories: 
-  - "articulos"
+title: Entrevista a Zsofia Dankova
+date: 2019-07-07
+categories:
+  - articulos
 resources:
-  - src: "images/zsofia_02.jpg"
+  - src: images/zsofia_02.jpg
     params:
       no_galeria: true
-
+tags:
+  - sombras-y-ceniza
+  - ilustración
+  - entrevistas
+revisado: true
 ---
 «No juzgues un libro por la cubierta», dicen.
 
@@ -22,7 +25,7 @@ Así que, cuando me puse a buscar ilustrador para la cubierta de *[Sombras y cen
 
 Pronto di con él. Pero no era él, sino ella.
 
-Déjenme que les presente a **Zsofia Dankova**:
+Déjenme que les presente a Zsofia Dankova:
 
 ![Zsofia Dankova](images/zsofia_02.jpg "izquierda 250")
 
@@ -32,15 +35,15 @@ En breve se irá a vivir a los Países Bajos, donde comenzará estudios de Bella
 
 ## Entrevista
 
-**¿Cuáles son tus influencias artísticas? ¿Y tus artistas favoritos?
+### ¿Cuáles son tus influencias artísticas? ¿Y tus artistas favoritos?
 
 Me fascina especialmente el Barroco, los viejos maestros académicos y el Romanticismo en general. Hay muchos grandes pintores a los que admiro.
 
-**¿Te gusta el cómic?**
+### ¿Te gusta el cómic?
 
 Siendo sincera, no leo cómics, no sabría decir el motivo. El único cómic que he comprado ha sido *Star Wars Omnibus: Rise of the Sith*, porque me gustó el dibujo y la historia, que incluía alguno de mis personajes favoritos de la saga.
 
-**¿Cuáles son tus películas y libros favoritos? ¿Y en cuanto a videojuegos?**
+### ¿Cuáles son tus películas y libros favoritos? ¿Y en cuanto a videojuegos?
 
 Hay tres libros de mi biblioteca que tengo en especial estima: *Drácula*, de Bram Stoker; *Cuentos completos*, de Edgar Allan Poe; y *La divina comedia*, de Dante.
 
@@ -50,31 +53,31 @@ No veo demasiado cine y tampoco sabría decirte por qué. Puede sonar extraño, 
 
 Y en cuanto a videojuegos, *Skyrim* y, especialmente, *The Witcher*,[^1] sin duda alguna.
 
-**¿Cuál es tu género de música favorito?**
+### ¿Cuál es tu género de música favorito?
 
 Metal, obviamente. No obstante, también me gusta la música clásica, folk y ambiental, según mi estado de ánimo.
 
-**Me interesé por tu arte gracias a las portadas de Powerwolf. Cuéntanos cómo acabaste siendo la ilustradora de las portadas de sus discos.**
+Me interesé por tu arte gracias a las portadas de Powerwolf. Cuéntanos cómo acabaste siendo la ilustradora de las portadas de sus discos.
 
 La primera vez que asistí a un concierto de Powerwolf fue en 2015 y me quedé fascinada por su música y actuación en directo. Su estilo y estética me produjeron un hondo impacto y un tiempo después, en enero de 2016, decidí pintar algo inspirada por ellos.
 
-[Powerwolf - Incense & Iron](https://www.youtube.com/watch?v=uttlRqHpvNs)
+{{< youtube uttlRqHpvNs >}}
 
 La banda vio la ilustración y decidieron ponerse en contacto conmigo. Me pidieron que trabajara para ellos; así comencé. Desde entonces he tenido la oportunidad de ilustrar sus discos, lo cual ha sido todo un privilegio.
 
-**¿Cuál es tu método habitual de trabajo? ¿Dibujas a mano o directamente en el ordenador?**
+### ¿Cuál es tu método habitual de trabajo? ¿Dibujas a mano o directamente en el ordenador?
 
 Dibujo a mano directamente en el ordenador; ahora uso una tableta Wacom Cintiq 13HD. Cuando no estoy en el estudio, a veces hago esbozos en papel que luego completo en el ordenador. No obstante, por lo general, al hacer todo el proceso digitalmente ahorro tiempo, ya que es mucho más fácil corregir errores mediante Photoshop.
 
-**¿Dónde buscas inspiración?**
+### ¿Dónde buscas inspiración?
 
 Además de la música y visitando museos, la naturaleza es la principal, si no la más importante, de mis fuentes de inspiración. Un tranquilo paseo por el bosque siempre me da energía y motivación para mi proceso creativo.
 
-**¿Cómo definirías tu estilo artístico?**
+### ¿Cómo definirías tu estilo artístico?
 
 La primera palabra que viene a la cabeza es «oscuro». Me siento muy influenciada por el arte barroco, como mencioné antes. Esa clase de contraste y atmósfera en las obras barrocas es lo que intento conseguir en mis trabajos.
 
-**¿Cuáles son tus planes para el futuro?**
+### ¿Cuáles son tus planes para el futuro?
 
 Ahora mismo, me gustaría expandir mis horizontes y aprender nuevas técnicas, como escultura, grabados, artesanía de piel, madera, cuero, etc., y luego incluir esos nuevos conocimientos en mi trabajo digital.
 
@@ -82,12 +85,12 @@ Ahora mismo, me gustaría expandir mis horizontes y aprender nuevas técnicas, c
 
 {{< galeria >}}
 
+***
+
 Para más información sobre el arte de Zsofia:
 
 - [Zsófi (@art.zsofia) en Instagram](https://www.instagram.com/art.zsofia/?hl=es)
-
 - [ArtStation - Zsofia Dankova](https://www.artstation.com/artzsofia)
-
 
 
 [^1]: N. del T.: *The Witcher* es una trilogía de videojuegos desarrollados por la compañía polaca CD Projekt, basados en las novelas de Andrzej Sapkowski, conocido autor polaco de fantasía.

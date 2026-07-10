@@ -1,9 +1,13 @@
 ---
-aliases: ["/posts/lo-minimo-necesario/"]
-title: "Lo mínimo necesario"
-date: "2018-10-10"
-categories: 
-  - "articulos"
+aliases:
+  - /posts/lo-minimo-necesario/
+title: Lo mínimo necesario
+date: 2018-10-10
+categories:
+  - articulos
+tags:
+  - escritura
+revisado: true
 ---
 No llevo tanto tiempo en ello ni soy tan bueno como para ir dando lecciones, pero, si les sirve, tengo una máxima cuando corrijo textos: cambiar lo mínimo necesario.
 

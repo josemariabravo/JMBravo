@@ -1,9 +1,9 @@
 ---
-aliases: ["/posts/sobre-sombras-y-ceniza-1-quid/"]
 title: "Sobre Sombras y ceniza, 1: Quid"
 date: 2019-07-19
 categories:
   - articulos
+coverImage: Assassinat_louis_orleans.jpg
 tags:
   - sombras-y-ceniza
   - libros
@@ -21,7 +21,7 @@ Así que veamos… ¿por dónde comenzar? Ah. Sí. Por el principio. No es mala 
 
 ## ¿Cómo concebí la novela?
 
-Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine [*Sangre y acero*](/tags/sangre-y-acero/), el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga aquí).
+Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine *[Sangre y acero](/category/sangre-y-acero/)*, el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga [aquí](/descargas/sangre-y-acero/)).
 
 De los relatos de Daramad Mur Asyb ya hablaré a su debido momento. Que espero no se demore mucho; mi intención es reunirlos en un libro de relatos (*Runas de sangre* es el título provisional) unidos por un hilo conductor (un *fix-up*, lo llaman los gringos) y autopublicarlos en edición digital y física.
 
@@ -31,7 +31,7 @@ Así que *Sangre y acero*, un fanzine editado en fotocopiadora, del que salían 
 
 No fue una buena idea, quizá. Resulta obvio que no estaba preparado para acometer un proyecto de tal magnitud. Muchas cosas a la vez tironeaban de mi atención, y tras un comienzo prometedor, en el que añadí varios personajes protagonistas, cambié el principal y fui madurando la trama, el proyecto quedó estancado muchos años.
 
-Pero eso ya lo conté (lloré) [aquí](/blog/esto-es-solo-el-principio/). Y [aquí](/blog/pecados-capitales/).
+Pero eso ya lo conté (lloré) [aquí](/posts/esto-es-solo-el-principio/). Y [aquí](/posts/pecados-capitales/).
 
 ## Sobre la estructura
 
@@ -111,8 +111,17 @@ El principal, el desarrollo de las revueltas campesinas posteriores a la peste n
 
 … y esa fue la una combinación de dos ideas: las crisis europeas del siglo XIV y el conflicto entre el Imperio turco y Occidente, junto a la importancia del bronce como material estratégico en la Edad Moderna.
 
+<figure>
 
-{{< figure src="images/assassinat_louis_orleans.jpg" alt="Asesinato de Luis I, duque de Orleans" caption="Asesinato de Luis I, duque de Orleans, según una miniatura de autor desconocido (c. 1470)" >}}
+![](images/Assassinat_louis_orleans.jpg)
+
+<figcaption>
+
+Asesinato de Luis I, duque de Orleans, según una miniatura de autor desconocido (c. 1470)
+
+</figcaption>
+
+</figure>
 
 El lector avisado se habrá dado cuenta de que he jugado con las fechas. En efecto, me he permitido cierto juego para que los acontecimientos casen; si bien los acontecimientos que me han servido de base para la trama transcurrieron en el siglo XIV, el trasfondo de la novela remeda el final del s. XV, e incluso algunos detalles (como el mentado de los cañones de bronce o la aparición de las primeras pistolas de rueda) remiten más a la primera mitad del s. XVI.
 
@@ -130,7 +139,7 @@ En cuanto al estilo, las novelas de Baroja y la obra de Sánchez Ferlosio. Al pr
 
 También sería absurdo negar la influencia de las novelas del capitán Alatriste, de Arturo Pérez-Reverte, autor que, sin embargo, sus novelas de interés general dejaron de interesarme hace mucho. Pero ese gusto por el léxico y mi primera aproximación a la germanía del Siglo de Oro, a la que después seguirían lecturas de Quevedo, Mateo Alemán, Francisco Delicado y el excelente *Tesoro de villanos*, de María Inés Chamorro, se las debo a las novelas del capitán Alatriste.
 
-***
+* * *
 
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%; border: 0" src="https://leer.amazon.es/kp/card?asin=B07RT6THJ9&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_j455CbBB91Q3V"></iframe>
 

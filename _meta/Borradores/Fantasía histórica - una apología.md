@@ -17,4 +17,18 @@ Voy a escribir un artículo sobre la fantasía histórica. Me gustaría que la d
 2. Explicar analogía, convergencia evolutiva, trasunto, etc.
 3. Postura ante los géneros, subgéneros, etiquetas, etc. Postura ante el género fantástico. Defensa de la tradición de mundos inventados en la ficción española, desde Macondo a Yarfoz o Bennet.
 4. Ahora sí, qué es la fantasía histórica en sentido amplio, la confusión posible o percepción de que en español se restringe a la ucronía (mención a obras en español), cuando no es así. Principales exponentes del subgénero.
-5. Por qué. Libertad absoluta. Lienzo de amarre. Permite reflexionar, revisar, retorcer y tener un suelo. Y centrarse en la historia. Lo que me importa son los personajes. El lienzo es un escenario. 
+5. Por qué. Libertad absoluta. Lienzo de amarre. Permite reflexionar, revisar, retorcer y tener un suelo. Y centrarse en la historia. Lo que me importa son los personajes. El lienzo es un escenario.
+
+## Adendas
+
+### Sobre los géneros literarios
+
+De un post:
+
+```
+No sabría decirles. Decididamente, al fantástico. Pero luego podemos aplicarles etiquetas. Las etiquetas, en sí, no me parecen mal, siempre y cuando no se conviertan en cajones o nichos en el sentido funerario.
+
+El lector quizá conozca la web BestFantasyBooks.com. Si no la conoce, se la recomiendo. En ella, hay un largo listado de subgéneros fantásticos . Bien entendidos, los subgéneros son etiquetas, no taxones; lo normal es que se crucen. Por ejemplo, así, a ojo, yo podría ponerle a Sombras y ceniza estas etiquetas (en inglés, renuncio a traducirlas): Gritty, Grimdark, Assassin, Urban, Military, Low Fantasy y Noir Fantasy.
+
+Elijan ustedes las suyas, si así lo desean.
+```

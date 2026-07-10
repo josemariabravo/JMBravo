@@ -20,21 +20,21 @@ enableGitInfo = true
 #[[menu.main]]
 #  name = "Proyectos"
 #  url = "/proyectos/"
-#  weight = 3
+#  weight = 1
 
 [[menu.main]]
   name = "Libros"
   url = "/libros/"
-  weight = 1
-
-[[menu.main]]
-  name = "Blog"
-  url = "/posts/"
   weight = 2
 
 [[menu.main]]
   name = "Obra"
   url = "/obra/"
+  weight = 3
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
   weight = 4
 
 [[menu.main]]

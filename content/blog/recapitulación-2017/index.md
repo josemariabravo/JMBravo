@@ -1,10 +1,15 @@
 ---
-aliases: ["/posts/recapitulación-2017/"]
+aliases:
+  - /posts/recapitulación-2017/
 title: Recapitulación de 2017
 date: 2018-02-12
 categories:
   - novedades
-coverImage: 4295008968_5493b05770_o.jpg
+tags:
+  - recapitulaciones
+  - personal
+  - escritura
+revisado: true
 ---
 Nunca, me parece, había escrito algo como lo que sigue, pero este año me apetecía probar, qué demonios. Así que vamos a ello: 2017 ha sido un año bastante diferente a los últimos, con muchos cambios. El principal ha sido el traslado de mi residencia de Málaga a Madrid, aparejado con otro, muy importante, de índole profesional: ahora mi oficio principal vuelve a ser la de técnico en prevención de riesgos laborales, y la de corrector/maquetador editorial ha pasado a ser el secundario. Reconozco que el cambio me ha traído cierta indiscutible paz de espíritu, algo de desencanto e, inevitablemente, de frustración. Pasado el tráfago y el quebranto de la mudanza (a ojo, van unas 6 o 7 en los últimos cinco años), lo cierto es que me he adaptado pronto y bien a vivir en Madrid. Quizá lo único que echo de menos es el mar, que no la playa; y el único aspecto negativo son los desplazamientos al trabajo y el puñetero tráfico (el horror, ah, el horror). Por suerte, he encontrado una solución aceptable en el uso mixto de transporte personal y el público. A pesar de algunas malas pasadas (rachas de retrasos, sobre todo por las fiestas navideñas), el uso del tren de cercanías ha sido todo un placentero descubrimiento. Y me ha permitido solucionar dos problemas: encontrar tiempo para leer más (casi una hora al día, de media) y aumentar la actividad física (media hora diaria no es mucho, de acuerdo, pero sí es mucho más que nada).
 
@@ -14,11 +19,17 @@ Pero vayamos al grano. Ciñéndome a lo literario, esto vino a ser mi 2017:
 
 Aunque este pasado año no ha sido muy abundante en lecturas, de entre los apenas quince libros leídos destacaría, con especial hincapié, dos títulos:
 
-***Un puente sobre el Drina*** En una palabra: leedlo. En pocas palabras: leedlo, cuanto antes. La historia de *Un puente sobre el Drina*, que le valió el Nobel al serbio Ivo Andrić, gira alrededor del puente Mehmed Paša Sokolović, en la ciudad serbia de Visegrad, el cual cruza el río Drina y enlaza las dos culturas, musulmana y cristiana, entre las que se encuentra desgarrada la antigua Yugoslavia. Ivo Andrić no se vale de artificios narrativos y emplea un narrador omnisciente que se inmiscuye lo justo en el relato para trenzar la historia del puente desde su construcción, sobre mediados del s. XVI, hasta su parcial destrucción durante la primera Guerra Mundial, a través de las vidas de los habitantes de Visegrad en un fluir continuo, casi hipnótico, de acontecimientos.
+### *Un puente sobre el Drina* 
 
-***El testimonio de Yarfoz*** No sabría, en cambio, si recomendar la lectura de **El testimonio de Yarfoz**. Soy especialmente adicto (ahora dirían, ay, *muy fan*) de la obra de Rafael Sánchez Ferlosio (su *Alfanhuí* me parece una cumbre literaria del fantástico en español, y eso que ni se la considera del género). En *El testimonio de Yarfoz*, que transcurre en un mundo fantástico, no ocurre prácticamente nada reseñable, pero consigue una inmersión en la historia excepcional, esa suerte de «trance de lectura», por así llamarlo, en la que el lector se sumerge tanto en la historia que suspende su incredulidad y hasta su noción de la realidad.
+En una palabra: leedlo. En pocas palabras: leedlo, cuanto antes. La historia de *Un puente sobre el Drina*, que le valió el Nobel al serbio Ivo Andrić, gira alrededor del puente Mehmed Paša Sokolović, en la ciudad serbia de Visegrad, el cual cruza el río Drina y enlaza las dos culturas, musulmana y cristiana, entre las que se encuentra desgarrada la antigua Yugoslavia. Ivo Andrić no se vale de artificios narrativos y emplea un narrador omnisciente que se inmiscuye lo justo en el relato para trenzar la historia del puente desde su construcción, sobre mediados del s. XVI, hasta su parcial destrucción durante la primera Guerra Mundial, a través de las vidas de los habitantes de Visegrad en un fluir continuo, casi hipnótico, de acontecimientos.
 
-Cabe mencionar, además, *Filos mortales*, de Joe Abercrombie. Entretenida lectura, muy característica de Abercrombie, pero algo heterogénea y demasiado deudora (casi parásita) de las obras ambientadas en el mundo de *La primera ley*. No la recomendaría salvo que te hayan encantado los títulos anteriores de Abercrombie.
+### *El testimonio de Yarfoz*
+
+No sabría, en cambio, si recomendar la lectura de *El testimonio de Yarfoz*. Soy especialmente adicto (ahora dirían, ay, *muy fan*) de la obra de Rafael Sánchez Ferlosio (su *Alfanhuí* me parece una cumbre literaria del fantástico en español, y eso que ni se la considera del género). En *El testimonio de Yarfoz*, que transcurre en un mundo fantástico, no ocurre prácticamente nada reseñable, pero consigue una inmersión en la historia excepcional, esa suerte de «trance de lectura», por así llamarlo, en la que el lector se sumerge tanto en la historia que suspende su incredulidad y hasta su noción de la realidad.
+
+### Menciones honorables
+
+Cabría mencionar, además, *Filos mortales*, de Joe Abercrombie. Entretenida lectura, muy característica de Abercrombie, pero algo heterogénea y demasiado deudora (casi parásita) de las obras ambientadas en el mundo de *La primera ley*. No la recomendaría salvo que te hayan encantado los títulos anteriores de Abercrombie.
 
 ## De escribir y otros quebrantos:
 

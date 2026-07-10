@@ -16,7 +16,7 @@ Ah, reescribir. Un fastidio en toda regla, sin duda. Pero reescribir es como los
 
 En este artículo quiero tratar las estrategias habituales que sigo cuando he de reescribir una escena (y donde pone escena, léase pasaje, capítulo, o incluso si me apuran, obra; les remito [a mi anterior artículo](/planificar-una-escena/) si tienen dudas respecto a qué es una escena); pero antes, déjenme que aclare unos pocos conceptos:
 
-### Diferencias entre corregir, revisar y reescribir un texto:
+### Diferencias entre corregir, revisar y reescribir un texto
 
 Estos tres verbos no tienen un orden casual: los he ordenado de menor a mayor impacto. Veámoslos por separado:
 
@@ -152,7 +152,7 @@ Normalmente, dentro de una misma escena, este modo narrativo no se emplea demasi
 
 Ahora bien, emplear demasiadas de estas transiciones puede resultar confuso para el lector, sobre todo si el resto de las acciones se narran de forma explícita. Cuando hay demasiados de estos párrafos (decidir qué es demasiado es algo que dejo al criterio del autor), quizá sea mejor considerar un cambio de escena.
 
-### Toma una decisión
+## Segundo: toma una decisión
 
 Bien: ya has analizado del derecho y del revés tu escena, tanto en el fondo como en la forma, e imagino que tendrás una idea mucho más clara de lo que falla o flojea en la misma.[^7]
 
