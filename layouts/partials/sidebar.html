@@ -12,7 +12,7 @@
     <h2>Últimas entradas</h2>
     <ul class="sidebar-list">
       {{ range partial "latest-posts.html" . }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      <li><a href="{{ .Permalink }}">{{ partial "safe-title.html" . }}</a></li>
       {{ end }}
     </ul>
   </div>

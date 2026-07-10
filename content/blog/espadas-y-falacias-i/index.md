@@ -2,16 +2,13 @@
 aliases:
   - /espadas-y-falacias-i/
   - /posts/espadas-y-falacias-i/
-title: ""
-date: 2026-07-09
+title: "De espadas y falacias (i)"
+date: 2011-06-12
 categories:
   - articulos
 tags:
   - esgrima
-coverImage: excalibur1-1.jpg
-proyecto: ""
-etiqueta: ""
-extracto: ""
+  - 
 ---
 ![excalibur](excalibur1.jpg "izquierda 250")
 

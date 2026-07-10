@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
   {{ $homeTitle := .Site.Params.home_title | default .Site.Title }}
-  <title>{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  {{ $pageTitle := partial "safe-title.html" . }}
+  <title>{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ $pageTitle }} — {{ .Site.Title }}{{ end }}</title>
   {{ $pageDescription := .Site.Params.description }}
   {{ if not .IsHome }}
     {{ if .Description }}
@@ -27,7 +28,7 @@
   {{ with .Site.Params.google_site_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
   <!-- Open Graph -->
   <meta property="og:site_name" content="{{ .Site.Title }}">
-  <meta property="og:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ $pageTitle }} — {{ .Site.Title }}{{ end }}">
   <meta property="og:description" content="{{ $pageDescription }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
@@ -40,7 +41,7 @@
   {{ else }}
   <meta name="twitter:card" content="summary">
   {{ end }}
-  <meta name="twitter:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ $pageTitle }}{{ end }}">
   <meta name="twitter:description" content="{{ $pageDescription }}">
   <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">

@@ -1,4 +1,4 @@
 <li>
-  <a href="{{ .Permalink }}">{{ .Title }}</a>
+  <a href="{{ .Permalink }}">{{ partial "safe-title.html" . }}</a>
   {{ if not .Date.IsZero }}<span class="post-list-date">{{ partial "fecha.html" .Date }}</span>{{ end }}
 </li>
