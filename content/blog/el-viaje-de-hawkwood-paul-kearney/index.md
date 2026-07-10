@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/el-viaje-de-hawkwood-paul-kearney/"]
+aliases: ["/posts/el-viaje-de-hawkwood-paul-kearney/", "/el-viaje-de-hawkwood-paul-kearney/"]
 title: "El viaje de Hawkwood, Paul Kearney"
 date: "2011-04-05"
 categories: 

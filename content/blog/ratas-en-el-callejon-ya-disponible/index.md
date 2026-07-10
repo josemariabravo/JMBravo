@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/ratas-en-el-callejon-ya-disponible/"]
+aliases: ["/posts/ratas-en-el-callejon-ya-disponible/", "/ratas-en-el-callejon-ya-disponible/"]
 title: Ratas en el callejón ya disponible
 date: 2023-05-18
 categories:

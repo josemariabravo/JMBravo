@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/vicios-del-estilo-ii-el-gerundio/"]
+aliases: ["/posts/vicios-del-estilo-ii-el-gerundio/", "/vicios-del-estilo-ii-el-gerundio/"]
 title: "Vicios del estilo, ii: El gerundio"
 date: "2010-10-14"
 categories: 

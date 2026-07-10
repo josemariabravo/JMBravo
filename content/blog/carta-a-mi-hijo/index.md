@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/carta-a-mi-hijo/"]
+aliases: ["/posts/carta-a-mi-hijo/", "/carta-a-mi-hijo/"]
 title: "Carta a mi hijo"
 date: "2012-08-27"
 categories: 

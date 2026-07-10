@@ -2,6 +2,7 @@
 aliases:
   - /libros-electronicos/
   - /posts/libros-electronicos/
+  - /libros-electrnicos-el-futuro/
 title: Libros electrónicos: ¿el futuro?
 date: 2010-09-07
 categories:

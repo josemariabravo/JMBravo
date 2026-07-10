@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/herramientas-del-oficio-v-software-para-escritores-alternativas-a-scrivener/"]
+aliases: ["/posts/herramientas-del-oficio-v-software-para-escritores-alternativas-a-scrivener/", "/herramientas-del-oficio-v-software-para-escritores-alternativas-a-scrivener/"]
 title: "Herramientas del oficio, v: Software para escritores: Alternativas a Scrivener"
 date: "2011-03-19"
 categories: 

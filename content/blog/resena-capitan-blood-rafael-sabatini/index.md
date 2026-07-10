@@ -1,6 +1,7 @@
 ---
 aliases:
   - /posts/resena-capitan-blood-rafael-sabatini/
+  - /resena-capitan-blood-rafael-sabatini/
 title: Capitán Blood, de Rafael Sabatini
 date: 2010-12-27
 categories:

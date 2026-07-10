@@ -1,5 +1,5 @@
 ---
-aliases: ["/reescribir-una-escena/", "/posts/reescribir-una-escena/"]
+aliases: ["/reescribir-una-escena/", "/posts/reescribir-una-escena/", "/como-reescribir-una-escena/"]
 title: "Cómo reescribir una escena"
 date: "2017-08-05"
 categories: 

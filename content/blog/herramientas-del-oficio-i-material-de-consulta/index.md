@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/herramientas-del-oficio-i-material-de-consulta/"]
+aliases: ["/posts/herramientas-del-oficio-i-material-de-consulta/", "/herramientas-del-oficio-i-material-de-consulta/"]
 title: "Herramientas del oficio, i: Material de consulta"
 date: "2010-12-15"
 categories: 

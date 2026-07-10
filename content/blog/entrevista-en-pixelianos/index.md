@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/entrevista-en-pixelianos/"]
+aliases: ["/posts/entrevista-en-pixelianos/", "/entrevista-en-pixelianos/"]
 title: Entrevista en Pixelianos
 date: 2019-12-30
 categories:

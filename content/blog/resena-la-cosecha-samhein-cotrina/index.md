@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/resena-la-cosecha-samhein-cotrina/"]
+aliases: ["/posts/resena-la-cosecha-samhein-cotrina/", "/resena-la-cosecha-samhein-cotrina/"]
 title: "La cosecha de Samhein, de José Antonio Cotrina"
 date: "2010-12-17"
 categories: 

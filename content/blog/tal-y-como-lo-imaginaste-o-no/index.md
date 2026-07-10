@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/tal-y-como-lo-imaginaste-o-no/"]
+aliases: ["/posts/tal-y-como-lo-imaginaste-o-no/", "/tal-y-como-lo-imaginaste-o-no/"]
 title: "Tal y como lo imaginaste (o no)"
 date: "2011-04-23"
 categories: 

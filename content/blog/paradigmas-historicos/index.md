@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/paradigmas-historicos/"]
+aliases: ["/posts/paradigmas-historicos/", "/paradigmas-historicos-y-otros-desbarres/"]
 title: Paradigmas históricos y otros desbarres
 date: 2010-10-05
 categories:

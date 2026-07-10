@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/lugares-comunes-y-otras-hierbas-i-plot-armor/"]
+aliases: ["/posts/lugares-comunes-y-otras-hierbas-i-plot-armor/", "/lugares-comunes-y-otras-hierbas-i-plot-armor/"]
 title: "Lugares comunes y otras hierbas, i: Plot armor"
 date: "2011-02-23"
 categories: 

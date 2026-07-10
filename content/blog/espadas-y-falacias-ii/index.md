@@ -1,5 +1,5 @@
 ---
-aliases: ["/espadas-y-falacias-ii/", "/posts/espadas-y-falacias-ii/"]
+aliases: ["/espadas-y-falacias-ii/", "/posts/espadas-y-falacias-ii/", "/de-espadas-y-falacias-ii-mitos/"]
 title: "De espadas y falacias (ii)"
 date: "2011-06-16"
 categories: 

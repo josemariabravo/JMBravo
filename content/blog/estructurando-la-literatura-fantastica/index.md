@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/estructurando-la-literatura-fantastica/"]
+aliases: ["/posts/estructurando-la-literatura-fantastica/", "/estructurando-la-literatura-fantastica/"]
 title: "Estructurando la literatura fantástica"
 date: "2010-11-05"
 categories: 

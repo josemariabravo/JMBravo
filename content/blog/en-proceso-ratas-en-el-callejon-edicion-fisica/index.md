@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/en-proceso-ratas-en-el-callejon-edicion-fisica/"]
+aliases: ["/posts/en-proceso-ratas-en-el-callejon-edicion-fisica/", "/en-proceso-ratas-en-el-callejon-edicion-fisica/"]
 title: "Próximamente: Ratas en el callejón, edición física"
 date: 2023-06-01
 categories:

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/herramientas-del-oficio-vi-scapple/"]
+aliases: ["/posts/herramientas-del-oficio-vi-scapple/", "/herramientas-del-oficio-vi-scapple/"]
 title: "Herramientas del oficio, vi: Scapple"
 date: "2014-02-17"
 categories: 

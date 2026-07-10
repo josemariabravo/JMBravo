@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/resea-la-vida-en-la-casa-de-un-mercader-medieval/"]
+aliases: ["/posts/resea-la-vida-en-la-casa-de-un-mercader-medieval/", "/resea-la-vida-en-la-casa-de-un-mercader-medieval/"]
 title: "La vida en la casa de un mercader medieval"
 date: "2010-10-15"
 categories: 

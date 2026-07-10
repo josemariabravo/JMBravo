@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/capriccio-santiago-eximeno/"]
+aliases: ["/posts/capriccio-santiago-eximeno/", "/capriccio-santiago-eximeno/"]
 title: "Capriccio, Santiago Eximeno"
 date: "2011-04-03"
 categories: 

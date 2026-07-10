@@ -2,6 +2,7 @@
 aliases:
   - /prejuicios-fantasia/
   - /posts/prejuicios-fantasia/
+  - /prejuicios-varios-sobre-la-fantasia-otros-cainismos/
 title: Prejuicios varios sobre la fantasía y otros cainismos
 date: 2010-09-30
 categories:

@@ -1,5 +1,5 @@
 ---
-aliases: ["/de-espadas-y-tronos-game-of-thrones-ii/", "/posts/de-espadas-y-tronos-game-of-thrones-ii/"]
+aliases: ["/de-espadas-y-tronos-game-of-thrones-ii/", "/posts/de-espadas-y-tronos-game-of-thrones-ii/", "/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-ii/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (ii)"
 date: "2011-06-28"
 categories: 

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/resena-los-tejedores-de-cabellos-andreas-eschbach-bibliopolis/"]
+aliases: ["/posts/resena-los-tejedores-de-cabellos-andreas-eschbach-bibliopolis/", "/resena-los-tejedores-de-cabellos-andreas-eschbach-bibliopolis/"]
 title: "Los tejedores de cabellos, Andreas Eschbach"
 date: 2010-09-21
 categories:

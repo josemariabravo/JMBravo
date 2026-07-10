@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/recursos-retoricos-3/"]
+aliases: ["/posts/recursos-retoricos-3/", "/recursos-retoricos-3/"]
 title: "Recursos retóricos, 3"
 date: "2016-09-19"
 categories: 

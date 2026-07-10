@@ -1,5 +1,5 @@
 ---
-aliases: ["/generos-y-anteojeras/", "/posts/generos-y-anteojeras/"]
+aliases: ["/generos-y-anteojeras/", "/posts/generos-y-anteojeras/", "/de-generos-y-anteojeras/"]
 title: "De géneros y anteojeras"
 date: "2010-10-30"
 categories: 

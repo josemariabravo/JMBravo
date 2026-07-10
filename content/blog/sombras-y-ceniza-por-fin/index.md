@@ -1,4 +1,5 @@
 ---
+aliases: ["/posts/sombras-y-ceniza-por-fin/", "/sombras-y-ceniza-por-fin/"]
 title: Sombras y ceniza (por fin, o casi)
 date: 2019-02-26
 categories:

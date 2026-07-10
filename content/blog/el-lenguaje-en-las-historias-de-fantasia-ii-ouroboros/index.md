@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/el-lenguaje-en-las-historias-de-fantasia-ii-ouroboros/"]
+aliases: ["/posts/el-lenguaje-en-las-historias-de-fantasia-ii-ouroboros/", "/el-lenguaje-en-las-historias-de-fantasia-ii-ouroboros/"]
 title: "El lenguaje en las historias de fantasía (ii)"
 date: "2011-02-11"
 categories: 

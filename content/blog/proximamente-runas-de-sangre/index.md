@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/proximamente-runas-de-sangre/"]
+aliases: ["/posts/proximamente-runas-de-sangre/", "/proximamente-runas-de-sangre/"]
 title: "Próximamente: Runas de sangre"
 date: 2020-03-22
 categories:

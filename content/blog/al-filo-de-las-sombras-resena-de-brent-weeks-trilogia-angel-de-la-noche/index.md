@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/al-filo-de-las-sombras-resena-de-brent-weeks-trilogia-angel-de-la-noche/"]
+aliases: ["/posts/al-filo-de-las-sombras-resena-de-brent-weeks-trilogia-angel-de-la-noche/", "/al-filo-de-las-sombras-resena-de-brent-weeks-trilogia-angel-de-la-noche/"]
 title: "Al filo de las sombras, reseña, de Brent Weeks"
 date: "2011-01-25"
 categories: 

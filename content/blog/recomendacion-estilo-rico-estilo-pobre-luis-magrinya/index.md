@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/recomendacion-estilo-rico-estilo-pobre-luis-magrinya/"]
+aliases: ["/posts/recomendacion-estilo-rico-estilo-pobre-luis-magrinya/", "/recomendacion-estilo-rico-estilo-pobre-luis-magrinya/"]
 title: Estilo rico, estilo pobre, Luis Magrinyà
 date: 2016-02-26
 categories:

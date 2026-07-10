@@ -1,4 +1,5 @@
 ---
+aliases: ["/posts/sobre-sombras-y-ceniza-1-quid/", "/sobre-sombras-y-ceniza-1-quid/"]
 title: "Sobre Sombras y ceniza, 1: Quid"
 date: 2019-07-19
 categories:

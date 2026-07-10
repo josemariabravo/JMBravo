@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/homini-lupus-ya-disponible/"]
+aliases: ["/posts/homini-lupus-ya-disponible/", "/homini-lupus-ya-disponible/"]
 title: Homini lupus ya disponible
 date: 2024-10-12
 categories:

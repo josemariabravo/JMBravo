@@ -1,5 +1,5 @@
 ---
-aliases: ["/pecados-capitales/", "/posts/pecados-capitales/"]
+aliases: ["/pecados-capitales/", "/posts/pecados-capitales/", "/mis-pecados-capitales-en-esto-de-escribir/"]
 title: "Mis pecados capitales (en esto de escribir)"
 date: "2011-09-20"
 categories: 

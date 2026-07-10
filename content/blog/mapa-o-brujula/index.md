@@ -2,6 +2,7 @@
 aliases:
   - /mapa-o-brujula/
   - /posts/mapa-o-brujula/
+  - /mapa-o-brujula-planificacion-literaria-i/
 title: Mapa o brújula (Planificación literaria, i)
 date: 2010-09-28
 categories:

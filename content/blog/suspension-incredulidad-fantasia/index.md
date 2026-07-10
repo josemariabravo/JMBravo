@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/suspension-incredulidad-fantasia/"]
+aliases: ["/posts/suspension-incredulidad-fantasia/", "/suspension-incredulidad-fantasia/"]
 title: "Suspensión de la incredulidad"
 date: "2010-11-10"
 categories: 

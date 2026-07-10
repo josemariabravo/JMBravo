@@ -1,6 +1,7 @@
 ---
 aliases:
   - /posts/recapitulación-2017/
+  - /recapitulemos/
 title: Recapitulación de 2017
 date: 2018-02-12
 categories:

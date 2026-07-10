@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/sangre-y-acero-2/"]
+aliases: ["/posts/sangre-y-acero-2/", "/sangre-y-acero-n-2/"]
 draft: false
 title: Sangre y acero n.º 2
 date: 2010-10-06

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/demasiados-autores-espanoles/"]
+aliases: ["/posts/demasiados-autores-espanoles/", "/demasiados-autores-espanoles-yo-tambin/"]
 title: "Demasiados autores españoles (sí, yo también)"
 date: "2010-12-06"
 categories: 

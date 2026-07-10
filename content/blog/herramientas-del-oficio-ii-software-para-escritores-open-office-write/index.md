@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/herramientas-del-oficio-ii-software-para-escritores-open-office-write/"]
+aliases: ["/posts/herramientas-del-oficio-ii-software-para-escritores-open-office-write/", "/herramientas-del-oficio-ii-software-para-escritores-open-office-write/"]
 title: "Herramientas del oficio, ii: Software para escritores: OpenOffice Writer"
 date: "2011-01-29"
 categories: 

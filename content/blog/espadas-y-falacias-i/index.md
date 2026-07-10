@@ -2,6 +2,7 @@
 aliases:
   - /espadas-y-falacias-i/
   - /posts/espadas-y-falacias-i/
+  - /de-espadas-y-falacias-mitos/
 title: "De espadas y falacias (i)"
 date: 2011-06-12
 categories:

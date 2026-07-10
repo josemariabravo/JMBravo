@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/de-locos-i-the-ancient-art-of-strangulation-resena/"]
+aliases: ["/posts/de-locos-i-the-ancient-art-of-strangulation-resena/", "/de-locos-i-the-ancient-art-of-strangulation-resena/"]
 title: "The ancient art of strangulation"
 date: "2011-01-18"
 categories: 

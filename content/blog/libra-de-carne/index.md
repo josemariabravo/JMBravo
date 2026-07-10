@@ -2,6 +2,7 @@
 aliases:
   - /libra-de-carne/
   - /posts/libra-de-carne/
+  - /la-libra-de-carne/
 title: La libra de carne
 date: 2014-10-08
 categories:

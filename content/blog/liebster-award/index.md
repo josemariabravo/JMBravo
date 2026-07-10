@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/liebster-award/"]
+aliases: ["/posts/liebster-award/", "/liebster-award/"]
 title: Liebster Award (!)
 date: 2014-02-26
 categories:

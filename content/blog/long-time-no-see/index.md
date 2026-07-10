@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/long-time-no-see/"]
+aliases: ["/posts/long-time-no-see/", "/long-time-no-see/"]
 title: Long time no see
 date: 2022-08-23
 categories:

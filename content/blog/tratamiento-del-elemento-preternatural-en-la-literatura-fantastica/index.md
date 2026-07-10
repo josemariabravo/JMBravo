@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/tratamiento-del-elemento-preternatural-en-la-literatura-fantastica/"]
+aliases: ["/posts/tratamiento-del-elemento-preternatural-en-la-literatura-fantastica/", "/tratamiento-del-elemento-preternatural-en-la-literatura-fantastica/"]
 title: "Tratamiento del elemento preternatural en la literatura fantástica"
 date: "2010-11-19"
 categories: 

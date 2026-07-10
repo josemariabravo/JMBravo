@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/los-reyes-hereticos-paul-kearney/"]
+aliases: ["/posts/los-reyes-hereticos-paul-kearney/", "/los-reyes-hereticos-paul-kearney/"]
 title: "Los reyes heréticos, Paul Kearney"
 date: "2011-05-19"
 categories: 

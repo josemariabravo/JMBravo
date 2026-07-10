@@ -2,6 +2,7 @@
 aliases:
   - /edicion-digital-ii/
   - /posts/edicion-digital-ii/
+  - /mas-sobre-la-edicion-digital/
 title: Más sobre la edición digital
 date: 2010-09-23
 categories:

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/narradores_ouroboros_2_de_2/"]
+aliases: ["/posts/narradores_ouroboros_2_de_2/", "/narradores_ouroboros_2_de_2/"]
 title: "Narradores (ii de ii)"
 date: "2010-10-22"
 categories: 

@@ -1,5 +1,5 @@
 ---
-aliases: ["/autopublicacion/", "/posts/autopublicacion/"]
+aliases: ["/autopublicacion/", "/posts/autopublicacion/", "/sobre-la-autopublicacion-y-otras-hogueras-de-las-vanidades/"]
 title: "Sobre la autopublicación y otras hogueras de las vanidades"
 date: "2011-03-10"
 categories: 

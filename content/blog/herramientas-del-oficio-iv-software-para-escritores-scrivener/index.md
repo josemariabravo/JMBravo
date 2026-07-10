@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/herramientas-del-oficio-iv-software-para-escritores-scrivener/"]
+aliases: ["/posts/herramientas-del-oficio-iv-software-para-escritores-scrivener/", "/herramientas-del-oficio-iv-software-para-escritores-scrivener/"]
 title: "Herramientas del oficio, iv: Software para escritores: Scrivener"
 date: "2011-03-04"
 categories: 

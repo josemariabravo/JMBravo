@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/resena-la-guerra-del-turco-fernando-martinez-lainez/"]
+aliases: ["/posts/resena-la-guerra-del-turco-fernando-martinez-lainez/", "/resena-la-guerra-del-turco-fernando-martinez-lainez/"]
 title: "La guerra del turco, Fernando Martínez Laínez"
 date: "2010-11-29"
 categories: 

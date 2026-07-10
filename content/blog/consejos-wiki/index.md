@@ -1,5 +1,5 @@
 ---
-aliases: ["/consejos-wiki/", "/posts/consejos-wiki/"]
+aliases: ["/consejos-wiki/", "/posts/consejos-wiki/", "/consejos-para-utilizar-tu-propia-wiki/"]
 title: "Consejos para utilizar tu propia wiki"
 date: "2013-07-22"
 categories: 

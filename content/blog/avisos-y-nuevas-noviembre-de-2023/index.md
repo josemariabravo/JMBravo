@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/avisos-y-nuevas-noviembre-de-2023/"]
+aliases: ["/posts/avisos-y-nuevas-noviembre-de-2023/", "/avisos-y-nuevas-noviembre-de-2023/"]
 title: Avisos y nuevas (noviembre de 2023)
 date: 2023-11-10
 categories:

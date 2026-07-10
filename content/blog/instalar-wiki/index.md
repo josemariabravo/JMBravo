@@ -1,5 +1,5 @@
 ---
-aliases: ["/instalar-wiki/", "/posts/instalar-wiki/"]
+aliases: ["/instalar-wiki/", "/posts/instalar-wiki/", "/como-instalar-una-wiki-para-uso-personal/"]
 title: "Cómo instalar una wiki para uso personal"
 date: "2011-10-27"
 categories: 

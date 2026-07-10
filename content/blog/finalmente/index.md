@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/finalmente/"]
+aliases: ["/posts/finalmente/", "/finalmente/"]
 title: Finalmente…
 date: 2019-05-17
 categories:

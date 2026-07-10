@@ -1,5 +1,5 @@
 ---
-aliases: ["/cartografia-fantasia/", "/posts/cartografia-fantasia/"]
+aliases: ["/cartografia-fantasia/", "/posts/cartografia-fantasia/", "/dibujar-mapas-fantasia-cartografia/"]
 title: "De mapas y otras hierbas (Cartografía, i)"
 date: "2010-10-12"
 categories: 

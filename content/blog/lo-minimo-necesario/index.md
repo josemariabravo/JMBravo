@@ -1,6 +1,7 @@
 ---
 aliases:
   - /posts/lo-minimo-necesario/
+  - /lo-minimo-necesario/
 title: Lo mínimo necesario
 date: 2018-10-10
 categories:

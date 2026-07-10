@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/dead-wrong/"]
+aliases: ["/posts/dead-wrong/", "/dead-wrong/"]
 title: "Dead wrong ya disponible"
 date: 2024-11-23
 categories:

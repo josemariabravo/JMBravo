@@ -1,5 +1,5 @@
 ---
-aliases: ["/planificar-una-escena/", "/posts/planificar-una-escena/"]
+aliases: ["/planificar-una-escena/", "/posts/planificar-una-escena/", "/como-planificar-una-escena/"]
 title: "Cómo planificar una escena"
 date: "2017-07-22"
 categories: 

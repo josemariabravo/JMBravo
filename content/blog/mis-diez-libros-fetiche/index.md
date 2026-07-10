@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/mis-diez-libros-fetiche/"]
+aliases: ["/posts/mis-diez-libros-fetiche/", "/mis-diez-libros-fetiche/"]
 title: "Mis diez libros fetiche"
 date: "2011-04-18"
 categories: 

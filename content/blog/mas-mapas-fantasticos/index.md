@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/mas-mapas-fantasticos/"]
+aliases: ["/posts/mas-mapas-fantasticos/", "/mas-mapas-fantasticos/"]
 title: "Más de mapas… (breve)"
 date: "2010-10-14"
 categories: 

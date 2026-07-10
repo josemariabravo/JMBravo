@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/sobre-la-organizacion-de-una-novela-planificacion-literaria-ii/"]
+aliases: ["/posts/sobre-la-organizacion-de-una-novela-planificacion-literaria-ii/", "/sobre-la-organizacion-de-una-novela-planificacion-literaria-ii/"]
 title: "Sobre la organización de una novela (Planificación literaria, ii)"
 date: "2010-10-19"
 categories: 

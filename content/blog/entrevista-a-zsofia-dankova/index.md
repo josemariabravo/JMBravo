@@ -1,4 +1,5 @@
 ---
+aliases: ["/posts/entrevista-a-zsofia-dankova/", "/entrevista-a-zsofia-dankova/"]
 title: Entrevista a Zsofia Dankova
 date: 2019-07-07
 categories:

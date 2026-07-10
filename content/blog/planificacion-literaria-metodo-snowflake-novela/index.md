@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/planificacion-literaria-metodo-snowflake-novela/"]
+aliases: ["/posts/planificacion-literaria-metodo-snowflake-novela/", "/planificacion-literaria-metodo-snowflake-novela/"]
 title: "Método del copo de nieve (Planificación literaria, iii)"
 date: "2010-12-03"
 categories: 

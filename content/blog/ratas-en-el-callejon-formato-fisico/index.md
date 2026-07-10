@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/ratas-en-el-callejon-formato-fisico/"]
+aliases: ["/posts/ratas-en-el-callejon-formato-fisico/", "/ratas-en-el-callejon-formato-fisico/"]
 title: Ratas en el callejón, ya disponible en formato físico
 date: 2023-06-10
 categories:

@@ -1,5 +1,5 @@
 ---
-aliases: ["/autor-2-0/", "/posts/autor-2-0/"]
+aliases: ["/autor-2-0/", "/posts/autor-2-0/", "/autor-2-0-o-la-madre-que-pari-a-narciso/"]
 title: "Autor 2.0, o la madre que parió a Narciso"
 date: "2010-10-21"
 categories: 

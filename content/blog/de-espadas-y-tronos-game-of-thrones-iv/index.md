@@ -1,5 +1,5 @@
 ---
-aliases: ["/de-espadas-y-tronos-game-of-thrones-iv/", "/posts/de-espadas-y-tronos-game-of-thrones-iv/"]
+aliases: ["/de-espadas-y-tronos-game-of-thrones-iv/", "/posts/de-espadas-y-tronos-game-of-thrones-iv/", "/de-espadas-y-tronos-comentarios-sobre-game-of-thrones-la-serie-iv/"]
 title: "De espadas y tronos (comentarios sobre Juego de Tronos, la serie) (iv)"
 date: "2011-07-30"
 categories: 

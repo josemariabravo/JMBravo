@@ -2,6 +2,7 @@
 aliases:
   - /autoedicion-digital/
   - /posts/autoedicion-digital/
+  - /autoedicin-digital-o-el-nuevo-parnaso/
 title: Autoedición digital, o el nuevo Parnaso
 date: 2010-09-16
 categories:

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/herramientas-del-oficio-iii-software-para-escritores-zenware/"]
+aliases: ["/posts/herramientas-del-oficio-iii-software-para-escritores-zenware/", "/herramientas-del-oficio-iii-software-para-escritores-zenware/"]
 title: "Herramientas del oficio, iii: Software para escritores: Zenware"
 date: "2011-02-05"
 categories: 

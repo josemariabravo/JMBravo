@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/proximamente-ratas-en-el-callejon-cuentos-escabrosos-1/"]
+aliases: ["/posts/proximamente-ratas-en-el-callejon-cuentos-escabrosos-1/", "/proximamente-ratas-en-el-callejon-cuentos-escabrosos-1/"]
 title: "Próximamente: Ratas en el callejón. Cuentos escabrosos, 1"
 date: 2023-05-08
 categories:

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/como-aprovechar-mejor-el-tiempo/"]
+aliases: ["/posts/como-aprovechar-mejor-el-tiempo/", "/como-aprovechar-mejor-el-tiempo/"]
 title: "Cómo aprovechar mejor el tiempo"
 date: "2012-11-19"
 categories: 

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/sobre-el-amazon-kindle-ebook/"]
+aliases: ["/posts/sobre-el-amazon-kindle-ebook/", "/sobre-el-amazon-kindle-ebook/"]
 title: "Sobre el Amazon Kindle"
 date: "2010-12-08"
 categories: 

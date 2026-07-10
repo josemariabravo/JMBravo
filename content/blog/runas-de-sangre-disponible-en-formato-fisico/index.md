@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/runas-de-sangre-disponible-en-formato-fisico/"]
+aliases: ["/posts/runas-de-sangre-disponible-en-formato-fisico/", "/runas-de-sangre-disponible-en-formato-fisico/"]
 title: Runas de sangre disponible en formato físico
 date: 2020-05-14
 categories:

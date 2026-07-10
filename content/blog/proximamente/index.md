@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/proximamente/"]
+aliases: ["/posts/proximamente/", "/proximamente/"]
 title: Próximamente…
 date: 2010-09-05
 categories:

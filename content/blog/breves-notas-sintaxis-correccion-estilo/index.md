@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/breves-notas-sintaxis-correccion-estilo/"]
+aliases: ["/posts/breves-notas-sintaxis-correccion-estilo/", "/breves-notas-sintaxis-correccion-estilo/"]
 title: "Breves notas sobre sintaxis"
 date: "2010-12-22"
 categories: 

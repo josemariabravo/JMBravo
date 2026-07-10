@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/el-dialogo-3/"]
+aliases: ["/posts/el-dialogo-3/", "/el-dialogo-3/"]
 title: "El diálogo, 3"
 date: "2017-07-08"
 categories: 

@@ -2,6 +2,7 @@
 aliases:
   - /resenas-y-pecados/
   - /posts/resenas-y-pecados/
+  - /de-resenas-y-otros-pecados-capitales/
 title: De reseñas y otros pecados capitales
 date: 2011-03-26
 categories:

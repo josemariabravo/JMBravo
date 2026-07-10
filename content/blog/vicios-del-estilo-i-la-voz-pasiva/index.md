@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/vicios-del-estilo-i-la-voz-pasiva/"]
+aliases: ["/posts/vicios-del-estilo-i-la-voz-pasiva/", "/vicios-del-estilo-i-la-voz-pasiva/"]
 title: "Vicios del estilo, i: La voz pasiva"
 date: 2010-10-11
 categories:

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/resena-el-camino-de-las-sombras-brent-weeks/"]
+aliases: ["/posts/resena-el-camino-de-las-sombras-brent-weeks/", "/resena-el-camino-de-las-sombras-brent-weeks/"]
 title: "El camino de las sombras, de Brent Weeks"
 date: 2011-01-10
 categories:

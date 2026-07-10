@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/esto-es-solo-el-principio/"]
+aliases: ["/posts/esto-es-solo-el-principio/", "/esto-es-solo-el-principio/"]
 title: Esto es solo el principio
 date: 2016-04-05
 categories:

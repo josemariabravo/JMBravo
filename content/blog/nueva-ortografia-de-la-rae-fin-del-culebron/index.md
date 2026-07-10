@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/nueva-ortografia-de-la-rae-fin-del-culebron/"]
+aliases: ["/posts/nueva-ortografia-de-la-rae-fin-del-culebron/", "/nueva-ortografia-de-la-rae-fin-del-culebron/"]
 title: "Nueva ortografía de la RAE: fin del culebrón"
 date: "2010-11-29"
 categories: 

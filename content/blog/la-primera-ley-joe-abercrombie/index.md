@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/la-primera-ley-joe-abercrombie/"]
+aliases: ["/posts/la-primera-ley-joe-abercrombie/", "/la-primera-ley-joe-abercrombie/"]
 title: La Primera Ley, de Joe Abercrombie
 date: 2010-09-17
 categories:

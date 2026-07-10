@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/la-escalera-de-jacob-jacob-ladder/"]
+aliases: ["/posts/la-escalera-de-jacob-jacob-ladder/", "/la-escalera-de-jacob-jacob-ladder/"]
 title: La escalera de Jacob (Jacob’s ladder)
 date: 2010-10-04
 categories:

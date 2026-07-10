@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/sangre-y-acero-1/"]
+aliases: ["/posts/sangre-y-acero-1/", "/desde-el-recuerdo-sangre-y-acero-n-1/"]
 draft: false
 title: Sangre y acero n.º 1
 date: 2010-09-22

@@ -1,5 +1,5 @@
 ---
-aliases: ["/posts/runas-de-sangre-ya-disponible/"]
+aliases: ["/posts/runas-de-sangre-ya-disponible/", "/runas-de-sangre-ya-disponible/"]
 title: Runas de sangre ya disponible
 date: 2020-04-07
 categories:
