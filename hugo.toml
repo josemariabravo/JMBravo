@@ -48,16 +48,21 @@ enableGitInfo = true
   weight = 1
 
 [[menu.footer]]
+  name = "Sobre esta página"
+  url = "/sobre-esta-pagina/"
+  weight = 2
+
+[[menu.footer]]
   name = "Contacto"
   url = "/contacto/"
-  weight = 2
+  weight = 3
 
 [[menu.footer]]
   name = "Aviso legal"
   url = "/aviso-legal/"
-  weight = 3
+  weight = 4
 
 [[menu.footer]]
   name = "Privacidad"
   url = "/privacidad/"
-  weight = 4
+  weight = 5

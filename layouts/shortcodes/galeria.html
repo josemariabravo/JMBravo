@@ -3,9 +3,13 @@
 {{ $id := printf "galeria-%d" .Ordinal }}
 <div class="galeria" id="{{ $id }}">
   {{ range $images }}
+  {{ $img := . }}
+  {{ $fullWidth := 2000 }}
+  {{ if lt $img.Width $fullWidth }}{{ $fullWidth = $img.Width }}{{ end }}
+  {{ $full := $img.Process (printf "resize %dx webp q75" $fullWidth) }}
   <figure class="galeria-item">
-    <button class="galeria-btn" data-src="{{ .RelPermalink }}" data-alt="{{ .Title }}" aria-label="Ampliar imagen">
-      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy">
+    <button class="galeria-btn" data-src="{{ $full.RelPermalink }}" data-alt="{{ $img.Title }}" aria-label="Ampliar imagen">
+      {{ partial "responsive-img.html" (dict "img" $img "alt" $img.Title "sizes" "(max-width: 640px) 90vw, 340px" "widths" (slice 260 520 1040)) }}
     </button>
   </figure>
   {{ end }}

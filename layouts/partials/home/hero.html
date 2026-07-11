@@ -2,10 +2,14 @@
   {{ $images := resources.Match "hero/*" }}
   {{ with $images | shuffle | first 1 }}
   {{ $img := index . 0 }}
-  <div class="hero-bg" style="background-image: url('{{ $img.RelPermalink }}')"></div>
+  {{ $width := 2000 }}
+  {{ if lt $img.Width $width }}{{ $width = $img.Width }}{{ end }}
+  {{ $img = $img.Process (printf "resize %dx webp q75" $width) }}
+  <div class="hero-bg" style="--hero-img: url('{{ $img.RelPermalink }}')"></div>
   {{ end }}
   <div class="container">
     <div class="hero-inner">
+      <h1 class="visually-hidden">JMBravo.com: Página web de José María Bravo Lineros, escritor español de fantasía histórica y terror</h1>
       {{ .Content }}
       <div class="hero-links">
         <a class="btn-hero" href="{{ "libros/" | relURL }}">Libros</a>

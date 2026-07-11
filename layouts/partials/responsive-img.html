@@ -1,0 +1,21 @@
+{{- /*
+  Uso: {{ partial "responsive-img.html" (dict "img" $cover "alt" $title "class" "book-detail-cover" "sizes" "200px") }}
+  Parámetros: img (resource, obligatorio), alt (obligatorio), class, style, title, sizes,
+  widths (slice de int, por defecto 200/400/640), loading (por defecto "lazy").
+*/ -}}
+{{- $img := .img -}}
+{{- $widths := .widths | default (slice 200 400 640) -}}
+{{- $seen := dict -}}
+{{- $srcset := slice -}}
+{{- $largest := "" -}}
+{{- range $w := $widths -}}
+  {{- $target := $w -}}
+  {{- if gt $target $img.Width -}}{{- $target = $img.Width -}}{{- end -}}
+  {{- if not (index $seen (string $target)) -}}
+    {{- $seen = merge $seen (dict (string $target) true) -}}
+    {{- $variant := $img.Process (printf "resize %dx webp q75" $target) -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" $variant.RelPermalink $variant.Width) -}}
+    {{- $largest = $variant.RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+<img{{ with .class }} class="{{ . }}"{{ end }}{{ with .style }} style="{{ . }}"{{ end }} src="{{ $largest }}" srcset="{{ delimit $srcset ", " }}"{{ with .sizes }} sizes="{{ . }}"{{ end }} width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ .alt }}"{{ with .title }} title="{{ . }}"{{ end }} loading="{{ .loading | default "lazy" }}">

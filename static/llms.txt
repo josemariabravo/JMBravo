@@ -1,0 +1,28 @@
+# José María Bravo Lineros
+
+> Sitio personal de José María Bravo Lineros, escritor español de fantasía histórica, terror y novela negra.
+
+Escritor de espada y brujería, fantasía histórica y terror. Este sitio reúne información sobre sus libros publicados, un blog sobre el oficio de escribir y un repositorio de toda su obra: cuentos, relatos, novelas, ensayos y artículos.
+
+## Libros
+
+- [Libros](https://jmbravo.com/libros/): catálogo de novelas y relatos publicados.
+- [Dead Wrong](https://jmbravo.com/libros/dead-wrong/)
+- [Homini lupus](https://jmbravo.com/libros/homini-lupus/)
+- [Ratas en el callejón](https://jmbravo.com/libros/ratas-en-el-callejon/)
+- [Runas de sangre](https://jmbravo.com/libros/runas-de-sangre/)
+- [Sombras y ceniza](https://jmbravo.com/libros/sombras-y-ceniza/)
+
+## Sitio
+
+- [Blog](https://jmbravo.com/blog/): artículos sobre escritura, narrativa y el oficio literario.
+- [Obra](https://jmbravo.com/obra/): repositorio de toda la obra del autor.
+- [Descargas](https://jmbravo.com/descargas/): material descargable.
+- [Sobre mí](https://jmbravo.com/sobre-mi/): biografía del autor.
+- [Sobre esta página](https://jmbravo.com/sobre-esta-pagina/): propósito e historia del sitio.
+- [Contacto](https://jmbravo.com/contacto/)
+
+## Optional
+
+- [Aviso legal](https://jmbravo.com/aviso-legal/)
+- [Privacidad](https://jmbravo.com/privacidad/)

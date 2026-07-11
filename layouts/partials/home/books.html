@@ -9,8 +9,7 @@
       <a class="book-card" href="{{ $book.Permalink }}">
         {{ $cover := partial "seo-image.html" $book }}
         {{ with $cover }}
-          {{ $webp := .Process "webp" }}
-          <img src="{{ $webp.RelPermalink }}" alt="{{ $book.Title }}">
+          {{ partial "responsive-img.html" (dict "img" . "alt" $book.Title "sizes" "150px") }}
         {{ end }}
         <span class="book-card-title">{{ $book.Title }}</span>
       </a>

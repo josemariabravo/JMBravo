@@ -14,6 +14,14 @@
   html  { scroll-behavior: smooth; }
   body  { margin: 0; }
   img   { display: block; max-width: 100%; }
+
+  /* las imágenes con srcset responsivo llevan los atributos width/height
+     (buena práctica para reservar espacio y evitar layout shift), pero eso
+     hace que, en cuanto la imagen también tiene un width por CSS, el
+     navegador use el height del atributo tal cual en vez de escalarlo
+     proporcionalmente — se ve gigantesca/desproporcionada. height:auto lo
+     corrige sin perder la reserva de espacio. */
+  img[width][height] { height: auto; }
   a     { color: inherit; text-decoration: none; }
   button { font: inherit; cursor: pointer; }
 
@@ -380,9 +388,16 @@
     /*font-weight: 450;*/
   }
 
-  .hero-inner h1 {
-    margin-bottom: var(--sp-1);
-    /*text-shadow: var(--text-outline);*/
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+    border: 0;
   }
 
   .hero-inner blockquote {
@@ -1455,6 +1470,12 @@
     color: var(--paper);
   }
 
+  .section-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
   /* ·· layout de artículo con sidebar ·· */
 
   .article-layout {
@@ -1868,6 +1889,16 @@
       gap: var(--sp-2);
     }
 
+  }
+
+  /* el fondo del hero se fija vía custom property (--hero-img) en vez de
+     background-image directo en el atributo style: así, en el media query
+     de arriba (donde el hero queda oculto), la propiedad background-image
+     ni siquiera se declara y el navegador no descarga la imagen en móvil */
+  @media (min-width: 1061px) {
+    .hero-bg {
+      background-image: var(--hero-img);
+    }
   }
 
   /* ·· responsive: móvil muy estrecho ··

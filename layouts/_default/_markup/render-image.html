@@ -19,9 +19,21 @@
 {{- $caption := "" -}}
 {{- if and .Title (not $matched) -}}{{- $caption = .Title -}}{{- end -}}
 
-{{- if $img -}}{{- $src = $img.RelPermalink -}}{{- end -}}
+{{- if $img -}}
+  {{- $style := "" -}}
+  {{- $sizes := "(max-width: 860px) 100vw, 756px" -}}
+  {{- $widths := slice 400 800 1600 -}}
+  {{- if $width -}}
+    {{- $style = printf "width:%spx" $width -}}
+    {{- $wInt := int $width -}}
+    {{- $sizes = printf "%dpx" $wInt -}}
+    {{- $widths = slice $wInt (mul $wInt 2) -}}
+  {{- end -}}
+  {{- partial "responsive-img.html" (dict "img" $img "alt" $alt "class" $class "style" $style "title" $caption "sizes" $sizes "widths" $widths) -}}
+{{- else -}}
 <img src="{{ $src }}" alt="{{ $alt }}"
   {{- with $class }} class="{{ . }}"{{ end -}}
   {{- with $width }} style="width:{{ . }}px"{{ end -}}
   {{- with $caption }} title="{{ . }}"{{ end -}}
 >
+{{- end -}}

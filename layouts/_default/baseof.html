@@ -43,8 +43,10 @@
   {{ end }}
   <meta name="twitter:title" content="{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ $pageTitle }}{{ end }}">
   <meta name="twitter:description" content="{{ $pageDescription }}">
-  <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  {{ $fonts := resources.Get "css/fonts.css" | resources.Minify | resources.Fingerprint }}
+  {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $fonts.RelPermalink }}" integrity="{{ $fonts.Data.Integrity }}">
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
   {{ range .AlternativeOutputFormats }}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
   {{ end }}

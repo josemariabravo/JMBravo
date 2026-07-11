@@ -2,8 +2,7 @@
 {{ $cover := partial "seo-image.html" $page }}
 <div class="book-detail-header">
   {{ with $cover }}
-  {{ $webp := .Process "webp" }}
-  <img class="book-detail-cover" src="{{ $webp.RelPermalink }}" alt="{{ $page.Title }}">
+  {{ partial "responsive-img.html" (dict "img" . "alt" $page.Title "class" "book-detail-cover" "sizes" "200px" "loading" "eager") }}
   {{ end }}
   <div class="book-detail-info">
     <h1>{{ $page.Title }}</h1>

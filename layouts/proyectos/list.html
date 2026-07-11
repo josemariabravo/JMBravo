@@ -38,8 +38,7 @@
       <div class="proyecto-ficha">
         {{ $cover := partial "seo-image.html" . }}
         {{ with $cover }}
-        {{ $img := .Process "webp" }}
-        <img class="proyecto-portada" src="{{ $img.RelPermalink }}" alt="{{ $.Title }}">
+        {{ partial "responsive-img.html" (dict "img" . "alt" $.Title "class" "proyecto-portada" "sizes" "140px" "loading" "eager") }}
         {{ end }}
         <div class="proyecto-ficha-info">
           <h1>{{ .Title }}</h1>

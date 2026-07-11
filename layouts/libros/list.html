@@ -10,8 +10,9 @@
       <a class="book-grid-item{{ if $featured }} book-grid-item--featured{{ end }}" href="{{ $book.Permalink }}">
         {{ $cover := partial "seo-image.html" $book }}
         {{ with $cover }}
-          {{ $webp := .Process "webp" }}
-          <img src="{{ $webp.RelPermalink }}" alt="{{ $book.Title }}">
+          {{ $sizes := "(max-width: 540px) 90vw, 220px" }}
+          {{ if not $featured }}{{ $sizes = "(max-width: 540px) 45vw, 220px" }}{{ end }}
+          {{ partial "responsive-img.html" (dict "img" . "alt" $book.Title "sizes" $sizes) }}
         {{ end }}
         <h3>{{ $book.Title }}</h3>
         <p class="book-subtitle">{{ with $book.Params.subtitle }}{{ . }}{{ end }}</p>
