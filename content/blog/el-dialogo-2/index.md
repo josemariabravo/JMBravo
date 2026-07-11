@@ -1,12 +1,16 @@
 ---
-aliases: ["/posts/el-dialogo-2/", "/el-dialogo-2/"]
-title: "El diálogo, 2"
-date: "2017-06-24"
-categories: 
-  - "articulos"
-coverImage: "pexels-photo-1309899.jpeg"
+aliases:
+  - /posts/el-dialogo-2/
+  - /el-dialogo-2/
+title: El diálogo, 2
+date: 2017-06-24
+categories:
+  - articulos
+tags:
+  - escritura
+revisado: true
 ---
-En la [primera entrega](/el-dialogo-1/ "El diálogo, 1") de esta serie de artículos definimos el diálogo y sus partes, y estudiamos lo esencial del uso de la raya según las normas ortotipográficas del castellano.
+En la [primera entrega](/el-dialogo-1/) de esta serie de artículos definimos el diálogo y sus partes, y estudiamos lo esencial del uso de la raya según las normas ortotipográficas del castellano.
 
 Pero hay bastante más que decir sobre el diálogo aparte de dónde poner las rayas, desde luego. En esta y en las siguientes entregas abordaré con más detenimiento los aspectos principales del diálogo mediante una serie de consejos sobre sus distintas partes.
 
@@ -22,7 +26,7 @@ Ejemplo:
 
 En este ejemplo, «Te quiero» es el parlamento. Insistimos: es la cita literal de lo que ha dicho el personaje. Lo cual nos lleva al primero de nuestros consejos:
 
-### 1\. Recrea una conversación, no la transcribas
+### 1. Recrea una conversación, no la transcribas
 
 ¿Has probado a grabarte alguna vez durante una conversación? Supongo que sí. Y si no lo has hecho, prueba. Procura que la conversación se alargue lo suficiente para que pierdas la consciencia de que te estás grabando, y luego escúchate con atención.
 
@@ -40,15 +44,14 @@ Así, los parlamentos deberían eliminar lo superfluo en la comunicación oral, 
 
 Por lo tanto, debemos intentar que los parlamentos de los personajes sean claros y concisos.
 
-### 2\. Dale un objeto al parlamento de tus personajes
+### 2. Dale un objeto al parlamento de tus personajes
 
 Esto es: lo que dicen los personajes ha de tener un propósito, aunque este no sea claro y esté hábilmente disimulado por el autor ―de ahí el artificio del diálogo―.
 
 Este propósito puede ser muy dispar, pero normalmente cumplirá uno (o ambos) de estos dos objetivos:
 
-―Proporcionar datos sobre la historia.
-
-―Proporcionar datos del trasfondo.
+- Proporcionar datos sobre la historia.
+- Proporcionar datos del trasfondo.
 
 Como puede verse, ambos casos pueden resumirse así: el diálogo transmite información.
 
@@ -58,11 +61,9 @@ En el segundo, la información es relativa al trasfondo, bien de la historia (lo
 
 Ahora bien: el diálogo puede y debe transmitir información, pero esto implica riesgos. Pondré algunos ejemplos:
 
-—El personaje recapitula, sin venir a cuento, lo ocurrido. Es el clásico «Como todos sabemos», seguido de una larga y absurda exposición (porque, si todos lo sabemos, ¿para qué demonios hace falta que lo digas? ).[^1]
-
-—El personaje divaga en un monólogo inesperado y suelta una larga exposición de siete páginas, o así, sobre un tema. Esto es perfecto para que el lector coja nuestro libro y lo tire por la ventana más próxima (salvo que sea un *ebook,* claro), pero, hasta cierto punto, puede ser inevitable e incluso necesario. El truco está en hacer que esas siete páginas seguidas no sean tales, repartiendo la exposición a lo largo de la historia. Recuerda, también, que se trata de un diálogo: los otros interlocutores querrán interrumpir al personaje, así que deja que lo hagan, al menos de tanto en tanto.
-
-—El personaje monologa (otra vez) sobre el motivo de sus acciones. «He hecho esto porque…». Este es el clásico monólogo del tipo «el malo explica sus planes», propio de los peores ejemplos de historias *pulp.* No lo hagas, por favor; y si no tienes más remedio, usa el sentido común y sé breve.
+- El personaje recapitula, sin venir a cuento, lo ocurrido. Es el clásico «Como todos sabemos», seguido de una larga y absurda exposición (porque, si todos lo sabemos, ¿para qué demonios hace falta que lo digas? ).[^1]
+- El personaje divaga en un monólogo inesperado y suelta una larga exposición de siete páginas, o así, sobre un tema. Esto es perfecto para que el lector coja nuestro libro y lo tire por la ventana más próxima (salvo que sea un *ebook,* claro), pero, hasta cierto punto, puede ser inevitable e incluso necesario. El truco está en hacer que esas siete páginas seguidas no sean tales, repartiendo la exposición a lo largo de la historia. Recuerda, también, que se trata de un diálogo: los otros interlocutores querrán interrumpir al personaje, así que deja que lo hagan, al menos de tanto en tanto.
+- El personaje monologa (otra vez) sobre el motivo de sus acciones. «He hecho esto porque…». Este es el clásico monólogo del tipo «el malo explica sus planes», propio de los peores ejemplos de historias *pulp.* No lo hagas, por favor; y si no tienes más remedio, usa el sentido común y sé breve.
 
 Podríamos seguir, pero en el fondo este consejo se resume así: los personajes han de transmitir información en un diálogo, pero debe tener un propósito y ser pertinente.
 
@@ -72,7 +73,7 @@ Que alguien hable con todo lujo de detalles, como si estuviera ante una audienci
 
 Así que permíteme que insista: los parlamentos de tus personajes han de proporcionar información pertinente para la historia y han de tener un propósito concreto.
 
-### 3\. Elimina lo superfluo
+### 3. Elimina lo superfluo
 
 Este consejo viene a ser un corolario del anterior: si un buen diálogo proporciona información oportuna sobre la historia y sus personajes, hay que evitar a toda costa las líneas de diálogo superfluas.
 
@@ -118,7 +119,7 @@ Podría ser. Pero el mismo efecto se puede conseguir con un diálogo de mayor pe
 
 Mucho mejor, desde luego, que hablando del tiempo y de tartas de manzana.
 
-### 4\. Modera el uso de los indicadores de modalidad
+### 4. Modera el uso de los indicadores de modalidad
 
 Abusar de los signos indicadores de modalidad (signos de exclamación e interrogación y puntos suspensivos) es un vicio frecuente. Y esto lo digo como corrector profesional de textos literarios. Por favor, no lo hagas.
 
@@ -138,7 +139,7 @@ De acuerdo: ambas líneas de diálogo son discretas, y eso siendo benévolos, pe
 
 Y por último, sí, es válido desde el punto de vista ortotipográfico poner más de un signo de exclamación o interrogación (hasta un máximo de tres seguidos), pero absteneos. Por favor.
 
-### 5\. Refuerza la voz de tus personajes
+### 5. Refuerza la voz de tus personajes
 
 Lo ideal sería que el lector pudiera reconocer a quién pertenece un parlamento sin necesidad de inciso alguno. Esto es un ideal, claro; en la práctica es muy difícil. Casi imposible, añadiría.
 
@@ -150,23 +151,23 @@ Bien, hay dos estrategias: fondo y forma, o dicho de otra forma, qué dicen los 
 
 En cuanto al qué, es la parte más evidente del parlamento de un personaje. Tenemos una serie de aspectos a controlar, entre ellos los siguientes:
 
-―Vocabulario: elegir el vocabulario según el trasfondo sociocultural de tus personajes sería lo ideal, en principio. Aunque suene algo clasista, no es muy lógico poner en boca de un albañil las mismas palabras que un profesor de Universidad, a menos que haya un buen motivo, como ciertos registros (ver apartado siguiente). Y recuerda el argot propio de cada oficio: probablemente, un médico en una consulta no dirá que un paciente tiene moratones, sino que presenta hematomas; y por otro lado, un albañil no te dirá que tiene que «poner derecha» una pared, sino que ha de aplomarla.
+**Vocabulario:** elegir el vocabulario según el trasfondo sociocultural de tus personajes sería lo ideal, en principio. Aunque suene algo clasista, no es muy lógico poner en boca de un albañil las mismas palabras que un profesor de Universidad, a menos que haya un buen motivo, como ciertos registros (ver apartado siguiente). Y recuerda el argot propio de cada oficio: probablemente, un médico en una consulta no dirá que un paciente tiene moratones, sino que presenta hematomas; y por otro lado, un albañil no te dirá que tiene que «poner derecha» una pared, sino que ha de aplomarla.
 
-―Registro: el registro de una conversación es la forma de hablar que elige un hablante en función de las circunstancias. Un personaje no hablará de la misma forma en un bar, rodeado de amigos, que ante un juez, por citar dos ejemplos extremos. El registro, como es natural, necesita de contexto: qué se habla, dónde, y con quién, además de conocer el estado emocional de los interlocutores.
+**Registro:** el registro de una conversación es la forma de hablar que elige un hablante en función de las circunstancias. Un personaje no hablará de la misma forma en un bar, rodeado de amigos, que ante un juez, por citar dos ejemplos extremos. El registro, como es natural, necesita de contexto: qué se habla, dónde, y con quién, además de conocer el estado emocional de los interlocutores.
 
-―Vulgarismos y expresiones malsonantes: dicho en claro, expresiones poco recomendables en el lenguaje culto o incorrectas, *per se,* además de insultos, juramentos y palabrotas. En cuanto a los primeros, un personaje culto no debería usar muchos, o ninguno, salvo que el registro de la conversación lo justifique; y en cuanto a los segundos, la frecuencia y el tipo de los tacos que suelte son una de las mejores muestras de carácter de un personaje.
+**Vulgarismos y expresiones malsonantes:** dicho en claro, expresiones poco recomendables en el lenguaje culto o incorrectas, *per se,* además de insultos, juramentos y palabrotas. En cuanto a los primeros, un personaje culto no debería usar muchos, o ninguno, salvo que el registro de la conversación lo justifique; y en cuanto a los segundos, la frecuencia y el tipo de los tacos que suelte son una de las mejores muestras de carácter de un personaje.
 
-―Muletillas y redundancias:[^4] como es normal, conviene evitar las muletillas y redundancias, salvo que se empleen en su justa medida y de forma consciente para caracterizar la voz de un personaje. Que un personaje concreto suelte un «vaya, vaya» cada tres parlamentos no supone ningún problema; el que lo haga cada dos frases puede llegar a ser un engorro.
+**Muletillas y redundancias:**[^4] como es normal, conviene evitar las muletillas y redundancias, salvo que se empleen en su justa medida y de forma consciente para caracterizar la voz de un personaje. Que un personaje concreto suelte un «vaya, vaya» cada tres parlamentos no supone ningún problema; el que lo haga cada dos frases puede llegar a ser un engorro.
 
-―Interjecciones: nos referimos a los «hum», «oh», «eh» y «ah», entre otros. Al igual que en el anterior caso, empleadas en su justa medida aportan matices a la voz de los personajes y proporcionan credibilidad a sus parlamentos. La clave está en el cuantificador: en su justa medida.
+**Interjecciones:** nos referimos a los «hum», «oh», «eh» y «ah», entre otros. Al igual que en el anterior caso, empleadas en su justa medida aportan matices a la voz de los personajes y proporcionan credibilidad a sus parlamentos. La clave está en el cuantificador: en su justa medida.
 
 Y en cuanto al cómo:
 
-―Marcadores textuales:[^5] el tipo, la variedad y la frecuencia en el uso de los marcadores textuales pueden arrojar mucha luz acerca del carácter de un personaje. Un personaje culto en un registro formal y pausado los empleará en abundancia para articular su discurso de forma clara y precisa; un personaje iletrado, por el contrario, los usará con menos frecuencia y con menor variedad, a veces llegando a utilizarlos como muletillas.
+**Marcadores textuales:**[^5] el tipo, la variedad y la frecuencia en el uso de los marcadores textuales pueden arrojar mucha luz acerca del carácter de un personaje. Un personaje culto en un registro formal y pausado los empleará en abundancia para articular su discurso de forma clara y precisa; un personaje iletrado, por el contrario, los usará con menos frecuencia y con menor variedad, a veces llegando a utilizarlos como muletillas.
 
-―Puntuación: el tipo y la frecuencia de los signos delimitadores del discurso (punto, punto y coma, dos puntos y puntos suspensivos) nos permitirá articular el ritmo del parlamento. Una puntuación más trabada producirá un ritmo más lento; lo cual, unido a la longitud de las frases, nos permitirá mostrar distintos registros y estados de ánimo. Un personaje no debería hablar igual bajo presión que en una tranquila sobremesa.
+**Puntuación:** el tipo y la frecuencia de los signos delimitadores del discurso (punto, punto y coma, dos puntos y puntos suspensivos) nos permitirá articular el ritmo del parlamento. Una puntuación más trabada producirá un ritmo más lento; lo cual, unido a la longitud de las frases, nos permitirá mostrar distintos registros y estados de ánimo. Un personaje no debería hablar igual bajo presión que en una tranquila sobremesa.
 
-―Trabazón del discurso: la trabazón del discurso (su coherencia y orden) es otro elemento clave para conseguir que los parlamentos de un personaje se distingan del resto. De nuevo, este concepto está estrechamente vinculado con el registro de la conversación y el nivel sociocultural del personaje.
+**Trabazón del discurso:** la trabazón del discurso (su coherencia y orden) es otro elemento clave para conseguir que los parlamentos de un personaje se distingan del resto. De nuevo, este concepto está estrechamente vinculado con el registro de la conversación y el nivel sociocultural del personaje.
 
 Dicho de forma simple, la trabazón del discurso determinará el nivel de complejidad con el que el personaje articulará sus parlamentos.
 
@@ -174,17 +175,15 @@ Aunque la siguiente afirmación es muy matizable, podríamos convenir en que, a 
 
 En cambio, una trabazón más compleja empleará con mayor frecuencia oraciones compuestas mediante coordinación y subordinación, y estructurará mejor su discurso mediante marcadores textuales y una puntuación más variada.
 
-### 6\. Limita el número de interlocutores
+### 6. Limita el número de interlocutores
 
 En un diálogo es casi obligado ―excepción hecha de soliloquios y monólogos, como ya vimos en la primera parte de esta serie― que participen dos o más interlocutores.
 
 Dos personajes, como mínimo, pero que en la mayor parte de las ocasiones debería ser el máximo. Un diálogo con muchos interlocutores tiene una serie de inconvenientes:
 
-―es difícil de seguir y requiere muchas acotaciones;
-
-―diluye la tensión emocional;
-
-―salvo que se haga muy bien (pero que muy bien), puede ser tedioso.
+- es difícil de seguir y requiere muchas acotaciones;
+- diluye la tensión emocional;
+- salvo que se haga muy bien (pero que muy bien), puede ser tedioso.
 
 Pero alguna que otra vez tendrás la necesidad de que en un diálogo participen tres o más personas. Hay un truco sencillo para evitar los inconvenientes antedichos: haz trampas.
 
@@ -194,7 +193,7 @@ Con dos más uno me refiero a dos interlocutores principales más un tercero que
 
 Tú mismo.
 
-### 7\. Quémate los ojos
+### 7. Quémate los ojos
 
 La única forma de pulir un diálogo es leerlo y releerlo hasta la extenuación. Prueba a hacerlo sin atender a las acotaciones; prueba a leerlos en voz alta, para ti mismo u otra persona.
 
@@ -206,13 +205,7 @@ Y, por descontado, el mejor consejo para escribir buenos diálogos es leer. Much
 
 Hasta aquí la segunda entrega. En la próxima, nos ocuparemos de los incisos del diálogo.
 
-[^1]: Empero, podría emplearse una recapitulación para ilustrar el hablar puntilloso y prolijo de un personaje:
-
-*—Como todos sabemos, el uranio es un elemento químico de número atómico noventa y dos, y cuyo símbolo… ―comenzó a decir Pedro con un dedo en alto.*
-
-―Oh, por favor, ve al grano ―le cortó Juan―. ¿Pueden o no construir la bomba?
-
-―Esto… sí, eso me temo ―respondió Pedro, abatido.
+[^1]: Empero, podría emplearse una recapitulación para ilustrar el hablar puntilloso y prolijo de un personaje:  *—Como todos sabemos, el uranio es un elemento químico de número atómico noventa y dos, y cuyo símbolo… ―comenzó a decir Pedro con un dedo en alto.*  ―Oh, por favor, ve al grano ―le cortó Juan―. ¿Pueden o no construir la bomba?  ―Esto… sí, eso me temo ―respondió Pedro, abatido.
 [^2]: Por supuesto, tres es un número arbitrario. Pero en algún sitio había que poner el límite.
 [^3]: DRAE: 1. m. Ling. Conjunto de rasgos propios de la forma de expresarse de un individuo.
 [^4]: Recomiendo la lectura del siguiente artículo de la Fundéu: [http://www.fundeu.es/escribireninternet/muletillas-y-redundancias/](http://www.fundeu.es/escribireninternet/muletillas-y-redundancias/ "undefined").

@@ -1,10 +1,15 @@
 ---
-aliases: ["/reescribir-una-escena/", "/posts/reescribir-una-escena/", "/como-reescribir-una-escena/"]
-title: "Cómo reescribir una escena"
-date: "2017-08-05"
-categories: 
-  - "articulos"
-coverImage: "14555354976_432207b15b_k-e1522346177484.jpg"
+aliases:
+  - /reescribir-una-escena/
+  - /posts/reescribir-una-escena/
+  - /como-reescribir-una-escena/
+title: Cómo reescribir una escena
+date: 2017-08-05
+categories:
+  - articulos
+tags:
+  - escritura
+revisado: true
 ---
 Algo no está bien, aunque no sabes el qué. Quizá tengas tus sospechas, pero no sabrías explicar el porqué de estas. Lees, relees hasta la extenuación la condenada escena, pero sigue sin gustarte. Has cambiado frases, párrafos enteros, pero sigues insatisfecho; siempre que revisas tu obra y llegas a capítulos así, la desazón te invade: tuerces la vista, procrastinas, te asaltan dudas, hasta puede que consideres abandonar tu obra a medias.
 
@@ -16,7 +21,7 @@ Ah, reescribir. Un fastidio en toda regla, sin duda. Pero reescribir es como los
 
 En este artículo quiero tratar las estrategias habituales que sigo cuando he de reescribir una escena (y donde pone escena, léase pasaje, capítulo, o incluso si me apuran, obra; les remito [a mi anterior artículo](/planificar-una-escena/) si tienen dudas respecto a qué es una escena); pero antes, déjenme que aclare unos pocos conceptos:
 
-### Diferencias entre corregir, revisar y reescribir un texto
+## Diferencias entre corregir, revisar y reescribir un texto
 
 Estos tres verbos no tienen un orden casual: los he ordenado de menor a mayor impacto. Veámoslos por separado:
 
@@ -46,7 +51,7 @@ En cuanto al fondo, el asunto podría resumirse así: uno ―tal vez varios― d
 
 Veámoslos uno a uno:
 
-#### Quién:
+#### Quién
 
 El quién, normalmente, es algo que debería estar bastante claro en una escena, al menos en lo que respecta al personaje principal de la misma. No obstante, quizá el problema es que hemos metido personajes de más o de menos, aunque es poco probable que sea lo segundo.
 
@@ -94,7 +99,7 @@ Muchas veces el comienzo de una escena es el equivalente al carraspeo de alguien
 
 Si es la forma, lo que falla es la ejecución de la escena. Cómo has contado lo que sucede en esta. Por lo general, suele deberse a falta de oficio ―y eso solo puede arreglarse con lecturas y dedicación― o un uso inadecuado de los modos narrativos.
 
-Sobre los modos narrativos tocará hablar en otro momento. Por ahora bastará con decir que son las distintas formas o registros que empleamos al narrar nuestra historia. Los más habituales son los siguientes: descripción, exposición, introspección, diálogo y transición.
+Sobre los modos narrativos tocará hablar en otro momento. Por ahora bastará con decir que son las distintas formas o registros que empleamos al narrar nuestra historia. Los más habituales son los siguientes: **descripción**, **exposición**, **introspección**, **diálogo** y **transición**.
 
 A continuación, los abordaremos de forma sucinta:
 
@@ -154,7 +159,7 @@ Ahora bien, emplear demasiadas de estas transiciones puede resultar confuso para
 
 ## Segundo: toma una decisión
 
-Bien: ya has analizado del derecho y del revés tu escena, tanto en el fondo como en la forma, e imagino que tendrás una idea mucho más clara de lo que falla o flojea en la misma.[^7]
+Bien: ya has analizado del derecho y del revés tu escena, tanto en el fondo como en la forma, e imagino que tendrás una idea mucho más clara de lo que falla o flojea.[^7]
 
 Ahora toca lo más difícil.
 

@@ -1,10 +1,16 @@
 ---
-aliases: ["/planificar-una-escena/", "/posts/planificar-una-escena/", "/como-planificar-una-escena/"]
-title: "Cómo planificar una escena"
-date: "2017-07-22"
-categories: 
-  - "articulos"
-coverImage: "6186308787_223131e63d_b.jpg"
+aliases:
+  - /planificar-una-escena/
+  - /posts/planificar-una-escena/
+  - /como-planificar-una-escena/
+title: Cómo planificar una escena
+date: 2017-07-22
+categories:
+  - articulos
+tags:
+  - escritura
+  - planificación-literaria
+revisado: true
 ---
 En este artículo expondré una serie de estrategias para planificar las escenas de una historia. Pero antes, permitidme que me detenga, siquiera de forma breve, en el quid del asunto:
 
@@ -12,7 +18,7 @@ En este artículo expondré una serie de estrategias para planificar las escenas
 
 En el ámbito de la narrativa escrita podríamos definir escena como la unidad principal de la acción dramática en la que interviene al menos un personaje y durante la cual se mantiene cierta coherencia temporal y espacial.
 
-Bien, pero ¿qué quiero decir con eso de ‘acción dramática’? En esencia, un drama representa un conflicto mediante las acciones de sus personajes. Así, para que tenga sentido la aplicación del término escena a una obra narrativa, esta debe representar, de forma directa, un conflicto que afecte a uno o (preferiblemente) varios personajes.
+Bien, pero ¿qué quiero decir con eso de «acción dramática»? En esencia, un drama representa un conflicto mediante las acciones de sus personajes. Así, para que tenga sentido la aplicación del término escena a una obra narrativa, esta debe representar, de forma directa, un conflicto que afecte a uno o (preferiblemente) varios personajes.
 
 En la narrativa actual abundan las novelas escritas con un enfoque dramático; como norma general ―aunque pueden darse excepciones, naturalmente―, al mudar de personajes, tiempo y lugar, la escena cambia. Asimismo, en el caso de las historias narradas desde uno o varios puntos de vista (PdV), se acepta de forma tácita que un cambio en dicho PdV implica un cambio de escena (y, en algunos casos, también de capítulo).
 
@@ -22,31 +28,23 @@ Dicho esto, prosigamos:
 
 En puridad, planificar la escritura de una escena no es siempre lo más conveniente ni, quizá, sea de utilidad para todos los escritores. Ahora bien, puede ser interesante hacerlo, en especial si:
 
-―somos escritores de mapa y queremos esbozar, antes de comenzar el primer borrador de nuestra obra, cómo serán (de forma más o menos precisa) las escenas que la componen;[^1]
-
-―somos escritores de brújula, pero una escena particular se nos resiste;
-
-―somos escritores situados en algún punto intermedio entre los dos tipos anteriores, y queremos aclarar nuestras ideas sobre unas cuantas escenas clave de nuestra historia.
+- somos escritores de mapa y queremos esbozar, antes de comenzar el primer borrador de nuestra obra, cómo serán (de forma más o menos precisa) las escenas que la componen;[^1]
+- somos escritores de brújula, pero una escena particular se nos resiste;
+- somos escritores situados en algún punto intermedio entre los dos tipos anteriores, y queremos aclarar nuestras ideas sobre unas cuantas escenas clave de nuestra historia.
 
 Sea como fuere, planificar una escena tiene innegables ventajas:
 
-―nos permite aclarar qué queremos contar en esa escena, y, por ende, tener claro qué sobra;
-
-―podemos trabajar de antemano la caracterización de los personajes que intervienen en una escena, así como los detalles del trasfondo en la que esta transcurre;
-
-―al conocer previamente cómo se desarrollará la escena, aunque sea *grosso modo*, nos será posible ver los posibles fallos de continuidad en su estructura;
-
-―aunque, en principio, planificar una escena lleva tiempo, un buen plan nos permitirá escribirla con más soltura y evitará el temido bloqueo del escritor.
+- nos permite aclarar qué queremos contar en esa escena, y, por ende, tener claro qué sobra;
+- podemos trabajar de antemano la caracterización de los personajes que intervienen en una escena, así como los detalles del trasfondo en la que esta transcurre;
+- al conocer previamente cómo se desarrollará la escena, aunque sea *grosso modo*, nos será posible ver los posibles fallos de continuidad en su estructura;
+- aunque, en principio, planificar una escena lleva tiempo, un buen plan nos permitirá escribirla con más soltura y evitará el temido bloqueo del escritor.
 
 No obstante, la planificación (o su exceso) también tiene desventajas:
 
-―si se acomete sin decisión puede ser una excusa para no ponernos manos a la obra y escribir (procrastinar, dicho de otra forma);
+- si se acomete sin decisión puede ser una excusa para no ponernos manos a la obra y escribir (procrastinar, dicho de otra forma);
+- algunos escritores sentirán que planificar una escena encorseta su creatividad.
 
-―algunos escritores sentirán que planificar una escena encorseta su creatividad.
-
-En mi opinión, la segunda desventaja, en realidad, no es tal bien entendido el verdadero espíritu de la planificación. Hace ya sus buenos años, cuando era director de juegos de rol, acabé llegando a una conclusión sobre la conveniencia de improvisar o no el argumento de una partida a medida que esta se desarrollaba:
-
-Improvisar solo merecía la pena cuando no era necesario.
+En mi opinión, la segunda desventaja, en realidad, no es tal bien entendido el verdadero espíritu de la planificación. Hace ya sus buenos años, cuando era director de juegos de rol, acabé llegando a una conclusión sobre la conveniencia de improvisar o no el argumento de una partida a medida que esta se desarrollaba: **improvisar solo merecía la pena cuando no era necesario**.
 
 Permitidme que me explique con un símil. Supongamos que tenemos que viajar del punto A al B. Podemos echar a andar, sin más, e ir improvisando sobre la marcha nuestra ruta; o bien podemos dedicar un poco de tiempo a consultar un mapa y decidir cuál es el mejor camino para ir de A a B.
 
@@ -128,7 +126,7 @@ Y, por supuesto, sé flexible. Hay escenas que prácticamente se escriben solas,
 
 Veamos tres métodos propuestos para planificar el desarrollo de una escena:
 
-**a) Sinopsis secuencial**
+#### a) Sinopsis secuencial
 
 Una sinopsis secuencial no es más que un resumen de lo que ocurrirá en la escena ordenado cronológicamente. Vendría a ser algo así como el guion de nuestra escena.
 
@@ -138,13 +136,13 @@ En nuestro ejemplo, la sinopsis podría ser esta:
 
 En este ejemplo hemos empleado bastante detalle en describir lo que ocurre, pero podríamos haber sido mucho más esquemáticos. Insisto, no debemos ver nunca la planificación como una cortapisa para la creatividad. Quizá, en el proceso de escritura, tengamos una idea feliz sobre esta escena. O descubramos sobre la marcha que algo no funciona. Sin ir más lejos, quizá Ana debería haberse acercado a Juan cuando este se golpea la cabeza, ¿no?
 
-**b) Mapa de ideas**
+#### b) Mapa de ideas
 
 Un mapa de ideas es algo bastante más sencillo: tomas un papel (o una aplicación como Scapple, u OneNote, por ejemplo) y anotas ideas, conceptos, detalles, lo que te venga a la cabeza, y luego las relacionas de forma gráfica.
 
 Un ejemplo: ![](mapa_mental-1030x679.jpg) (Este diagrama está hecho en [Scapple](https://www.literatureandlatte.com/scapple.php "Scapple"), de los creadores de Scrivener).
 
-**c) Cronograma**
+#### c) Cronograma
 
 En el caso de que la escena sea realmente complicada, con muchas acciones que hay que detallar de forma exacta, este es un buen método. Viene a ser una versión mucho más detallada y precisa del primer método.
 
@@ -185,10 +183,6 @@ A estos seis aspectos de nuestra escena podríamos añadir uno más:
 ## Conclusión
 
 Es evidente que planificar una escena lleva tiempo, pero es una herramienta muy útil para arrojar luz sobre los momentos clave de nuestra historia. Cabe destacar, también, que una escaleta con cierto detalle ya habrá hecho buena parte del trabajo de planificación de las escenas; aunque de ese tema, si acaso, hablaremos en otra ocasión.
-
-Bien, aquí concluye el artículo. Espero que os haya resultado interesante.
-
-Imagen destacada: *Straight scale, compasses and map {1}*, de alt-n-anela. [https://www.flickr.com/photos/alt-n-anela/6186308787](https://www.flickr.com/photos/alt-n-anela/6186308787 "Straight scale, compasses and map {1}") // [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/ "Licencia").
 
 [^1]: El complemento perfecto de la planificación de nuestras escenas es, sin duda alguna, la escaleta.
 [^2]: Si usas un narrador parcial (equisciente), no está de más pensar en el aspecto que tendrá el lugar donde transcurre la escena desde la perspectiva del personaje que hace de PdV. Siguiendo el ejemplo anterior, Mateo, un matón de hecho a los bajos fondos, armado hasta los dientes, no se sentirá muy amedrentado en esa calle oscura; o no tanto, al menos, como Pedro, un oficinista cincuentón que no sabe muy bien cómo demonios ha acabado allí.

@@ -1,10 +1,14 @@
 ---
-aliases: ["/posts/el-dialogo-3/", "/el-dialogo-3/"]
-title: "El diálogo, 3"
-date: "2017-07-08"
-categories: 
-  - "articulos"
-coverImage: "pexels-photo-1309899.jpeg"
+aliases:
+  - /posts/el-dialogo-3/
+  - /el-dialogo-3/
+title: El diálogo, 3
+date: 2017-07-08
+categories:
+  - articulos
+tags:
+  - escritura
+revisado: true
 ---
 En esta tercera y última entrega de esta serie de artículos abordaremos los incisos del diálogo y daremos unos cuantos consejos sobre ellos.
 
@@ -12,7 +16,7 @@ Comencemos:
 
 Ya definimos en la primera entrega, de forma sucinta, qué es el inciso de un diálogo: el conjunto de las aclaraciones del narrador que acompañan al parlamento del personaje.
 
-Aunque obvio, conviene dejar claro que si bien un diálogo ha de tener, por fuerza, parlamentos, no tiene por qué tener incisos. Conviene recordar, también, que en castellano el inciso se separa siempre del parlamento mediante la raya (cuyo uso ya tratamos en la [primera parte](/el-dialogo-1/ "El diálogo, 1") de esta serie).
+Aunque obvio, conviene dejar claro que si bien un diálogo ha de tener, por fuerza, parlamentos, no tiene por qué tener incisos. Conviene recordar, también, que en castellano el inciso se separa siempre del parlamento mediante la raya (cuyo uso ya tratamos en la [primera parte](/el-dialogo-1/) de esta serie).
 
 La función más característica del inciso es la de atribución, mediante la cual este atribuye el parlamento a un personaje ―si acaso, como veremos después, con indicaciones sobre cómo se expresa―; pero, naturalmente, no es la única.
 
@@ -55,7 +59,7 @@ Veamos un último ejemplo:
 
 Los incisos de este ejemplo atribuyen el diálogo, acotan la escena, describen, e introducen una introspección, todo en un batiburrillo quizá demasiado extenso. Líneas de diálogo así ―en buena parte, sospecho, debidas a la influencia de la literatura anglosajona― son cada vez más frecuentes. Lo cual nos lleva al primero de nuestros cinco consejos:
 
-## 1\. No hagas incisos demasiado prolijos
+## 1. No hagas incisos demasiado prolijos
 
 Un inciso demasiado extenso puede hacer complicada la comprensión del diálogo, sobre todo si en él se mezclan descripciones, introspecciones y acotaciones. Naturalmente, definir qué es «demasiado extenso» es el quid de la cuestión, y además, va según opiniones y gustos.
 
@@ -69,7 +73,7 @@ Entonces, el ejemplo anterior podría reformularse de esta forma:
 > 
 > ―Lo siento.
 
-## 2\. Usa un verbo declarativo adecuado, y si tienes dudas, usa decir
+## 2. Usa un verbo declarativo adecuado, y si tienes dudas, usa decir
 
 En la primera entrega de esta serie ya vimos el asunto de los verbos llamados declarativos, de habla o de comunicación, a los que prefiero referirme con el simpático latinajo *dicendi*.
 
@@ -87,7 +91,7 @@ Así que puedes, si lo crees conveniente, emplear dicendi diferentes a decir; fa
 
 Y para eso, nada como hacerle una visita a nuestro amigo el diccionario. Muchas veces he creído saber el significado de una palabra y al consultarlo me he llevado una sorpresa; y es mejor, en cualquier caso, llevársela antes y no después de haber terminado de escribir.
 
-## 3\. No uses acotaciones rebuscadas
+## 3. No uses acotaciones rebuscadas
 
 Ah, pero ¿qué podemos considerar como rebuscado? Es difícil definirlo, aunque suena lógico que las acotaciones (en especial las que refieren gestos de los personajes) deberían usarse para añadir significado a los parlamentos, no para lucirnos como escritores.
 
@@ -141,7 +145,7 @@ No comparto la opinión de Magrinyà, sin embargo, y considero que esa «carpint
 
 Por último: a los que estén interesados en trabajar en sus acotaciones, les recomiendo la siguiente lectura (en inglés, lo siento): *The Emotion Thesaurus: A Writer’s Guide To Character expression* (Angela Ackerman & Becca Puglisi, 2012, autopublicación).
 
-## 4\. Usa introspecciones para caracterizar a tus personajes
+## 4. Usa introspecciones para caracterizar a tus personajes
 
 Las introspecciones permiten al narrador mostrar de forma directa los pensamientos de los personajes, sea de forma directa («Tierra, trágame», pensó Juan), indirecta (Juan deseó que se lo tragara la tierra).[^6]
 
@@ -163,7 +167,7 @@ Veamos un ejemplo:
 
 Como se aprecia, las introspecciones se prestan al tono irónico y cómico, e incluso sirven para revelar facetas insospechadas del carácter de un personaje. Tan solo una advertencia: como siempre, recomiendo atenerse a los principios claves de la escritura: claridad y precisión: un diálogo con demasiadas introspecciones intercaladas puede confundir al lector y hacerle perder el hilo.
 
-## 5\. Usa las descripciones para dosificar la información
+## 5. Usa las descripciones para dosificar la información
 
 Para ilustrar este consejo, veamos primero un ejemplo:
 

@@ -1,10 +1,14 @@
 ---
-aliases: ["/posts/el-dialogo-1/", "/el-dialogo-1/"]
-title: "El diálogo, 1"
-date: "2017-06-10"
-categories: 
-  - "articulos"
-coverImage: "pexels-photo-1309899.jpeg"
+aliases:
+  - /posts/el-dialogo-1/
+  - /el-dialogo-1/
+title: El diálogo, 1
+date: 2017-06-10
+categories:
+  - articulos
+tags:
+  - esgrima
+revisado:
 ---
 ## Introducción
 
@@ -26,23 +30,21 @@ Se infiere de esta definición, también, que en un diálogo deben participar al
 
 Entre las principales ventajas que presenta el diálogo, cabe destacar las siguientes:
 
-―credibilidad: al representar una conversación, sin apenas injerencias del narrador, lo narrado cobra credibilidad ante nuestros ojos al poder escuchar las voces de los personajes de forma directa, como si estuviéramos en su presencia sin ser advertidos;
-
-―dinamismo: el diálogo nos permite ofrecer información de forma ágil y, si está bien trabajado, sutil;
-
-―caracterización: junto a la introspección, es el principal modo narrativo[^3] para dar vida a los personajes y profundizar en su caracterización.
+- credibilidad: al representar una conversación, sin apenas injerencias del narrador, lo narrado cobra credibilidad ante nuestros ojos al poder escuchar las voces de los personajes de forma directa, como si estuviéramos en su presencia sin ser advertidos;
+- dinamismo: el diálogo nos permite ofrecer información de forma ágil y, si está bien trabajado, sutil;
+- caracterización: junto a la introspección, es el principal modo narrativo[^3] para dar vida a los personajes y profundizar en su caracterización.
 
 ## Tipos de diálogo
 
 En los relatos en prosa se pueden representar lo que dicen los personajes mediante dos formas de diálogo diferentes:
 
-§ Discurso o estilo directo: se transcribe de forma literal lo que dicen los personajes. Es el objeto de este artículo.
+**§ Discurso o estilo directo:** se transcribe de forma literal lo que dicen los personajes. Es el objeto de este artículo.
 
 Ejemplo:
 
 > ―Lo has sabido todo este tiempo ―dijo Juan.
 
-§ Discurso o estilo indirecto: se transcribe mediante el discurso del narrador lo que dicen los personajes. (Habitualmente, el parlamento del personaje se introduce mediante oraciones subordinadas, lo cual hace que sea un estilo algo tedioso si se emplea en conversaciones largas).
+**§ Discurso o estilo indirecto:** se transcribe mediante el discurso del narrador lo que dicen los personajes. (Habitualmente, el parlamento del personaje se introduce mediante oraciones subordinadas, lo cual hace que sea un estilo algo tedioso si se emplea en conversaciones largas).
 
 Ejemplo:
 
@@ -66,7 +68,10 @@ El más común de todos estos verbos es *decir,* como habrán sospechado ya nues
 
 Veámoslo mediante estos ejemplos:
 
-> ―Lo has sabido todo este tiempo ―dijo Juan. ―Lo has sabido todo este tiempo ―respondió Juan. ―Lo has sabido todo este tiempo ―protestó Juan. ―Lo has sabido todo este tiempo ―masculló Juan.
+> ―Lo has sabido todo este tiempo ―dijo Juan.
+> ―Lo has sabido todo este tiempo ―respondió Juan.
+> ―Lo has sabido todo este tiempo ―protestó Juan.
+> ―Lo has sabido todo este tiempo ―masculló Juan.
 
 En los dos primeros ejemplos, el dicendi efectúa la atribución del parlamento sin añadir matices de significado, aunque se puede decir que *respondió* sí que establece un pequeño matiz: Juan está respondiendo, por lo que otro personaje debe de haber hablado antes que él.
 
@@ -78,11 +83,16 @@ Hay una regla de oro a este respecto: ante la duda, usa *decir.* No te equivocar
 
 Por último, cabe añadir que los incisos de atribución solo se deberían usar en caso de que sean necesarios o proporcionen información pertinente. Veámoslo en el siguiente ejemplo:
 
-> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste. ―Lo siento ―dijo Ana―. Pero no podía contártelo. ―¿Por qué? ―dijo Juan. ―No insistas, por favor… ―dijo Ana. ―¡Dímelo! ―dijo Juan.
+> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste. 
+> ―Lo siento ―dijo Ana―. Pero no podía contártelo.
+> ―¿Por qué? ―dijo Juan.
+> ―No insistas, por favor… ―dijo Ana. 
+> ―¡Dímelo! ―dijo Juan.
 
 Como puede apreciarse, las atribuciones del diálogo resultan innecesarias a partir del segundo parlamento. Quedaría mejor así:
 
-> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste. ―Lo siento ―dijo Ana―. Pero no podía contártelo. ―¿Por qué? ―No insistas, por favor… ―¡Dímelo!
+> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste. 
+> ―Lo siento ―dijo Ana―. Pero no podía contártelo. ―¿Por qué? ―No insistas, por favor… ―¡Dímelo!
 
 ## Uso de la raya
 
@@ -114,47 +124,47 @@ Para abordar las particularidades del uso de la raya en los diálogos establecer
 
 En el caso más sencillo, un parlamento sin inciso, la raya se emplea como signo simple:
 
-―Lo has sabido todo este tiempo.
+> ―Lo has sabido todo este tiempo.
 
 Como se observa en el ejemplo, la raya va pegada al parlamento del personaje. El parlamento comenzará con mayúscula inicial, salvo que se quiera representar que este está incompleto. En tal caso, se emplearán los puntos suspensivos y se dejará un espacio tras estos, así:
 
-―… lo has sabido todo este tiempo.
+> ―… lo has sabido todo este tiempo.
 
 ### Segundo caso: Parlamento con inciso simple
 
-―Lo has sabido todo este tiempo ―dijo Juan.
+> ―Lo has sabido todo este tiempo ―dijo Juan.
 
 En este caso, el parlamento tiene un inciso simple, un dicendi en el ejemplo mostrado arriba.
 
 El inciso comienza siempre en minúscula si se trata de un dicendi, aunque el signo de cierre del parlamento pida la mayúscula:
 
-―¡Lo has sabido todo este tiempo! ―dijo Juan.
+> ―¡Lo has sabido todo este tiempo! ―dijo Juan.
 
 En el caso de que el inciso no sea un dicendi, este comenzará con mayúscula inicial y el parlamento terminará con un punto:
 
-―Lo has sabido todo este tiempo. ―Juan, enfurecido, abandonó la habitación dando un portazo.
+> ―Lo has sabido todo este tiempo. ―Juan, enfurecido, abandonó la habitación dando un portazo.
 
 Si el parlamento finaliza con un signo indicador de modalidad (signos de interrogación, exclamación y puntos suspensivos), el punto será innecesario al tener estos su mismo valor:
 
-―¿Lo has sabido todo este tiempo? ―Juan, enfurecido, abandonó la habitación dando un portazo.
+>―¿Lo has sabido todo este tiempo? ―Juan, enfurecido, abandonó la habitación dando un portazo.
 
-―¡Lo has sabido todo este tiempo! ―Juan, enfurecido, abandonó la habitación dando un portazo.
+>―¡Lo has sabido todo este tiempo! ―Juan, enfurecido, abandonó la habitación dando un portazo.
 
-―Lo has sabido todo este tiempo… ―Juan, enfurecido, abandonó la habitación dando un portazo.
+>―Lo has sabido todo este tiempo… ―Juan, enfurecido, abandonó la habitación dando un portazo.
 
 Nótese, además, que no se emplea una segunda raya para cerrar el inciso, aunque (por incongruente que pueda parecer) la RAE[^9] sí la exige cuando este signo se emplea para delimitar incisos en una oración, como alternativa al paréntesis.[^10]
 
 De esta forma, estos dos ejemplos son incorrectos según la RAE:
 
-\*—¡Lo has sabido todo este tiempo! ―dijo Juan―.
+>\*—¡Lo has sabido todo este tiempo! ―dijo Juan―.
 
-\*Juan y Pedro llegaron a la estación en ruinas ―la habían cerrado en 1924, recordó Juan.
+>\*Juan y Pedro llegaron a la estación en ruinas ―la habían cerrado en 1924, recordó Juan.
 
 ### Tercer caso. Parlamento con incisos complejos
 
 En este tercer caso, el inciso se coloca en mitad del parlamento.
 
-―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste.
+>―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste.
 
 Como puede observarse en el ejemplo, esta vez sí se emplea la raya como signo doble para delimitar el inciso.
 
@@ -164,76 +174,71 @@ a) El inciso comienza con un verbum dicendi:
 
 El inciso va en minúscula, como en el anterior caso; si está situado antes de un signo delimitador (coma, punto y coma, dos puntos), este se colocará después de la raya de cierre:
 
-―Lo has sabido todo este tiempo ―dijo Juan―, y no me lo contaste.
+>―Lo has sabido todo este tiempo ―dijo Juan―, y no me lo contaste.
 
-―Lo has sabido todo este tiempo ―dijo Juan―; y no me lo contaste.
+>―Lo has sabido todo este tiempo ―dijo Juan―; y no me lo contaste.
 
-―Lo has sabido todo este tiempo ―dijo Juan―: y no me lo contaste.
+>―Lo has sabido todo este tiempo ―dijo Juan―: y no me lo contaste.
 
 Hay una excepción: los puntos suspensivos se colocarán antes, al ser un signo indicador de modalidad:
 
-―Lo has sabido todo este tiempo… ―dijo Juan― y no me lo contaste.
+>―Lo has sabido todo este tiempo… ―dijo Juan― y no me lo contaste.
 
 En el caso de que el inciso finalice con dos puntos, estos se situarán, como en los casos anteriores, después de la raya de cierre:
 
-―Lo has sabido todo este tiempo ―dijo Juan, y después de un rato añadió―: ¿Cómo has podido hacerme esto?
+>―Lo has sabido todo este tiempo ―dijo Juan, y después de un rato añadió―: ¿Cómo has podido hacerme esto?
 
 El inciso no tiene por qué limitarse al verbum dicendi; puede incluir descripciones, introspecciones y demás acotaciones del narrador. Por ejemplo:
 
-―Lo has sabido todo este tiempo ―dijo Juan, furioso, mientras apretaba los puños hasta emblanquecer los nudillos―. Y no me lo contaste.
+>―Lo has sabido todo este tiempo ―dijo Juan, furioso, mientras apretaba los puños hasta emblanquecer los nudillos―. Y no me lo contaste.
 
 Aunque no muy ortodoxo, en principio es válido incluir signos delimitadores con valor de punto en el interior del inciso. Veamos este ejemplo:
 
-―Lo has sabido todo este tiempo ―dijo Juan, furioso. Apretó los puños hasta emblanquecer los nudillos―. Y no me lo contaste.
+>―Lo has sabido todo este tiempo ―dijo Juan, furioso. Apretó los puños hasta emblanquecer los nudillos―. Y no me lo contaste.
 
 O este otro:
 
-―Lo has sabido todo este tiempo ―dijo Juan, furioso, mientras apretaba los puños hasta emblanquecer los nudillos. ¿Cómo se atrevía Pedro a hacerle esto?―. Y no me lo contaste.
+>―Lo has sabido todo este tiempo ―dijo Juan, furioso, mientras apretaba los puños hasta emblanquecer los nudillos. ¿Cómo se atrevía Pedro a hacerle esto?―. Y no me lo contaste.
 
 Pero en ningún caso el inciso ha de cerrarse con punto, como en este ejemplo incorrecto:
 
-\*―Lo has sabido todo este tiempo ―dijo Juan, furioso.―. Y no me lo contaste.
+>\*―Lo has sabido todo este tiempo ―dijo Juan, furioso.―. Y no me lo contaste.
 
 c) El inciso no comienza con un verbum dicendi:
 
 En este particular, el parlamento termina con punto (salvo que lo haga con un signo con valor de punto) y el inciso con mayúscula, como hemos visto anteriormente, pero esta vez, dado que el parlamento continúa, se emplea raya de cierre y punto detrás de esta:
 
-―Lo has sabido todo este tiempo. ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños―. Y no me lo contaste.
+>―Lo has sabido todo este tiempo. ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños―. Y no me lo contaste.
 
 De igual forma que ocurriría de comenzar con un verbum dicendi, si el inciso acaba con dos puntos, estos se situarán después de la raya de cierre en sustitución del punto:
 
-―Lo has sabido todo este tiempo. ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños; después añadió―: Y no me lo contaste.
+>―Lo has sabido todo este tiempo. ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños; después añadió―: Y no me lo contaste.
 
 Insisto: al no comenzar con un verbum dicendi, se exige punto (o un signo con valor de punto) para finalizar el parlamento afectado por el inciso. Por lo tanto, el siguiente ejemplo sería incorrecto:
 
-\*―Lo has sabido todo este tiempo ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños―; y no me lo contaste.
+>\*―Lo has sabido todo este tiempo ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños―; y no me lo contaste.
 
 Hay una única excepción. Si el inciso se coloca en mitad del parlamento, interrumpiéndolo, no comenzará con mayúscula inicial ni será necesario signo con valor de punto:
 
-―Lo has sabido todo este tiempo ―fuera de sí, Juan lo miraba con desprecio, apretados los puños― y no me lo contaste.
+>―Lo has sabido todo este tiempo ―fuera de sí, Juan lo miraba con desprecio, apretados los puños― y no me lo contaste.
 
 ### Cuarto caso. Un mismo parlamento en varios párrafos
 
 Las comillas de seguir (») se emplean cuando el parlamento de un mismo personaje ocupa varios párrafos:
 
-―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.
-
-»Y no me lo contaste.
+>―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.
+>»Y no me lo contaste.
 
 Solo se emplea una comilla latina, la de cierre, la cual se coloca pegada al parlamento como si fuera una raya. La única excepción es que el parlamento comience con puntos suspensivos, como puede verse en el ejemplo a continuación:
 
-―Lo has sabido todo este tiempo… ―Juan lo miró con desprecio y apretó los puños.
-
-»… y no me lo contaste.
+>―Lo has sabido todo este tiempo… ―Juan lo miró con desprecio y apretó los puños.
+>»… y no me lo contaste.
 
 Si el parlamento del personaje ocupa varios párrafos, se colocarán tantas comillas de seguir como sean precisas:
 
-―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.
-
-»Y no me lo contaste, pese a todo lo que he hecho por ti…
-
+>―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.
+>»Y no me lo contaste, pese a todo lo que he hecho por ti…
 »¿Es que no tienes nada que decir? Ya veo que no…
-
 »Vete. Vete y no vuelvas. ¡Vete!
 
 ## Consideraciones finales

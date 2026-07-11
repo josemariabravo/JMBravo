@@ -1,7 +1,8 @@
 ---
 title: Dead wrong
+subtitle: Novela ultracorta
 date: 2024-11-23
-cover: "images/dead-wrong-cubierta.jpg"
+cover: images/dead-wrong-cubierta.jpg
 resumen: Novela ultracorta a caballo entre el género negro, la fantasía oscura y el horror.
 amazon_url: https://www.amazon.es/dp/B0DNSL2XCQ/
 muestra:

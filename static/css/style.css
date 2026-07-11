@@ -787,11 +787,15 @@
 
   .book-separador {
     display: block;
-    font-family: Times, "Times New Roman", serif;
-    font-size: var(--fs-lg);
-    line-height: 1;
-    margin: var(--sp-1) auto 0;
-    color: var(--muted);
+    margin: var(--sp-2) auto;
+    color: var(--accent);
+  }
+
+  .book-separador svg {
+    display: block;
+    width: 22px;
+    height: auto;
+    margin-inline: auto;
   }
 
   .book-resumen {

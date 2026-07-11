@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $theta := readFile "static/svg/theta.svg" }}
 <div class="container">
   <div class="list-page">
     <h1>{{ .Title }}</h1>
@@ -15,7 +16,7 @@
         <h3>{{ $book.Title }}</h3>
         <p class="book-subtitle">{{ with $book.Params.subtitle }}{{ . }}{{ end }}</p>
         {{ with $book.Params.resumen }}
-        <span class="book-separador" aria-hidden="true">Θ</span>
+        <span class="book-separador" aria-hidden="true">{{ $theta | safeHTML }}</span>
         <p class="book-resumen">{{ . }}</p>
         {{ end }}
       </a>
