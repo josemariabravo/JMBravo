@@ -1,5 +1,5 @@
 <section class="hero">
-  {{ $images := resources.Match "hero/*" }}
+  {{ $images := where (resources.Match "hero/*") "MediaType.SubType" "ne" "svg" }}
   {{ with $images | shuffle | first 1 }}
   {{ $img := index . 0 }}
   {{ $width := 2000 }}

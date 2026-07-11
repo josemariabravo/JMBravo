@@ -1894,8 +1894,14 @@
   /* el fondo del hero se fija vía custom property (--hero-img) en vez de
      background-image directo en el atributo style: así, en el media query
      de arriba (donde el hero queda oculto), la propiedad background-image
-     ni siquiera se declara y el navegador no descarga la imagen en móvil */
-  @media (min-width: 1061px) {
+     ni siquiera se declara y el navegador no descarga la imagen en móvil.
+     1060px a propósito (no 1061): coincide con el límite del media query
+     de arriba para que no quede un hueco fraccionario (p.ej. 1060.5px con
+     zoom no entero) donde el hero no esté oculto pero tampoco tenga imagen
+     de fondo. En el punto exacto 1060px ambos aplican a la vez, pero como
+     display:none gana visualmente y los navegadores no piden el fondo de
+     un elemento oculto, no hay doble descarga. */
+  @media (min-width: 1060px) {
     .hero-bg {
       background-image: var(--hero-img);
     }

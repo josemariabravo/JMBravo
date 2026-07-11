@@ -21,6 +21,7 @@ Esta página tiene dos propósitos fundamentales:
 - un sitio web de autor donde ofrecer información sobre mis libros, publicados y por publicar;
 - servir como repositorio documental de toda mi obra, lo cual incluye cuentos, relatos, novelas, ensayos y artículos.  
 
+Ahí es nada, si me lo preguntan.
 
 ## Secciones principales
 

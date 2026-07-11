@@ -8,7 +8,7 @@ categories:
   - articulos
 tags:
   - esgrima
-revisado:
+revisado: true
 ---
 ## Introducción
 
@@ -68,10 +68,10 @@ El más común de todos estos verbos es *decir,* como habrán sospechado ya nues
 
 Veámoslo mediante estos ejemplos:
 
-> ―Lo has sabido todo este tiempo ―dijo Juan.
-> ―Lo has sabido todo este tiempo ―respondió Juan.
-> ―Lo has sabido todo este tiempo ―protestó Juan.
-> ―Lo has sabido todo este tiempo ―masculló Juan.
+> ―Lo has sabido todo este tiempo ―dijo Juan.  
+> ―Lo has sabido todo este tiempo ―respondió Juan.  
+> ―Lo has sabido todo este tiempo ―protestó Juan.  
+> ―Lo has sabido todo este tiempo ―masculló Juan.  
 
 En los dos primeros ejemplos, el dicendi efectúa la atribución del parlamento sin añadir matices de significado, aunque se puede decir que *respondió* sí que establece un pequeño matiz: Juan está respondiendo, por lo que otro personaje debe de haber hablado antes que él.
 
@@ -83,16 +83,19 @@ Hay una regla de oro a este respecto: ante la duda, usa *decir.* No te equivocar
 
 Por último, cabe añadir que los incisos de atribución solo se deberían usar en caso de que sean necesarios o proporcionen información pertinente. Veámoslo en el siguiente ejemplo:
 
-> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste. 
+> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste.  
 > ―Lo siento ―dijo Ana―. Pero no podía contártelo.
-> ―¿Por qué? ―dijo Juan.
-> ―No insistas, por favor… ―dijo Ana. 
+> ―¿Por qué? ―dijo Juan.  
+> ―No insistas, por favor… ―dijo Ana.  
 > ―¡Dímelo! ―dijo Juan.
 
 Como puede apreciarse, las atribuciones del diálogo resultan innecesarias a partir del segundo parlamento. Quedaría mejor así:
 
-> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste. 
-> ―Lo siento ―dijo Ana―. Pero no podía contártelo. ―¿Por qué? ―No insistas, por favor… ―¡Dímelo!
+> ―Lo has sabido todo este tiempo ―dijo Juan―. Y no me lo contaste.    
+> ―Lo siento ―dijo Ana―. Pero no podía contártelo.  
+> ―¿Por qué?  
+> ―No insistas, por favor…  
+> ―¡Dímelo!  
 
 ## Uso de la raya
 
@@ -110,11 +113,15 @@ Sin embargo, es mucho más recomendable emplear el carácter *horizontal bar* (U
 
 Veamos por qué con estos dos ejemplos:
 
-![](3.-El-diálogo-1.Imagen-del-artículo.emdash-horizontalbar.png)
+![](emdash-horizontalbar.png)
 
 Como puede apreciarse, en el primer ejemplo el carácter *em dash* no se comporta todo lo bien que nos gustaría cuando la raya se encuentra a final de una línea, pues lo deseable sería que permaneciera pegada al inciso al cual afecta. En el segundo ejemplo, en el que se ha empleado el carácter *horizontal bar,* el comportamiento es el deseable (y correcto desde el punto de vista ortotipográfico).[^8]
 
 (Para más información, recomiendo la siguiente lectura: [Rayas de inciso y de diálogo](http://www.tex-tipografia.com/rayas_incisos_dialogos.html "Rayas de inciso y de diálogo"), de Javier Bezos).
+
+> **Actualización:** debo matizar lo anterior:
+> - el símbolo horizontal bar no está disponible en todas las tipografías. Por ejemplo, Minion Pro, un clásico editorial, solo tienen em dash;
+> - en programas de maquetación como InDesign, el comportamiento de horizontal bar y em dash es el mismo. En este último caso, recomiendo aplicar tanto a los em dash como a los horizontal bar un estilo de carácter con la propiedad «no break»/«no separar» para evitar este comportamiento anómalo.
 
 ### Particularidades del uso de la raya
 
@@ -174,10 +181,8 @@ a) El inciso comienza con un verbum dicendi:
 
 El inciso va en minúscula, como en el anterior caso; si está situado antes de un signo delimitador (coma, punto y coma, dos puntos), este se colocará después de la raya de cierre:
 
->―Lo has sabido todo este tiempo ―dijo Juan―, y no me lo contaste.
-
->―Lo has sabido todo este tiempo ―dijo Juan―; y no me lo contaste.
-
+>―Lo has sabido todo este tiempo ―dijo Juan―, y no me lo contaste.  
+>―Lo has sabido todo este tiempo ―dijo Juan―; y no me lo contaste.  
 >―Lo has sabido todo este tiempo ―dijo Juan―: y no me lo contaste.
 
 Hay una excepción: los puntos suspensivos se colocarán antes, al ser un signo indicador de modalidad:
@@ -210,9 +215,9 @@ En este particular, el parlamento termina con punto (salvo que lo haga con un si
 
 >―Lo has sabido todo este tiempo. ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños―. Y no me lo contaste.
 
-De igual forma que ocurriría de comenzar con un verbum dicendi, si el inciso acaba con dos puntos, estos se situarán después de la raya de cierre en sustitución del punto:
+Si el inciso acaba con dos puntos, estos se situarán después de la raya de cierre, en sustitución del punto:
 
->―Lo has sabido todo este tiempo. ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños; después añadió―: Y no me lo contaste.
+>―Lo has sabido todo este tiempo. ―Fuera de sí, Juan lo miraba con desprecio, apretados los puños; después, añadió―: Y no me lo contaste.
 
 Insisto: al no comenzar con un verbum dicendi, se exige punto (o un signo con valor de punto) para finalizar el parlamento afectado por el inciso. Por lo tanto, el siguiente ejemplo sería incorrecto:
 
@@ -226,19 +231,19 @@ Hay una única excepción. Si el inciso se coloca en mitad del parlamento, inter
 
 Las comillas de seguir (») se emplean cuando el parlamento de un mismo personaje ocupa varios párrafos:
 
->―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.
+>―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.  
 >»Y no me lo contaste.
 
 Solo se emplea una comilla latina, la de cierre, la cual se coloca pegada al parlamento como si fuera una raya. La única excepción es que el parlamento comience con puntos suspensivos, como puede verse en el ejemplo a continuación:
 
->―Lo has sabido todo este tiempo… ―Juan lo miró con desprecio y apretó los puños.
+>―Lo has sabido todo este tiempo… ―Juan lo miró con desprecio y apretó los puños.  
 >»… y no me lo contaste.
 
 Si el parlamento del personaje ocupa varios párrafos, se colocarán tantas comillas de seguir como sean precisas:
 
->―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.
->»Y no me lo contaste, pese a todo lo que he hecho por ti…
-»¿Es que no tienes nada que decir? Ya veo que no…
+>―Lo has sabido todo este tiempo. ―Juan lo miró con desprecio y apretó los puños.  
+>»Y no me lo contaste, pese a todo lo que he hecho por ti…  
+»¿Es que no tienes nada que decir? Ya veo que no…  
 »Vete. Vete y no vuelvas. ¡Vete!
 
 ## Consideraciones finales
@@ -255,7 +260,8 @@ En esta primera entrega he abordado, de forma sucinta, en qué consiste el diál
 - REAL ACADEMIA ESPAÑOLA: *Diccionario panhispánico de dudas,* 2.ª ed. Madrid: Santillana, 2005.
 - REAL ACADEMIA ESPAÑOLA: *Ortografía de la lengua española,* Madrid: Espasa Libros, 2010.
 
-[^1]: Las estructuras textuales son las distintas formas en las que se organiza la información de un texto, tanto en cuanto a la forma como al fondo o contenido. (Para más información, recomiendo esta lectura: [Estructura textual](http://cvc.cervantes.es/ensenanza/biblioteca*ele/diccio*ele/diccionario/estructuratextual.htm "Estructura textual"
+
+[^1]: Las estructuras textuales son las distintas formas en las que se organiza la información de un texto, tanto en cuanto a la forma como al fondo o contenido. (Para más información, recomiendo esta lectura: [Estructura textual](http://cvc.cervantes.es/ensenanza/biblioteca*ele/diccio*ele/diccionario/estructuratextual.htm)).
 [^2]: Diccionario del uso del español, de María Moliner.
 [^3]: Los modos narrativos parten del desarrollo de la narración, una de las cinco formas de discurso clásicas. Son las distintas formas de expresión que adoptan los textos narrativos, en cuanto a forma y función. No hay consenso en la clasificación de los modos narrativos, pero casi todas las tipologías incluyen los siguientes: descripción, exposición, introspección, diálogo y transición.
 [^4]: Las perífrasis verbales cuyo verbo principal sea un verbo de comunicación (por ejemplo, *tratar de decir*) deberían considerarse como un dicendi a todos los efectos.
@@ -264,4 +270,4 @@ En esta primera entrega he abordado, de forma sucinta, en qué consiste el diál
 [^7]: Lamentablemente, no todas las fuentes de letra incluyen este signo. Para evitar el comportamiento indeseable del *em dash* puede utilizarse, en programas de maquetación como Adobe InDesign, el siguiente trucos: asignar el atributo «No break» a todas las rayas del texto.
 [^8]: Cabe señalar que cuando se maqueta un texto hay una opción alternativa para evitar el comportamiento indeseable del *em dash*: en InDesign, por ejemplo, basta con marcar todas las rayas con un estilo de carácter que incluya el atributo *no break*. Mano de santo.
 [^9]: Real Academia Española.
-[^10]: No hay un motivo ―más allá de la costumbre― que justifique esta incongruencia, en realidad. El lexicógrafo José Martínez de Sousa aboga por suprimir la raya de cierre cuando esta actúa como delimitador de un inciso y se sitúa al final del enunciado. (V. Martínez, 2008b, § 10.5.12.5.2).
+[^10]: No hay un motivo ―más allá de la costumbre— que justifique esta incongruencia, en realidad. El lexicógrafo José Martínez de Sousa aboga por suprimir la raya de cierre cuando esta actúa como delimitador de un inciso y se sitúa al final del enunciado. (V. Martínez, 2008b, § 10.5.12.5.2).

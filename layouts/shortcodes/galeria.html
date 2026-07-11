@@ -4,11 +4,14 @@
 <div class="galeria" id="{{ $id }}">
   {{ range $images }}
   {{ $img := . }}
-  {{ $fullWidth := 2000 }}
-  {{ if lt $img.Width $fullWidth }}{{ $fullWidth = $img.Width }}{{ end }}
-  {{ $full := $img.Process (printf "resize %dx webp q75" $fullWidth) }}
+  {{ $fullSrc := $img.RelPermalink }}
+  {{ if ne $img.MediaType.SubType "svg" }}
+    {{ $fullWidth := 2000 }}
+    {{ if lt $img.Width $fullWidth }}{{ $fullWidth = $img.Width }}{{ end }}
+    {{ $fullSrc = ($img.Process (printf "resize %dx webp q75" $fullWidth)).RelPermalink }}
+  {{ end }}
   <figure class="galeria-item">
-    <button class="galeria-btn" data-src="{{ $full.RelPermalink }}" data-alt="{{ $img.Title }}" aria-label="Ampliar imagen">
+    <button class="galeria-btn" data-src="{{ $fullSrc }}" data-alt="{{ $img.Title }}" aria-label="Ampliar imagen">
       {{ partial "responsive-img.html" (dict "img" $img "alt" $img.Title "sizes" "(max-width: 640px) 90vw, 340px" "widths" (slice 260 520 1040)) }}
     </button>
   </figure>

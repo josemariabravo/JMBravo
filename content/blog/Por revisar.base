@@ -14,3 +14,8 @@ views:
         - revisado != true
     order:
       - title
+    sort:
+      - property: title
+        direction: ASC
+      - property: date
+        direction: ASC
