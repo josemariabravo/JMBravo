@@ -1,3 +1,4 @@
-{{< nota >}}
+{{% nota %}}
 Lorem ipsum dolor sic amet
-{{< /nota >}}
+Texto de la nota, admite *cursiva*, [enlaces](url) y párrafos separados por línea en blanco.
+{{% /nota %}}

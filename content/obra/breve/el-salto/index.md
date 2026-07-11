@@ -7,6 +7,9 @@ categories:
 {{< nota >}}
 Este cuento forma parte del libro de cuentos *[Homini lupus](/libros/homini-lupus/)*.
 {{< /nota >}}
+
+***
+
 ## 1
 
 Cerró la puerta de aluminio y echó la llave, pero supo que eso no la detendría. Titubeó con el resuello abrasándole el pecho, el miedo cual zarpa enorme y negra aferrada a la garganta. Tras la puerta, oyó gruñidos, jadeos, un rabioso arañar contra el metal; después, la hoja retembló con la primera embestida.

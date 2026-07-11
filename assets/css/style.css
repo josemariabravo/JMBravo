@@ -1229,11 +1229,17 @@
      en un h2 con letra mayor equivaldría a una columna más ancha que
      la de los párrafos — se fija en rem el ancho ya resuelto de
      --reading para la prosa (Source Serif 4, --fs-md) */
+  .obra-single h1,
   .obra-single .post-content h2,
   .obra-single .post-content h3,
   .obra-single .post-content h4 {
     max-width: 35.15rem;
     text-align: center;
+  }
+
+  .obra-single .obra-meta {
+    max-width: 35.15rem;
+    justify-content: center;
   }
 
   .obra-single .post-content h2 {
@@ -1245,6 +1251,20 @@
   .obra-single .post-content p {
     text-align: justify;
     hyphens: auto;
+  }
+
+  .obra-single .post-content hr {
+    width: 6rem;
+    margin-top: var(--sp-3);
+    margin-bottom: var(--sp-4);
+    /* la columna de texto (35.15rem) queda pegada a la izquierda dentro
+       de .post-content, que es más ancho (ver comentario más arriba);
+       para que el hr quede centrado respecto a esa columna -y no
+       respecto a .post-content- se calcula el margen izquierdo a mano
+       en vez de usar margin-inline: auto */
+    margin-left: calc((35.15rem - 6rem) / 2);
+    border: none;
+    border-top: 1px solid var(--line);
   }
 
   .obra-sinopsis-destacada {
@@ -1266,14 +1286,17 @@
   /* ·· callout / nota destacada ·· */
 
   .nota {
+    max-width: var(--reading);
     background: var(--surface);
     border: 1px solid var(--accent);
     padding: 1rem;
     border-radius: var(--radius);
-    margin: 3rem 1rem 3rem 1rem;
+    margin-block: 3rem;
   }
 
-  .nota p { max-width: none; margin-bottom: 0; }
+  .nota p { max-width: none; }
+
+  .nota p:last-child { margin-bottom: 0; }
 
   /* ·· descargas ·· */
 
