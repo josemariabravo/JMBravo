@@ -1866,6 +1866,24 @@
 
   }
 
+  /* ·· responsive: móvil muy estrecho ··
+     el logo (~234px) + el hueco (1rem) + el botón hamburguesa (32px) no tienen
+     margen de sobra: por debajo de ~330px de ancho ese total ya no cabe en el
+     contenedor y, como ninguno de los dos puede encogerse (flex-shrink: 0), el
+     botón se sale de la pantalla. Se reduce el logo y el hueco para dejar
+     margen también en teléfonos pequeños o con letra del sistema ampliada */
+  @media (max-width: 420px) {
+
+    .site-logo svg {
+      height: 44px;
+    }
+
+    .site-header-inner {
+      gap: .75rem;
+    }
+
+  }
+
   @media (max-width: 860px) {
     .article-layout {
       grid-template-columns: minmax(0, 1fr);

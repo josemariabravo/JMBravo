@@ -6,7 +6,7 @@
   <meta name="color-scheme" content="light dark">
   {{ $homeTitle := .Site.Params.home_title | default .Site.Title }}
   {{ $pageTitle := partial "safe-title.html" . }}
-  <title>{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ $pageTitle }} — {{ .Site.Title }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ $homeTitle }}{{ else }}{{ $pageTitle }} | JMBravo.com{{ end }}</title>
   {{ $pageDescription := .Site.Params.description }}
   {{ if not .IsHome }}
     {{ if .Description }}
