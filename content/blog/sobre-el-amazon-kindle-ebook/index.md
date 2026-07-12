@@ -5,7 +5,7 @@ date: "2010-12-08"
 categories: 
   - "articulos"
 ---
-Desde el arranque de esta bitácora [he mostrado entusiasmo](http://sombrasyceniza.com/2010/09/07/libros-electrnicos-el-futuro/ "Libros electrónicos: ¿el futuro?") por los lectores de libros electrónicos (*ebooks*). Finalmente, hace tres semanas, decidí adquirir uno, en concreto, un [Amazon Kindle](http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B002Y27P3M/ref=sa_menu_kdp3w3).
+Desde el arranque de esta bitácora [he mostrado entusiasmo](/blog/libros-electronicos/ "Libros electrónicos: ¿el futuro?") por los lectores de libros electrónicos (*ebooks*). Finalmente, hace tres semanas, decidí adquirir uno, en concreto, un [Amazon Kindle](http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B002Y27P3M/ref=sa_menu_kdp3w3).
 
 \[caption id="" align="aligncenter" width="602" caption="El Kindle en su funda de cuero, en modo de espera."\]![kindle\_sombrasyceniza.com\_02](images/kindle_sombrasyceniza-com_021.jpg "kindle_sombrasyceniza.com_02")\[/caption\]
 

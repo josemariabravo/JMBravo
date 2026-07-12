@@ -22,7 +22,7 @@ Así que veamos… ¿por dónde comenzar? Ah. Sí. Por el principio. No es mala 
 
 ## ¿Cómo concebí la novela?
 
-Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine *[Sangre y acero](/category/sangre-y-acero/)*, el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga [aquí](/descargas/sangre-y-acero/)).
+Todo comenzó hace mucho tiempo. Veinte años atrás, ahí es nada, publiqué el primer relato de fantasía heroica protagonizado por Daramad Mur Asyb en el número 2 del fanzine *[Sangre y acero](/descargas/sangre-y-acero/)*, el cual coeditaba junto a Andrés Díaz Sánchez. (Fanzine cuyos números están disponibles en PDF para su descarga [aquí](/descargas/sangre-y-acero/)).
 
 De los relatos de Daramad Mur Asyb ya hablaré a su debido momento. Que espero no se demore mucho; mi intención es reunirlos en un libro de relatos (*Runas de sangre* es el título provisional) unidos por un hilo conductor (un *fix-up*, lo llaman los gringos) y autopublicarlos en edición digital y física.
 

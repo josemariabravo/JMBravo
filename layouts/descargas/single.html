@@ -2,7 +2,13 @@
 <div class="container">
   <article class="post">
     <h1>{{ .Title }}</h1>
-    {{ with .Params.tipo }}<p class="descarga-tipo post-date">{{ . }}</p>{{ end }}
+    {{ if or (not .Date.IsZero) .Params.tipo }}
+    <p class="post-meta">
+      {{ if not .Date.IsZero }}{{ partial "fecha.html" .Date }}{{ end }}
+      {{ if and (not .Date.IsZero) .Params.tipo }} | {{ end }}
+      {{ with .Params.tipo }}<span class="descarga-tipo">{{ . }}</span>{{ end }}
+    </p>
+    {{ end }}
     <div class="post-content">
       {{ .Content }}
     </div>

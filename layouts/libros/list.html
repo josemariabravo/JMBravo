@@ -14,7 +14,7 @@
           {{ if not $featured }}{{ $sizes = "(max-width: 540px) 45vw, 220px" }}{{ end }}
           {{ partial "responsive-img.html" (dict "img" . "alt" $book.Title "sizes" $sizes) }}
         {{ end }}
-        <h3>{{ $book.Title }}</h3>
+        <h2>{{ $book.Title }}</h2>
         <p class="book-subtitle">{{ with $book.Params.subtitle }}{{ . }}{{ end }}</p>
         {{ with $book.Params.resumen }}
         <span class="book-separador" aria-hidden="true">{{ $theta | safeHTML }}</span>

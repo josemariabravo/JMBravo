@@ -11,7 +11,7 @@
         {{ with $cover }}
           {{ partial "responsive-img.html" (dict "img" . "alt" $book.Title "sizes" "150px") }}
         {{ end }}
-        <span class="book-card-title">{{ $book.Title }}</span>
+        <h3 class="book-card-title">{{ $book.Title }}</h3>
       </a>
       {{ end }}
     </div>

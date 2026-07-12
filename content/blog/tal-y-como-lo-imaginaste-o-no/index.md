@@ -6,9 +6,9 @@ categories:
   - "articulos"
 coverImage: "infinito-2.jpg"
 ---
-Imagino que buena parte de los seguidores acérrimos de la *[Canción de Hielo y Fuego](/2010/09/14/a-game-of-thrones-serie-hbonuevo-trailer/)* habrán visto a estas alturas su adaptación a la pequeña pantalla (*Game of Thrones*, HBO), dado que se estrenó el pasado 17 de abril.
+Imagino que buena parte de los seguidores acérrimos de la *Canción de Hielo y Fuego* habrán visto a estas alturas su adaptación a la pequeña pantalla (*Game of Thrones*, HBO), dado que se estrenó el pasado 17 de abril.
 
-Naturalmente, el que estas líneas suscribe ya ha visto el primer capítulo. Pueden ustedes respirar tranquilos; no tengo intención de hacer ninguna locura, como de las que hablé en esta [entrada](/2010/11/30/como-no-sea-buena-os-mato-game-of-thrones/), porque la serie ha estado, en líneas generales, a la altura de mis expectativas.
+Naturalmente, el que estas líneas suscribe ya ha visto el primer capítulo. Pueden ustedes respirar tranquilos; no tengo intención de hacer ninguna locura, como de las que hablé en esta entrada, porque la serie ha estado, en líneas generales, a la altura de mis expectativas.
 
 Ahora bien, me ahorraré abundar en juicios sobre la misma. Es demasiado pronto. Pero hay algo más. Me sucede algo muy curioso con las adaptaciones de obras a la que tengo especial cariño: me cuesta horrores juzgarlas con equidad.
 

@@ -31,7 +31,7 @@ Dicho y hecho.
 
 Cuando tengo un proyecto entre manos procuro escribir a diario, al menos 2 k palabras[^1].
 
-Pero lo cierto es que ahora mismo no escribo muy a menudo. En realidad, salvo los artículos de este blog, no estoy escribiendo nada, *mea culpa*. Ya tengo de sobra con reescribir [Sombras y Ceniza](http://www.sombrasyceniza.com/sombras-y-ceniza-la-novela/ "Sombras y Ceniza, la novela"). (Sí, aún).
+Pero lo cierto es que ahora mismo no escribo muy a menudo. En realidad, salvo los artículos de este blog, no estoy escribiendo nada, *mea culpa*. Ya tengo de sobra con reescribir [Sombras y Ceniza](/libros/sombras-y-ceniza/ "Sombras y Ceniza, la novela"). (Sí, aún).
 
 ## 3. ¿Cuál es uno de los libros que más te ha gustado?
 
@@ -51,7 +51,7 @@ Romper el mutismo de la página en blanco. Una vez comienzo a poner por escrito 
 
 ## 6. ¿Qué se te facilita más a la hora de escribir?
 
-Planificar, aunque sea a grandes rasgos, lo que voy a escribir: si es una escena, me hago las preguntas básicas (qué; quién; dónde; por qué; cuándo); si es un artículo, organizo las ideas que quiero plasmar de forma sucinta. Últimamente empleo bosquejos empleando el programa [Scapple](http://www.sombrasyceniza.com/herramientas-del-oficio-vi-scapple/ "Herramientas del oficio, vi: Scapple").
+Planificar, aunque sea a grandes rasgos, lo que voy a escribir: si es una escena, me hago las preguntas básicas (qué; quién; dónde; por qué; cuándo); si es un artículo, organizo las ideas que quiero plasmar de forma sucinta. Últimamente empleo bosquejos empleando el programa [Scapple](/blog/herramientas-del-oficio-vi-scapple/ "Herramientas del oficio, vi: Scapple").
 
 También me ayuda escribir de forma desordenada, no lineal, a retazos; de esta forma, evito que se detenga el flujo de escritura. Esto me es especialmente útil cuando hay partes de una escena ―o escenas enteras― que no acabo de ver. En ese caso, salto directamente a la parte que sí «veo»; luego, por así decirlo, solo tengo que unir los puntos.
 
@@ -69,7 +69,7 @@ Sí. Y a falta de uno, cuatro.
 
 Que lean mucho, y no solo a autores anglosajones. Y que procuren escribir algo autoconclusivo y de extensión media, a ser posible. Mejor terminar una novela modesta que dejar en la segunda parte la novela–río definitiva «a la G. R. R. Martin».
 
-Que planifiquen la historia antes de liarse la manta a la cabeza. Hay muchas formas de planificar una historia. No todas son tan aparatosas y complejas como podría parecer. Métodos como el [copo de nieve](http://www.sombrasyceniza.com/planificacion-literaria-metodo-snowflake-novela/ "Método del copo de nieve (Planificación literaria, iii)") o el de [Barack Goldman](http://inkless.danmcminn.net/uploads/2009/04/30/danmcminn_screenwriting_process_portfolio.pdf), o el método para escribir un *treatment* propuesto por Syd Field en su libro *Screenplay*[^2] no son en absoluto complejos y pueden facilitar mucho la tarea de escribir.
+Que planifiquen la historia antes de liarse la manta a la cabeza. Hay muchas formas de planificar una historia. No todas son tan aparatosas y complejas como podría parecer. Métodos como el [copo de nieve](/blog/planificacion-literaria-metodo-snowflake-novela/ "Método del copo de nieve (Planificación literaria, iii)") o el de [Barack Goldman](http://inkless.danmcminn.net/uploads/2009/04/30/danmcminn_screenwriting_process_portfolio.pdf), o el método para escribir un *treatment* propuesto por Syd Field en su libro *Screenplay*[^2] no son en absoluto complejos y pueden facilitar mucho la tarea de escribir.
 
 Que aprendan los entresijos de la principal herramienta de su oficio: el lenguaje.
 

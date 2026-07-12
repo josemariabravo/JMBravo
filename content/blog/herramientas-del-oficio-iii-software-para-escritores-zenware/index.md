@@ -8,7 +8,7 @@ tags:
   - "resenas"
   - "software"
 ---
-![zenware](images/zenware.jpg "zenware") En la [anterior entrega](http://sombrasyceniza.com/2011/01/29/herramientas-del-oficio-ii-software-para-escritores-open-office-write/) de Herramientas del Oficio comenté las bondades del procesador de textos *[OpenOffice Writer](http://es.openoffice.org/)*. Hoy toca un tipo de *software* con el mismo fin pero distinta filosofía. Si los procesadores de texto al uso ofrecen al usuario un amplio abanico de opciones para editar un texto, los de tipo *zenware* aplican el conocido lema *menos es más*.
+![zenware](images/zenware.jpg "zenware") En la [anterior entrega](/blog/herramientas-del-oficio-ii-software-para-escritores-open-office-write/) de Herramientas del Oficio comenté las bondades del procesador de textos *[OpenOffice Writer](http://es.openoffice.org/)*. Hoy toca un tipo de *software* con el mismo fin pero distinta filosofía. Si los procesadores de texto al uso ofrecen al usuario un amplio abanico de opciones para editar un texto, los de tipo *zenware* aplican el conocido lema *menos es más*.
 
 ### ¿Zenqué…?
 

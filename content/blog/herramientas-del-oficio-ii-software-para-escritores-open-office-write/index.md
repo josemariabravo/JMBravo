@@ -8,7 +8,7 @@ tags:
   - "resenas"
   - "software"
 ---
-![OOo3\_CD\_label\_nc](images/ooo3_cd_label_nc.png "OOo3_CD_label_nc") Segunda entrega de la serie de artículos que comencé con [Herramientas del oficio, i: Material de consulta](http://sombrasyceniza.com/2010/12/15/herramientas-del-oficio-i-material-de-consulta/ "Herramientas del oficio, i: Material de consulta"). En esta ocasión toca hablar del software de utilidad para escritores, y en concreto, del procesador de textos Writer incluido en la *suite* ofimática [OpenOffice](http://es.openoffice.org/).
+![OOo3\_CD\_label\_nc](images/ooo3_cd_label_nc.png "OOo3_CD_label_nc") Segunda entrega de la serie de artículos que comencé con [Herramientas del oficio, i: Material de consulta](/blog/herramientas-del-oficio-i-material-de-consulta/ "Herramientas del oficio, i: Material de consulta"). En esta ocasión toca hablar del software de utilidad para escritores, y en concreto, del procesador de textos Writer incluido en la *suite* ofimática [OpenOffice](http://es.openoffice.org/).
 
 Llevo usando Microsoft Word 2003 desde su lanzamiento, hace más de siete años, y he probado todas las versiones anteriores. No he tenido la oportunidad de probar las versiones incluidas en Office 2007 y 2010, y la verdad es que no tengo intención de hacerlo.
 

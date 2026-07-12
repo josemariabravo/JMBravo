@@ -23,7 +23,7 @@ Necesitaba todo este largo preámbulo para hablar, una vez más, de la autopubli
 
 Y yo me pregunto: ¿por qué? ¿Tan terrible es?
 
-En tiempos, cuando editaba junto a un amigo el fanzine **[Sangre y acero](/category/sangre-y-acero/)**, mi sueño frustrado fue el poder hacerlo **bien**, con calidad, en una imprenta. Por aquel entonces era imposible. Las cosas, por suerte, han cambiado.
+En tiempos, cuando editaba junto a un amigo el fanzine **[Sangre y acero](/descargas/sangre-y-acero/)**, mi sueño frustrado fue el poder hacerlo **bien**, con calidad, en una imprenta. Por aquel entonces era imposible. Las cosas, por suerte, han cambiado.
 
 Hoy en día es posible autopublicar, en papel o electrónicamente, y es posible hacerlo con calidad indistinguible de la profesional. Citaré como ejemplo a Rodolfo Martínez; con su editorial [Sportula](http://www.sportularium.com/) deja bien claro que se puede autoeditar a nivel profesional. Su novela *[El adepto de la reina](http://www.sportularium.com/2009/10/21/el-adepto-de-la-reina/)*, publicada en papel mediante impresión bajo demanda, tiene un acabado excelente, sin nada que envidiar al de novelas editadas por editoriales profesionales (que de eso habría que hablar, por lo menudo, algún otro día).
 

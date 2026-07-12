@@ -83,7 +83,6 @@
     --header-h:     130px;
     --header-h-sm:  64px;
     --shadow-card:  0 6px 20px rgb(0 0 0 / .16);
-    --text-outline: 1px 0 rgb(var(--paper-rgb) / .25), -1px 0 rgb(var(--paper-rgb) / .25), 0 1px rgb(var(--paper-rgb) / .25), 0 -1px rgb(var(--paper-rgb) / .25), 1px 1px rgb(var(--paper-rgb) / .25), -1px -1px rgb(var(--paper-rgb) / .25), 1px -1px rgb(var(--paper-rgb) / .25), -1px 1px rgb(var(--paper-rgb) / .25);
   }
 
   /* modo oscuro: solo se invierten los neutros; --accent se mantiene igual
@@ -345,7 +344,7 @@
 
 @layer pages {
 
-  /* breakpoints usados en este layer: 540, 600, 640, 860 y 1060px.
+  /* breakpoints usados en este layer: 420, 540, 600, 640, 860 y 1060px.
      Fijos y repetidos a propósito en vez de en una variable: las custom
      properties de CSS no funcionan dentro de una condición @media, así
      que la única forma de mantenerlos consistentes es esta lista y un
@@ -389,8 +388,6 @@
     color: var(--text);
     margin: 0;
     padding: 0;
-    /*text-shadow: var(--text-outline);*/    
-    /*font-weight: 450;*/
   }
 
   .visually-hidden {
@@ -458,11 +455,17 @@
 
   .book-card:hover img { transform: translateY(-4px); }
 
+  /* h3 semántico (título de tarjeta en la fila de portadas de la home),
+     con aspecto de leyenda pequeña — ver comentario en .book-grid-item h2 */
   .book-card-title {
     display: block;
     margin-top: .55rem;
+    font-family: var(--font-ui);
     font-size: var(--fs-sm);
+    font-weight: 400;
     line-height: 1.35;
+    letter-spacing: normal;
+    text-transform: none;
     color: var(--muted);
   }
 
@@ -781,15 +784,22 @@
     .book-grid-item--featured img { width: 100%; }
   }
 
-  .book-grid-item h3 {
+  /* h2 semántico (subtítulo de tarjeta bajo el h1 de /libros/), pero con el
+     aspecto del h3 del sistema: se resetean letter-spacing/text-transform/
+     color, que el h2 genérico fija para su uso como marcador de sección */
+  .book-grid-item h2 {
     font-family: var(--font-title);
     font-size: var(--fs-lg);
     font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-transform: none;
+    color: inherit;
     margin-top: .8rem;
   }
 
   /* misma especificidad que la regla de arriba: va después para ganarle */
-  .book-grid-item--featured h3 {
+  .book-grid-item--featured h2 {
     font-size: var(--fs-xl);
     margin-top: 0;
     font-weight: 500;
@@ -1003,8 +1013,16 @@
 
   .proyecto-card:hover { border-color: var(--accent); }
 
-  .proyecto-card h3 {
+  /* h2 semántico (subtítulo de tarjeta bajo el h1 de /proyectos/), con el
+     aspecto del h3 del sistema — ver comentario en .book-grid-item h2 */
+  .proyecto-card h2 {
+    font-family: var(--font-title);
     font-size: var(--fs-lg);
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-transform: none;
+    color: inherit;
     margin-bottom: var(--sp-1);
   }
 
@@ -1177,7 +1195,17 @@
 
   .tipo-card:hover { border-color: var(--accent); }
 
-  .tipo-card h3 { font-size: var(--fs-xl); }
+  /* h2 semántico (subtítulo de tarjeta bajo el h1 de /obra/), con el aspecto
+     del h3 del sistema — ver comentario en .book-grid-item h2 */
+  .tipo-card h2 {
+    font-family: var(--font-title);
+    font-size: var(--fs-xl);
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-transform: none;
+    color: inherit;
+  }
 
   .tipo-card p { color: var(--muted); margin-top: var(--sp-1); }
 
@@ -1221,7 +1249,11 @@
     font-size: var(--fs-sm);
     color: var(--muted);
     margin-top: .4rem;
-    max-width: var(--reading);
+    /* --obra-column, no --reading: --reading es en ch, relativo al
+       font-size propio del elemento — en fs-sm equivaldría a una columna
+       más angosta que la del resto de metadatos de la tarjeta (ver
+       comentario en la definición de --obra-column) */
+    max-width: var(--obra-column);
   }
 
   /* ·· obra: pieza individual ·· */
@@ -1311,6 +1343,7 @@
 
   .descargas-list li {
     display: flex;
+    flex-wrap: wrap;
     align-items: baseline;
     gap: var(--sp-2);
     padding: var(--sp-2) 0;
@@ -1320,6 +1353,8 @@
   .descargas-list a {
     color: var(--text);
     font-size: var(--fs-md);
+    min-width: 0;
+    overflow-wrap: anywhere;
   }
 
   .descargas-list a:hover { color: var(--accent); }

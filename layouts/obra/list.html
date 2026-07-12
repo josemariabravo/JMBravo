@@ -11,7 +11,7 @@
       <div class="obra-tipos">
         {{ range .Sections }}
         <div class="tipo-card">
-          <h3>{{ .Title }}</h3>
+          <h2>{{ .Title }}</h2>
           {{ if .Content }}<div class="tipo-intro">{{ .Content }}</div>{{ end }}
           {{ with .Params.descripcion }}<p>{{ . }}</p>{{ end }}
           <a class="btn-tipo btn-hero" href="{{ .Permalink }}">Ver {{ .Title | lower }} →</a>

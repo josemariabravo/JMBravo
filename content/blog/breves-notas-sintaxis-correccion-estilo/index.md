@@ -9,7 +9,7 @@ categories:
 
 Séptimo informe Ouróboros, que intenta apuntar unas breves notas sobre cuestiones sintácticas necesarias para escribir correctamente, evitando en lo posible enfangarse demasiado en cuestiones teóricas. El informe tiene sus años, pero aún así lo considero bastante útil como para "refrescar"  conocimientos y aclarar alguna que otra duda.
 
-No obstante, es muy recomendable estudiar sintaxis en mayor profundidad, por las innegables ventajas que conlleva; si buscáis libros de referencia al respecto, os recomiendo la anterior entrada de [Herramientas del Oficio](category/reflexiones-variopintas/herramientas-del-oficio-tools-of-the-trade/): [Herramientas del oficio, i: Material de consulta](http://sombrasyceniza.com/2010/12/15/herramientas-del-oficio-i-material-de-consulta/ "Herramientas del oficio, i: Material de consulta").
+No obstante, es muy recomendable estudiar sintaxis en mayor profundidad, por las innegables ventajas que conlleva; si buscáis libros de referencia al respecto, os recomiendo la anterior entrada de [Herramientas del Oficio](/blog/herramientas-del-oficio-i-material-de-consulta/): [Herramientas del oficio, i: Material de consulta](/blog/herramientas-del-oficio-i-material-de-consulta/ "Herramientas del oficio, i: Material de consulta").
 
 Vamos con el informe:
 
@@ -317,7 +317,7 @@ Las alteraciones de sintaxis producidas con las figuras de posición pueden prov
 
 i Un sintagma nominal precedido por una preposición se denomina sintagma preposicional.
 
-ii De que también se habla en el informe sobre el problema de las pasivas. (Ver [Vicios del estilo, i: La voz pasiva](http://sombrasyceniza.com/2010/10/11/vicios-del-estilo-i-la-voz-pasiva/ "Vicios del estilo, i: La voz pasiva").)
+ii De que también se habla en el informe sobre el problema de las pasivas. (Ver [Vicios del estilo, i: La voz pasiva](/blog/vicios-del-estilo-i-la-voz-pasiva/ "Vicios del estilo, i: La voz pasiva").)
 
 iii Se podría entonces hablar de oraciones transitivas (aquellas que tienen de facto el OD) e intransitivas (aquellas que no tienen el OD). Está claro que un verbo intransitivo solo puede generar oraciones intransitivas, mientras que un verbo transitivo puede generar oraciones transitivas e intransitivas.
 

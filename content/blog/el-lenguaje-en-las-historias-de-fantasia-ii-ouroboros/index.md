@@ -9,7 +9,7 @@ categories:
 
 Siguiente entrega del octavo informe Ouróboros, dividido en dos partes, sobre el tratamiento del lenguaje en las historias de fantasía.
 
-Podéis leer la anterior entrega [aquí](http://sombrasyceniza.com/2011/02/09/el-lenguaje-en-las-historias-de-fantasia-ouroboro/ "El lenguaje en las historias de fantasía (i)").
+Podéis leer la anterior entrega [aquí](/blog/el-lenguaje-en-las-historias-de-fantasia-ouroboro/ "El lenguaje en las historias de fantasía (i)").
 
 ### Algunas familias de insultos destacables
 

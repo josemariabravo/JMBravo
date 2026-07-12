@@ -6,7 +6,7 @@ categories:
   - "articulos"
 coverImage: "1158260369_3ba07950e5_z-1.jpg"
 ---
-Hace ya más de un año, [en otra entrada](http://sombrasyceniza.com/2011/10/28/instalar-wiki/), hablaba de las bondades de instalar una wiki de uso personal para organizar y recopilar la información de trasfondo de una historia.
+Hace ya más de un año, [en otra entrada](/blog/instalar-wiki/), hablaba de las bondades de instalar una wiki de uso personal para organizar y recopilar la información de trasfondo de una historia.
 
 Llevo unos dos años utilizando una wiki ([Dokuwiki](https://www.dokuwiki.org/), para más señas) para archivar la información de trasfondo de mis historias, y me gustaría compartir algunos consejos con todos aquellos que se animen a emplear esta magnífica herramienta.
 
@@ -18,7 +18,7 @@ Utilizar un único lugar facilita la coherencia de dicha información, dado que 
 
 ### 2\. Evita los excesos de información en nuestros textos
 
-De esto ya hablé [en la anterior entrada sobre cómo instalar una wiki](http://sombrasyceniza.com/2011/10/28/instalar-wiki/ "Cómo instalar una wiki para uso personal"), donde expuse una teoría de la que estoy firmemente convencido: buena parte de los excesos de información (a. k. a. [infodumps](http://tvtropes.org/pmwiki/pmwiki.php/Main/Infodump), para los que gusten de la terminología anglosajona) en las historias de género fantástico se deben a inspiraciones felices de los autores durante la escritura, que luego no quisieron podar en la —obligada y ardua, por cierto— reescritura.
+De esto ya hablé [en la anterior entrada sobre cómo instalar una wiki](/blog/instalar-wiki/ "Cómo instalar una wiki para uso personal"), donde expuse una teoría de la que estoy firmemente convencido: buena parte de los excesos de información (a. k. a. [infodumps](http://tvtropes.org/pmwiki/pmwiki.php/Main/Infodump), para los que gusten de la terminología anglosajona) en las historias de género fantástico se deben a inspiraciones felices de los autores durante la escritura, que luego no quisieron podar en la —obligada y ardua, por cierto— reescritura.
 
 [*Kill your darlings*](http://www.goodreads.com/quotes/79715-in-writing-you-must-kill-all-your-darlings) [(Mata a tus favoritos)](http://www.goodreads.com/quotes/79715-in-writing-you-must-kill-all-your-darlings), reza el adagio atribuido a William Faulkner, lo cual viene al pelo respecto a los excesos de información en una novela. Pero recortar información de trasfondo de una historia no significa prescindir de ella por completo. Si, por ejemplo, nos hemos explayado durante cinco párrafos hablando de cómo tal raza de elfos de los bosques gustan en tallar la madera, y luego nos damos cuenta de que, realmente, no viene mucho a cuento y le damos hachazo, ¿qué podemos hacer con nuestro coñazo, eh, perdón, exposición? Archivarla como un artículo de nuestra wiki. Quién sabe. Quizá más adelante nos sea muy útil.
 

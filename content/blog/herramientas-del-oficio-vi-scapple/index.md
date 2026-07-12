@@ -14,7 +14,7 @@ En esta entrega de la serie analizaré una herramienta que considero especialmen
 
 ## ¿Sca… qué?
 
-Scapple es un programa creado y distribuido por [Literature & Latte](http://www.literatureandlatte.com/), los padres de [Scrivener](http://www.literatureandlatte.com/scrivener.php), de cuya beta para Windows [ya hablé en su día](http://www.sombrasyceniza.com/herramientas-del-oficio-iv-software-para-escritores-scrivener/).
+Scapple es un programa creado y distribuido por [Literature & Latte](http://www.literatureandlatte.com/), los padres de [Scrivener](http://www.literatureandlatte.com/scrivener.php), de cuya beta para Windows [ya hablé en su día](/blog/herramientas-del-oficio-iv-software-para-escritores-scrivener/).
 
 Se trata de un programa intuitivo y fácil de usar. Su propósito es anotar ideas mediante notas breves de forma no lineal, rápida y libre, en una especie de «pizarra virtual», para después interrelacionarlas y disponerlas a nuestro antojo, de forma que podamos organizar visualmente nuestras ideas.
 

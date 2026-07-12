@@ -58,7 +58,7 @@ Vayamos al siguiente paso:
 
 **1.b. Lugares de interés**
 
-Escribe una lista de lugares de interés que quieras incluir en el mapa. Puede que ya tengas unos cuantos pensados, o incluso los hayas mencionado en la historia. Sería un buen momento para hacerte una lista de topónimos, lista que, por cierto, considero importante incluir en la [planificación de la historia](http://sombrasyceniza.com/2010/09/28/mapa-o-brujula/); pero eso lo comentaré en otro momento.
+Escribe una lista de lugares de interés que quieras incluir en el mapa. Puede que ya tengas unos cuantos pensados, o incluso los hayas mencionado en la historia. Sería un buen momento para hacerte una lista de topónimos, lista que, por cierto, considero importante incluir en la [planificación de la historia](/blog/mapa-o-brujula/); pero eso lo comentaré en otro momento.
 
 No olvides incluir instalaciones básicas en toda ciudad: un mercado permanente, barrios residenciales según estratos, un templo o varios para los cultos religiosos, un cementerio (en el caso de que entierren a sus muertos, por supuesto), puntos de abastecimiento de agua, graneros y almacenes, murallas si la ciudad dispone de ellas, muelles si está en la costa, puentes si la cruzan ríos, los cuarteles de la guardia de la ciudad, y la fortaleza o palacio donde residen la clase dirigente.
 

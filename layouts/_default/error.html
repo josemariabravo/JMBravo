@@ -1,17 +1,14 @@
 {{ define "main" }}
-<link rel="stylesheet" href="{{ "pagefind/pagefind-ui.css" | relURL }}">
 <div class="container">
   <article class="post error-page">
     <h1>{{ .Title }}</h1>
     <div class="post-content">
       {{ .Content }}
     </div>
-    <div id="search"></div>
+    {{ partial "pagefind.html" . }}
   </article>
 </div>
-<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
 <script>
-  const ui = new PagefindUI({ element: "#search", showImages: false });
   const words = window.location.pathname
     .split("/")
     .filter(Boolean)

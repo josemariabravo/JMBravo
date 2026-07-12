@@ -12,7 +12,7 @@
       <div class="proyectos-grid">
         {{ range .Sections }}
         <a class="proyecto-card" href="{{ .Permalink }}">
-          <h3>{{ .Title }}</h3>
+          <h2>{{ .Title }}</h2>
           {{ with .Params.resumen }}<p>{{ . }}</p>{{ end }}
         </a>
         {{ end }}

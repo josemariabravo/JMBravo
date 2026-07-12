@@ -6,7 +6,7 @@
   "@context": "https://schema.org",
   "@type": "Book",
   "name": "{{ .Title }}",
-  "author": { "@type": "Person", "name": "José María Bravo", "url": "https://jmbravo.com/sobre-mi/" },
+  "author": {{ partial "author-jsonld.html" . }},
   "description": "{{ with .Params.resumen }}{{ . }}{{ end }}",
   "url": "{{ .Permalink }}"{{ with $primaryUrl }},
   "offers": { "@type": "Offer", "url": "{{ . }}", "seller": { "@type": "Organization", "name": "Amazon" } }{{ end }}

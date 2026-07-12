@@ -7,7 +7,7 @@
   "@type": "BlogPosting",
   "headline": "{{ partial "safe-title.html" . }}",
   "url": "{{ .Permalink }}",
-  "author": { "@type": "Person", "name": "José María Bravo", "url": "https://jmbravo.com/sobre-mi/" }
+  "author": {{ partial "author-jsonld.html" . }}
   {{- if not .Date.IsZero }},
   "datePublished": "{{ .Date.Format "2006-01-02" }}"{{ end -}}
   {{- if not .Lastmod.IsZero }},
@@ -42,11 +42,11 @@
     {{ end }}
     {{ if and (eq .Type "blog") (not .Params.no_pager) }}{{ partial "share.html" . }}{{ end }}
     {{ $related := first 3 (.Site.RegularPages.Related .) }}
-    {{ with $related }}
+    {{ if and (not .Params.no_pager) $related }}
     <aside class="related-posts">
       <h3>También te puede interesar</h3>
       <ul class="post-list">
-        {{ range . }}
+        {{ range $related }}
         {{ partial "post-list-item.html" . }}
         {{ end }}
       </ul>

@@ -1,4 +1,4 @@
 <h{{ .Level }} id="{{ .Anchor }}">
   {{- .Text | safeHTML -}}
-  <a href="#{{ .Anchor }}" class="heading-anchor" aria-label="Enlace a esta sección">#</a>
+  {{ printf "<a href=\"#%s\" class=\"heading-anchor\" aria-label=\"Enlace a esta sección\">#</a>" .Anchor | safeHTML }}
 </h{{ .Level }}>

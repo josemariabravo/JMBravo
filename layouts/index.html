@@ -6,7 +6,7 @@
   "name": "José María Bravo Lineros",
   "url": "https://jmbravo.com/",
   "description": "{{ .Site.Params.description }}",
-  "publisher": { "@type": "Person", "name": "José María Bravo Lineros", "url": "https://jmbravo.com/sobre-mi/" },
+  "publisher": {{ partial "author-jsonld.html" . }},
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://jmbravo.com/buscar/?q={search_term_string}",

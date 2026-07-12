@@ -5,7 +5,7 @@ date: "2011-03-19"
 categories: 
   - "articulos"
 ---
-![escritura\_creativa\_v](images/escritura_creativa_v.jpg "escritura_creativa_v") Quedaba pendiente comentar las principales alternativas a Scrivener, software especializado en satisfacer las necesidades del escritor más allá del procesador de textos de toda la vida, del cual hablamos [en la cuarta entrega de esta serie](http://sombrasyceniza.com/2011/03/04/herramientas-del-oficio-iv-software-para-escritores-scrivener/ "Herramientas del oficio, iv: Software para escritores: Scrivener").
+![escritura\_creativa\_v](images/escritura_creativa_v.jpg "escritura_creativa_v") Quedaba pendiente comentar las principales alternativas a Scrivener, software especializado en satisfacer las necesidades del escritor más allá del procesador de textos de toda la vida, del cual hablamos [en la cuarta entrega de esta serie](/blog/herramientas-del-oficio-iv-software-para-escritores-scrivener/ "Herramientas del oficio, iv: Software para escritores: Scrivener").
 
 (A todo esto, la beta de [Scrivener para Windows](http://www.literatureandlatte.com/scrivenerforwindows/) va por la versión 0.2.0; se prevé que salga la versión final a principios de abril.)
 
@@ -21,7 +21,7 @@ Storybook es un software de escritura creativa gratuito, pensado para organizar 
 
 ![logo\_storybook](images/logo_storybook.gif "logo_storybook")
 
-La idea es buena, sobre todo si eres reacio a abandonar tu editor de textos habitual. Storybook puede ser muy útil para aquellos [escritores “de mapa”](http://sombrasyceniza.com/2010/09/28/mapa-o-brujula-planificacion-literaria-i/ "Mapa o brújula (Planificación literaria, i)"), que gusten de planificar sus escenas al milímetro mediante esquemas[1](#nota1b), y lo hace permitiendo registrar datos sobre las cuatro preguntas fundamentales de una historia: qué, quién, cuándo y dónde.
+La idea es buena, sobre todo si eres reacio a abandonar tu editor de textos habitual. Storybook puede ser muy útil para aquellos [escritores “de mapa”](/blog/mapa-o-brujula/ "Mapa o brújula (Planificación literaria, i)"), que gusten de planificar sus escenas al milímetro mediante esquemas[1](#nota1b), y lo hace permitiendo registrar datos sobre las cuatro preguntas fundamentales de una historia: qué, quién, cuándo y dónde.
 
 En cuanto al qué y cuándo, Storybook nos permite definir las unidades narrativas de la historia (hilos argumentales, capítulos y escenas) e incluir datos sobre las mismas (sinopsis y el estado actual de su escritura, entre otros) y la fecha en la que suceden (que puede ser relativa al inicio de la historia). Con respecto al dónde, podemos registrar notas sobre las distintas localizaciones de nuestra trama. Para controlar el quién, los personajes, Storybook nos permite crear fichas de personaje, con unos pocos campos de texto que rellenar, pero que resultan más que suficientes, sobre todo al principio.
 
@@ -37,7 +37,7 @@ Quizás algunos no le veáis importancia a esta limitación, pero en mi caso res
 
 ### 3\. [PageFour](http://www.softwareforwriting.com/pagefour.html)
 
-![logo\_pagefour](images/logo_pagefour.gif "logo_pagefour") Hasta que se anunció la versión de Scrivener para Windows se consideró como su principal alternativa. PageFour comparte la filosofía de Scrivener (fragmentar nuestra obra en subdocumentos para poder trabajar individualmente o en conjunto con dichos textos), pero carece de la elegancia y comodidad de su interfaz, además de los modos de Esquema y Panel de Corcho, ya comentados en la [anterior entrega dedicada a este *software*](http://sombrasyceniza.com/2011/03/04/herramientas-del-oficio-iv-software-para-escritores-scrivener/ "Herramientas del oficio, iv: Software para escritores: Scrivener").
+![logo\_pagefour](images/logo_pagefour.gif "logo_pagefour") Hasta que se anunció la versión de Scrivener para Windows se consideró como su principal alternativa. PageFour comparte la filosofía de Scrivener (fragmentar nuestra obra en subdocumentos para poder trabajar individualmente o en conjunto con dichos textos), pero carece de la elegancia y comodidad de su interfaz, además de los modos de Esquema y Panel de Corcho, ya comentados en la [anterior entrega dedicada a este *software*](/blog/herramientas-del-oficio-iv-software-para-escritores-scrivener/ "Herramientas del oficio, iv: Software para escritores: Scrivener").
 
 Es una alternativa a considerar, en cualquier caso, sobre todo si no necesitamos las funciones anteriores, si bien por una pequeña diferencia en el precio (24,6 € de PageFour frente a los 28,2 € de Scrivener) no es una razón de peso para decantarse por este; y en cualquier caso, recomendaría probar yWriter antes.
 

@@ -2,17 +2,23 @@
 {{ if $images }}
 {{ $id := printf "galeria-%d" .Ordinal }}
 <div class="galeria" id="{{ $id }}">
-  {{ range $images }}
-  {{ $img := . }}
+  {{ range $i, $img := $images }}
   {{ $fullSrc := $img.RelPermalink }}
   {{ if ne $img.MediaType.SubType "svg" }}
     {{ $fullWidth := 2000 }}
     {{ if lt $img.Width $fullWidth }}{{ $fullWidth = $img.Width }}{{ end }}
     {{ $fullSrc = ($img.Process (printf "resize %dx webp q75" $fullWidth)).RelPermalink }}
   {{ end }}
+  {{/* .Title cae al nombre de archivo si el bundle no define un título
+       propio en `resources:` (ver _meta/plantillas/galeria.md) — sin ese
+       título el alt sería el nombre de archivo tal cual, que no describe
+       la imagen a un lector de pantalla. Mientras no se personalice, se
+       usa un alt genérico pero legible en vez del nombre de archivo. */}}
+  {{ $alt := $img.Title }}
+  {{ if eq $img.Title $img.Name }}{{ $alt = printf "%s — foto %d de %d" $.Page.Title (add $i 1) (len $images) }}{{ end }}
   <figure class="galeria-item">
-    <button class="galeria-btn" data-src="{{ $fullSrc }}" data-alt="{{ $img.Title }}" aria-label="Ampliar imagen">
-      {{ partial "responsive-img.html" (dict "img" $img "alt" $img.Title "sizes" "(max-width: 640px) 90vw, 340px" "widths" (slice 260 520 1040)) }}
+    <button class="galeria-btn" data-src="{{ $fullSrc }}" data-alt="{{ $alt }}" aria-label="Ampliar imagen">
+      {{ partial "responsive-img.html" (dict "img" $img "alt" $alt "sizes" "(max-width: 640px) 90vw, 340px" "widths" (slice 260 520 1040)) }}
     </button>
   </figure>
   {{ end }}

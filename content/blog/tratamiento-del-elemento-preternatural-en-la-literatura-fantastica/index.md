@@ -19,7 +19,7 @@ c) Proporcionar un análisis completo para ayudar al escritor en su proceso crea
 
 ## 2. Definiciones
 
-En el artículo [Estructurando la literatura fantástica](http://www.sombrasyceniza.com/2010/11/05/estructurando-la-literatura-fantastica/) se hablaba de los **elementos preternaturales** que hacen (en conjunto con los elementos naturales) al género literario fantástico, y de las justificaciones que se puedan buscar. Sobre esta base, el presente texto es un primer acercamiento al elemento preternatural en la literatura fantástica.
+En el artículo [Estructurando la literatura fantástica](/blog/estructurando-la-literatura-fantastica/) se hablaba de los **elementos preternaturales** que hacen (en conjunto con los elementos naturales) al género literario fantástico, y de las justificaciones que se puedan buscar. Sobre esta base, el presente texto es un primer acercamiento al elemento preternatural en la literatura fantástica.
 
 ¿Qué es, entonces, el elemento preternatural? Se refiere, para el caso que nos ocupa, a cualquier elemento de un texto literario cuyo suceso no sea natural en nuestra realidad. Con más precisión, define cualquier elemento cuya existencia en la realidad no es explicable mediante los conocimientos actuales. Para evitar los problemas que esta definición puedan conllevar a través de la evolución científica y tecnológica, tal y como se justificó en el mismo artículo citado, el marco de referencia siempre se establece de acuerdo al momento y las condiciones científico-técnicas en que el texto fantástico ha visto la luz.
 
@@ -43,7 +43,7 @@ Antes de proseguir, se presentan a continuación una serie de definiciones que s
 
 ## 3\. El escritor y el elemento preternatural
 
-La inserción de elementos preternaturales es un proceso que debe abordarse con mucha seriedad y cuidado: la coherencia entre estos elementos preternaturales debe ser siempre la mayor posible, para que resulte coherente y creíble de cara al lector (respecto a la credibilidad de una obra fantástica y sus elementos, véase el artículo [Suspensión de la Incredulidad](http://www.sombrasyceniza.com/2010/11/10/suspension-incredulidad-fantasia/)). Esto no quiere decir que deba explicarlo de manera exhaustiva al lector; al revés, un exceso en este sentido podría constituir un grave error que afecte a la calidad literaria del producto final.
+La inserción de elementos preternaturales es un proceso que debe abordarse con mucha seriedad y cuidado: la coherencia entre estos elementos preternaturales debe ser siempre la mayor posible, para que resulte coherente y creíble de cara al lector (respecto a la credibilidad de una obra fantástica y sus elementos, véase el artículo [Suspensión de la Incredulidad](/blog/suspension-incredulidad-fantasia/)). Esto no quiere decir que deba explicarlo de manera exhaustiva al lector; al revés, un exceso en este sentido podría constituir un grave error que afecte a la calidad literaria del producto final.
 
 Con frecuencia se produce una tipificación de los elementos preternaturales, tomando como referencia los que se han popularizado por medio de determinadas obras famosas del género fantástico. El autor debe evitar caer en el tópico y por tanto ha de llevar a cabo una descripción y tratamiento detallados de sus propios elementos preternaturales, aun cuando estén basados en los ya creados con anterioridad.
 

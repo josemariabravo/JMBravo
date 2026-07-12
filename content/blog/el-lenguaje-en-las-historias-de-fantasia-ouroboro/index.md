@@ -11,7 +11,7 @@ Siguiente informe Ouróboros (y van ocho). En esta ocasión abordamos el tratami
 
 *La patria de un escritor es su lengua.* **Francisco Ayala**
 
-En la literatura, las palabras lo son todo. Emplear el lenguaje más adecuado para una historia es vital para que esta consiga los propósitos que nos hemos marcado como escritores; en el caso que nos ocupa, las narraciones fantásticas, aún más si cabe: estamos tratando de que algo inverosímil aparezca como verosímil, que el lector [suspenda su incredulidad](http://sombrasyceniza.com/2010/11/10/suspension-incredulidad-fantasia/ "Suspensión de la incredulidad") y decida creerse una historia en la que, por lógica, no debería creer.
+En la literatura, las palabras lo son todo. Emplear el lenguaje más adecuado para una historia es vital para que esta consiga los propósitos que nos hemos marcado como escritores; en el caso que nos ocupa, las narraciones fantásticas, aún más si cabe: estamos tratando de que algo inverosímil aparezca como verosímil, que el lector [suspenda su incredulidad](/blog/suspension-incredulidad-fantasia/ "Suspensión de la incredulidad") y decida creerse una historia en la que, por lógica, no debería creer.
 
 Una de las estrategias fundamentales para conseguirlo es el empleo de un lenguaje adecuado. No pocas novelas causan el disgusto del lector al emplear términos claramente inadecuados para el trasfondo de la historia: gente de épocas similares al medioevo hablando de intervalos de tiempo con una precisión de horas y minutos, campesinos y nobles hablando de una forma similar, expresiones actuales en boca de personajes de épocas supuestamente pretéritas, etcétera; es obvio que un lenguaje inadecuado puede dar al traste con una historia que sobresalga en otros muchos aspectos. En el otro extremo, un buen lenguaje puede conseguir una inmersión casi perfecta en el ambiente de la historia, hacer que el trasfondo sea vívido y creíble y que sus personajes semejen seres de carne y hueso y no pálidos reflejos de cartón piedra.
 
@@ -21,7 +21,7 @@ Por último, no puede olvidarse que cuidar el lenguaje de nuestros textos es la 
 
 Tan importante como el lenguaje de una historia es la voz que la narra, dado que la condicionará por completo: dos historias narradas desde distintos puntos de vista (narradores) pueden ser (y en la mayoría de las ocasiones lo son) completamente diferentes. Para nuestras consideraciones tendremos en cuenta los dos arquetipos básicos de narrador, entre los cuales se sitúa toda la gama de posibles narradores: el omnisciente y el parcial.
 
-(El lector puede acudir al informe Ouróboros sobre narradores \[publicado en dos entregas: [primera](http://sombrasyceniza.com/2010/10/20/narradores_ouroboros_1_de_2/ "Narradores (i de ii)") y [segunda](http://sombrasyceniza.com/2010/10/22/narradores_ouroboros_2_de_2/ "Narradores (ii de ii)")\]  para profundizar en las distintas perspectivas desde la que es posible narrar una historia.)
+(El lector puede acudir al informe Ouróboros sobre narradores \[publicado en dos entregas: [primera](/blog/narradores_ouroboros_1_de_2/ "Narradores (i de ii)") y [segunda](/blog/narradores_ouroboros_2_de_2/ "Narradores (ii de ii)")\]  para profundizar en las distintas perspectivas desde la que es posible narrar una historia.)
 
 #### El narrador omnisciente
 
@@ -318,7 +318,7 @@ Otras culturas pueden considerar la traición, la cobardía o la mentira como la
 
 En el caso de distintas religiones, insultar a los dioses de una sociedad será muy probablemente una ofensa terrible; aunque, curiosamente, los propios feligreses pueden blasfemar como un medio para liberar tensión, sin que sea una ofensa.
 
-*[Siguiente parte](http://sombrasyceniza.com/2011/02/11/el-lenguaje-en-las-historias-de-fantasia-ii-ouroboros/ "El lenguaje en las historias de fantasía (ii)")*.
+*[Siguiente parte](/blog/el-lenguaje-en-las-historias-de-fantasia-ii-ouroboros/ "El lenguaje en las historias de fantasía (ii)")*.
 
 **Notas:**
 
