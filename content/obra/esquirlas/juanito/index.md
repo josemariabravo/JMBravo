@@ -6,10 +6,10 @@ categories:
 tags:
   - chema-historias-soeces-del-montaje
 ---
-{{% nota %}}
+{{< nota >}}
 Esta pieza —escrita por gusto y sin propósito— se inspira libremente en mis vivencias como técnico de prevención bisoño en varios parques eólicos de la zona del Maestrazgo (Castellón de la Plana). En su día, pensé en armar un libro titulado *Chema: historias soeces del montaje* con piezas de este pelaje y guisa, un libro que podríamos considerar dentro del género —tan en boga últimamente— de la [autoficción](https://es.wikipedia.org/wiki/Autoficci%C3%B3n).  
 Por fortuna, seguramente nunca llegue a escribirlo.
-{{% /nota %}}
+{{< /nota >}}
 
 ***
 
