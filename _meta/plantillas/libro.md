@@ -51,10 +51,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Reseñas
 
-{{% elogio fuente="Nombre de la fuente" url="https://..." %}}
+{{< elogio fuente="Nombre de la fuente" url="https://..." >}}
 Lorem ipsum dolor sit amet, cita corta de una reseña real. Nunca la reseña entera.
-{{% /elogio %}}
+{{< /elogio >}}
 
-{{% elogio fuente="Otra fuente" %}}
+{{< elogio fuente="Otra fuente" >}}
 Lorem ipsum dolor sit amet, segunda cita de ejemplo, esta vez sin enlace.
-{{% /elogio %}}
+{{< /elogio >}}
