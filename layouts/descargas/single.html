@@ -5,8 +5,7 @@
     {{ if or (not .Date.IsZero) .Params.tipo }}
     <p class="post-meta">
       {{ if not .Date.IsZero }}{{ partial "fecha.html" .Date }}{{ end }}
-      {{ if and (not .Date.IsZero) .Params.tipo }} | {{ end }}
-      {{ with .Params.tipo }}<span class="descarga-tipo">{{ . }}</span>{{ end }}
+      {{ with .Params.tipo }}{{ if not $.Date.IsZero }} | {{ end }}<span class="descarga-tipo">{{ . }}</span>{{ end }}
     </p>
     {{ end }}
     <div class="post-content">

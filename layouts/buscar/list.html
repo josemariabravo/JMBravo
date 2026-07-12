@@ -7,6 +7,6 @@
 </div>
 <script>
   const q = new URLSearchParams(window.location.search).get("q");
-  if (q) ui.triggerSearch(q);
+  if (q) window.pagefindUI.triggerSearch(q);
 </script>
 {{ end }}

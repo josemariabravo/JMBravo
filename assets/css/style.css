@@ -464,8 +464,6 @@
     font-size: var(--fs-sm);
     font-weight: 400;
     line-height: 1.35;
-    letter-spacing: normal;
-    text-transform: none;
     color: var(--muted);
   }
 
@@ -784,17 +782,23 @@
     .book-grid-item--featured img { width: 100%; }
   }
 
-  /* h2 semántico (subtítulo de tarjeta bajo el h1 de /libros/), pero con el
-     aspecto del h3 del sistema: se resetean letter-spacing/text-transform/
-     color, que el h2 genérico fija para su uso como marcador de sección */
-  .book-grid-item h2 {
+  /* h2 semántico (subtítulo de tarjeta bajo el h1 de /libros/, /obra/ y
+     /proyectos/), pero con el aspecto del h3 del sistema: se resetean
+     letter-spacing/text-transform/color, que el h2 genérico fija para su
+     uso como marcador de sección. Base compartida con especificidad cero
+     (:where) para que no compita con las reglas de tamaño/peso de cada
+     tarjeta, que sí difieren entre ellas */
+  :where(.book-grid-item h2, .proyecto-card h2, .tipo-card-title) {
     font-family: var(--font-title);
-    font-size: var(--fs-lg);
-    font-weight: 600;
     line-height: 1.2;
     letter-spacing: normal;
     text-transform: none;
     color: inherit;
+  }
+
+  .book-grid-item h2 {
+    font-size: var(--fs-lg);
+    font-weight: 600;
     margin-top: .8rem;
   }
 
@@ -1013,16 +1017,9 @@
 
   .proyecto-card:hover { border-color: var(--accent); }
 
-  /* h2 semántico (subtítulo de tarjeta bajo el h1 de /proyectos/), con el
-     aspecto del h3 del sistema — ver comentario en .book-grid-item h2 */
   .proyecto-card h2 {
-    font-family: var(--font-title);
     font-size: var(--fs-lg);
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: normal;
-    text-transform: none;
-    color: inherit;
     margin-bottom: var(--sp-1);
   }
 
@@ -1195,16 +1192,13 @@
 
   .tipo-card:hover { border-color: var(--accent); }
 
-  /* h2 semántico (subtítulo de tarjeta bajo el h1 de /obra/), con el aspecto
-     del h3 del sistema — ver comentario en .book-grid-item h2 */
-  .tipo-card h2 {
-    font-family: var(--font-title);
+  /* clase propia en vez de selector descendiente .tipo-card h2: .tipo-card
+     también puede renderizar contenido Markdown (.tipo-intro, desde
+     .Content del _index.md de la subsección), así que un h2 escrito ahí a
+     mano no debe heredar el aspecto de título de tarjeta */
+  .tipo-card-title {
     font-size: var(--fs-xl);
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: normal;
-    text-transform: none;
-    color: inherit;
   }
 
   .tipo-card p { color: var(--muted); margin-top: var(--sp-1); }
@@ -1543,12 +1537,6 @@
   .btn-hero:hover {
     background: var(--accent);
     color: var(--paper);
-  }
-
-  .section-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
   }
 
   /* ·· layout de artículo con sidebar ·· */

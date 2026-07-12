@@ -16,13 +16,7 @@
     <div class="post-content">
       {{ .Content }}
     </div>
-    {{ with .GetTerms "tags" }}
-    <ul class="post-tags">
-      {{ range . }}
-      <li><a href="{{ .Permalink }}">{{ .Title | replaceRE `-` ` ` | lower }}</a></li>
-      {{ end }}
-    </ul>
-    {{ end }}
+    {{ partial "post-tags.html" . }}
     {{ with .Params.nota }}
     <aside class="obra-nota">
       <h2>Nota del autor</h2>

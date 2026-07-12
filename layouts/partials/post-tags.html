@@ -1,0 +1,7 @@
+{{ with .GetTerms "tags" }}
+<ul class="post-tags">
+  {{ range . }}
+  <li><a href="{{ .Permalink }}">{{ .Title | replaceRE `-` ` ` | lower }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}
