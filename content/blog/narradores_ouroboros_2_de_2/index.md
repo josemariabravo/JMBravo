@@ -5,9 +5,9 @@ date: "2010-10-22"
 categories: 
   - "articulos"
 ---
-### ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")
+## Ouróboros
 
-Segunda entrega del informe [Ouróboros](http://sombrasyceniza.com/tag/ouroboros/) sobre la caracterización de los narradores de una historia. ([Aquí](/blog/narradores_ouroboros_1_de_2/) tenéis la primera parte de este informe.)
+Segunda entrega del informe [Ouróboros](/tags/ouroboros/) sobre la caracterización de los narradores de una historia. ([Aquí](/blog/narradores_ouroboros_1_de_2/) tenéis la primera parte de este informe.)
 
 **7\. Multinarración.**
 

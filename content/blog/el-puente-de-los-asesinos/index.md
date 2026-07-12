@@ -55,5 +55,5 @@ En cuanto al resto de los personajes, vuelven antiguos conocidos de la serie, co
 Son los encuentros entre Alatriste y Malatesta, los cuales abren y cierran con broche dorado la historia (a la que se le podría afear cierta morosidad en su desarrollo), lo mejor de *El puente de los Asesinos*, y contribuyen, sin duda alguna, a que sea una de las mejores historias de la serie. Con diferencia.
 
 [^1]: No me pregunten, por favor, por su adaptación al cine, que no quiero cabrearme.
-[^2]: Editado, y muy bien, por la editorial de Javier Marías *Reino de Redonda*; pero que, si lo desean, pueden leer gratis: [Vida de este capitán Alonso de Contreras](http://www.sombrasyceniza.com/archivos/pdf/Suarez_Figaredo_VidaContreras.pdf).
+[^2]: Editado, y muy bien, por la editorial de Javier Marías *Reino de Redonda*.
 [^3]: Les recomiendo, si les interesa y se lo pueden permitir, el *Tesoro de Villanos: Diccionario de Germanía*, de María Inés Chamorro, cuyo subtítulo es digno de mención: *Lengua de jacarandina: Rufos, mandiles, galloferos, viltrotonas, zurrapas, carcaveras, murcios, floraineros y otras gentes de la carda*.

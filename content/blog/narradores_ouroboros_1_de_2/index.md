@@ -7,7 +7,7 @@ categories:
 ---
 ### ![Ouróboros](images/logo_e_eyb.gif "logo_e_eyb.gif")
 
-Tercera entrega de los informes de [Ouróboros](http://sombrasyceniza.com/tag/ouroboros/), esta vez dedicado a caracterizar los narradores de una historia. Debido a la longitud del artículo he optado por dividirlo en dos partes. Esta es la primera:
+Tercera entrega de los informes de [Ouróboros](/tags/ouroboros/), esta vez dedicado a caracterizar los narradores de una historia. Debido a la longitud del artículo he optado por dividirlo en dos partes. Esta es la primera:
 
 **1\. Concepto**
 
