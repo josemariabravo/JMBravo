@@ -1,5 +1,7 @@
 ---
-aliases: ["/posts/avisos-y-nuevas-septiembre-de-2024/", "/avisos-y-nuevas-septiembre-de-2024/"]
+aliases:
+  - /posts/avisos-y-nuevas-septiembre-de-2024/
+  - /avisos-y-nuevas-septiembre-de-2024/
 title: Avisos y nuevas (septiembre de 2024)
 date: 2024-09-06
 categories:

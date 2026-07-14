@@ -1,12 +1,17 @@
 ---
-aliases: ["/posts/carta-a-mi-hijo/", "/carta-a-mi-hijo/"]
-title: "Carta a mi hijo"
-date: "2012-08-27"
-categories: 
-  - "articulos"
-coverImage: "Martin_Bravo.jpg"
+aliases:
+  - /posts/carta-a-mi-hijo/
+  - /carta-a-mi-hijo/
+title: Carta a mi hijo
+date: 2012-08-27
+categories:
+  - articulos
+tags:
+  - reflexiones
+  - personal
+revisado: true
 ---
-3480 gramos, rezaba la báscula. Me acerqué a ti y al verte se desvanecieron el cansancio de la noche en vela y la inquietud de tantos meses de espera, y pronto me asaltó una mezcolanza de sentimientos. Alivio, en primer lugar. Euforia, también. Y sobre todo orgullo. Orgullo de padre. Respirabas con ahínco esas primeras veces, exhausto seguramente tú también tras los trabajos del parto; hacías honor a tu nombre. Martín. Guerrero, en la sabia lengua del Imperio romano.
+3480 gramos, rezaba la báscula. Me acerqué a ti y al verte se desvanecieron el cansancio de la noche en vela y la inquietud de tantos meses de espera, y pronto me asaltó una mezcolanza de sentimientos. Alivio, en primer lugar. Euforia, también. Y, sobre todo, orgullo. Orgullo de padre. Respirabas con ahínco esas primeras veces, exhausto seguramente tú también tras los trabajos del parto; hacías honor a tu nombre: Martín. Guerrero, en la sabia lengua del Imperio romano.
 
 Naces, hijo, a un mundo viejo y sórdido. Muchos otros lo han mirado antes que tú con buenos y malos ojos. Pero eso poco importa. Lo que importa es qué veas tú al mirarlo y cómo decidas hacerlo, y eso depende de ti tan solo.
 

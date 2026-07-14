@@ -1,17 +1,21 @@
 ---
-aliases: ["/posts/capriccio-santiago-eximeno/", "/capriccio-santiago-eximeno/"]
-title: "Capriccio, Santiago Eximeno"
-date: "2011-04-03"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "libros"
-  - "resenas"
-coverImage: "cappriccio.jpg"
+aliases:
+  - /posts/capriccio-santiago-eximeno/
+  - /capriccio-santiago-eximeno/
+title: Capriccio, Santiago Eximeno
+date: 2011-04-03
+categories:
+  - recomendaciones
+tags:
+  - libros
+  - resenas
+coverImage: cappriccio.jpg
+revisado: true
 ---
 > No ha dormido. Lo noto en sus ojos, en sus manos crispadas, en su nerviosismo. Bien. Esta noche volveré a llorar. Así somos los bebés.
-> 
 > «Insomne» (*Capriccio),* Santiago Eximeno
+
+![cappriccio](cappriccio.jpg)
 
 Cumplo mis promesas: esto no es una reseña. Es una recomendación. Encarecida y apremiante: si les apasiona el terror en su vena más cruel y despiadada, lean a [Santiago Eximeno](http://www.eximeno.com/). Prueben con Capriccio, una antología de relatos breves y microrrelatos publicada por la [editorial 23 escalones](http://www.23escalones.com/), de la cual tienen arriba un botón de muestra.
 

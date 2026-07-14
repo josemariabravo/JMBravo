@@ -1,17 +1,23 @@
 ---
-aliases: ["/posts/demasiados-autores-espanoles/", "/demasiados-autores-espanoles-yo-tambin/"]
-title: "Demasiados autores españoles (sí, yo también)"
-date: "2010-12-06"
-categories: 
-  - "articulos"
+aliases:
+  - /posts/demasiados-autores-espanoles/
+  - /demasiados-autores-espanoles-yo-tambin/
+title: Demasiados autores españoles (sí, yo también)
+date: 2010-12-06
+categories:
+  - articulos
+tags:
+  - libros
+  - industria-editorial
+revisado: true
 ---
-La ventaja de escribir a rebufo es que tienes la oportunidad de hacerlo con perspectiva. Así que debo intentarlo, al menos. ¿De qué va la entrada de hoy? En el fondo, de mi tema maldito preferido: el fandom. Y me explico. Recientemente saltó la polémica en uno de los mentideros más concurridos del fantástico español en la red, Sedice.com, con el hilo iniciado por **ollonois**, titulado de esta guisa: [¿Demasiados/as autores/as españoles/as?](http://www.sedice.com/modules.php?name=Forums&file=viewtopic&t=41560&postdays=0&postorder=asc&start=0).
+La ventaja de escribir a rebufo es que tienes la oportunidad de hacerlo con perspectiva. Así que debo intentarlo, al menos. ¿De qué va la entrada de hoy? En el fondo, de mi tema maldito preferido: el fandom. Y me explico. Recientemente saltó la polémica en uno de los mentideros más concurridos del fantástico español en la red, [Sedice.com](https://deavid.wordpress.com/2023/07/10/cierra-sedice-com-leelibros-com/), con el hilo iniciado por **ollonois**, titulado de esta guisa: [¿Demasiados/as autores/as españoles/as?](http://www.sedice.com/modules.php?name=Forums&file=viewtopic&t=41560&postdays=0&postorder=asc&start=0).
 
 (No diré nada de la los *os/as/es/as*, que pierdo el hilo.)
 
 **Ollonois** se quejaba en dicho hilo de tener un presupuesto para libros demasiado exiguo como para poder seguir el ritmo de publicación de los autores españoles.
 
-Y saltó la polémica, claro. Y el que esto suscribe buscó refrescos y palomitas y se preparó para pasárselo como un enano. Porque en el fondo me va la marcha, lo admito.
+Y se armó una buena, claro. Y el que esto suscribe buscó refrescos y palomitas y se preparó para pasárselo como un enano. Porque en el fondo me va la marcha, lo admito.
 
 Pero bueno. Si queréis seguir los pormenores del debate tendréis que leeros los 156 mensajes hasta la fecha del [hilo en su sitio de origen](http://www.sedice.com/modules.php?name=Forums&file=viewtopic&t=41560&postdays=0&postorder=asc&start=0). En cualquier caso, os haré un resumen rápido de lo más interesante, a mi juicio.
 
@@ -37,9 +43,9 @@ A lo que **ChicaAcuario** respondió:
 
 Y en esa línea, mi intervención fue esta:
 
-> En cuanto al segundo aspecto, comprendo que 70.000 libros editados al año parezca una burrada. Probablemente lo es, para el mercado español, que no consume ni una fracción de esa cifra. Pero ese no es el problema. El problema es que los títulos no se distribuyen ni están disponibles porque la avalancha de novedades viene "empujando" constantemente a los anteriores.
+> En cuanto al segundo aspecto, comprendo que 70.000 libros editados al año parezca una burrada. Probablemente lo es, para el mercado español, que no consume ni una fracción de esa cifra. Pero ese no es el problema. El problema es que los títulos no se distribuyen ni están disponibles porque la avalancha de novedades viene «empujando» constantemente a los anteriores.
 > 
-> Un libro que se editó hace medio año, salvo que haya sido un éxito, es muy difícil de encontrar en una librería. De esta forma se limitan las ventas de libros que podrían funcionar con ventas secuenciales. "De a pocos."
+> Un libro que se editó hace medio año, salvo que haya sido un éxito, es muy difícil de encontrar en una librería. De esta forma se limitan las ventas de libros que podrían funcionar con ventas secuenciales. «De a pocos».
 > 
 > Pero ese problema lo viene acusando el sector desde hace años. La solución es el libro digital, a mi parecer. Las librerías digitales tienen espacio ilimitado.
 > 
@@ -63,7 +69,7 @@ En cuanto al segundo tema que surgió, el del exceso de obras de género en espa
 
 **Deckard\_sg** tiró con bala y dejó claro lo que todos sabemos: que el panorama actual, seamos francos, no es para tirar cohetes. Sí, es cierto: ahora no es demasiado difícil publicar una novela de género. Pero siguen siendo minoría en relación a los títulos de autores extranjeros, y en las editoriales de importancia, son una rareza.
 
-¿Exagero? No creo. Echen si no un vistazo a las listas de más vendidos de [Cyberdark](http://tienda.cyberdark.net/) (la librería más señera, hoy por hoy, dedicada al fantástico). No ha habido desde 2005 apenas títulos con apellidos españoles en esa lista, a excepción de **El Sueño de los dioses** este año, y en años anteriores, **Nicho de Reyes** (2005). En cuanto al asunto de su calidad, solo he leído el segundo; bueno, miento: digamos que hice el intento.[^1]
+¿Exagero? No creo. Echen si no un vistazo a las listas de más vendidos de [Cyberdark](http://tienda.cyberdark.net/) (la librería más señera, hoy por hoy, dedicada al fantástico). No ha habido desde 2005 apenas títulos con apellidos españoles en esa lista, a excepción de *El Sueño de los dioses* este año, y en años anteriores, *Nicho de Reyes* (2005). En cuanto al asunto de su calidad, solo he leído el segundo; bueno, miento: digamos que hice el intento.[^1]
 
 Así que sí, es probable que un novel pueda publicar su novela. Pero ¿en qué condiciones? Estamos hablando de editoriales pequeñas, con tiradas que oscilan entre 1000 y 1500 ejemplares, de los que rara vez se venden poco más de la mitad, y con suerte.
 
@@ -87,4 +93,4 @@ Basta aplicar el sentido común: si estos autores no hacen sino reunirse en tert
 
 Ojo: en el fondo, todo esto me parece gracioso. Hasta entrañable. Esas comunidades de escritores (yo formé parte de alguna, por cierto) no tienen, en sí, nada de malo. Lo malo es cuando la hipocresía (más allá de la contención obligada por el saber estar y la educación) es la norma, y la sinceridad, la excepción.
 
-[^1]: No obstante, leí lo suficiente para afirmar que **Nicho de Reyes** es, a mi juicio, una de las novelas de fantasía más sobrevaloradas y peor editadas desde hace mucho tiempo. Mal escrita, peor estructurada, cuajada de erratas y solecismos. Signo, en fin, de la inmadurez editorial del género.
+[^1]: No obstante, leí lo suficiente para afirmar que *Nicho de Reyes* es, a mi juicio, una de las novelas de fantasía más sobrevaloradas y peor editadas desde hace mucho tiempo. Mal escrita, peor estructurada, cuajada de erratas y solecismos. Signo, en fin, de la inmadurez editorial del género.

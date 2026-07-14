@@ -1,5 +1,6 @@
 ---
-aliases: ["/posts/avisos-y-nuevas-julio-de-2026/"]
+aliases:
+  - /posts/avisos-y-nuevas-julio-de-2026/
 title: Avisos y nuevas (julio de 2026)
 date: 2026-07-02
 categories:

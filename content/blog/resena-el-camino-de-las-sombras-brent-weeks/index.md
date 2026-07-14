@@ -8,7 +8,8 @@ tags:
   - libros
 revisado: true
 ---
-![Al filo de las sombras](al_filo_de_las_sombras.jpg "izquierda 250")
+![El camino de las sombras](el-camino-de-las-sombras.jpg "izquierda 250")
+
 Siento una especial debilidad por las historias de asesinos. *El Camino de las sombras* (Plaza y Janés, 2010) va precisamente de eso, como puede deducirse al ver la ilustración de cubierta. Es la primera novela de la trilogía *El Ángel de la noche* y *opus primum* del norteamericano Brent Weeks, al que esta trilogía ha convertido en uno de los autores revelación de la literatura fantástica anglosajona.
 
 ## Sinopsis

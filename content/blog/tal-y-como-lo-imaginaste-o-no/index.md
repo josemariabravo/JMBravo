@@ -1,12 +1,19 @@
 ---
-aliases: ["/posts/tal-y-como-lo-imaginaste-o-no/", "/tal-y-como-lo-imaginaste-o-no/"]
-title: "Tal y como lo imaginaste (o no)"
-date: "2011-04-23"
-categories: 
-  - "articulos"
-coverImage: "infinito-2.jpg"
+aliases:
+  - /posts/tal-y-como-lo-imaginaste-o-no/
+  - /tal-y-como-lo-imaginaste-o-no/
+title: Tal y como lo imaginaste (o no)
+date: 2011-04-23
+categories:
+  - articulos
+tags:
+  - reflexiones
+  - narrativa
+  - ouroboros
+revisado: true
 ---
-Imagino que buena parte de los seguidores acérrimos de la *Canción de Hielo y Fuego* habrán visto a estas alturas su adaptación a la pequeña pantalla (*Game of Thrones*, HBO), dado que se estrenó el pasado 17 de abril.
+
+Imagino que buena parte de los seguidores acérrimos de la *Canción de Hielo y Fuego* habrá visto a estas alturas su adaptación a la pequeña pantalla (*Game of Thrones*, HBO), dado que se estrenó el pasado 17 de abril.
 
 Naturalmente, el que estas líneas suscribe ya ha visto el primer capítulo. Pueden ustedes respirar tranquilos; no tengo intención de hacer ninguna locura, como de las que hablé en esta entrada, porque la serie ha estado, en líneas generales, a la altura de mis expectativas.
 
@@ -20,9 +27,9 @@ Con *Game of Thrones* sucederá lo mismo, como si lo viera. A los que no conozca
 
 Cada lector de Tolkien o Martin (por seguir con los ejemplos citados) se industria en el magín su propia versión de la Tierra Media o los Siete Reinos. Así, una adaptación al cómic, la televisión o el cine podrá acercarse a la idea que nos habíamos formado de una obra, pero jamás de los jamases podrá ser igual.
 
-Permítanme que ilustre el proceso con un gráfico y una explicación pedestre pero eficaz. No es mía, ojo: la he sacado de un informe *[Ouróboros](/tag/ouroboros)* aún no publicado (autoría casi en exclusiva de Zaral Arelsiak, es de justicia reconocerlo). Observen el siguiente gráfico:
+Permítanme que ilustre el proceso con un gráfico y una explicación pedestre pero eficaz. No es mía, ojo: la he sacado de un informe [Ouróboros](/tags/ouroboros/) aún no publicado (autoría casi en exclusiva de Zaral Arelsiak, es de justicia reconocerlo). Observen el siguiente gráfico:
 
-![image\_thumb](images/image_thumb-1.png)
+![imago](imago.png)
 
 ¿Un galimatías? No tanto. Les explico: el prisma amarillo representa una obra aún no escrita, *H*. En esa etapa, la obra no es más que una idea: un conjunto inasible y por definir que aúna atisbos de imágenes, sonidos e incluso olores, palabras aún no escritas y emociones tan intensas y vívidas como las propias; el tejido, en fin, con el que se fabrican los sueños. O un conjunto de pulsos bioleléctricos que serpentea de sinapsis en sinapsis por las circunvoluciones del cerebro de su creador, si son ustedes más prosaicos.
 
@@ -44,6 +51,4 @@ Dicho esto, a los que se rasgan las vestiduras porque no se *captado la esencia*
 
 Afortunadamente.
 
-PD: El título de esta entrada hace referencia al tema de Nine Inch Nails *Just like you imagined*, como más de uno habrá adivinado. Disfruten:
-
-{{< youtube Erm19Kdplz4 >}}
+PD: El título de esta entrada hace referencia al tema de Nine Inch Nails *Just like you imagined*, como más de uno habrá adivinado.

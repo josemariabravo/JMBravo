@@ -1,5 +1,7 @@
 ---
-aliases: ["/posts/avisos-y-nuevas-octubre-de-2024/", "/avisos-y-nuevas-octubre-de-2024/"]
+aliases:
+  - /posts/avisos-y-nuevas-octubre-de-2024/
+  - /avisos-y-nuevas-octubre-de-2024/
 title: Avisos y nuevas (octubre de 2024)
 date: 2024-10-29
 categories:

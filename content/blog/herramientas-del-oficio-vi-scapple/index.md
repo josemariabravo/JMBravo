@@ -1,10 +1,16 @@
 ---
-aliases: ["/posts/herramientas-del-oficio-vi-scapple/", "/herramientas-del-oficio-vi-scapple/"]
+aliases:
+  - /posts/herramientas-del-oficio-vi-scapple/
+  - /herramientas-del-oficio-vi-scapple/
 title: "Herramientas del oficio, vi: Scapple"
-date: "2014-02-17"
-categories: 
-  - "articulos"
-coverImage: "scapple_logo-win-128.png"
+date: 2014-02-17
+categories:
+  - articulos
+coverImage: scapple_logo-win-128.png
+tags:
+  - escritura
+  - planificación-literaria
+revisado: true
 ---
 *The hardest thing is knowing what to write.* Syd Field
 
@@ -28,17 +34,17 @@ Supongamos que queremos bosquejar un artículo sobre las bondades de Scapple, co
 
 Al abrir el programa, lo primero que vemos es esto:
 
-![Scapple\_01](images/Scapple_011-1024x616.png)
+![Scapple](scapple-01.png)
 
 Nada más. Una pantalla en blanco, con una interfaz mínima, y un escueto mensaje: *Double-click anywhere to create a note* (Doble clic en cualquier lugar para crear una nota).
 
 Y ya está. Superado el primer instante de desconcierto, probamos a crear nuestra primera nota:
 
-![Scapple\_01\_bis](images/Scapple_01_bis1-1024x616.png)
+![Scapple](scapple-02.png)
 
 Y un par más:
 
-![Scapple\_02](images/Scapple_021-1024x616.png)
+![Scapple](scapple-03.png)
 
 Y así, si quisiéramos, *ad infinitum*. El lienzo de un archivo de Scapple, a diferencia de una pizarra o una hoja de papel, es prácticamente inacabable.
 
@@ -46,7 +52,7 @@ Ahora bien, ¿qué podemos hacer con estas notas?
 
 Prácticamente, lo que queramos. Moverlas a donde se nos antoje, disponerlas en grupos, apilarlas o interrelacionarlas mediante flechas. En el ejemplo que nos ocupa, ordenaremos los elementos hasta encontrar la estructura final del artículo:
 
-![Scapple\_03](images/Scapple_031-1024x977.jpg)
+![Scapple](scapple-04.jpg)
 
 Como se puede apreciar, el esquema de más arriba es un resumen visual y esquemático de este artículo. A partir de ahí, escribirlo ha sido cuestión de hallar tiempo y darle a la tecla, sin dudas ni rodeos en su escritura.
 
