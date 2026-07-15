@@ -1,17 +1,21 @@
 ---
-aliases: ["/posts/el-viaje-de-hawkwood-paul-kearney/", "/el-viaje-de-hawkwood-paul-kearney/"]
-title: "El viaje de Hawkwood, Paul Kearney"
-date: "2011-04-05"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "libros"
-  - "resenas"
-coverImage: "el_viaje_hawkwood.jpg"
+aliases:
+  - /posts/el-viaje-de-hawkwood-paul-kearney/
+  - /el-viaje-de-hawkwood-paul-kearney/
+title: El viaje de Hawkwood, Paul Kearney
+date: 2011-04-05
+categories:
+  - recomendaciones
+tags:
+  - libros
+  - paul-kearney
+  - fantasía-histórica
+revisado: true
 ---
-Excelente. Así es el comienzo de la serie *Las monarquías de Dios*, de Paul Kearney, y bien podría finalizar aquí y ahora con un: leedlo, no os arrepentiréis.
 
-![](images/el_viaje_hawkwood.jpg)
+![El viaje de Hawkwood](viajehawkwood.jpg "izquierda 250")
+
+Excelente. Así es el comienzo de la serie *Las monarquías de Dios*, de Paul Kearney, y bien podría finalizar aquí y ahora con un: leedlo, no os arrepentiréis.
 
 Pero supongo que habré de extenderme algo más. Veamos. Me encanta la fantasía histórica, entendida esta como una forma de parafrasear nuestro pasado: encontrar un paradigma útil y atrayente, cuya memoria resuena en eso que Jung llamó *inconsciente colectivo*; y después manejarlo cual demiurgo: añadir o quitar hechos, cambiar lugares, fechas, jugar al «¿y si…?».
 

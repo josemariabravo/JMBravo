@@ -119,9 +119,10 @@ Como puede apreciarse, en el primer ejemplo el carácter *em dash* no se comport
 
 (Para más información, recomiendo la siguiente lectura: [Rayas de inciso y de diálogo](http://www.tex-tipografia.com/rayas_incisos_dialogos.html "Rayas de inciso y de diálogo"), de Javier Bezos).
 
-> **Actualización:** debo matizar lo anterior:
-> - el símbolo horizontal bar no está disponible en todas las tipografías. Por ejemplo, Minion Pro, un clásico editorial, solo tienen em dash;
-> - en programas de maquetación como InDesign, el comportamiento de horizontal bar y em dash es el mismo. En este último caso, recomiendo aplicar tanto a los em dash como a los horizontal bar un estilo de carácter con la propiedad «no break»/«no separar» para evitar este comportamiento anómalo.
+> **Actualización:** conviene matizar lo anterior, dado que
+> - el símbolo horizontal bar no está disponible en todas las tipografías (por ejemplo, la Minion Pro, un clásico editorial, solo tiene el em dash);
+> - en programas de maquetación como InDesign, el comportamiento de horizontal bar y em dash es el mismo.  
+> En este último caso, recomiendo aplicar tanto a los em dash como a los horizontal bar un estilo de carácter con la propiedad «no break»/«no separar» para evitar este comportamiento anómalo.
 
 ### Particularidades del uso de la raya
 

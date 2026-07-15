@@ -1,10 +1,15 @@
 ---
-aliases: ["/posts/el-puente-de-los-asesinos/", "/el-puente-de-los-asesinos/"]
-title: "El puente de los asesinos"
-date: "2011-12-10"
-categories: 
-  - "articulos"
-coverImage: "alatriste01-1.jpg"
+aliases:
+  - /posts/el-puente-de-los-asesinos/
+  - /el-puente-de-los-asesinos/
+title: El puente de los asesinos
+date: 2011-12-10
+categories:
+  - articulos
+tags:
+  - alatriste
+  - libros
+revisado: true
 ---
 Fue allá por 1996, creo, durante una partida de rol. Hace ya sus buenos quince años, que se dice pronto; mucho ha llovido desde entonces, y precisamente del amigo que me habló por primera vez de él no he vuelto a saber nada.
 
@@ -32,13 +37,13 @@ Tardé un año en hacer caso a mi amigo. Y cuando lo hice fue casi por casualida
 
 Afortunadamente me rasqué el bolsillo y me fui con el libro bajo el brazo. Catorce años después puedo acariciar con cariño mi ejemplar de *El capitán Alatriste*, que luce estupendo junto a los otros seis (hasta la fecha) títulos de la serie.
 
-![Alatristes](images/Alatristes-1030x598.jpg)
+![Alatristes](alatristes.jpg)
 
-Al autor, Pérez-Reverte, lo conocí mucho más a partir de entonces, tanto por su faceta novelística como por ese personaje de lengua despiadada, entre gruñón y entrañable, que habita sus columnas de prensa. Y cosa curiosa, no soy precisamente aficionado a sus novelas digamos más "al uso" (ni *El club Dumas*, *La piel del tambor* o *La tabla de Flandes*, sus obras más señeras, llegaron a convencerme), pero soy un incondicional del capitán Alatriste[^1]
+Al autor, Pérez-Reverte, lo conocí mucho más a partir de entonces, tanto por su faceta novelística como por ese personaje de lengua despiadada, entre gruñón y entrañable, que habita sus columnas de prensa. Y cosa curiosa, no soy precisamente aficionado a sus novelas digamos más «al uso» (ni *El club Dumas*, *La piel del tambor* o *La tabla de Flandes*, sus obras más señeras, llegaron a convencerme), pero soy un incondicional del capitán Alatriste.[^1]
 
-Le debo al capitán bastantes cosas. Por ejemplo, reconciliarme con la literatura del Siglo de Oro español, en especial la novela picaresca, o llegar a conocer, tirando del hilo, obras como la espléndida *Vida de este capitán Alonso de Contreras*[^2].
+Le debo al capitán bastantes cosas. Por ejemplo, reconciliarme con la literatura del Siglo de Oro español, en especial la novela picaresca, o llegar a conocer, tirando del hilo, obras como la espléndida *Vida de este capitán Alonso de Contreras*.[^2]
 
-También le debo mi interés actual por la germanía, el habla de los maleantes del s. XVI y XVII en España, tan rica y fascinante[^3], o por los tercios españoles, cuyas campañas escribieron muchas de las páginas más brillantes de la historia militar en la Edad Moderna.
+También le debo mi interés actual por la germanía, el habla de los maleantes del s. XVI y XVII en España, tan rica y fascinante,[^3] o por los tercios españoles, cuyas campañas escribieron muchas de las páginas más brillantes de la historia militar en la Edad Moderna.
 
 Dicho todo esto, no hará falta decir con el entusiasmo que acojo cada nueva entrega de las aventuras del capitán Alatriste. Recientemente se publicó la última, *El puente de los asesinos*, que comienza así de bien:
 
@@ -55,5 +60,5 @@ En cuanto al resto de los personajes, vuelven antiguos conocidos de la serie, co
 Son los encuentros entre Alatriste y Malatesta, los cuales abren y cierran con broche dorado la historia (a la que se le podría afear cierta morosidad en su desarrollo), lo mejor de *El puente de los Asesinos*, y contribuyen, sin duda alguna, a que sea una de las mejores historias de la serie. Con diferencia.
 
 [^1]: No me pregunten, por favor, por su adaptación al cine, que no quiero cabrearme.
-[^2]: Editado, y muy bien, por la editorial de Javier Marías *Reino de Redonda*.
+[^2]: Editado, y muy bien, por la editorial de Javier Marías *Reino de Redonda*. Disponible, por cierto, en la [Biblioteca Virtual de Miguel de Cervantes](https://www.cervantesvirtual.com/obra/vida-del-capitn-alonso-de-contreras-caballero-del-hbito-de-san-juan-natural-de-madrid-escrita-por-l-mismo-aos-1582-a-1633-0/).
 [^3]: Les recomiendo, si les interesa y se lo pueden permitir, el *Tesoro de Villanos: Diccionario de Germanía*, de María Inés Chamorro, cuyo subtítulo es digno de mención: *Lengua de jacarandina: Rufos, mandiles, galloferos, viltrotonas, zurrapas, carcaveras, murcios, floraineros y otras gentes de la carda*.

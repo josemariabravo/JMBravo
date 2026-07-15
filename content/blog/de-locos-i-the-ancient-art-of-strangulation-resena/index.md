@@ -1,24 +1,29 @@
 ---
-aliases: ["/posts/de-locos-i-the-ancient-art-of-strangulation-resena/", "/de-locos-i-the-ancient-art-of-strangulation-resena/"]
-title: "The ancient art of strangulation"
-date: "2011-01-18"
-categories: 
-  - "articulos"
-coverImage: "the_ancient_art_of_strangulation.jpg"
+aliases:
+  - /posts/de-locos-i-the-ancient-art-of-strangulation-resena/
+  - /de-locos-i-the-ancient-art-of-strangulation-resena/
+title: The ancient art of strangulation
+date: 2011-01-18
+categories:
+  - articulos
+tags:
+  - libros
+revisado: true
 ---
-![](images/the_ancient_art_of_strangulation.jpg)
 
-Lo he dicho antes en alguna que otra entrada: si alguna vez me meto en un lío y registran mi casa voy al trullo directamente. Me encierran y tiran la llave, vamos. Entre libros de rol (herencia de una juventud turbia), armas blancas y libros raros, no me salva ni Perry Mason. De perdidos al río, así que he decidido sacar pecho y comenzar en «De locos» una serie de reseñas en las que expondré lo más insólito que vaga por mis estanterías para disfrute (y probable estupor) de mis lectores.
+![the-ancient-art-of-strangulation](the-ancient-art-of-strangulation.jpg "izquierda 250")
 
-La primera entrega se ocupa del libro *[The Ancient Art of Strangulation](http://www.paladin-press.com/product/The_Ancient_Art_of_Strangulation/Other_Self-Defense)*, del Dr. Haha Lung (Paladin Press, ISBN 0-87364-843-9). (Es en inglés, como habrán notado.) La traducción literal del título es *El antiguo* (y muy noble, añadiría) *arte de la estrangulación.* Pinta bien, ¿verdad?
+Lo he dicho antes en alguna que otra entrada: si alguna vez me meto en un lío y registran mi casa voy al trullo directamente. Me encierran y tiran la llave, vamos. Entre libros de rol (herencia de una juventud turbia), armas blancas y libros raros, no me salva ni Perry Mason. De perdidos al río, así que he decidido sacar pecho y exponer lo más insólito que vaga por mis estanterías para disfrute (y probable estupor) de mis lectores.
 
-### Sobre la editorial:
+La primera entrega se ocupa del libro [*The Ancient Art of Strangulation*](http://www.paladin-press.com/product/The_Ancient_Art_of_Strangulation/Other_Self-Defense), del Dr. Haha Lung (Paladin Press, ISBN 0-87364-843-9). (Es en inglés, como habrán notado). La traducción literal del título es *El antiguo* —y muy noble, añadiría— *arte de la estrangulación.* Pinta bien, ¿verdad?
 
-[Paladin Press](http://www.paladin-press.com/) es el sitio al que acudir cuando quieres informarte sobre cómo hacer "cosas chungas". Es el paraíso de los norteamericanos flipados por el movimiento de los *[survivalists](http://es.wikipedia.org/wiki/Survivalismo)*, esos que la guerra fría puso tan de moda (imagen: *redneck* \[léase paleto usaca\] con cara de mala hostia, armas en casa para acabar una guerra y un refugio atómico subterráneo en su jardín).
+## Sobre la editorial:
 
-Lo gracioso del asunto es que encuentro más que interesante buena parte de su catálogo. (Ea, ya está, lo he admitido.) Pero de eso hablaremos en sucesivas entregas.
+[Paladin Press](http://www.paladin-press.com/) es el sitio al que acudir cuando quieres informarte sobre cómo hacer "cosas chungas". Es el paraíso de los norteamericanos flipados por el movimiento de los *[survivalists](http://es.wikipedia.org/wiki/Survivalismo)*, esos que la guerra fría puso tan de moda con cara de mala hostia, armas en casa para acabar una guerra y un refugio atómico subterráneo en su jardín).
 
-### Sinopsis:
+Lo gracioso del asunto es que encuentro más que interesante buena parte de su catálogo. Pero de eso hablaremos en sucesivas entregas.
+
+## Sinopsis
 
 *The ancient art of strangulation* se centra en las técnicas de estrangulación de los *[Thuggee](http://es.wikipedia.org/wiki/Los_Estranguladores)*, cuyo trasfondo histórico ocupa la primera parte del libro. Para aquellos a los que no les suenen, los *Thuggee* eran una secta que adoraba a la diosa hindú *[Kali](http://es.wikipedia.org/wiki/Kali)*, deidad violenta y oscura asociada al tiempo y el cambio; es especialmente famosa su representación con múltiples brazos que enarbolan armas y cabezas decapitadas. Si aún no os suena, os daré la pista definitiva: son los malos de la segunda película de Indiana Jones.
 
@@ -30,7 +35,7 @@ En cualquier caso, y sin tener datos a favor o en contra de la veracidad de las 
 
 En cualquier caso, todas estas técnicas son *For academic study only*. Solo para estudio académico, su señoría. Lo prometo.
 
-### Preguntas y respuestas:
+## Preguntas y respuestas
 
 **¿Tú estás loco, verdad?**
 
