@@ -13,7 +13,7 @@ revisado: true
 
 *The merchant of Venice*, William Shakespeare
 
-Llevaba largo tiempo sin decidirme a escribir este artículo; llevaba también demasiado tiempo sin escribir en este *blog*, a secas. Esta vez toca hablar de un asunto espinoso: el «pirateo» de libros.
+Llevaba largo tiempo sin decidirme a escribir este artículo; quizá porque se trata de un asunto algo espinoso: el «pirateo» de libros.
 
 Las ideas para este artículo me rondaban el magín desde que leí los artículos de Javier Marías ([«Las bandas de la banda ancha»](https://elpais.com/elpais/2013/12/19/eps/1387465128_839474.html), *El País*, 12/2013) y Arturo Pérez-Reverte ([«Ese fulano \[quizás usted\] me roba»](https://www.perezreverte.com/articulo/patentes-corso/810/ese-fulano-quizas-usted-me-roba/), *XL Semanal*, 01/2014).
 
@@ -52,8 +52,7 @@ Otra línea de argumentación frecuente es equiparar cada descarga digital con l
 En primer lugar, que una persona se baje un libro gratis («pirata», a decir de muchos) no comporta, automáticamente:
 
 - que, de no estar a su alcance *ilegalmente*, hubiera comprado la obra por un medio *legal*;
-
-- que vaya a leer dicha obra.
+- que vaya a leer dicha obra.  
 
 Pura lógica, desde mi punto de vista. A los que tengan lectores de libros electrónicos, les planteo la siguiente pregunta: ¿cuántos libros gratis tienen en sus dispositivos? ¿Cuántos de esos libros tienen aún por leer? En muchos casos, la respuesta a esta última pregunta es, probablemente, «demasiados».
 
