@@ -1,14 +1,20 @@
 ---
-aliases: ["/posts/los-reyes-hereticos-paul-kearney/", "/los-reyes-hereticos-paul-kearney/"]
-title: "Los reyes heréticos, Paul Kearney"
-date: "2011-05-19"
-categories: 
-  - "recomendaciones"
-tags: 
-  - "libros"
-  - "resenas"
-coverImage: "reyeshereticos_gr.jpg"
+aliases:
+  - /posts/los-reyes-hereticos-paul-kearney/
+  - /los-reyes-hereticos-paul-kearney/
+title: Los reyes heréticos, Paul Kearney
+date: 2011-05-19
+categories:
+  - recomendaciones
+tags:
+  - libros
+  - resenas
+  - paul-kearney
+  - escritura
+revisado: true
 ---
+![los-reyes-hereticos](los-reyes-hereticos.jpg "izquierda 250")
+
 *Los reyes heréticos* continúa la serie de *Las monarquías de Dios* tras el magnífico arranque que supuso [El viaje de Hawkwood](/blog/el-viaje-de-hawkwood-paul-kearney/), donde se comienzan a recoger las tempestades sembradas en la primera parte: estamos en el año del Santo de 551, y el cisma que separa las naciones ramusianas es ya un hecho: los partidarios del prelado Macrobius, dado por muerto en el saco de Aekir, se oponen a las hogueras de la fe prendidas por Himerius, el nuevo y ambicioso prelado de la fe de Ramusio.
 
 A su regreso a Abrusio, Abeleyn de Hebrion se enfrenta con una guerra civil en curso entre sus partidarios y los de Himerius. Tras la apurada pero exitosa defensa del dique de Ormann, el soldado torunno Corfe Ceaf–Inaf regresa a la corte del rey Lofantyr, donde este le encomendará una misión condenada, de antemano, al fracaso; mientras tanto, el capitán Hawkwood, el noble Murad y el hechicero Bardolin exploran los misterios del continente occidental para hacer frente a una terrible amenaza; y en Charibon, capital de la fe ramusiana, los monjes Albrec y Avila harán un hallazgo cuya magnitud podría tambalear la Iglesia de Ramusio.
@@ -23,7 +29,9 @@ Cuando entrevera la urdimbre de la historia, Kearney sabe lo que se hace. El ela
 
 De nuevo, mi único reproche serio a esta novela es el mismo que le hice a *[El viaje de Hawkwood](/blog/el-viaje-de-hawkwood-paul-kearney/)*: te deja con hambre y sed; parece un episodio de transición hacia la apoteosis que, aún en el horizonte, ya se barrunta, y que esperamos leer con ansia en los próximos títulos de la serie.
 
-![guerrashierro\_gr](images/guerrashierro_gr-1.jpg)Tras *Los reyes heréticos* seguirá la publicación del tercer volumen, *Las guerras del hierro*…
+![las-guerras-de-hierro](las-guerras-de-hierro.jpg "izquierda 250")
+
+Tras *Los reyes heréticos* seguirá la publicación del tercer volumen, *Las guerras del hierro*…
 
 … o eso espero. Para los que no estén al tanto, *Las monarquía de Dios*, por motivos que no consigo entender, no ha tenido la suerte comercial deseable. Su editor, Luis G. Prado, a raíz de las propuestas de los lectores en [esta entrada de su bitácora](http://artifexplus.blogspot.com/2011/02/proxima-entrega-de-las-monarquias-de.html), planteó [una solución](http://artifexplus.blogspot.com/2011/03/suscripcion-las-monarquias-de-dios.html): suscribirse a los tres números restantes de la serie, con un 10% de descuento sobre el precio de venta, con el objeto de asegurar una cantidad mínima de ejemplares vendidos que consiguiera que "saliesen las cuentas". Para tal efecto se necesitaban al menos 150 suscriptores.
 

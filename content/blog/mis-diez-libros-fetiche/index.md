@@ -1,10 +1,15 @@
 ---
-aliases: ["/posts/mis-diez-libros-fetiche/", "/mis-diez-libros-fetiche/"]
-title: "Mis diez libros fetiche"
-date: "2011-04-18"
-categories: 
-  - "articulos"
-coverImage: "imprenta-1.jpg"
+aliases:
+  - /posts/mis-diez-libros-fetiche/
+  - /mis-diez-libros-fetiche/
+title: Mis diez libros fetiche
+date: 2011-04-18
+categories:
+  - articulos
+tags:
+  - personal
+  - libros
+revisado: true
 ---
 En [Escritoenelagua.com](http://www.escritoenelagua.com/?p=2760) Rodolfo Martínez invitó a los lectores de su bitácora a elaborar una lista con sus diez lecturas clave, esas que nos han configurado como lector, y de las que algunos reniegan. Lo cito:
 
@@ -25,7 +30,7 @@ Así que, como las listas tienen mucho tirón y la idea me ha parecido cojonuda,
 
 Elegir ha sido difícil. Pero marqué una serie de condiciones: tenían que ser libros que hubiera releído al menos una vez (la mayoría acumulan dos y tres relecturas) y, además,  debían corresponder a mi primera etapa como lector, supongo que entre los ocho y dieciocho años de edad.
 
-### Comentarios:
+## Comentarios
 
 ***La historia interminable*, de Michael Ende**
 

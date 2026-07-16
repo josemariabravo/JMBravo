@@ -3,13 +3,14 @@ aliases:
   - /espadas-y-falacias-i/
   - /posts/espadas-y-falacias-i/
   - /de-espadas-y-falacias-mitos/
-title: "De espadas y falacias (i)"
+title: De espadas y falacias (i)
 date: 2011-06-12
 categories:
   - articulos
 tags:
   - esgrima
-  - 
+  - chema-historias-soeces-del-montaje
+revisado: true
 ---
 ![excalibur](excalibur1.jpg "izquierda 250")
 
@@ -97,20 +98,20 @@ Resumiendo: un guerrero armado con un arnés blanco era algo de temer. Pero, ay,
 Y para darle la puntilla a este mito con imágenes, van dos excelentes vídeos que demuestran la movilidad con armaduras:
 
 {{< youtube 5hlIUrd7d1Q >}}
-
+***
 {{< youtube WMuNXWFPewg >}}
 
 ## Mito n.º 4: Los giros de 360º
 
 Este es muy frecuente en las películas de acción en las que salen combates con armas blancas. ¿Sabéis a qué me refiero? ¿No? A ver: me refiero a cuando el actor, antes de asestar un espadazo, gira sobre sí mismo para imprimir un gracioso giro de 360º, alehop, al movimiento. En el proceso (lento, predecible, arriesgado) le ofrece, durante un tiempo nada desdeñable, la espalda al enemigo.
 
-Suficiente para que te atraviesen de parte a parte, creedme. Bajo ningún concepto un combatiente daría la espalda a un enemigo. Lo primero que aprende cualquiera con un mínimo de experiencia en combate es a que el oponente no le  «gane grados al perfil», en terminología de la Verdadera Destreza[^4]: en cristiano, los oponentes procurarán que los ejes longitudinales de sus cuerpos estén siempre enfrentados. Cualquier ángulo distinto de cero a favor de uno de los contendientes ofrece una ventaja tal que nadie, en su sano juicio, se arriesgaría a hacer una maniobra similar; por no hablar que dejar de ver a tu oponente, aunque sea durante una fracción de segundo, es un riesgo absurdo que nadie querría correr. En su sano juicio, al menos.
+Suficiente para que te atraviesen de parte a parte, creedme. Bajo ningún concepto un combatiente daría la espalda a un enemigo. Lo primero que aprende cualquiera con un mínimo de experiencia en combate es a que el oponente no le  «gane grados al perfil», en terminología de la Verdadera Destreza:[^4] en cristiano, los oponentes procurarán que los ejes longitudinales de sus cuerpos estén siempre enfrentados. Cualquier ángulo distinto de cero a favor de uno de los contendientes ofrece una ventaja tal que nadie, en su sano juicio, se arriesgaría a hacer una maniobra similar; por no hablar que dejar de ver a tu oponente, aunque sea durante una fracción de segundo, es un riesgo absurdo que nadie querría correr. En su sano juicio, al menos.
 
 ## Mito n.º 5: Las armas a la espalda
 
 Las espadas se llevaban a la cintura. En un tahalí que colgaba del hombro, o al cinto, mediante un talabarte. Pero a la cintura; no a la espalda.
 
-¿Por qué no? Porque desenvainar un arma (de cierta longitud) sujeta a la espalda es lento y difícil. Haced la prueba si no me creéis (yo la hice en su día).
+¿Por qué no? Porque desenvainar un arma (de cierta longitud) sujeta a la espalda es lento y difícil. Haced la prueba si no me creéis (yo lo hice en su día).
 
 ![Lansquenete alemán con montante *(Zweihänder)* a la espalda](doppelsoldner1.jpg)
 

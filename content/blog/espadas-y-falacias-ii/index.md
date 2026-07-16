@@ -1,11 +1,16 @@
 ---
-aliases: ["/espadas-y-falacias-ii/", "/posts/espadas-y-falacias-ii/", "/de-espadas-y-falacias-ii-mitos/"]
-title: "De espadas y falacias (ii)"
-date: "2011-06-16"
-categories: 
-  - "articulos"
-tags: 
-  - "esgrima"
+aliases:
+  - /espadas-y-falacias-ii/
+  - /posts/espadas-y-falacias-ii/
+  - /de-espadas-y-falacias-ii-mitos/
+title: De espadas y falacias (ii)
+date: 2011-06-16
+categories:
+  - articulos
+tags:
+  - esgrima
+  - chema-historias-soeces-del-montaje
+revisado: true
 ---
 *(Viene de la [primera parte](/espadas-y-falacias-i/) de este artículo.)*
 
