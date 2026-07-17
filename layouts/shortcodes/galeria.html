@@ -12,12 +12,17 @@
   {{/* .Title cae al nombre de archivo si el bundle no define un título
        propio en `resources:` (ver _meta/plantillas/galeria.md) — sin ese
        título el alt sería el nombre de archivo tal cual, que no describe
-       la imagen a un lector de pantalla. Mientras no se personalice, se
-       usa un alt genérico pero legible en vez del nombre de archivo. */}}
+       la imagen a un lector de pantalla, y tampoco se muestra pie de
+       foto en el lightbox. Mientras no se personalice, se usa un alt
+       genérico pero legible en vez del nombre de archivo. */}}
+  {{ $title := strings.TrimSpace $img.Title }}
+  {{ $hasTitle := and $title (ne $title $img.Name) }}
   {{ $alt := $img.Title }}
-  {{ if eq $img.Title $img.Name }}{{ $alt = printf "%s — foto %d de %d" $.Page.Title (add $i 1) (len $images) }}{{ end }}
+  {{ if not $hasTitle }}{{ $alt = printf "%s — foto %d de %d" $.Page.Title (add $i 1) (len $images) }}{{ end }}
+  {{ $caption := "" }}
+  {{ if $hasTitle }}{{ $caption = $title }}{{ end }}
   <figure class="galeria-item">
-    <button class="galeria-btn" data-src="{{ $fullSrc }}" data-alt="{{ $alt }}" aria-label="Ampliar imagen">
+    <button class="galeria-btn" data-src="{{ $fullSrc }}" data-alt="{{ $alt }}"{{ with $caption }} data-caption="{{ . }}"{{ end }} aria-label="Ampliar imagen">
       {{ partial "responsive-img.html" (dict "img" $img "alt" $alt "sizes" "(max-width: 640px) 90vw, 340px" "widths" (slice 260 520 1040)) }}
     </button>
   </figure>
@@ -26,17 +31,21 @@
 
 <dialog class="galeria-dialog" id="{{ $id }}-dialog">
   <button class="galeria-dialog-close" aria-label="Cerrar">&times;</button>
-  {{ if gt (len $images) 1 }}
-  <button class="galeria-dialog-nav galeria-dialog-prev" aria-label="Imagen anterior">&#10094;</button>
-  <button class="galeria-dialog-nav galeria-dialog-next" aria-label="Imagen siguiente">&#10095;</button>
-  {{ end }}
-  <img src="" alt="" class="galeria-dialog-img">
+  <div class="galeria-dialog-media">
+    <img src="" alt="" class="galeria-dialog-img">
+    {{ if gt (len $images) 1 }}
+    <button class="galeria-dialog-nav galeria-dialog-prev" aria-label="Imagen anterior">&#10094;</button>
+    <button class="galeria-dialog-nav galeria-dialog-next" aria-label="Imagen siguiente">&#10095;</button>
+    {{ end }}
+  </div>
+  <p class="galeria-dialog-caption"></p>
 </dialog>
 
 <script>
 (function () {
   const dialog = document.getElementById('{{ $id }}-dialog');
   const dialogImg = dialog.querySelector('.galeria-dialog-img');
+  const dialogCaption = dialog.querySelector('.galeria-dialog-caption');
   const closeBtn = dialog.querySelector('.galeria-dialog-close');
   const prevBtn = dialog.querySelector('.galeria-dialog-prev');
   const nextBtn = dialog.querySelector('.galeria-dialog-next');
@@ -48,6 +57,7 @@
     const btn = btns[current];
     dialogImg.src = btn.dataset.src;
     dialogImg.alt = btn.dataset.alt;
+    dialogCaption.textContent = btn.dataset.caption || '';
   }
 
   btns.forEach((btn, index) => {

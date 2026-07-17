@@ -2,6 +2,16 @@
 title: Sobre mí
 date: 2026-07-12
 no_pager: true
+resources:
+  - src: "images/JMBL_20081123.jpg"
+    title: "2010. Pertrechado para un asalto"
+  - src: "images/JMBL_20101002.jpg"
+    title: "2010. Huelva"
+  - src: "images/JMBL_20121105.jpg"
+    title: "2012. Navalvillar de pela" 
+  - src: "images/JMBL_20160915.jpg"
+    title: "2016. Torre del Mar" 
+
 ---
 ## Biografía
 

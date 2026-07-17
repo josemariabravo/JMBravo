@@ -650,11 +650,18 @@
     margin-bottom: 0;
   }
 
-  .post-content figcaption {
-    margin-top: var(--sp-1);
+  /* tipografía compartida con el pie de foto del lightbox de galería
+     (.galeria-dialog-caption, más abajo) — solo cambian margin/color,
+     que dependen del contexto (columna del artículo vs. fondo oscuro) */
+  .post-content figcaption,
+  .galeria-dialog-caption {
     text-align: center;
     font-style: italic;
     font-size: var(--fs-sm);
+  }
+
+  .post-content figcaption {
+    margin-top: var(--sp-1);
     color: var(--muted);
   }
 
@@ -1750,6 +1757,9 @@
     width: 100%;
   }
 
+  /* ojo: no añadir aquí "display" (ni otra propiedad que dependa de él,
+     como flex-direction/grid-template-*) sin condicionarla a [open] —
+     ver el porqué en el comentario de la regla .galeria-dialog[open] */
   .galeria-dialog {
     position: fixed;
     top: 50%;
@@ -1757,6 +1767,7 @@
     right: auto;
     bottom: auto;
     transform: translate(-50%, -50%);
+    overflow: hidden;
     margin: 0;
     border: none;
     border-radius: var(--radius);
@@ -1766,17 +1777,53 @@
     padding: 0;
   }
 
+  /* el <dialog> nativo solo debe pintarse mientras está abierto: si
+     "display" se fija sin condicionar a [open], pisa (por origen de
+     cascada, no por especificidad) la regla `dialog:not([open])
+     { display: none }` del user-agent, y el diálogo "cerrado" se queda
+     como una caja fantasma en pantalla que sigue capturando clics.
+     Cualquier otra regla que fije "display" en .galeria-dialog debe ir
+     igualmente condicionada a [open] (ver más abajo) por el mismo motivo */
+  .galeria-dialog[open] {
+    display: grid;
+    grid-template-rows: minmax(0, 1fr) auto;
+    justify-items: center;
+  }
+
   .galeria-dialog::backdrop {
     background: rgb(0 0 0 / .82);
+  }
+
+  /* envuelve la foto (y, si hay más de una imagen, las flechas de
+     navegación) en su propia caja: un "top: 50%" en position:absolute
+     siempre se resuelve contra el bloque contenedor completo, así que
+     sin este envoltorio las flechas se centrarían respecto a todo el
+     diálogo (foto + pie de foto) en vez de respecto a la foto sola */
+  .galeria-dialog-media {
+    position: relative;
+    grid-row: 1;
+    grid-column: 1;
+    min-height: 0;
+    max-width: 100%;
   }
 
   .galeria-dialog-img {
     display: block;
     max-width: 100%;
-    max-height: 90vh;
+    max-height: 100%;
     object-fit: contain;
     border-radius: var(--radius);
   }
+
+  .galeria-dialog-caption {
+    grid-row: 2;
+    grid-column: 1;
+    width: 100%;
+    margin: var(--sp-1) 0 0;
+    color: rgb(255 255 255 / .85);
+  }
+
+  .galeria-dialog-caption:empty { display: none; }
 
   .galeria-dialog-close {
     position: absolute;
