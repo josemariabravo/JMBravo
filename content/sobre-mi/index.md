@@ -3,15 +3,20 @@ title: Sobre mí
 date: 2026-07-12
 no_pager: true
 resources:
-  - src: "images/JMBL_20081123.jpg"
+  - src: "images/JMBL_2008.jpg"
     title: "2010. Pertrechado para un asalto"
-  - src: "images/JMBL_20101002.jpg"
+  - src: "images/JMBL_2010.jpg"
     title: "2010. Huelva"
-  - src: "images/JMBL_20121105.jpg"
-    title: "2012. Navalvillar de pela" 
-  - src: "images/JMBL_20160915.jpg"
-    title: "2016. Torre del Mar" 
-
+  - src: "images/JMBL_2012.jpg"
+    title: "2012. Construcción de la termosolar de Navalvillar de pela" 
+  - src: "images/JMBL_2016.jpg"
+    title: "2016. Despacho en Torre del Mar (Málaga)"
+  - src: "images/JMBL_2019.jpg"
+    title: "2019. Madrid"
+  - src: "images/JMBL_2020.jpg"
+    title: "2020. Pinto (Madrid)"
+  - src: "images/JMBL_2024.jpg"
+    title: "2024. Construcción de parque logístico en San Fernando de Henares (Madrid)"
 ---
 ## Biografía
 
@@ -35,5 +40,3 @@ Sea como fuere, y ya para cerrar, soy aficionado a la historia militar, la mitol
 Y este soy yo, en varios momentos y poses.
 
 {{< galeria >}}
-
-(Figúrense: se supone que estoy favorecido en estas fotos).
