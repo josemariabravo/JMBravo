@@ -11,7 +11,7 @@ revisado: true
 ---
 Ya en preventa, *Runas de sangre: relatos de Daramad Mur Asyb*:
 
-![Runas de sangre](images/Runas-de-Sangre_cubierta-666x1030.jpg)
+![Runas de sangre](runas-de-sangre_cubierta.jpg "izquierda 250")
 
 *Tres vidas, capitán. Una para el señor de las profundidades, la Sierpe que duerme en el abismo; otra para sus hijas, de luengos cabellos, que suspiran por la sangre caliente de los hombres; y otra más para los espíritus de la tempestad, siempre henchidos de rabia.*
 
