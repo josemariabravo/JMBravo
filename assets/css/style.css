@@ -509,12 +509,24 @@
     line-height: 1.85;
   }
 
-  .post-content > * + *:not(h2):not(h3):not(blockquote) { margin-top: 0; }
+  /* junto con la regla ":has(+ h2, ...)" al final de este bloque, forma
+     el mecanismo que hace que el margin-top/bottom del propio h2/h3/h4
+     mande siempre en el colapso: esta regla cede el margin-top de lo que
+     sigue a cualquier heading (para que compita con el margin-bottom de
+     lo anterior), la otra cede el margin-bottom de lo que precede a un
+     heading. Un heading nuevo que necesite este trato hay que añadirlo
+     a las DOS listas. */
+  .post-content > * + *:not(h2):not(h3):not(h4):not(blockquote) { margin-top: 0; }
 
   .post-content ul,
   .post-content ol {
     padding-left: 1.5em;
     margin-bottom: 1.5rem;
+    /* si el último hijo (otra lista, un blockquote...) tiene su propio
+       margin-bottom, colapsaría "a través" de este ul/ol (que no tiene
+       padding/borde en ese lado) — flow-root lo contiene, igual que en
+       .post-content blockquote más abajo */
+    display: flow-root;
   }
 
   .post-content ul { list-style: disc; }
@@ -530,13 +542,18 @@
     text-transform: none;
     color: var(--text);
     margin-top: var(--sp-3);
-    margin-bottom: var(--sp-1);
+    margin-bottom: var(--sp-3);
   }
 
   .post-content h3 {
     font-size: var(--fs-lg);
     font-weight: 500;
     margin-top: var(--sp-2);
+    margin-bottom: var(--sp-2);
+  }
+
+  .post-content h4 {
+    margin-top: var(--sp-1);
     margin-bottom: var(--sp-1);
   }
 
@@ -632,6 +649,10 @@
   .post-content blockquote {
     margin-block: var(--sp-3);
     font-size: var(--fs-md);
+    /* si dentro va una lista o un párrafo, su margin-bottom colapsaría
+       "a través" del blockquote (que no tiene padding/borde en ese
+       lado) y se colaría en el hueco de después — flow-root lo contiene */
+    display: flow-root;
   }
 
   .post-content img {
@@ -669,6 +690,18 @@
     max-width: none;
     margin: 0;
   }
+
+  /* evita que el margen inferior de lo que precede a un h2/h3/h4 (párrafo,
+     lista, blockquote, otro heading...) se cuele en el colapso y
+     descompense el hueco de encima del título respecto al de debajo —
+     así el margin-top/bottom del propio heading manda siempre (ver
+     también la regla ":not(h2):not(h3):not(h4):not(blockquote)" al
+     principio de este bloque, con la que forma el mecanismo completo).
+     Va al final del bloque .post-content para ganar cualquier empate de
+     especificidad con las reglas anteriores (mismo peso: una clase +
+     un tipo). Un heading nuevo que necesite este trato hay que añadirlo
+     aquí también. */
+  .post-content > *:has(+ h2, + h3, + h4) { margin-bottom: 0; }
 
   .img-derecha {
     float: right;
@@ -1279,12 +1312,6 @@
 
   .obra-single .post-content h2 {
     font-size: calc(var(--fs-xl) * 1.3);
-    margin-top: var(--sp-4);
-    margin-bottom: var(--sp-2);
-  }
-
-  .obra-single .post-content h3 {
-    margin-top: var(--sp-3);
   }
 
   /* prosa literaria: justificada, como en un libro impreso */
@@ -1307,6 +1334,15 @@
        columna) pasa a valer el 100% del propio .post-content, igual
        que le ocurre al ancho implícito de p/h2-h4 */
     margin-left: calc((min(var(--obra-column), 100%) - 6rem) / 2);
+  }
+
+  /* el hr de obra es más específico que la regla genérica ":has(+ h2, ...)"
+     de .post-content (dos clases + tipo, frente a una clase + tipo), así
+     que la pierde y su margin-bottom de --sp-4 se colaría en el colapso
+     con el heading siguiente — se repite aquí, con el hr ya incluido en
+     el selector, para que gane */
+  .obra-single .post-content hr:has(+ h2, + h3, + h4) {
+    margin-bottom: 0;
   }
 
   .obra-sinopsis-destacada {
