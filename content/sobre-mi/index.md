@@ -4,9 +4,9 @@ date: 2026-07-12
 no_pager: true
 resources:
   - src: "images/JMBL_2008.jpg"
-    title: "2010. Pertrechado para un asalto"
+    title: "2008. Pertrechado para un asalto"
   - src: "images/JMBL_2010.jpg"
-    title: "2010. Huelva"
+    title: "2010. Sierra de Huelva"
   - src: "images/JMBL_2012.jpg"
     title: "2012. Construcción de la termosolar de Navalvillar de pela" 
   - src: "images/JMBL_2016.jpg"
