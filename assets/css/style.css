@@ -85,8 +85,12 @@
     --shadow-card:  0 6px 20px rgb(0 0 0 / .16);
   }
 
-  /* modo oscuro: solo se invierten los neutros; --accent se mantiene igual
-     en ambos temas (colores de marca, no dependientes del fondo) */
+  /* modo oscuro: se invierten los neutros; --accent se aclara (misma tonalidad,
+     más luminosidad) porque el rojo de marca original, usado tal cual como
+     color de texto (enlaces, hovers...) sobre --paper/--surface oscuros, se
+     queda en ~3.5-3.7:1 de contraste — por debajo del mínimo AA de 4.5:1
+     para texto normal. #e7564b conserva el matiz (H≈4.5°) y da ~4.6-5.1:1
+     contra ambos fondos oscuros */
   @media (prefers-color-scheme: dark) {
     :root {
       --paper:        #17130f;
@@ -97,6 +101,7 @@
       --muted:        #b3aa9f;
       --dimmed:       #5c5348;
       --line:         #4a4238;
+      --accent:       #e7564b;
     }
   }
 
@@ -365,7 +370,6 @@
   .hero-bg {
     position: absolute;
     inset: 0;
-    left: 0%;
     background-color: var(--muted);
     background-size: cover;
     background-position: center;

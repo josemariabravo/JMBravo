@@ -15,10 +15,10 @@
 {{ if or $prev $next }}
 <nav class="post-nav libro-serie-nav">
   <div class="post-nav-prev">
-    {{ with $prev }}<span class="post-nav-label">← Anterior en {{ $serie }}</span><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+    {{ with $prev }}<span class="post-nav-label">← Anterior en {{ $serie }}</span><a href="{{ .RelPermalink }}">{{ partial "safe-title.html" . }}</a>{{ end }}
   </div>
   <div class="post-nav-next">
-    {{ with $next }}<span class="post-nav-label">Siguiente en {{ $serie }} →</span><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+    {{ with $next }}<span class="post-nav-label">Siguiente en {{ $serie }} →</span><a href="{{ .RelPermalink }}">{{ partial "safe-title.html" . }}</a>{{ end }}
   </div>
 </nav>
 {{ end }}
